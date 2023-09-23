@@ -13,15 +13,18 @@ Auto-Jimmy requires a local snapshot of the Traveller Map universe data for perf
 As the Traveller Map universe data is being updated over time, this means the snapshot used by
 Auto-Jimmy can become out of date. To avoid this, Auto-Jimmy has the ability to download an
 updated copy of the data.
+
 In early releases of Auto-Jimmy, when an update was performed, the application would download the
 data directly from Traveller Map using its web API. Unfortunately, as Traveller Map doesn't have
 an API to download the entire universe in one go, this meant downloading each sector file
 individually. The problem with this approach is there are a LOT of sector files, so it meant making
 100s of requests against Traveller Map. The result of this was it took a long time to update and
 put extra load on Traveller Map.
+
 One possibility would be to pull the required data directly from the [Traveller Map repo](https://github.com/inexorabletash/travellermap). However, this is problematic as the source data in the repo is not in a consistent
 format and it would mean the update mechanism may fail if the structure of the Traveller Map
 repo changed in the future.
+
 The solution I've gone with is to create a snapshot using the web API. This is a stable API and
 it present the data in a consistent format.
 
