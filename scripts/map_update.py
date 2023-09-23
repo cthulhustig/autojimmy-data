@@ -74,7 +74,10 @@ def _downloadMapData() -> None:
 
     # Delete old data directory to allow for sectors being deleted/renamed
     logging.info(f'Deleting existing map data')
-    shutil.rmtree(basePath)
+    if os.path.exists(basePath):
+        shutil.rmtree(basePath)
+    else:
+        logging.warning(f'No map data to delete')
 
     downloadQueue.append((
         f'{_TravellerMapUrl}/t5ss/sophonts',
