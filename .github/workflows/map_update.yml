@@ -28,7 +28,6 @@ jobs:
           git config --global user.email 'cthulhustig@users.noreply.github.com'
           git add ./map
           if [ $(git diff --cached --numstat | wc -l) -gt 0 ]; then
-            git add timestamp.txt
             git commit -m "Automated map data update"
             git push
           else

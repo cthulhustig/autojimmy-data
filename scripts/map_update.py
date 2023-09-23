@@ -143,7 +143,7 @@ def _downloadMapData() -> None:
 
     logging.info(f'Sanity checking data')
     for milieu in _MilieuList:
-        milieuPath = os.path.join(os.getcwd(), _MapDataDir, _MilieuDir, milieu)
+        milieuPath = os.path.join(basePath, _MilieuDir, milieu)
         if not os.path.isdir(milieuPath):
             raise RuntimeError(f'Milieu directory {milieuPath} doesn\'t exist')
         files = [entry for entry in os.listdir(milieuPath) if os.path.isfile(os.path.join(milieuPath, entry))]
@@ -162,7 +162,7 @@ def _downloadMapData() -> None:
     logging.info(f'Sanity checking completed successfully')
 
     logging.info(f'Updating timestamp')
-    with open(_TimestampFileName, 'wb') as file:
+    with open(os.path.join(basePath, _TimestampFileName), 'wb') as file:
         file.write(str(startTime.strftime(_TimestampFormat)).encode('ascii'))
 
 def main() -> None:
