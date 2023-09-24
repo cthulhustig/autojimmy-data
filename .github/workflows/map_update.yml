@@ -21,13 +21,14 @@ jobs:
       - name: Map Data Download
         run: python ./scripts/map_update.py
 
-      # Commit any changes
+      # Commit any changes. A check is made that there is more than 1 file changed as the timestamp
+      # file is always expected to have changed
       - name: Commit Changes
         run: |
           git config --global user.name 'cthulhustig'
           git config --global user.email 'cthulhustig@users.noreply.github.com'
           git add ./map
-          if [ $(git diff --cached --numstat | wc -l) -gt 0 ]; then
+          if [ $(git diff --cached --numstat | wc -l) -gt 1 ]; then
             git commit -m "Automated map data update"
             git push
           else

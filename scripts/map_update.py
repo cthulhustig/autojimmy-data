@@ -6,8 +6,11 @@ import itertools
 import json
 import logging
 import os
+import pathlib
+import re
 import shutil
 import sys
+import tempfile
 import time
 import typing
 import urllib.error
@@ -25,6 +28,7 @@ _TimestampFormat = '%Y-%m-%d %H:%M:%S.%f'
 _DownloadDelaySeconds = 0
 _MilieuList = ['IW', 'M0', 'M990', 'M1105', 'M1120', 'M1201', 'M1248', 'M1900']
 _MinMilieuFiles = 3 # Must have at least universe file and .sec and metadata files for 1 sector
+_SectorTimestampPattern = re.compile('^#\s*\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}-\d{2}:\d{2}\s*$')
 
 # List of characters that are illegal in filenames on Windows, Linux and macOS.
 # Based on this post https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names
@@ -52,9 +56,7 @@ def _encodeFileName(rawFileName: str) -> str:
         escapedFileName += char
     return escapedFileName
 
-def _parseUniverseData(
-        universeData: bytes
-        ) -> typing.List[str]:
+def _parseUniverseData(universeData: bytes) -> typing.List[str]:
     universeJson = json.loads(_bytesToString(universeData))
     if 'Sectors' not in universeJson:
         raise RuntimeError('Invalid sector list')
@@ -62,10 +64,29 @@ def _parseUniverseData(
     sectors = []
     for sectorInfo in universeJson['Sectors']:
         names = sectorInfo['Names']
-        canonicalName =  names[0]['Text']
+        canonicalName = names[0]['Text']
         sectors.append(canonicalName)
 
     return sectors
+
+# Remove timestamps from sector files downloaded from Traveller Map. This is needed as otherwise
+# every sector file will be seen as modified every time the update is performed
+def _removeTimestampFromSector(sectorFilePath: str) -> int:
+    encoding = 'utf-8'
+    linesRemoved = 0
+    with open(sectorFilePath, encoding=encoding) as inputFile:
+        with tempfile.NamedTemporaryFile(
+                mode='w',
+                encoding=encoding,
+                dir=os.path.dirname(sectorFilePath),
+                delete=False) as outFile:
+            for line in inputFile:
+                if not _SectorTimestampPattern.search(line):
+                    print(line, end='', file=outFile)
+                else:
+                    linesRemoved += 1
+    os.replace(outFile.name, inputFile.name)
+    return linesRemoved
 
 def _downloadMapData() -> None:
     fileRetriever = downloader.Downloader()
@@ -94,7 +115,7 @@ def _downloadMapData() -> None:
             f'{_TravellerMapUrl}/api/universe?milieu={urllib.parse.quote(milieu)}&requireData=1',
             os.path.join(basePath, _MilieuDir, milieu, _UniverseFileName),
             milieu))
-        
+
     logging.info(f'Downloading new map data')
     startTime = datetime.datetime.utcnow()
     downloadCount = 0
@@ -133,7 +154,7 @@ def _downloadMapData() -> None:
                     f'{_TravellerMapUrl}/api/metadata?sector={quotedSector}&milieu={quotedMilieu}',
                     os.path.join(dirPath, metadataFileName),
                     None))
-                
+
         if downloadQueue:
             # Delay before downloading the next file
             time.sleep(_DownloadDelaySeconds)
@@ -141,11 +162,24 @@ def _downloadMapData() -> None:
     finishTime = datetime.datetime.utcnow()
     logging.info(f'Downloaded {downloadCount} files in {(finishTime - startTime).total_seconds()} seconds')
 
-    logging.info(f'Sanity checking data')
+    logging.info(f'Removing timestamps from sector files')
     for milieu in _MilieuList:
         milieuPath = os.path.join(basePath, _MilieuDir, milieu)
         if not os.path.isdir(milieuPath):
             raise RuntimeError(f'Milieu directory {milieuPath} doesn\'t exist')
+
+        sectorFilePathList = pathlib.Path(milieuPath).rglob('*.sec')
+        for sectorFilePath in sectorFilePathList:
+            logging.info(f'Removing timestamp from {sectorFilePath}')
+            removedLines = _removeTimestampFromSector(sectorFilePath=sectorFilePath)
+            if removedLines <= 0:
+                raise RuntimeError(f'Failed to find timestamp in sector file {sectorFilePath}')
+            if removedLines > 1:
+                raise RuntimeError(f'Found more than one timestamp in sector file {sectorFilePath}')
+
+    logging.info(f'Sanity checking data')
+    for milieu in _MilieuList:
+        milieuPath = os.path.join(basePath, _MilieuDir, milieu)
         files = [entry for entry in os.listdir(milieuPath) if os.path.isfile(os.path.join(milieuPath, entry))]
         if len(files) < _MinMilieuFiles:
             raise RuntimeError(f'Milieu directory {milieuPath} only contains {len(files)} files')
@@ -158,7 +192,7 @@ def _downloadMapData() -> None:
                 raise RuntimeError(f'Failed to stat {filePath}')
             if fileStat.st_size <= 0:
                 raise RuntimeError(f'File {filePath} is empty')
-            
+
     logging.info(f'Sanity checking completed successfully')
 
     logging.info(f'Updating timestamp')
@@ -181,6 +215,7 @@ def main() -> None:
         sys.exit(2)
 
     sys.exit(0)
+
 
 if __name__ == "__main__":
     main()
