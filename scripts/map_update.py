@@ -23,12 +23,14 @@ _MilieuDir = 'milieu'
 _UniverseFileName = 'universe.json'
 _SophontsFileName = 'sophonts.json'
 _AllegiancesFileName = 'allegiances.json'
+_DataFormatFileName = 'dataformat.txt'
 _TimestampFileName = 'timestamp.txt'
 _TimestampFormat = '%Y-%m-%d %H:%M:%S.%f'
 _DownloadDelaySeconds = 0
 _MilieuList = ['IW', 'M0', 'M990', 'M1105', 'M1120', 'M1201', 'M1248', 'M1900']
 _MinMilieuFiles = 3 # Must have at least universe file and .sec and metadata files for 1 sector
 _SectorTimestampPattern = re.compile('^#\s*\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}-\d{2}:\d{2}\s*$')
+_DataFormatVersion = 2
 
 # List of characters that are illegal in filenames on Windows, Linux and macOS.
 # Based on this post https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names
@@ -198,6 +200,10 @@ def _downloadMapData() -> None:
     logging.info(f'Updating timestamp')
     with open(os.path.join(basePath, _TimestampFileName), 'wb') as file:
         file.write(str(startTime.strftime(_TimestampFormat)).encode('ascii'))
+
+    logging.info(f'Writing data format')
+    with open(os.path.join(basePath, _DataFormatFileName), 'wb') as file:
+        file.write(str(_DataFormatVersion).encode('ascii'))
 
 def main() -> None:
     try:
