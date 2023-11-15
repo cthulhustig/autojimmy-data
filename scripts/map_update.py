@@ -6,16 +6,10 @@ import itertools
 import json
 import logging
 import os
-import pathlib
 import re
 import shutil
 import sys
-import tempfile
-import time
 import typing
-import urllib.error
-import urllib.parse
-import urllib.request
 
 _TravellerMapUrl = 'https://www.travellermap.com'
 _MapDataDir = 'map'
@@ -27,11 +21,10 @@ _MainsFileName = 'mains.json'
 _DataFormatFileName = 'dataformat.txt'
 _TimestampFileName = 'timestamp.txt'
 _TimestampFormat = '%Y-%m-%d %H:%M:%S.%f'
-_DownloadDelaySeconds = 0
 _MilieuList = ['IW', 'M0', 'M990', 'M1105', 'M1120', 'M1201', 'M1248', 'M1900']
 _MinMilieuFiles = 3 # Must have at least universe file and .sec and metadata files for 1 sector
-_SectorTimestampPattern = re.compile('^#\s*\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}-\d{2}:\d{2}\s*$')
-_DataFormatVersion = 3
+_SectorTimestampPattern = re.compile('^#\s*\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2}\s*$')
+_DataFormatVersion = '3'
 
 # List of characters that are illegal in filenames on Windows, Linux and macOS.
 # Based on this post https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names
@@ -48,7 +41,10 @@ _EncodedCharacters = set(itertools.chain(
     _MacOSIllegalCharacters))
 
 def _bytesToString(bytes: bytes) -> str:
-    return bytes.decode('utf-8')
+    return bytes.decode('utf-8-sig')
+
+def _stringToBytes(string: str) -> bytes:
+    return string.encode()
 
 def _encodeFileName(rawFileName: str) -> str:
     escapedFileName = ''
@@ -59,37 +55,20 @@ def _encodeFileName(rawFileName: str) -> str:
         escapedFileName += char
     return escapedFileName
 
-def _parseUniverseData(universeData: bytes) -> typing.List[str]:
-    universeJson = json.loads(_bytesToString(universeData))
-    if 'Sectors' not in universeJson:
-        raise RuntimeError('Invalid sector list')
-
-    sectors = []
-    for sectorInfo in universeJson['Sectors']:
-        names = sectorInfo['Names']
-        canonicalName = names[0]['Text']
-        sectors.append(canonicalName)
-
-    return sectors
-
 # Remove timestamps from sector files downloaded from Traveller Map. This is needed as otherwise
 # every sector file will be seen as modified every time the update is performed
-def _removeTimestampFromSector(sectorFilePath: str) -> int:
-    encoding = 'utf-8'
+def _removeTimestampFromSector(sectorData: bytes) -> typing.Optional[bytes]:
     linesRemoved = 0
-    with open(sectorFilePath, encoding=encoding) as inputFile:
-        with tempfile.NamedTemporaryFile(
-                mode='w',
-                encoding=encoding,
-                dir=os.path.dirname(sectorFilePath),
-                delete=False) as outFile:
-            for line in inputFile:
-                if not _SectorTimestampPattern.search(line):
-                    print(line, end='', file=outFile)
-                else:
-                    linesRemoved += 1
-    os.replace(outFile.name, inputFile.name)
-    return linesRemoved
+    modifiedData = ''
+    for line in _bytesToString(sectorData).splitlines():
+        if not _SectorTimestampPattern.search(line):
+            modifiedData += line + '\r\n' # Sector files from Traveller Map use \r\n so use the same
+        else:
+            linesRemoved += 1
+    if linesRemoved != 1:
+        return None
+    
+    return _stringToBytes(modifiedData)
 
 def _downloadMapData() -> None:
     fileRetriever = downloader.Downloader()
@@ -102,96 +81,160 @@ def _downloadMapData() -> None:
         shutil.rmtree(basePath)
     else:
         logging.warning(f'No map data to delete')
-
-    downloadQueue.append((
-        f'{_TravellerMapUrl}/t5ss/sophonts',
-        os.path.join(basePath, _SophontsFileName),
-        None))
-
-    downloadQueue.append((
-        f'{_TravellerMapUrl}/t5ss/allegiances',
-        os.path.join(basePath, _AllegiancesFileName),
-        None))
-    
-    downloadQueue.append((
-        f'{_TravellerMapUrl}/res/mains.json',
-        os.path.join(basePath, _MainsFileName),
-        None))    
-
-    for milieu in _MilieuList:
-        downloadQueue.append((
-            f'{_TravellerMapUrl}/api/universe?milieu={urllib.parse.quote(milieu)}&requireData=1',
-            os.path.join(basePath, _MilieuDir, milieu, _UniverseFileName),
-            milieu))
+    os.makedirs(basePath)
 
     logging.info(f'Downloading new map data')
-    startTime = datetime.datetime.utcnow()
-    downloadCount = 0
-    while downloadQueue:
-        downloadInfo = downloadQueue.pop(0)
-        downloadCount += 1
+    startTime = datetime.datetime.utcnow()        
 
-        url = downloadInfo[0]
-        filePath = downloadInfo[1]
-        milieu = downloadInfo[2]
+    sophontsUrl = f'{_TravellerMapUrl}/t5ss/sophonts'
+    sophontsFilePath = os.path.join(basePath, _SophontsFileName)
+    logging.info(f'Downloading sophonts file from {sophontsUrl} to {sophontsFilePath}')
+    fileRetriever.downloadToFile(url=sophontsUrl, filePath=sophontsFilePath)
 
-        dirPath = os.path.dirname(filePath)
-        if not os.path.exists(dirPath):
-            os.makedirs(dirPath)
+    allegiancesUrl = f'{_TravellerMapUrl}/t5ss/allegiances'
+    allegiancesFilePath = os.path.join(basePath, _AllegiancesFileName)
+    logging.info(f'Downloading allegiances file from {allegiancesUrl} to {allegiancesFilePath}')
+    fileRetriever.downloadToFile(url=allegiancesUrl, filePath=allegiancesFilePath)
+    
+    mainsUrl = f'{_TravellerMapUrl}/res/mains.json'
+    mainsFilePath = os.path.join(basePath, _MainsFileName)
+    logging.info(f'Downloading mains file from {mainsUrl} to {mainsFilePath}')
+    fileRetriever.downloadToFile(url=mainsUrl, filePath=mainsFilePath)
 
-        fileRetriever.downloadToFile(url=url, filePath=filePath)
+    for milieu in _MilieuList:
+        universeUrl = f'{_TravellerMapUrl}/api/universe?milieu={milieu}&requireData=1'
 
-        if milieu:
-            # If there was a milieu specified it means this is a universe file that was downloaded
-            # so we want to add the sectors
-            with open(filePath, 'rb') as file:
-                fileContent = file.read()
-            sectors = _parseUniverseData(universeData=fileContent)
-            for sector in sectors:
-                quotedSector = urllib.parse.quote(sector)
-                quotedMilieu = urllib.parse.quote(milieu)
+        milieuDirPath = os.path.join(basePath, _MilieuDir, milieu)
+        universeFilePath = os.path.join(milieuDirPath, _UniverseFileName)
 
-                sectorFileName = _encodeFileName(rawFileName=sector) + '.sec'
-                downloadQueue.append((
-                    f'{_TravellerMapUrl}/api/sec?sector={quotedSector}&milieu={quotedMilieu}&type=SecondSurvey',
-                    os.path.join(dirPath, sectorFileName),
-                    None))
+        # If there was a milieu specified it means this is a universe file that was downloaded
+        # so we want to add the sectors
+        logging.info(f'Downloading {milieu} universe file from {universeUrl}')
+        universeJson = fileRetriever.downloadToBuffer(url=universeUrl)
+        universeJson = json.loads(_bytesToString(universeJson))
+        if 'Sectors' not in universeJson:
+            raise RuntimeError('Invalid sector list')
 
-                metadataFileName = _encodeFileName(rawFileName=sector) + '.json'
-                downloadQueue.append((
-                    f'{_TravellerMapUrl}/api/metadata?sector={quotedSector}&milieu={quotedMilieu}',
-                    os.path.join(dirPath, metadataFileName),
-                    None))
+        # Check for name conflicts where there are multiple sectors with the same name.
+        # At the time of writing the only instance of this is multiple sectors called
+        # "Unnamed" in M1105
+        # NOTE: It's important that this check is case insensitive as sector names will
+        # be used as file names on Windows
+        usedNames = set()
+        conflictNames = set()            
+        for sectorInfo in universeJson['Sectors']:
+            names = sectorInfo['Names']
+            lowerName = str(names[0]['Text']).lower()
+            if lowerName not in usedNames:
+                usedNames.add(lowerName)
+            else:
+                conflictNames.add(lowerName)
 
-        if downloadQueue:
-            # Delay before downloading the next file
-            time.sleep(_DownloadDelaySeconds)
+        # Resolve any name conflicts
+        nameMappings = {}
+        if conflictNames:
+            logging.info(f'Resolving name conflicts in {milieu}')
+            for sectorInfo in universeJson['Sectors']:
+                names = sectorInfo['Names']
+                canonicalName = str(names[0]['Text'])
+                sectorX = int(sectorInfo['X'])
+                sectorY = int(sectorInfo['Y'])                
+
+                # Resolve name conflicts.
+                # NOTE: Checking for conflicts is case insensitive
+                if canonicalName.lower() in conflictNames:
+                    logging.info(f'Disambiguating {milieu} sector named {canonicalName} at {sectorX}, {sectorY}')
+
+                    unambiguousName = f'{canonicalName} ({sectorX}, {sectorY})'
+                    if unambiguousName.lower() in usedNames:
+                        # Realistically this shouldn't happen so don't try to do anything clever until
+                        # we know that we actually need to handle it. This should fail the pipeline so
+                        # I can take a look
+                        raise RuntimeError(
+                            f'Attempt to disambiguate {milieu} sector as {unambiguousName} failed as generated name is in use')           
+                    
+                    # Update the json structure so the new name is written to the snapshot
+                    names[0]['Text'] = unambiguousName
+                    nameMappings[unambiguousName] = canonicalName
+
+        logging.info(f'Writing {milieu} universe file to {universeFilePath}')
+        os.makedirs(milieuDirPath)        
+        with open(universeFilePath, 'w') as file:
+            json.dump(universeJson, file, separators=(',', ':')) # Specify separators to minimize white space
+
+        logging.info(f'Downloading {milieu} sector & metadata files')
+        for sectorInfo in universeJson['Sectors']:
+            names = sectorInfo['Names']
+            canonicalName = str(names[0]['Text'])
+            sectorX = int(sectorInfo['X'])
+            sectorY = int(sectorInfo['Y'])                
+
+            encodedFileName = _encodeFileName(rawFileName=canonicalName)
+
+            # When requesting sectors & metadata it's important to do it by position to avoid
+            # ambiguity if there are multiple sectors with the same name
+
+            # Download sector file and remove the timestamp that Traveller Map adds
+            sectorUrl = f'{_TravellerMapUrl}/api/sec?sx={sectorX}&sy={sectorY}&milieu={milieu}&type=SecondSurvey'
+            sectorFilePath = os.path.join(milieuDirPath, encodedFileName + '.sec')
+            logging.info(f'Downloading sector file for {canonicalName} in {milieu} from {sectorUrl}')
+            sectorData = fileRetriever.downloadToBuffer(url=sectorUrl)
+
+            sectorData = _removeTimestampFromSector(sectorData=sectorData)
+            if sectorData == None:
+                raise RuntimeError(f'Failed to remove timestamp from sector file for {canonicalName} in {milieu}')
+
+            logging.info(f'Writing sector file for {canonicalName} in {milieu} to {sectorFilePath}')
+            with open(sectorFilePath, 'wb') as file:
+                file.write(sectorData)               
+
+            # Download metadata to memory so name can be updated
+            # Parsing the metadata is only strictly required for sectors that have had their name
+            # disambiguated, however it's also desirable as an extra check that what is downloaded
+            # is basically parsable. The expectation being an exception will be thrown (and the
+            # snapshot update will fail) if it's not.
+            metadataUrl = f'{_TravellerMapUrl}/api/metadata?sx={sectorX}&sy={sectorY}&milieu={milieu}'
+            metadataFilePath = os.path.join(milieuDirPath, encodedFileName + '.json')
+            logging.info(f'Downloading metadata for {canonicalName} in {milieu} from {metadataUrl}')
+            metadataJson = fileRetriever.downloadToBuffer(url=metadataUrl)
+            metadataJson = json.loads(_bytesToString(metadataJson))
+
+            names = metadataJson['Names']
+            if not names:
+                raise RuntimeError(f'Failed to find Names element in sector {canonicalName} in {milieu}')    
+
+            mappedName = nameMappings.get(canonicalName)
+            if mappedName == None:
+                # The name hasn't been mapped so check that the first name matches the canonical name
+                # from the universe. If this isn't the case then it could indicate a flaw in my logic
+                # elsewhere so barf to fail the snapshot update to give me a chance to fix it
+                if names[0]['Text'] != canonicalName:
+                    raise RuntimeError(f'First name for {canonicalName} in {milieu} doesn\'t match canonical name')
+            else:
+                if names[0]['Text'] != mappedName:
+                    # Something is wrong with my logic, barf rather to fail the action
+                    raise RuntimeError(f'First name for {canonicalName} in {milieu} doesn\'t match mapped canonical name')
+                
+                logging.info(f'Applying disambiguated sector name to metadata for {canonicalName} in {milieu}')
+                names[0]['Text'] = canonicalName
+                
+            logging.info(f'Writing metadata file for {canonicalName} in {milieu} to {metadataFilePath}')
+            with open(metadataFilePath, 'w') as file:
+                json.dump(metadataJson, file, separators=(',', ':')) # Specify separators to minimize white space
 
     finishTime = datetime.datetime.utcnow()
-    logging.info(f'Downloaded {downloadCount} files in {(finishTime - startTime).total_seconds()} seconds')
-
-    logging.info(f'Removing timestamps from sector files')
-    for milieu in _MilieuList:
-        milieuPath = os.path.join(basePath, _MilieuDir, milieu)
-        if not os.path.isdir(milieuPath):
-            raise RuntimeError(f'Milieu directory {milieuPath} doesn\'t exist')
-
-        sectorFilePathList = pathlib.Path(milieuPath).rglob('*.sec')
-        for sectorFilePath in sectorFilePathList:
-            logging.info(f'Removing timestamp from {sectorFilePath}')
-            removedLines = _removeTimestampFromSector(sectorFilePath=sectorFilePath)
-            if removedLines <= 0:
-                raise RuntimeError(f'Failed to find timestamp in sector file {sectorFilePath}')
-            if removedLines > 1:
-                raise RuntimeError(f'Found more than one timestamp in sector file {sectorFilePath}')
+    logging.info(f'Downloaded {fileRetriever.downloadCount()} files in {(finishTime - startTime).total_seconds()} seconds')
 
     logging.info(f'Sanity checking data')
+
+    # Check for suspiciously few files in a milieu directory
     for milieu in _MilieuList:
         milieuPath = os.path.join(basePath, _MilieuDir, milieu)
         files = [entry for entry in os.listdir(milieuPath) if os.path.isfile(os.path.join(milieuPath, entry))]
         if len(files) < _MinMilieuFiles:
             raise RuntimeError(f'Milieu directory {milieuPath} only contains {len(files)} files')
 
+    # Check for empty files
     for subdir, _, files in os.walk(basePath):
         for file in files:
             filePath = os.path.join(subdir, file)
@@ -209,7 +252,7 @@ def _downloadMapData() -> None:
 
     logging.info(f'Writing data format')
     with open(os.path.join(basePath, _DataFormatFileName), 'wb') as file:
-        file.write(str(_DataFormatVersion).encode('ascii'))
+        file.write(_DataFormatVersion.encode('ascii'))
 
 def main() -> None:
     try:

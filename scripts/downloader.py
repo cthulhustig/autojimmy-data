@@ -1,7 +1,8 @@
 import logging
 import time
 import typing
-import urllib
+import urllib.error
+import urllib.request
 
 class Downloader(object):
     class _CancelledException(Exception):
@@ -22,7 +23,10 @@ class Downloader(object):
     _initialRetryDelaySeconds = 5
 
     def __init__(self):
-        pass
+        self._downloadCount = 0
+
+    def downloadCount(self) -> int:
+        return self._downloadCount
 
     def downloadToFile(
             self,
@@ -31,8 +35,6 @@ class Downloader(object):
             retryCount=3,
             isCancelledCallback: typing.Optional[typing.Callable[[], bool]] = None
             ) -> None:
-        logging.info(f'Downloading {url}')
-
         progressLambda = None
         if isCancelledCallback:
             progressLambda = lambda count, blockSize, totalSize: \
@@ -45,9 +47,34 @@ class Downloader(object):
                     url,
                     filePath,
                     progressLambda)
+                self._downloadCount += 1
                 return
             except Downloader._CancelledException as ex:
                 return
+            except urllib.error.HTTPError as ex:
+                isRetrying = False
+                if ex.code in Downloader._RetryHttpCodes:
+                    if retryCount > 0:
+                        logging.warning(f'Downloading {url} failed, retrying in {retryDelay} seconds', exc_info=ex)
+                        time.sleep(retryDelay)
+                        retryCount -= 1
+                        retryDelay *= 2 # Double the delay
+                        isRetrying = True
+
+                if not isRetrying:
+                    raise
+
+    def downloadToBuffer(
+            self,
+            url: str,
+            retryCount=3
+            ) -> bytes:
+        retryDelay = self._initialRetryDelaySeconds
+        while True:
+            try:
+                with urllib.request.urlopen(url) as response:
+                    self._downloadCount += 1
+                    return response.read()
             except urllib.error.HTTPError as ex:
                 isRetrying = False
                 if ex.code in Downloader._RetryHttpCodes:
