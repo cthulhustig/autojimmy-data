@@ -10,6 +10,7 @@ import re
 import shutil
 import sys
 import typing
+import xml.etree.ElementTree
 
 _TravellerMapUrl = 'https://www.travellermap.com'
 _MapDataDir = 'map'
@@ -24,7 +25,7 @@ _TimestampFormat = '%Y-%m-%d %H:%M:%S.%f'
 _MilieuList = ['IW', 'M0', 'M990', 'M1105', 'M1120', 'M1201', 'M1248', 'M1900']
 _MinMilieuFiles = 3 # Must have at least universe file and .sec and metadata files for 1 sector
 _SectorTimestampPattern = re.compile('^#\s*\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2}\s*$')
-_DataFormatVersion = '3'
+_DataFormatVersion = '4.0'
 
 # List of characters that are illegal in filenames on Windows, Linux and macOS.
 # Based on this post https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names
@@ -193,34 +194,37 @@ def _downloadMapData() -> None:
             # disambiguated, however it's also desirable as an extra check that what is downloaded
             # is basically parsable. The expectation being an exception will be thrown (and the
             # snapshot update will fail) if it's not.
-            metadataUrl = f'{_TravellerMapUrl}/api/metadata?sx={sectorX}&sy={sectorY}&milieu={milieu}'
-            metadataFilePath = os.path.join(milieuDirPath, encodedFileName + '.json')
+            metadataUrl = f'{_TravellerMapUrl}/api/metadata?sx={sectorX}&sy={sectorY}&milieu={milieu}&accept=text/xml'
+            metadataFilePath = os.path.join(milieuDirPath, encodedFileName + '.xml')
             logging.info(f'Downloading metadata for {canonicalName} in {milieu} from {metadataUrl}')
-            metadataJson = fileRetriever.downloadToBuffer(url=metadataUrl)
-            metadataJson = json.loads(_bytesToString(metadataJson))
+            metadataXml = fileRetriever.downloadToBuffer(url=metadataUrl)
+            metadataXml = xml.etree.ElementTree.fromstring(_bytesToString(metadataXml))
 
-            names = metadataJson['Names']
+            names = metadataXml.findall('./Name')
             if not names:
-                raise RuntimeError(f'Failed to find Names element in sector {canonicalName} in {milieu}')    
+                raise RuntimeError(f'Failed to find Name elements in sector {canonicalName} in {milieu}')    
 
             mappedName = nameMappings.get(canonicalName)
             if mappedName == None:
                 # The name hasn't been mapped so check that the first name matches the canonical name
                 # from the universe. If this isn't the case then it could indicate a flaw in my logic
                 # elsewhere so barf to fail the snapshot update to give me a chance to fix it
-                if names[0]['Text'] != canonicalName:
+                if names[0].text != canonicalName:
                     raise RuntimeError(f'First name for {canonicalName} in {milieu} doesn\'t match canonical name')
             else:
-                if names[0]['Text'] != mappedName:
+                if names[0].text != mappedName:
                     # Something is wrong with my logic, barf rather to fail the action
                     raise RuntimeError(f'First name for {canonicalName} in {milieu} doesn\'t match mapped canonical name')
                 
                 logging.info(f'Applying disambiguated sector name to metadata for {canonicalName} in {milieu}')
-                names[0]['Text'] = canonicalName
+                names[0].text = canonicalName
                 
             logging.info(f'Writing metadata file for {canonicalName} in {milieu} to {metadataFilePath}')
-            with open(metadataFilePath, 'w') as file:
-                json.dump(metadataJson, file, separators=(',', ':')) # Specify separators to minimize white space
+            with open(metadataFilePath, 'wb') as file:
+                file.write(xml.etree.ElementTree.tostring(
+                    element=metadataXml,
+                    encoding='utf-8',
+                    xml_declaration=True))
 
     finishTime = datetime.datetime.utcnow()
     logging.info(f'Downloaded {fileRetriever.downloadCount()} files in {(finishTime - startTime).total_seconds()} seconds')

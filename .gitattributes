@@ -5,6 +5,7 @@
 *.md text
 *.txt text
 *.json text
+*.xml text
 *.sec text
 
 *.sh text eol=lf
