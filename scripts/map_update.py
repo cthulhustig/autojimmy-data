@@ -58,18 +58,18 @@ def _encodeFileName(rawFileName: str) -> str:
 
 # Remove timestamps from sector files downloaded from Traveller Map. This is needed as otherwise
 # every sector file will be seen as modified every time the update is performed
-def _removeTimestampFromSector(sectorData: bytes) -> typing.Optional[bytes]:
+def _removeTimestampFromSector(sectorData: str) -> typing.Optional[str]:
     linesRemoved = 0
     modifiedData = ''
-    for line in _bytesToString(sectorData).splitlines():
+    for line in sectorData.splitlines():
         if not _SectorTimestampPattern.search(line):
-            modifiedData += line + '\r\n' # Sector files from Traveller Map use \r\n so use the same
+            modifiedData += line + '\n'
         else:
             linesRemoved += 1
     if linesRemoved != 1:
         return None
     
-    return _stringToBytes(modifiedData)
+    return modifiedData
 
 def _downloadMapData() -> None:
     fileRetriever = downloader.Downloader()
@@ -160,7 +160,7 @@ def _downloadMapData() -> None:
 
         logging.info(f'Writing {milieu} universe file to {universeFilePath}')
         os.makedirs(milieuDirPath)        
-        with open(universeFilePath, 'w') as file:
+        with open(universeFilePath, 'w', encoding='utf-8') as file:
             json.dump(universeJson, file, separators=(',', ':')) # Specify separators to minimize white space
 
         logging.info(f'Downloading {milieu} sector & metadata files')
@@ -181,13 +181,13 @@ def _downloadMapData() -> None:
             logging.info(f'Downloading sector file for {canonicalName} in {milieu} from {sectorUrl}')
             sectorData = fileRetriever.downloadToBuffer(url=sectorUrl)
 
-            sectorData = _removeTimestampFromSector(sectorData=sectorData)
+            sectorData = _removeTimestampFromSector(sectorData=_bytesToString(sectorData))
             if sectorData == None:
                 raise RuntimeError(f'Failed to remove timestamp from sector file for {canonicalName} in {milieu}')
 
             logging.info(f'Writing sector file for {canonicalName} in {milieu} to {sectorFilePath}')
-            with open(sectorFilePath, 'wb') as file:
-                file.write(sectorData)               
+            with open(sectorFilePath, 'w', encoding='utf-8') as file:
+                file.write(sectorData)
 
             # Download metadata to memory so name can be updated
             # Parsing the metadata is only strictly required for sectors that have had their name
@@ -220,11 +220,14 @@ def _downloadMapData() -> None:
                 names[0].text = canonicalName
                 
             logging.info(f'Writing metadata file for {canonicalName} in {milieu} to {metadataFilePath}')
-            with open(metadataFilePath, 'wb') as file:
-                file.write(xml.etree.ElementTree.tostring(
+            with open(metadataFilePath, 'w', encoding='utf-8') as file:
+                # NOTE: The XML is written to a utf-8 byte array then converted to a string before being written
+                # to a utf-8 encoded text file. This is done so line endings are written in native format to
+                # avoid problems when I'm testing the script on Windows
+                file.write(_bytesToString(xml.etree.ElementTree.tostring(
                     element=metadataXml,
                     encoding='utf-8',
-                    xml_declaration=True))
+                    xml_declaration=True)))
 
     finishTime = datetime.datetime.utcnow()
     logging.info(f'Downloaded {fileRetriever.downloadCount()} files in {(finishTime - startTime).total_seconds()} seconds')
@@ -251,12 +254,14 @@ def _downloadMapData() -> None:
     logging.info(f'Sanity checking completed successfully')
 
     logging.info(f'Updating timestamp')
-    with open(os.path.join(basePath, _TimestampFileName), 'wb') as file:
-        file.write(str(startTime.strftime(_TimestampFormat)).encode('ascii'))
+    timestampFilePath = os.path.join(basePath, _TimestampFileName)
+    with open(timestampFilePath, 'w', encoding='ascii') as file:
+        file.write(startTime.strftime(_TimestampFormat))
 
     logging.info(f'Writing data format')
-    with open(os.path.join(basePath, _DataFormatFileName), 'wb') as file:
-        file.write(_DataFormatVersion.encode('ascii'))
+    dataFormatFilePath = os.path.join(basePath, _DataFormatFileName)
+    with open(dataFormatFilePath, 'w', encoding='ascii') as file:
+        file.write(_DataFormatVersion)
 
 def main() -> None:
     try:
