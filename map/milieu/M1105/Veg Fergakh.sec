@@ -40,7 +40,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 0106                      X434000-0 Ba Lo Ni                            - - - 014   -- M1 II M0 V         
 0107                      X140000-0 Ba De Lo Ni Po                      - - - 005   -- F4 V M3 V          
 0108                      X000000-0 As Ba Lo Ni                         - - - 001   -- M4 V               
-0109                      X223000-0 Ba Lo Ni Po                         - - - 002   -- M3 V M1 V          
+0109                      X223000-0 Ba Lo Ni Po                         - - - 002   -- M1 V M3 V          
 0201                      X300000-0 Ba Lo Ni Va                         - - - 012   -- K1 V               
 0205                      X000000-0 As Ba Lo Ni                         - - - 002   -- K9 V               
 0207                      X659000-0 Ba Lo Ni                            - - - 002   -- M4 V M6 V          
@@ -259,7 +259,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 1528                      X683000-0 Ba Lo Ni                            - - - 001   -- K2 V               
 1623                      X200000-0 Ba Lo Ni Va                         - - - 003   -- G1 V M4 V          
 1624                      X545000-0 Ba Lo Ni                            - - - 022   -- F0 V               
-1722                      X100000-0 Ba Lo Ni Va                         - - - 003   -- F4 D               
+1722                      X100000-0 Ba Lo Ni Va                         - - - 003   -- F4 V               
 1723                      X000000-0 As Ba Lo Ni                         - - - 015   -- M5 V M6 V          
 1725                      X100000-0 Ba Lo Ni Va                         - - - 003   -- A4 V M8 V          
 1821                      X130000-0 Ba De Lo Ni Po                      - - - 006   -- G6 IV M0 V         
