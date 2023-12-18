@@ -82,7 +82,7 @@ Hex  Name                 UWP       Remarks              {Ix}   (Ex)    [Cx]   N
 0910 Hrasyuewea           A300586-B Ni Va                { 1 }  (B45+1) [464A] - - - 913 9  AsMw M3 V          
 1001 Seauahe'             A588454-E Ni Pa                { 1 }  (634-1) [253C] - - - 200 11 AsVc F0 V M8 V     
 1002 Ouhwya               D5816AA-6 Ni Ri Da             { -2 } (852+1) [8478] - - A 202 6  AsTv K0 V          
-1007 Yahwouh              B5A5883-B Fl Ph                { 2 }  (F7C-1) [5A28] - - - 723 15 AsT2 M2 V M2 V     
+1007 Ihoio                B5A5883-B Fl Ph                { 2 }  (F7C-1) [5A28] - - - 723 15 AsT2 M2 V M2 V     
 1101 Hkasahayal           D100677-9 Na Ni Va             { -2 } (A52-2) [6459] - - - 402 9  AsSc M2 V          
 1106 Khoah                B544786-A Ag Pi                { 3 }  (D6C+2) [6A49] - - - 404 12 AsTv M0 V M8 V     
 1107 Eihaihurali          D796687-6 Ag Ni                { -2 } (852-2) [6456] - - - 103 11 AsVc M2 V          
@@ -346,7 +346,7 @@ Hex  Name                 UWP       Remarks              {Ix}   (Ex)    [Cx]   N
 3226 Ryuke                B6636B8-A Ni Ri                { 2 }  (B56+2) [685A] - T - 203 8  AsTv K3 IV M3 V    
 3229 Oaeaekhilr           C665386-7 Lo Ga                { -2 } (520-3) [2146] - - - 104 10 AsVc M2 V          
 0133 Kerawiyrl            X544358-5 Lo Fo                { -3 } (520-3) [3155] - - R 103 14 AsTv G8 V          
-0232 Foiwaliri            A798547-D Ag Ni                { 2 }  (C46+2) [575D] - - - 114 11 AsT1 M0 V          
+0232 Foiwaliri            A798757-D Ag Pi                { 3 }  (C6B+2) [7A5D] - T - 314 11 AsT1 K0 V          
 0237 Htaookh              A55769B-B Ag Ni Da             { 2 }  (B56+4) [887D] - - A 403 10 AsT3 M0 II         
 0238 Elosoirl             C557896-8 Pa Ph                { -1 } (D77-2) [7747] - - - 103 12 AsVc G1 V          
 0332 Ktetlauea            C8A3686-9 Fl Ni                { -1 } (853-2) [5548] - - - 400 8  AsVc K6 II D       
