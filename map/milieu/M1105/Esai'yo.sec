@@ -72,7 +72,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 2228 Eaeae                E526525-3 Ni                                  - -  - 500   As K4 III M6 V   
 2229 Ftiyailyasei         E44296A-7 Hi In Po                            - -  - 605   As F6 V          
 2324 Tautoiyawa           D9A4746-5 Fl                                  - S  - 103   As M5 V          
-2325 Ehlel                E100644-8 Na Ni Va                            - -  - 800   As M5 V M2 V     
+2325 Ehlel                E100644-8 Na Ni Va                            - -  - 800   As M2 V M5 V     
 2327 Asaweasea            C37666A-6 Ag Ni                               - -  - 720   As F0 V          
 2329 Orokhehyakh          E000740-9 As Na                               - -  - 102   As M8 V          
 2429 Ftakaileitai         E130300-8 De Lo Ni Po                         - -  - 903   As M0 V          
@@ -145,7 +145,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1336 Eweh                 C96A112-B Lo Ni Wa                            - -  - 622   As G2 V          
 1338 Foaatlois            C865330-5 Lo Ni                               - -  - 113   As F5 V M7 V     
 1339 Koaao                C000561-C As Ni                               - S  - 714   As K4 V M8 V M6 V
-1340 Feilr                C120122-9 De Lo Ni Po                         - S  - 614   As M4 V M1 V     
+1340 Feilr                C120122-9 De Lo Ni Po                         - S  - 614   As M1 V M4 V     
 1433 Railr                C86AACA-C Hi Wa                               - -  - 505   As F4 V M7 V     
 1532 Ouyer                A448657-C Ag Ni                               - N  - 200   As F1 V M7 V     
 1533 Kheiftu              B686356-B Lo Ni                               - N  - 212   As F3 V M6 V     
@@ -158,7 +158,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1733 Taheihoihei          E798889-3                                     - -  - 805   As F8 V M6 V     
 1832 Kheaifeseaya         C3438BC-5 Po                                  - -  - 924   As K4 V          
 1833 Ehtaoh               E87A444-9 Ni Wa                               - -  - 713   As F7 V          
-1837 Teleleikea           A7A5230-D Fl Lo Ni                            - -  - 302   As M9 V M5 V     
+1837 Teleleikea           A7A5230-D Fl Lo Ni                            - -  - 302   As M5 V M9 V     
 1839 Hkaohti              A584459-B Ni                                  - -  - 905   As F8 V M2 V     
 1840 Aulrelreir           B5979DA-7 Hi In                               - N  - 604   As F8 V M2 V     
 1936 Aohkeilyur           E424886-4                                     - -  - 103   As F3 V          
@@ -187,7 +187,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 2732 Ayewyoh              A200799-C Na Va                               - N  - 102   As G4 V          
 2740 Iy                   A211325-F Ic Lo Ni                            - S  - 802   As K2 IV         
 2834 Elahuirl             C240243-8 De Lo Ni Po                         - -  - 312   As G7 V          
-2835 Ktikh                C322464-6 Ni Po                               - S  - 203   As M6 V M3 V     
+2835 Ktikh                C322464-6 Ni Po                               - S  - 203   As M3 V M6 V     
 2932 Lauhiahakh           A451563-E Ni Po                               - -  - 415   As F5 V M2 V     
 2937 Uas                  C210577-7 Ni                                  - S  - 400   As F7 II         
 2938 Wuih                 A532496-C Ni Po                               - -  - 103   As K2 V          
