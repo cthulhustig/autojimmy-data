@@ -5,7 +5,24 @@
   <X>-7</X>
   <Y>4</Y>
   <DataFile Source="Solomani and Aslan" Milieu="M1105" Ref="https://travellermap.com/data/kefiykhta" />
-  <Subsectors />
+  <Subsectors>
+    <Subsector Index="A">Iil</Subsector>
+    <Subsector Index="B">Ewuilr</Subsector>
+    <Subsector Index="C">Kheheao</Subsector>
+    <Subsector Index="D">Hwaoaakhasis</Subsector>
+    <Subsector Index="E">Hkahaoaioiya</Subsector>
+    <Subsector Index="F">Hliaioiea</Subsector>
+    <Subsector Index="G">Auayu'</Subsector>
+    <Subsector Index="H">Orelra'yesiy</Subsector>
+    <Subsector Index="I">Koafesiw</Subsector>
+    <Subsector Index="J">Htahawela</Subsector>
+    <Subsector Index="K">Iwaktyasea</Subsector>
+    <Subsector Index="L">Eiheilr</Subsector>
+    <Subsector Index="M">Khaehaairl</Subsector>
+    <Subsector Index="N">Iyheahekhea</Subsector>
+    <Subsector Index="O">Fourliyeau</Subsector>
+    <Subsector Index="P">Khahleaktui</Subsector>
+  </Subsectors>
   <Allegiances>
     <Allegiance Code="As">Aslan Hierate</Allegiance>
     <Allegiance Code="A3" Base="As">Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)</Allegiance>

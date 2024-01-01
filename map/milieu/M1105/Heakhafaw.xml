@@ -5,7 +5,24 @@
   <X>-6</X>
   <Y>4</Y>
   <DataFile Source="Solomani and Aslan" Milieu="M1105" Ref="https://travellermap.com/data/heakhafaw" />
-  <Subsectors />
+  <Subsectors>
+    <Subsector Index="A">Staiahio</Subsector>
+    <Subsector Index="B">Aaotla</Subsector>
+    <Subsector Index="C">Tlah</Subsector>
+    <Subsector Index="D">Khte</Subsector>
+    <Subsector Index="E">Ihtofi</Subsector>
+    <Subsector Index="F">Kaeaa</Subsector>
+    <Subsector Index="G">Ileikhtaulr</Subsector>
+    <Subsector Index="H">Ihriyhiyr</Subsector>
+    <Subsector Index="I">Htyehrahao</Subsector>
+    <Subsector Index="J">Ileaseiha</Subsector>
+    <Subsector Index="K">Kyakiaha</Subsector>
+    <Subsector Index="L">Tleiftu'ea'</Subsector>
+    <Subsector Index="M">Kheseal</Subsector>
+    <Subsector Index="N">Eulrakhiyrl</Subsector>
+    <Subsector Index="O">Yooi</Subsector>
+    <Subsector Index="P">Eihoihkyowas</Subsector>
+  </Subsectors>
   <Allegiances>
     <Allegiance Code="A9" Base="As">Aslan Hierate, Tlaukhu control, Aokhalte (10), Sahao' (21), Ouokhoi (26)</Allegiance>
     <Allegiance Code="As">Aslan Hierate</Allegiance>

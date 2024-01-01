@@ -299,7 +299,7 @@ Hex  Name                 UWP       Remarks                 {Ix}   (Ex)    [Cx] 
 0525 Ae'uhei'             D7B2277-8 Fl He Lo                { -3 } (810-3) [2158] - - - 104 8  AsSc A9 V           
 0526 Haryoukou            C543987-A Hi In Po                { 3 }  (F8D+3) [9C5A] - - - 104 13 AsT6 K0 IV          
 0529 Sterluireiui         C697213-9 Lo                      { -1 } (710-4) [1126] - - - 103 14 AsMw M1 V M2 V      
-0623 Ihao                 B687834-A Ga Ri Pa Ph             { 3 }  (E7C+1) [6B38] - - - 604 12 AsT4 F0 V M2 V      
+0623 Ihao                 B687834-A Ga Ri Pa Ph             { 3 }  (E7C+1) [6B38] - T - 604 12 AsT1 F0 V M2 V      
 0624 Eiraohliwear         A865569-B Ag Ni Ga Pr O:0623      { 2 }  (846+3) [676C] - - - 501 9  AsT4 M3 V           
 0626 Hkoaas               E996154-8 Lo                      { -3 } (500-5) [1136] - - - 902 11 AsT2 K9 V M7 V      
 0627 Eilroalaiha          A55726A-A Lo O:0526               { 1 }  (911+3) [437C] - - - 823 9  AsT6 M2 V M3 V      
@@ -371,7 +371,7 @@ Hex  Name                 UWP       Remarks                 {Ix}   (Ex)    [Cx] 
 2130 Aheaoaa              E000767-9 As Na Va Pi O:2228      { -1 } (D68-1) [7659] - - - 313 10 AsT8 M0 V           
 2224 Ahteayew             C85745A-A Ni Ga Pa                { 0 }  (A33+2) [647C] - - - 313 10 AsT1 G2 V M5 V      
 2226 Kheayeh              B6A5687-8 Fl Ni                   { -1 } (A53-1) [6558] - - - 702 11 AsT2 M0 V M3 V      
-2228 Alaoa                B79AA85-B Hi In Wa                { 4 }  (J9F+2) [8E39] - - - 624 17 AsT8 K3 V           
+2228 Alaoa                B79AA85-B Hi In Wa                { 4 }  (J9F+2) [8E39] - T - 624 17 AsT2 K3 V           
 2323 Akhya                A437A88-E Hi                      { 3 }  (F9F+3) [AD5E] - R - 703 10 AsT5 G4 V           
 2327 Oliy                 A431566-D Ni Po O:2228            { 1 }  (C45+1) [464C] - - - 705 14 AsT8 M3 V           
 2329 Arl                  B596686-9 Ag Ni                   { 1 }  (B55+1) [5748] - - - 903 10 AsT9 M0 V           
