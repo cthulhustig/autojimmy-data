@@ -15,7 +15,24 @@
   <X>-3</X>
   <Y>5</Y>
   <DataFile Author="WG Zeist" Source="explorerbase" Milieu="M1105" Ref="https://explorerbase.wordpress.com/sector-data/" />
-  <Subsectors />
+  <Subsectors>
+    <Subsector Index="A">Iyiykhiyais</Subsector>
+    <Subsector Index="B">Atehel</Subsector>
+    <Subsector Index="C">Hla</Subsector>
+    <Subsector Index="D">Koeyaleryes</Subsector>
+    <Subsector Index="E">Asaihel</Subsector>
+    <Subsector Index="F">Ahalahea</Subsector>
+    <Subsector Index="G">Eaheh</Subsector>
+    <Subsector Index="H">Weaseih</Subsector>
+    <Subsector Index="I">Ailaroa</Subsector>
+    <Subsector Index="J">Esaowah</Subsector>
+    <Subsector Index="K">Hfouoal</Subsector>
+    <Subsector Index="L">Aiheei</Subsector>
+    <Subsector Index="M">Uisai</Subsector>
+    <Subsector Index="N">Loieiloies</Subsector>
+    <Subsector Index="O">Ayearli</Subsector>
+    <Subsector Index="P">Sihoauiw</Subsector>
+  </Subsectors>
   <Allegiances>
     <Allegiance Code="XXXX">Unknown</Allegiance>
     <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
