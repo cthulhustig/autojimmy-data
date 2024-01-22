@@ -32,7 +32,6 @@
     <Allegiance Code="Hf">Hive FDA Uplift/Observation Site</Allegiance>
     <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="CsHv">Client state, Hive Federation</Allegiance>
     <Allegiance Code="Iy">Iyuok Hegemony</Allegiance>
   </Allegiances>
@@ -99,5 +98,8 @@
     <Route Start="2217" End="1916" Type="Trade" />
     <Route Start="1008" End="1308" Type="Trade" />
     <Route Start="1507" End="1308" Type="Trade" />
+    <Route Start="1831" End="2133" />
+    <Route Start="1831" End="1531" />
+    <Route Start="1531" End="1328" />
   </Routes>
 </Sector>
