@@ -38,7 +38,6 @@
     <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="SoHn" Base="So">Solomani Confederation, Hanuman Systems</Allegiance>
     <Allegiance Code="HvFd" Base="Hv">Hive Federation</Allegiance>
-    <Allegiance Code="Hf">Hive FDA Uplift/Observation Site</Allegiance>
     <Allegiance Code="CsHv">Client state, Hive Federation</Allegiance>
   </Allegiances>
   <Borders>

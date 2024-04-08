@@ -240,8 +240,8 @@ Hex  Name                 UWP       Remarks              {Ix}   (Ex)    [Cx]   N
 0327 Aireahuyu            C89A249-7 Lo Wa                { -2 } (410-1) [3168] - -  - 910 6  AsVc M0 V M1 V     
 0328 Teaeawyulrao         X427165-7 Lo Fo O:0424         { -3 } (300-5) [1135] - -  R 514 14 AsT3 M2 V M5 V     
 0330 Hkiyarliytea         B648878-A Pa Ph Pi             { 2 }  (D7B+2) [8A5A] - T  - 803 10 AsSc M1 V M2 V     
-0424 Staten               B575A8D-E Hi In Pz Huma8       { 4 }  (K9G+5) [EE9J] - -  A 434 14 AsTz F0 V          
-0426 Monterey             C879889-9 Ph Pi Huma9          { 0 }  (G79+1) [986A] - -  - 924 17 AsTz M2 V M3 V     
+0424 Staten               B575A8D-E Hi In Pz Huma8       { 4 }  (K9G+5) [EE9J] - T  A 434 14 AsTz F0 V          
+0426 Monterey             C879889-9 Ph Pi Huma9          { 1 }  (G79+1) [996A] - RT - 924 17 AsTz M2 V M3 V     
 0428 Waye                 C69A48B-8 Ni Wa                { -2 } (A31+1) [627A] - -  - 704 12 AsT3 M2 V M6 V     
 0430 Sail                 C300443-9 Ni Va                { -1 } (932-4) [1326] - -  - 512 12 AsMw M1 V M2 V     
 0521 Ehoiaei              C1005A6-9 Ni Va                { -1 } (A43-2) [4448] - -  - 503 12 AsWc G2 V          
