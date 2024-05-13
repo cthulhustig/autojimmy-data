@@ -4,7 +4,7 @@
   <Credits />
   <X>-6</X>
   <Y>3</Y>
-  <DataFile Author="Jo Grant, Jeff Zeitlin, and Randy Dorman" Source="The Zhodani Basei" Milieu="M1105" Ref="http://www.zho.berka.com/data/CLASSIC/sector.pl?sector=WAROATAH" />
+  <DataFile Author="Jo Grant, Jeff Zeitlin, and Randy Dorman" Source="The Zhodani Base" Milieu="M1105" Ref="http://www.zho.berka.com/data/CLASSIC/sector.pl?sector=WAROATAH" />
   <Subsectors>
     <Subsector Index="A">Iuweie</Subsector>
     <Subsector Index="B">Walyekh</Subsector>
