@@ -66,7 +66,7 @@ This updated version appears in &lt;cite&gt;The Spinward Extents&lt;/cite&gt;
     <Allegiance Code="FlLe">Florian League</Allegiance>
     <Allegiance Code="AsT2" Base="As">Aslan Hierate, Tlaukhu control, Syoisuis (3)</Allegiance>
     <Allegiance Code="AsT4" Base="As">Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)</Allegiance>
-    <Allegiance Code="AsT7" Base="As">Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerfearlyo (20), Yehtahikh (24)</Allegiance>
+    <Allegiance Code="AsT7" Base="As">Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerlearlyo (20), Yetahikh (24)</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.FlLe { color: green; }
