@@ -68,7 +68,7 @@ def _removeTimestampFromSector(sectorData: str) -> typing.Optional[str]:
             linesRemoved += 1
     if linesRemoved != 1:
         return None
-    
+
     return modifiedData
 
 def _downloadMapData() -> None:
@@ -85,7 +85,7 @@ def _downloadMapData() -> None:
     os.makedirs(basePath)
 
     logging.info(f'Downloading new map data')
-    startTime = datetime.datetime.utcnow()        
+    startTime = datetime.datetime.utcnow()
 
     sophontsUrl = f'{_TravellerMapUrl}/t5ss/sophonts'
     sophontsFilePath = os.path.join(basePath, _SophontsFileName)
@@ -96,7 +96,7 @@ def _downloadMapData() -> None:
     allegiancesFilePath = os.path.join(basePath, _AllegiancesFileName)
     logging.info(f'Downloading allegiances file from {allegiancesUrl} to {allegiancesFilePath}')
     fileRetriever.downloadToFile(url=allegiancesUrl, filePath=allegiancesFilePath)
-    
+
     mainsUrl = f'{_TravellerMapUrl}/res/mains.json'
     mainsFilePath = os.path.join(basePath, _MainsFileName)
     logging.info(f'Downloading mains file from {mainsUrl} to {mainsFilePath}')
@@ -122,7 +122,7 @@ def _downloadMapData() -> None:
         # NOTE: It's important that this check is case insensitive as sector names will
         # be used as file names on Windows
         usedNames = set()
-        conflictNames = set()            
+        conflictNames = set()
         for sectorInfo in universeJson['Sectors']:
             names = sectorInfo['Names']
             lowerName = str(names[0]['Text']).lower()
@@ -139,7 +139,7 @@ def _downloadMapData() -> None:
                 names = sectorInfo['Names']
                 canonicalName = str(names[0]['Text'])
                 sectorX = int(sectorInfo['X'])
-                sectorY = int(sectorInfo['Y'])                
+                sectorY = int(sectorInfo['Y'])
 
                 # Resolve name conflicts.
                 # NOTE: Checking for conflicts is case insensitive
@@ -152,14 +152,14 @@ def _downloadMapData() -> None:
                         # we know that we actually need to handle it. This should fail the pipeline so
                         # I can take a look
                         raise RuntimeError(
-                            f'Attempt to disambiguate {milieu} sector as {unambiguousName} failed as generated name is in use')           
-                    
+                            f'Attempt to disambiguate {milieu} sector as {unambiguousName} failed as generated name is in use')
+
                     # Update the json structure so the new name is written to the snapshot
                     names[0]['Text'] = unambiguousName
                     nameMappings[unambiguousName] = canonicalName
 
         logging.info(f'Writing {milieu} universe file to {universeFilePath}')
-        os.makedirs(milieuDirPath)        
+        os.makedirs(milieuDirPath)
         with open(universeFilePath, 'w', encoding='utf-8') as file:
             json.dump(universeJson, file, separators=(',', ':')) # Specify separators to minimize white space
 
@@ -168,7 +168,7 @@ def _downloadMapData() -> None:
             names = sectorInfo['Names']
             canonicalName = str(names[0]['Text'])
             sectorX = int(sectorInfo['X'])
-            sectorY = int(sectorInfo['Y'])                
+            sectorY = int(sectorInfo['Y'])
 
             encodedFileName = _encodeFileName(rawFileName=canonicalName)
 
@@ -202,7 +202,7 @@ def _downloadMapData() -> None:
 
             names = metadataXml.findall('./Name')
             if not names:
-                raise RuntimeError(f'Failed to find Name elements in sector {canonicalName} in {milieu}')    
+                raise RuntimeError(f'Failed to find Name elements in sector {canonicalName} in {milieu}')
 
             mappedName = nameMappings.get(canonicalName)
             if mappedName == None:
@@ -215,10 +215,10 @@ def _downloadMapData() -> None:
                 if names[0].text != mappedName:
                     # Something is wrong with my logic, barf rather to fail the action
                     raise RuntimeError(f'First name for {canonicalName} in {milieu} doesn\'t match mapped canonical name')
-                
+
                 logging.info(f'Applying disambiguated sector name to metadata for {canonicalName} in {milieu}')
                 names[0].text = canonicalName
-                
+
             logging.info(f'Writing metadata file for {canonicalName} in {milieu} to {metadataFilePath}')
             with open(metadataFilePath, 'w', encoding='utf-8') as file:
                 # NOTE: The XML is written to a utf-8 byte array then converted to a string before being written
