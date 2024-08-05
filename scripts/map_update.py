@@ -5,6 +5,7 @@ import downloader
 import itertools
 import json
 import logging
+import math
 import os
 import re
 import shutil
@@ -121,42 +122,68 @@ def _downloadMapData() -> None:
         # "Unnamed" in M1105
         # NOTE: It's important that this check is case insensitive as sector names will
         # be used as file names on Windows
-        usedNames = set()
-        conflictNames = set()
+        logging.info(f'Checking {milieu} for sector name conflicts')
+        sectorNameMap: typing.Dict[
+            str, # Lower case canonical name
+            typing.List[typing.Any] # List of universe info for sectors with this name
+            ] = {}
         for sectorInfo in universeJson['Sectors']:
-            names = sectorInfo['Names']
+            names = list(sectorInfo['Names'])
             lowerName = str(names[0]['Text']).lower()
-            if lowerName not in usedNames:
-                usedNames.add(lowerName)
-            else:
-                conflictNames.add(lowerName)
+            sectorList = sectorNameMap.get(lowerName)
+            if not sectorList:
+                sectorList = []
+                sectorNameMap[lowerName] = sectorList
+            sectorList.append(sectorInfo)
 
-        # Resolve any name conflicts
         nameMappings = {}
-        if conflictNames:
-            logging.info(f'Resolving name conflicts in {milieu}')
-            for sectorInfo in universeJson['Sectors']:
-                names = sectorInfo['Names']
+        for lowerName, sectorList in sectorNameMap.items():
+            if len(sectorList) <= 1:
+                continue
+
+            ambiguousName = sectorList[0]['Names'][0]['Text']
+            logging.info(f'Resolving conflict with sector {ambiguousName} from {milieu}')
+
+            # NOTE: Official sectors in this context include ones in review
+            officialSectors: typing.List[
+                typing.Any # Universe info for official sectors with a conflict
+                ] = []
+            for sectorInfo in sectorList:
+                tags = sectorInfo['Tags'] if 'Tags' in sectorInfo else ''
+                tags = tags.split(' ')
+                if 'OTU' in tags:
+                    officialSectors.append(sectorInfo)
+
+            for sectorInfo in sectorList:
+                if len(officialSectors) == 1:
+                    # There is one official sector with the name and other
+                    # unofficial sectors also have it. The official sector
+                    # should keep the canonical name and other sectors should be
+                    # disambiguated.
+                    if sectorInfo in officialSectors:
+                        continue # Don't disambiguate the official sector
+
+                names = list(sectorInfo['Names'])
                 canonicalName = str(names[0]['Text'])
                 sectorX = int(sectorInfo['X'])
                 sectorY = int(sectorInfo['Y'])
 
-                # Resolve name conflicts.
-                # NOTE: Checking for conflicts is case insensitive
-                if canonicalName.lower() in conflictNames:
-                    logging.info(f'Disambiguating {milieu} sector named {canonicalName} at {sectorX}, {sectorY}')
+                logging.info(f'Disambiguating sector {canonicalName} at ({sectorX}, {sectorY}) from {milieu}')
+                disambiguatedName = f'{canonicalName} ({sectorX}, {sectorY})'
 
-                    unambiguousName = f'{canonicalName} ({sectorX}, {sectorY})'
-                    if unambiguousName.lower() in usedNames:
-                        # Realistically this shouldn't happen so don't try to do anything clever until
-                        # we know that we actually need to handle it. This should fail the pipeline so
-                        # I can take a look
-                        raise RuntimeError(
-                            f'Attempt to disambiguate {milieu} sector as {unambiguousName} failed as generated name is in use')
+                if disambiguatedName.lower() in sectorNameMap:
+                    # Realistically this shouldn't happen so don't try to do
+                    # anything clever until we know that we actually need to
+                    # handle it. This should fail the pipeline so I can take a
+                    # look
+                    raise RuntimeError(
+                        f'Disambiguated name {disambiguatedName} is already in use')
 
-                    # Update the json structure so the new name is written to the snapshot
-                    names[0]['Text'] = unambiguousName
-                    nameMappings[unambiguousName] = canonicalName
+                # Update the json structure so the new name is written to the snapshot
+                # NOTE: The name is inserted before existing names so the 'real'
+                # (ambiguous) name will be the first alternate name for the sector
+                sectorInfo['Names'] = [{'Text': disambiguatedName}] + names
+                nameMappings[disambiguatedName] = canonicalName
 
         logging.info(f'Writing {milieu} universe file to {universeFilePath}')
         os.makedirs(milieuDirPath)
@@ -165,64 +192,93 @@ def _downloadMapData() -> None:
 
         logging.info(f'Downloading {milieu} sector & metadata files')
         for sectorInfo in universeJson['Sectors']:
-            names = sectorInfo['Names']
-            canonicalName = str(names[0]['Text'])
+            names = list(sectorInfo['Names'])
+            canonicalName = str(names[0]['Text']) # This has already been disambiguated
             sectorX = int(sectorInfo['X'])
             sectorY = int(sectorInfo['Y'])
 
             encodedFileName = _encodeFileName(rawFileName=canonicalName)
 
-            # When requesting sectors & metadata it's important to do it by position to avoid
-            # ambiguity if there are multiple sectors with the same name
+            # When requesting sectors & metadata it's important to do it by
+            # position to avoid ambiguity if there are multiple sectors with
+            # the same name
 
-            # Download sector file and remove the timestamp that Traveller Map adds
+            # Download sector data file
             sectorUrl = f'{_TravellerMapUrl}/api/sec?sx={sectorX}&sy={sectorY}&milieu={milieu}&type=SecondSurvey'
             sectorFilePath = os.path.join(milieuDirPath, encodedFileName + '.sec')
-            logging.info(f'Downloading sector file for {canonicalName} in {milieu} from {sectorUrl}')
+            logging.info(f'Downloading sector file for {canonicalName} from {milieu} using {sectorUrl}')
             sectorData = fileRetriever.downloadToBuffer(url=sectorUrl)
 
+            # Remove the timestamp that Traveller Map adds to the data file
+            # NOTE: If the sector name is being mapped to disambiguate it, the
+            # names stored in the sector data file are not updated. This would
+            # be a faff to do and it's not needed a Auto-Jimmy doesn't use
+            # metadata from the sector data file
             sectorData = _removeTimestampFromSector(sectorData=_bytesToString(sectorData))
             if sectorData == None:
-                raise RuntimeError(f'Failed to remove timestamp from sector file for {canonicalName} in {milieu}')
+                raise RuntimeError(f'Failed to remove timestamp from sector file for {canonicalName} from {milieu}')
 
-            logging.info(f'Writing sector file for {canonicalName} in {milieu} to {sectorFilePath}')
+            logging.info(f'Writing sector file for {canonicalName} from {milieu} using {sectorFilePath}')
             with open(sectorFilePath, 'w', encoding='utf-8') as file:
                 file.write(sectorData)
 
             # Download metadata to memory so name can be updated
-            # Parsing the metadata is only strictly required for sectors that have had their name
-            # disambiguated, however it's also desirable as an extra check that what is downloaded
-            # is basically parsable. The expectation being an exception will be thrown (and the
-            # snapshot update will fail) if it's not.
+            # Parsing the metadata is only strictly required for sectors that
+            # have had their name disambiguated, however it's also desirable as
+            # an extra check that what is downloaded is basically parsable. The
+            # expectation being an exception will be thrown (and the snapshot
+            # update will fail) if it's not.
             metadataUrl = f'{_TravellerMapUrl}/api/metadata?sx={sectorX}&sy={sectorY}&milieu={milieu}&accept=text/xml'
             metadataFilePath = os.path.join(milieuDirPath, encodedFileName + '.xml')
-            logging.info(f'Downloading metadata for {canonicalName} in {milieu} from {metadataUrl}')
+            logging.info(f'Downloading metadata for {canonicalName} from {milieu} using {metadataUrl}')
             metadataXml = fileRetriever.downloadToBuffer(url=metadataUrl)
             metadataXml = xml.etree.ElementTree.fromstring(_bytesToString(metadataXml))
 
             names = metadataXml.findall('./Name')
             if not names:
-                raise RuntimeError(f'Failed to find Name elements in sector {canonicalName} in {milieu}')
-
-            mappedName = nameMappings.get(canonicalName)
-            if mappedName == None:
-                # The name hasn't been mapped so check that the first name matches the canonical name
-                # from the universe. If this isn't the case then it could indicate a flaw in my logic
-                # elsewhere so barf to fail the snapshot update to give me a chance to fix it
+                raise RuntimeError(f'Failed to find Name elements in sector {canonicalName} from {milieu}')
+            originalName = nameMappings.get(canonicalName)
+            if originalName == None:
+                # The name hasn't been mapped so check that the first name
+                # matches the canonical name from the universe. If this isn't
+                # the case then it could indicate a flaw in my logic elsewhere
+                # so barf to fail the snapshot update to give me a chance to fix
+                # it
                 if names[0].text != canonicalName:
-                    raise RuntimeError(f'First name for {canonicalName} in {milieu} doesn\'t match canonical name')
+                    raise RuntimeError(f'First name for {canonicalName} from {milieu} doesn\'t match canonical name')
             else:
-                if names[0].text != mappedName:
-                    # Something is wrong with my logic, barf rather to fail the action
-                    raise RuntimeError(f'First name for {canonicalName} in {milieu} doesn\'t match mapped canonical name')
+                if names[0].text != originalName:
+                    # Something is wrong with my logic, barf rather to fail the
+                    # action
+                    raise RuntimeError(f'First name for {canonicalName} from {milieu} doesn\'t match mapped canonical name')
 
-                logging.info(f'Applying disambiguated sector name to metadata for {canonicalName} in {milieu}')
-                names[0].text = canonicalName
+                logging.info(f'Applying disambiguated sector name to metadata for {canonicalName} from {milieu}')
+                # NOTE: The disambiguated name is inserted at the start of the
+                # current list of names so that the 'real' (ambiguous) name
+                # appears as first alternate name
+                firstNameIndex = list(metadataXml).index(names[0])
+                element = xml.etree.ElementTree.Element('Name')
+                element.text = canonicalName
+                element.tail = names[0].tail
+                metadataXml.insert(firstNameIndex, element)
 
-            logging.info(f'Writing metadata file for {canonicalName} in {milieu} to {metadataFilePath}')
+            # Metadata must have a position for Auto-Jimmy to use it
+            positions = metadataXml.findall('./X')
+            if not positions:
+                raise RuntimeError(f'Failed to find X elements in sector {canonicalName} from {milieu}')
+            if int(positions[0].text) != sectorX:
+                raise RuntimeError(f'Sector X position for {canonicalName} from {milieu} doesn\'t match universe X position')
+            positions = metadataXml.findall('./Y')
+            if not positions:
+                raise RuntimeError(f'Failed to find Y elements in sector {canonicalName} from {milieu}')
+            if int(positions[0].text) != sectorY:
+                raise RuntimeError(f'Sector Y position for {canonicalName} from {milieu} doesn\'t match universe Y position')
+
+            logging.info(f'Writing metadata file for {canonicalName} from {milieu} to {metadataFilePath}')
             with open(metadataFilePath, 'w', encoding='utf-8') as file:
-                # NOTE: The XML is written to a utf-8 byte array then converted to a string before being written
-                # to a utf-8 encoded text file. This is done so line endings are written in native format to
+                # NOTE: The XML is written to a utf-8 byte array then converted
+                # to a string before being written to a utf-8 encoded text file.
+                # This is done so line endings are written in native format to
                 # avoid problems when I'm testing the script on Windows
                 file.write(_bytesToString(xml.etree.ElementTree.tostring(
                     element=metadataXml,
