@@ -29,6 +29,7 @@
 # Subsector O: Wiaiaw
 # Subsector P: Aeie
 
+# Alleg: A8: "Aslan Hierate, Tlaukhu control, Seieakh (9), Akatoiloh (18), We'okurir (29)"
 # Alleg: As: "Aslan Hierate"
 # Alleg: Na: "Non-Aligned, Human-dominated"
 
@@ -160,7 +161,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1833 Ehtaoh               E87A444-9 Ni Wa                               - -  - 713   As F7 V          
 1837 Teleleikea           A7A5230-D Fl Lo Ni                            - -  - 302   As M5 V M9 V     
 1839 Hkaohti              A584459-B Ni                                  - -  - 905   As F8 V M2 V     
-1840 Aulrelreir           B5979DA-7 Hi In                               - N  - 604   As F8 V M2 V     
+1840 Aulrelreir           B5979BA-C Hi In                               - T  - 604   A8 G8 V M2 V     
 1936 Aohkeilyur           E424886-4                                     - -  - 103   As F3 V          
 1939 Etui                 B310599-D Ni                                  - N  - 301   As M7 V          
 1940 Yuhya'               B3537BB-8 Po                                  - -  - 202   As F5 V          
