@@ -207,12 +207,16 @@ Hex  Name                 UWP       Remarks                {Ix}   (Ex)    [Cx]  
 1316 Zhoiansdrant         BA76102-C Lo                     { 1 }  (C01+4) [124G] B    - - 903 6  Wild F5 V               
 1317 Ezdlash              E665451-7 Ga Ni Pa               { -3 } (630+1) [5156] Bc   - - 504 9  Wild K3 V               
 1318 Zdarbaq              C6589B8-7 Hi                     { 0 }  (B85+4) [7996] BE   - - 413 8  Wild F6 V               
+1319 Lie Zedl             E310000-0 Ba                     { -3 } (200+2) [0000] B    - - 000 5  Ds   M1 V               
 1411 Chaz Shtia           B686537-9 Ag Pr Ga Ni            { 1 }  (A43-5) [7637] BcC  - - 403 13 Wild G0 V M1 V          
 1412 Diafriapl            X435000-7 Di                     { -3 } (700+3) [0000] B    - - 003 11 Wild G2 V               
 1413 Chtianshkrets        E7A3000-0 Ba Fl                  { -3 } (200+4) [0000] B    - - 036 16 Wild F6 V M1 V          
+1419 Pliqel               B662558-7 Ni Pr                  { -1 } (640+4) [5457] B    - - 401 11 Ds   F9 V M1 V          
 1511 Datliatl             X686000-8 Di Ga                  { -3 } (500-1) [0000] B    - - 000 5  Wild M1 V               
 1512 Afrzhal              E580000-0 Ba De                  { -3 } (200-1) [0000] B    - - 003 14 Wild F5 V M3 V          
 1514 Tlifiemdrezh         X543000-7 Di Po                  { -3 } (800+1) [0000] B    - - 003 9  Wild F6 V M3 V          
+1519 Kiev Riatl           C632974-7 Hi Na Po               { 0 }  (B83-2) [C94A] BE   - - 501 8  Ds   G4 V               
+1520 Dezitl               C575798-8 Ag Pi                  { 0 }  (B68-1) [878D] BCD  - - 602 11 Ds   K4 V               
 1711 Dovre'               EAB7000-9 Di Fl                  { -2 } (900+2) [0000] B    - - 002 5  Wild G6 V M7 V          
 1713 Vriaoz Bench         E423000-0 Ba Po                  { -3 } (200+2) [0000] B    - - 003 11 Wild M2 V               
 1714 Jderiebl             E77A000-0 Ba Wa                  { -3 } (200-2) [0000] B    - - 006 10 Wild F5 V M2 V          
@@ -306,16 +310,20 @@ Hex  Name                 UWP       Remarks                {Ix}   (Ex)    [Cx]  
 1129 Shenchonchenz        B958203-8 Lo                     { -1 } (910+1) [1139] B    - - 900 5  Wild F7 V               
 1229 Iensheqr             E100859-9 Na Pi Ph Va            { -1 } (F72+3) [5784] BDe  - - 414 14 Wild F7 V M1 V          
 1230 Dliepl               X522000-A Di He Po               { -1 } (900+1) [0000] B    - - 010 10 Wild M2 V               
+1322 Essadap              C584874-8 Pa Ri Ph               { 1 }  (E7A-1) [7916] BcCe W - 204 12 Ds   F9 V M0 V          
 1323 Priaf Ajal           B5609EE-8 De Hi Pr               { 1 }  (C87+3) [8A54] BcE  - - 804 11 Wild G1 V               
 1325 Qleprier             X8B8000-9 Di Fl                  { -2 } (A00-3) [0000] B    T - 003 13 Wild F6 IV M6 V         
 1326 Batlpat              A685998-9 Ga Hi Pr               { 2 }  (C8A+1) [9B49] BcE  - - 110 8  Wild G2 V               
 1329 Srdrqlaf             E556376-7 Lo                     { -3 } (720+2) [613B] B    - - 104 11 Wild M2 V               
+1422 Ebam Plench          C7A2684-8 Ni Fl He               { -2 } (B50+2) [6458] B    - - 803 9  Ds   G7 V M5 V          
 1425 Eqklr Biens          E7B3000-0 Ba Fl                  { -3 } (200-4) [0000] B    - - 001 11 Wild M2 V               
 1427 Chten Zhyofre        B100656-C Na Ni Va               { 1 }  (854+1) [376F] B    - - 200 4  Wild M2 V               
 1430 Adrazhiaql           A585440-C Ni Pa                  { 1 }  (B33+3) [253C] Bc   - - 212 10 Wild F7 V M1 V          
+1522 Zhdokr Bsiej         B54888A-7 Pa Pi Ph               { 0 }  (A7A+1) [A85A] BcDe - - 110 10 Ds   F7 V M2 V          
 1525 Flostr Siej          B432489-C Ni Px Po               { 1 }  (C33-3) [657B] B    - - 914 12 Wild M0 V M4 V          
 1526 Bieiazhanz           A55297A-A Hi Po                  { 3 }  (D89+1) [BC7B] BE   - - 402 10 Wild F4 V               
 1529 Iavlia               A66547A-C Ga Ni Pa               { 1 }  (833-2) [755E] Bc   - - 701 7  Wild K2 V               
+1621 Midway               A786735-G Ag Ri An Adda1 Ga      { 5 }  (96C+4) [7C4G] BcC  - - 611 11 Ds   F8 V               
 1625 Iqrchipl             E9569B7-4 Hi                     { -1 } (B89+2) [E862] BE   - - 203 11 Wild G1 V               
 1626 Zdieb Iedlaz         C97A756-B Pi Wa                  { 1 }  (C69+1) [983B] BD   - - 503 9  Wild F6 V M8 V          
 1629 Friebeblinz          X402334-7 Ic Va Lo Rs            { -3 } (720-1) [4178] B    - - 901 5  Wild K0 V               
