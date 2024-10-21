@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Selected="true" Tags="OTU" Abbreviation="Dush">
+  <Name>Dushis</Name>
+  <Credits>
+
+	Created by Robert Eaglestone, October 2024.
+
+    </Credits>
+  <X>320</X>
+  <Y>-225</Y>
+  <DataFile Author="Robert Eaglestone" Milieu="M1900" />
+  <Subsectors>
+    <Subsector Index="A">Gawirkkan</Subsector>
+    <Subsector Index="B">Ool</Subsector>
+    <Subsector Index="C">Kbin</Subsector>
+    <Subsector Index="D">Treemlow</Subsector>
+    <Subsector Index="E">Anchus</Subsector>
+    <Subsector Index="F">Twull</Subsector>
+    <Subsector Index="G">Kussgreb</Subsector>
+    <Subsector Index="H">Tilakbi</Subsector>
+    <Subsector Index="I">Wishgiwl</Subsector>
+    <Subsector Index="J">Glin</Subsector>
+    <Subsector Index="K">Tramb</Subsector>
+    <Subsector Index="L">Sunbafi</Subsector>
+    <Subsector Index="M">Bagash</Subsector>
+    <Subsector Index="N">Niell</Subsector>
+    <Subsector Index="O">Danmal</Subsector>
+    <Subsector Index="P">Sharanu</Subsector>
+  </Subsectors>
+  <Allegiances>
+    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+  </Allegiances>
+</Sector>

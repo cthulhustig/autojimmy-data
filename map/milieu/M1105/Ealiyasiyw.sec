@@ -33,6 +33,7 @@
 # Alleg: AsMw: "Aslan Hierate, single multiple-world clan dominates"
 # Alleg: AsSc: "Aslan Hierate, multiple clans split control"
 # Alleg: AsT0: "Aslan Hierate, Tlaukhu control, Yerlyaruiwo (1), Hrawoao (13), Eisohiyw (14), Ferekhearl (19)"
+# Alleg: AsT1: "Aslan Hierate, Tlaukhu control, Khaukheairl (2), Estoieie' (16), Toaseilwi (22)"
 # Alleg: AsT2: "Aslan Hierate, Tlaukhu control, Syoisuis (3)"
 # Alleg: AsT3: "Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)"
 # Alleg: AsT4: "Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)"
@@ -131,7 +132,7 @@ Hex  Name                 UWP       Remarks                 {Ix}   (Ex)    [Cx] 
 2807 Fterlyuhlye          D310AEC-7 Hi In Na Pz             { 0 }  (C99+3) [DA8A] - - A 924 10 NaAs M0 V            
 2809 Eaheoil              B789387-C Lo Ht                   { 1 }  (821+1) [345C] - - - 812 14 AsMw K1 V M1 V       
 2907 Ikhuaei              C786621-3 Ag Ni Ga Ri Lt          { 0 }  (854-4) [2611] - - - 104 14 NaAs K1 III          
-2910 Tlelyeoa             A583784-C Ri Ht                   { 3 }  (D6D+1) [5A3A] - - - 713 8  AsT8 M0 V            
+2910 Tlelyeoa             A583784-C Ri Ht                   { 3 }  (D6D+1) [5A3A] - - - 713 8  AsT2 M0 V            
 3006 Ye'iyeah             C662249-4 Lo Lt                   { -2 } (410-1) [3165] - - - 213 17 NaAs F1 V            
 3102 Brirvoy              X566633-1 Ag Ni Ri Fo ChirW Lt    { -1 } (853-4) [3521] - - R 421 9  NaXX G7 V M6 V       
 3108 Kea'yaaie            X000444-7 As Ni Va Fo             { -3 } (631-5) [2135] - - R 403 9  NaAs M3 V            
@@ -139,7 +140,7 @@ Hex  Name                 UWP       Remarks                 {Ix}   (Ex)    [Cx] 
 0113 Keiaoukhri           B3106AB-9 Na Ni Da                { 0 }  (854+2) [867B] - - A 100 7  AsWc M3 V M7 V       
 0114 Iywheiyel            A56A497-C Ni Wa Ht                { 1 }  (934+1) [455C] - - - 903 10 AsWc K1 V M7 V       
 0115 Eaalkhel             A7B459A-D Fl Ni Ht                { 1 }  (845+3) [767F] - - - 310 11 AsWc G2 V M0 V       
-0116 Hkauehirl            C7658DA-6 Ga Ri Pa Ph Pz          { 0 }  (A77+2) [A878] - - A 600 9  AsT8 M1 V            
+0116 Hkauehirl            C7658DA-6 Ga Ri Pa Ph Pz          { 0 }  (A77+2) [A878] - - A 600 9  AsT1 M1 V            
 0119 Ikheaaw              C74A7C8-A Wa Pi Pz                { 1 }  (D6A+1) [785A] - - A 204 13 AsWc K4 V M2 V M1 V  
 0213 Khteauwel            B6877A8-A Ag Ga Ri                { 4 }  (D6D+4) [7B5A] - - - 131 16 AsMw K4 IV M9 V      
 0215 Aihaowkhtirl         E100137-7 Lo Va                   { -3 } (300-3) [1157] - - - 312 10 AsMw M1 V            
@@ -253,7 +254,7 @@ Hex  Name                 UWP       Remarks                 {Ix}   (Ex)    [Cx] 
 0123 Yeltear              C566385-8 Lo                      { -2 } (920-4) [1136] - - - 304 7  AsWc M9 III D        
 0124 Khaoworl             D310698-8 Na Ni                   { -3 } (F51-3) [6358] - - - 634 19 AsVc M0 V M1 V       
 0127 Khtewiyh             C7A537A-8 Fl Lo                   { -2 } (820+1) [517A] - - - 103 11 AsSc M2 V M2 V       
-0130 Eawweaaw             D784148-7 Lo                      { -3 } (300-3) [1157] - - - 613 15 AsT8 M7 II D         
+0130 Eawweaaw             D784148-7 Lo                      { -3 } (300-3) [1157] - - - 613 15 AsT2 M7 II D         
 0221 Areaarleih           A633476-6 Ni Po                   { -1 } (632-2) [3345] - - - 624 15 AsSc M2 V M2 V       
 0222 Hluahyahe            X526148-7 Lo Fo                   { -3 } (300-3) [1157] - - R 503 11 AsT0 M2 V M5 V       
 0224 Eieyasoir            C69716B-9 Lo O:0523               { -1 } (700+1) [317B] - - - 804 9  AsTv M1 V M5 V M5 V  
@@ -286,7 +287,7 @@ Hex  Name                 UWP       Remarks                 {Ix}   (Ex)    [Cx] 
 1024 Oyo'au               X7588D8-0 Pa Ph Fo Lt             { -2 } (A72-2) [8651] - - R 111 7  AsMw M0 V M2 V       
 1027 Keiilheirleah        D300326-8 Lo Va                   { -3 } (A20-4) [2147] - - - 523 14 AsT0 M2 V            
 1123 Ooioiha              E563227-7 Lo                      { -3 } (410-3) [2157] - - - 103 8  AsTv M1 V M2 V       
-1124 Fteailel             C698246-7 Lo                      { -2 } (410-3) [1146] - - - 213 12 AsT9 K1 V            
+1124 Fteailel             C698246-7 Lo                      { -2 } (410-3) [1146] - - - 213 12 AsT1 K1 V            
 1126 Auyal                E684366-7 Lo O:1222               { -3 } (520-4) [2146] - - - 123 15 AsT0 K9 V            
 1222 Oheise               B100988-D Hi In Na Va Pz Ht       { 4 }  (F8F+4) [9D5B] - T A 304 12 AsT0 M2 V M3 V       
 1226 Aooislaiheeiw        C100115-8 Lo Va                   { -2 } (700-4) [1136] - - - 204 11 AsMw M1 V            
@@ -324,7 +325,7 @@ Hex  Name                 UWP       Remarks                 {Ix}   (Ex)    [Cx] 
 1926 Khiewriaar           C576488-9 Ni Pa                   { -1 } (932-1) [4359] - - - 421 12 AsT9 K6 V            
 1927 Htyeiylra            C43467A-A Ni                      { 0 }  (F54+2) [867C] - - - 834 12 AsSc M3 V            
 2025 Ihaaeaus             D587485-7 Ni Pa                   { -3 } (631-5) [2135] - - - 103 11 AsMw M3 V            
-2122 Khaiheiiyaul         B526488-C Ni Ht                   { 1 }  (B34+1) [455C] - T - 323 15 AsT9 M2 V            
+2122 Khaiheiiyaul         B526488-C Ni Ht                   { 1 }  (B34+1) [455C] - T - 323 15 AsT1 M2 V            
 2221 Tehyo                C421A76-C He Hi In Na Po Ht       { 3 }  (C9E+2) [9D4B] - - - 100 7  AsSc K3 V            
 2222 Okhayehauoil         C563369-9 Lo O:2221               { -1 } (920+1) [426A] - - - 904 11 AsSc M0 V M1 V       
 2224 Uarla                E555499-6 Ni Pa                   { -3 } (631-2) [5167] - - - 112 6  AsT3 M0 V            
