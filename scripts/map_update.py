@@ -13,8 +13,16 @@ import sys
 import typing
 import xml.etree.ElementTree
 
+# TODO: mains.json, sophonts.json & allegiances.json are no longer used
+# by Auto-Jimmy. The need for the mains file was removed as part of the
+# work to add custom sectors. The other two files aren't needed after
+# the addition of local rendering (they were replaced with alternate
+# versions that currently come from the static data in this repo). I'm
+# keeping them for now so I don't need to make a major version update
+# to the snapshot file and block older clients.
 _TravellerMapUrl = 'https://www.travellermap.com'
-_MapDataDir = 'map'
+_SnapshotDataDir = 'map'
+_StaticDataDir = 'static'
 _MilieuDir = 'milieu'
 _UniverseFileName = 'universe.json'
 _SophontsFileName = 'sophonts.json'
@@ -26,7 +34,12 @@ _TimestampFormat = '%Y-%m-%d %H:%M:%S.%f'
 _MilieuList = ['IW', 'M0', 'M990', 'M1105', 'M1120', 'M1201', 'M1248', 'M1900']
 _MinMilieuFiles = 3 # Must have at least universe file and .sec and metadata files for 1 sector
 _SectorTimestampPattern = re.compile('^#\s*\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2}\s*$')
-_DataFormatVersion = '4.0'
+# v1 = Initial snapshot format (this is implied as those snapshots didn't have any format data)
+# v2 = Addition of data format (no change to snapshot format other than addition of data format file)
+# v3 = Addition of mains file
+# v4 = Switch to xml metadata
+# v4.1 = Addition of Traveller Map resource files for local rendering
+_DataFormatVersion = '4.1'
 
 # List of characters that are illegal in filenames on Windows, Linux and macOS.
 # Based on this post https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names
@@ -74,39 +87,39 @@ def _removeTimestampFromSector(sectorData: str) -> typing.Optional[str]:
 
 def _downloadMapData() -> None:
     fileRetriever = downloader.Downloader()
-    basePath = os.path.join(os.getcwd(), _MapDataDir)
+    snapshotDir = os.path.join(os.getcwd(), _SnapshotDataDir)
     downloadQueue = []
 
     # Delete old data directory to allow for sectors being deleted/renamed
     logging.info(f'Deleting existing map data')
-    if os.path.exists(basePath):
-        shutil.rmtree(basePath)
+    if os.path.exists(snapshotDir):
+        shutil.rmtree(snapshotDir)
     else:
         logging.warning(f'No map data to delete')
-    os.makedirs(basePath)
+    os.makedirs(snapshotDir)
 
     logging.info(f'Downloading new map data')
     startTime = datetime.datetime.utcnow()
 
     sophontsUrl = f'{_TravellerMapUrl}/t5ss/sophonts'
-    sophontsFilePath = os.path.join(basePath, _SophontsFileName)
+    sophontsFilePath = os.path.join(snapshotDir, _SophontsFileName)
     logging.info(f'Downloading sophonts file from {sophontsUrl} to {sophontsFilePath}')
     fileRetriever.downloadToFile(url=sophontsUrl, filePath=sophontsFilePath)
 
     allegiancesUrl = f'{_TravellerMapUrl}/t5ss/allegiances'
-    allegiancesFilePath = os.path.join(basePath, _AllegiancesFileName)
+    allegiancesFilePath = os.path.join(snapshotDir, _AllegiancesFileName)
     logging.info(f'Downloading allegiances file from {allegiancesUrl} to {allegiancesFilePath}')
     fileRetriever.downloadToFile(url=allegiancesUrl, filePath=allegiancesFilePath)
 
     mainsUrl = f'{_TravellerMapUrl}/res/mains.json'
-    mainsFilePath = os.path.join(basePath, _MainsFileName)
+    mainsFilePath = os.path.join(snapshotDir, _MainsFileName)
     logging.info(f'Downloading mains file from {mainsUrl} to {mainsFilePath}')
     fileRetriever.downloadToFile(url=mainsUrl, filePath=mainsFilePath)
 
     for milieu in _MilieuList:
         universeUrl = f'{_TravellerMapUrl}/api/universe?milieu={milieu}&requireData=1'
 
-        milieuDirPath = os.path.join(basePath, _MilieuDir, milieu)
+        milieuDirPath = os.path.join(snapshotDir, _MilieuDir, milieu)
         universeFilePath = os.path.join(milieuDirPath, _UniverseFileName)
 
         # If there was a milieu specified it means this is a universe file that was downloaded
@@ -292,13 +305,13 @@ def _downloadMapData() -> None:
 
     # Check for suspiciously few files in a milieu directory
     for milieu in _MilieuList:
-        milieuPath = os.path.join(basePath, _MilieuDir, milieu)
+        milieuPath = os.path.join(snapshotDir, _MilieuDir, milieu)
         files = [entry for entry in os.listdir(milieuPath) if os.path.isfile(os.path.join(milieuPath, entry))]
         if len(files) < _MinMilieuFiles:
             raise RuntimeError(f'Milieu directory {milieuPath} only contains {len(files)} files')
 
     # Check for empty files
-    for subdir, _, files in os.walk(basePath):
+    for subdir, _, files in os.walk(snapshotDir):
         for file in files:
             filePath = os.path.join(subdir, file)
             fileStat = os.stat(filePath)
@@ -309,13 +322,23 @@ def _downloadMapData() -> None:
 
     logging.info(f'Sanity checking completed successfully')
 
-    logging.info(f'Updating timestamp')
-    timestampFilePath = os.path.join(basePath, _TimestampFileName)
+    logging.info('Copying static content')
+    staticDataDir = os.path.join(os.getcwd(), _StaticDataDir)
+    for item in os.listdir(staticDataDir):
+        srcPath = os.path.join(staticDataDir, item)
+        dstPath = os.path.join(snapshotDir, item)
+        if os.path.isdir(srcPath):
+            shutil.copytree(srcPath, dstPath, dirs_exist_ok=False)
+        else:
+            shutil.copyfile(srcPath, dstPath)
+
+    logging.info('Updating timestamp')
+    timestampFilePath = os.path.join(snapshotDir, _TimestampFileName)
     with open(timestampFilePath, 'w', encoding='ascii') as file:
         file.write(startTime.strftime(_TimestampFormat))
 
-    logging.info(f'Writing data format')
-    dataFormatFilePath = os.path.join(basePath, _DataFormatFileName)
+    logging.info('Writing data format')
+    dataFormatFilePath = os.path.join(snapshotDir, _DataFormatFileName)
     with open(dataFormatFilePath, 'w', encoding='ascii') as file:
         file.write(_DataFormatVersion)
 
