@@ -248,11 +248,12 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 2614 Varella              A896976-D Hi In Cp / Sa                       - - - 621   Ve K9 V           
 2616 Kern                 C797511-9 Ag Ni                               - K - 905   Ls F1 V           
 2617 Hemi's World         B762830-5 Ri Ph / Lt                          - - - 412   Ls A4 V           
-2618 Stevenson            C76A941-9 Hi Wa Pr                            - - - 220   Ls G0 VI          
+2618 Stevenson            C76A941-9 Hi Wa Pr                            - K - 220   Ls G0 VI          
+2619 Waypoint 2           C??????-9                                     - - - 000   Ls                
 2620 Winterzee            A65A886-9 Wa Ph Cp / Tz                       - - - 800   Ls K8 V           
 2714 Kwang                A766A75-B Ga Hi / Fo Sa T                     - K R 104   Ve M2 V           
 2716 Roanne               C668866-7 Ri Pa Ph / O:27                     - K R 113   Ve M1 V M7 V M4 VI
-2718 Waypoint 1           ???????-?                                     - K - 000   Ls                
+2718 Waypoint 1           C??????-?                                     - K - 000   Ls                
 2811 Braban               EAB6246-8 Fl Lo                               - - - 423   na G6 V M9 V      
 2813 Wnderwynd            D300376-5 Lo Va / Lt Tz                       - - - 903   Ve M8 V           
 2814 Caomhan              C695776-8 Ag Pi                               - K - 404   Ve F1 IV          
@@ -364,11 +365,12 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 3026 Losner               C662A63-7 Hi / Mr                             - - - 103   Hu M6 III         
 3028 Callisto             D000432-9 As Ni Va                            - - - 224   na M7 V M8 VI     
 3029 Giselle              D988683-6 Ag Ni                               - - - 222   na F3 V           
+3121 Larayne              D988737-7 Ni                                  - - - 413   na K7 II          
 3123 Davics               X669504-0 Ni Pr / Fo                          - K R 502   Ch F9 VI          
 3126 Heron                A632984-C Hi Na Po Cp / Ht                    - - - 513   He K2 V           
 3223 Elerius              C000412-9 As Ni Va                            - V - 613   Ch M4 V           
 3226 Narayanan            C6766D8-5 Ag Ni / Lt Tz                       - - - 924   na K8 V G9 VI     
-3228 Hrugen               X765672-0 Ag Ga Ni Ri / T                     - - - 214   na M1 V M7 VI     
+3228 Hrugen               X765672-0 Ag Ga Ni Ri / T                     - - R 214   na M1 V M7 VI     
 0232 Ishikawa             C8C4895-9 Fl Ph / Tz                          - - - 712   Ne M0 V K8 VI     
 0235 Tenko                C662830-8 Ph Ri / Tz                          - - - 313   Ne K6 V           
 0237 Hanshin              B885866-9 Ga Ri Pa Ph / M                     - - - 334   Ne F3 V K2 VI     
