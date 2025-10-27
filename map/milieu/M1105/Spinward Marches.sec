@@ -398,7 +398,7 @@ Hex  Name                 UWP       Remarks                                     
 1132 Bowman               D000300-9 As Lo Va                                    { -2 } (920-5) [1114] -     S  - 831 13 CsIm M0 V          
 1133 Squallia             C438679-9 Ni                                          { -1 } (A53+1) [756A] -     -  - 320 8  NaHu F0 V          
 1138 Tarsus               B584620-A Ag Ni Ri                                    { 3 }  (A57-1) [1915] -     -  - 202 7  CsIm K9 V          
-1232 Walston              C544338-8 Lo Varg7                                    { -2 } (720-2) [3158] -     S  - 302 8  CsIm M2 V          
+1232 Walston              C544338-8 Lo Varg7                                    { -2 } (720-2) [3158] -     S  - 302 7  CsIm M2 V          
 1233 Flexos               E5A1422-8 Fl He Ni                                    { -3 } (731-5) [1114] -     -  - 610 8  NaHu M1 V M2 V     
 1237 Collace              B628943-D Hi In Ht                                    { 4 }  (C8G+1) [6D2A] -     S  - 101 5  CsIm F1 V M3 V     
 1238 Pavabid              C6678D8-6 Ga Ri Pa Ph Pz                              { 0 }  (A77+1) [8856] -     -  A 701 14 NaHu K7 V          
