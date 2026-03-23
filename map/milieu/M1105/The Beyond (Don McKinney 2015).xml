@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Sector Tags="Apocryphal Faraway" Abbreviation="BEDM">
+<Sector Tags="Apocryphal Faraway" Abbreviation="BEDM" Label="The Beyond">
   <Name>The Beyond (Don McKinney 2015)</Name>
   <Name>Beyond (Don McKinney 2015)</Name>
   <Name Lang="as">Lerlairlaii (Don McKinney 2015)</Name>
@@ -48,6 +48,7 @@
     <Allegiance Code="AsSc" Base="As">Aslan Hierate, multiple clans split control</Allegiance>
     <Allegiance Code="FlLe">Florian League</Allegiance>
     <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Stylesheet>
     route.Xboat { color: green; }

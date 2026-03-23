@@ -55,6 +55,7 @@ This updated version appears in &lt;cite&gt;The Spinward Extents&lt;/cite&gt;
     <Allegiance Code="KaTr">Kajaani Triumverate</Allegiance>
     <Allegiance Code="JaPa">Jarnac Pashalic</Allegiance>
     <Allegiance Code="CoLg">Corellan League</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.TrDo { color: firebrick; }

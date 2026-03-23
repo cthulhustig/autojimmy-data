@@ -42,6 +42,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="Fd">Full Data Available To Public</Allegiance>
   </Allegiances>
   <Borders>
     <Border ShowLabel="false" Color="Orange" Allegiance="Fd" LabelPosition="1231">0931</Border>

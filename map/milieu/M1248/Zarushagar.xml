@@ -46,6 +46,7 @@
     <Allegiance Code="Nw">New Worlds Alliance</Allegiance>
     <Allegiance Code="Ne">Nalaashii Empire</Allegiance>
     <Allegiance Code="Ga">Gaidraan Coalition</Allegiance>
+    <Allegiance Code="Im">Imperial</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="#EE1C25" Allegiance="Ga" LabelPosition="2632" Label="Gaidraan Coalition">2832 2932 2931 2930 3030 3130 3230 3330 3331 3332 3333 3334 3335 3336 3337 3237 3138 3038 2939 2938 2937 2936 2935 2934 2933 2832</Border>

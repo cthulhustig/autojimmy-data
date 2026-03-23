@@ -49,6 +49,7 @@
     <Allegiance Code="StIm" Base="Im">Strephon's Worlds</Allegiance>
     <Allegiance Code="CoAl">Corsair Alliance</Allegiance>
     <Allegiance Code="ZiSi">Ziru Sirkaa</Allegiance>
+    <Allegiance Code="ImLc">Lancian Cultural Region</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="OliveDrab" Allegiance="CoAl" LabelPosition="2408" Label="Corsair Alliance">2108 2208 2309 2409 2310 2311 2210 2111 2110 2109 2108</Border>

@@ -32,6 +32,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="Ia">Ithklur Aexzz</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="Pink" Allegiance="Ia" LabelPosition="2837">2240 2340 2439 2438 2539 2638 2739 2838 2938 3037 3036 3035 3135 3234 3233 3333 3334 3335 3336 3337 3338 3339 3340 3341 3241 3141 3041 2941 2840 2741 2641 2541 2441 2341 2240</Border>

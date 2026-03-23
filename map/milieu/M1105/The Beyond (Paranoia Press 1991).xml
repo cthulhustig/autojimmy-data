@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Sector Tags="Apocryphal Faraway" Abbreviation="BE91">
+<Sector Tags="Apocryphal Faraway" Abbreviation="BE91" Label="The Beyond">
   <Name>The Beyond (Paranoia Press 1991)</Name>
   <Credits />
   <X>153</X>
@@ -35,6 +35,7 @@
     <Allegiance Code="As">Aslan Hierate</Allegiance>
     <Allegiance Code="SW">Sred Ne Web</Allegiance>
     <Allegiance Code="FL">Floriani League</Allegiance>
+    <Allegiance Code="MA">Duchy of Mapepire</Allegiance>
   </Allegiances>
   <Borders>
     <Border Allegiance="As" LabelPosition="2731">2138 2237 2337 2436 2435 2434 2433 2432 2431 2331 2430 2530 2629 2628 2728 2827 2826 2825 2824 2924 3023 3022 3021 3020 2920 3020 3121 3220 3320 3321 3322 3323 3324 3325 3326 3327 3328 3329 3330 3331 3332 3333 3334 3335 3336 3337 3338 3339 3340 3341 3241 3141 3041 2941 2841 2741 2641 2541 2441 2341 2340 2239 2139 2138</Border>

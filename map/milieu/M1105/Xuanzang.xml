@@ -32,6 +32,7 @@
   <Allegiances>
     <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="So" Base="So">Solomani Confederation</Allegiance>
+    <Allegiance Code="SoXE" Base="So">Solomani Confederation, Xuanzang Enclave</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Blue" Allegiance="SoXE" LabelPosition="0735" Label="Xuanzang Enclave">0536 0636 0737 0636 0537 0536</Border>

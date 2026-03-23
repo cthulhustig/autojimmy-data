@@ -44,6 +44,7 @@
     <Allegiance Code="Rr">Republic of Regina</Allegiance>
     <Allegiance Code="Cs">Client State, Republic of Regina</Allegiance>
     <Allegiance Code="Du">Duchy of Mora</Allegiance>
+    <Allegiance Code="Ll">Holw-Hllo</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.DaCf { color: lightblue; }

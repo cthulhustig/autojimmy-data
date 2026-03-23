@@ -42,6 +42,11 @@
     <Allegiance Code="VAsP" Base="Va">Ascendancy Pact</Allegiance>
     <Allegiance Code="VDeG" Base="Va">Democracy of Greats</Allegiance>
     <Allegiance Code="VOpA" Base="Va">Opposition Alliance</Allegiance>
+    <Allegiance Code="V9">Infinity League</Allegiance>
+    <Allegiance Code="Vd">Democracy of Greats</Allegiance>
+    <Allegiance Code="Vo">Opposition Alliance</Allegiance>
+    <Allegiance Code="Vx">Antares Pact</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="OliveDrab" Allegiance="V9" LabelPosition="1136">0832 0932 1031 1131 1031 1032 1033 1034 1035 1036 1137 1237 1238 1239 1340 1239 1140 1040 0941 0940 0939 0938 0837 0836 0835 0834 0833 0832</Border>

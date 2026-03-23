@@ -33,6 +33,7 @@
     <Allegiance Code="ZhIa" Base="Zh">Zhodani Consulate, Iabrensh Province</Allegiance>
     <Allegiance Code="Dr">Droyne</Allegiance>
     <Allegiance Code="ZhOb" Base="Zh">Zhodani Consulate, Obrefripl Province</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="0339" Color="White" Wrap="false">Zhdant Abyss</Label>

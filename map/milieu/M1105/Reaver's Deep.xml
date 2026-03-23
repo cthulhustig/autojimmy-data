@@ -60,6 +60,7 @@
     <Allegiance Code="CaAs">Carrillian Assembly</Allegiance>
     <Allegiance Code="ImDi" Base="Im">Third Imperium, Domain of Ilelish</Allegiance>
     <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Stylesheet>
     route.UnHa,

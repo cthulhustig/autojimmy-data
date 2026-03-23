@@ -28,6 +28,7 @@
     <Allegiance Code="Dr">Droyne</Allegiance>
     <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
     <Allegiance Code="Zc">Zhodani Client</Allegiance>
+    <Allegiance Code="ZhVQ" Base="Zh">Zhodani Consulate, Vlanchiets Qlom Province</Allegiance>
   </Allegiances>
   <Borders>
     <Border Allegiance="ZhVQ" LabelPosition="1308">1008 1108 1207 1206 1205 1204 1203 1204 1205 1206 1207 1308 1309 1409 1410 1511 1512 1612 1512 1411 1312 1211 1111 1010 1009 1008</Border>

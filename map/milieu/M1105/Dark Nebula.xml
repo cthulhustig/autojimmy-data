@@ -57,6 +57,7 @@
     <Allegiance Code="AsT1" Base="As">Aslan Hierate, Tlaukhu control, Khaukheairl (2), Estoieie' (16), Toaseilwi (22)</Allegiance>
     <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="LightYellow" Allegiance="UnHa" LabelPosition="0804">0500 0600 0700 0701 0801 0802 0803 0804 0805 0705 0605 0604 0603 0503 0502 0501 0500</Border>

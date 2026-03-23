@@ -40,6 +40,8 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="Jp">Julian Protectorate</Allegiance>
+    <Allegiance Code="Vs">Vargr Splinters</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="#F7941D" Allegiance="Jp" LabelPosition="0337">0033 0134 0234 0235 0236 0237 0238 0239 0140 0040 0039 0038 0037 0036 0035 0034 0033</Border>

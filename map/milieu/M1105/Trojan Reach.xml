@@ -70,6 +70,7 @@
     <Allegiance Code="ImDd" Base="Im">Third Imperium, Domain of Deneb</Allegiance>
     <Allegiance Code="SeFo">Senlis Foederate</Allegiance>
     <Allegiance Code="NaDr">Non-Aligned, Droyne-dominated</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Stylesheet>
     route.FlLe { color: LightGreen; }

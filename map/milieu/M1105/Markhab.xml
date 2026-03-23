@@ -28,6 +28,8 @@
     <Allegiance Code="An">Anoro</Allegiance>
     <Allegiance Code="Mf">Markhab Federation</Allegiance>
     <Allegiance Code="In">(Unknown)</Allegiance>
+    <Allegiance Code="Ar">Aranga Kingdom</Allegiance>
+    <Allegiance Code="Tz">(Unknown)</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="0432" Color="White" Wrap="false">*</Label>

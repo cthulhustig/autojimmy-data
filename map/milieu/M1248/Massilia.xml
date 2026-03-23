@@ -43,6 +43,7 @@
   <Allegiances>
     <Allegiance Code="Nw">New Worlds Alliance</Allegiance>
     <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="Ga">Gaidraan Coalition</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="#EE1C25" Allegiance="Ga" LabelPosition="0433">0032 0133 0134 0234 0235 0135 0035 0034 0033 0032</Border>

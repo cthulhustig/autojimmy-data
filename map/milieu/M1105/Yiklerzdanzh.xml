@@ -45,6 +45,7 @@
     <Allegiance Code="AU">Akigura Union</Allegiance>
     <Allegiance Code="Gs">Glenauran Signatorate</Allegiance>
     <Allegiance Code="SC">Salinaikin Concordance</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Stylesheet>
     route.Mi { color: pink; }

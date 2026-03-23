@@ -40,6 +40,8 @@
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
     <Allegiance Code="A4">Aslan Aorlakht, Aorekhohuiha control, Wahtoi clan</Allegiance>
+    <Allegiance Code="Aa">Aslan Aorlakht</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="0709" Color="White" Wrap="false">J-5 Route</Label>

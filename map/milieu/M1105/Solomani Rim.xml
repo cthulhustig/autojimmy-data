@@ -37,6 +37,7 @@
     <Allegiance Code="ImVd" Base="Im">Third Imperium, Vegan Autonomous District</Allegiance>
     <Allegiance Code="SoBF" Base="So">Solomani Confederation, Bootean Federation</Allegiance>
     <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Allegiance="SoCf" LabelPosition="1935">0032 0132 0131 0130 0129 0128 0228 0329 0429 0530 0630 0731 0830 0931 1031 1131 1231 1332 1432 1433 1534 1634 1735 1834 1934 2033 2133 2232 2332 2431 2531 2630 2731 2830 2931 3031 3131 3230 3331 3332 3333 3334 3335 3336 3337 3338 3339 3340 3341 3241 3141 3041 2941 2841 2741 2641 2541 2441 2341 2241 2141 2041 1941 1841 1741 1641 1541 1441 1341 1241 1141 1041 0941 0841 0741 0641 0541 0441 0341 0241 0141 0041 0040 0039 0038 0037 0036 0035 0034 0033 0032</Border>

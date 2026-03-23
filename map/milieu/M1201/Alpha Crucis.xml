@@ -46,6 +46,8 @@
     <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Be">Beltan Empire</Allegiance>
     <Allegiance Code="Al">Protectorate of Alba</Allegiance>
+    <Allegiance Code="Ao">Reformation Coalition Area of Operation</Allegiance>
+    <Allegiance Code="Cf">Colfax Freehold</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Al { color: lightgreen; }

@@ -50,6 +50,7 @@
     <Allegiance Code="Dr">Droyne World</Allegiance>
     <Allegiance Code="Vp">Kedzudh Aeng</Allegiance>
     <Allegiance Code="Ve">Thoengling Raghz</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Vh, border.Vl, border.Vm, border.Vn, border.Vp, border.Vq,

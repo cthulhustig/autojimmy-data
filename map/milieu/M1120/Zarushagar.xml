@@ -42,6 +42,9 @@
     <Allegiance Code="Lu">Lucan's Imperium</Allegiance>
     <Allegiance Code="Di">Federation of Daibei</Allegiance>
     <Allegiance Code="Oa">Duchy of Oasis</Allegiance>
+    <Allegiance Code="FdDa" Base="Im">Federation of Daibei</Allegiance>
+    <Allegiance Code="FdIl" Base="Im">Federation of Ilelish</Allegiance>
+    <Allegiance Code="LuIm" Base="Im">Lucan's Imperium</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Blue" Allegiance="FdDa" LabelPosition="2040">1739 1839 1940 2040 2140 2239 2339 2239 2140 2141 2041 1941 1841 1741 1740 1739</Border>

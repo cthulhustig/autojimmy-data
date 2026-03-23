@@ -61,6 +61,7 @@
     <Allegiance Code="Cs">Client state, Third Imperium</Allegiance>
     <Allegiance Code="Re">Regency</Allegiance>
     <Allegiance Code="Dr">Droyne</Allegiance>
+    <Allegiance Code="Rf">Regency Frontier</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Re { color: lightblue; }

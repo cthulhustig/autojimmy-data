@@ -48,6 +48,7 @@
     <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
     <Allegiance Code="VCKd" Base="Va">Commonality of Kedzudh</Allegiance>
     <Allegiance Code="VUru" Base="Va">Urukhu</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.V40S,

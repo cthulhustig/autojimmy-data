@@ -36,6 +36,7 @@
     <Allegiance Code="Ca">Principality of Caledon</Allegiance>
     <Allegiance Code="MC">Mahler Combine</Allegiance>
     <Allegiance Code="GC">Grennan Combine</Allegiance>
+    <Allegiance Code="SA">Saiph Alliance</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Ae { color: blue }

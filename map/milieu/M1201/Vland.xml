@@ -38,6 +38,7 @@
     <Allegiance Code="??">Unknown</Allegiance>
     <Allegiance Code="Zs">Ziru Sirkaa</Allegiance>
     <Allegiance Code="Wi">Wilds</Allegiance>
+    <Allegiance Code="Zu" Base="Zu">Zuugabish Tripartite</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Zu { color: lightblue; }

@@ -39,6 +39,7 @@
     <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Dr">Droyne</Allegiance>
     <Allegiance Code="Su">Covenant of Sufren</Allegiance>
+    <Allegiance Code="Ao">Reformation Coalition Area of Operation</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Su { color: lightblue; }

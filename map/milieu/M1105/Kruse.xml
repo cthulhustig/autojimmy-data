@@ -36,6 +36,7 @@
     <Allegiance Code="Sv">The Sovereignty</Allegiance>
     <Allegiance Code="RM">Rule of Man</Allegiance>
     <Allegiance Code="Ir">Interstellar Republic</Allegiance>
+    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="Orange" Allegiance="Ec" LabelPosition="0619" Label="Eberhardt Corporate Republic">0417 0517 0516 0615 0616 0717 0817 0718 0618 0518 0417</Border>

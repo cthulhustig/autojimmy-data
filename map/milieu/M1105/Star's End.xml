@@ -36,6 +36,7 @@
     <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="CsTw">Client state, Two Thousand Worlds</Allegiance>
+    <Allegiance Code="JuPr" Base="Jp">Julian Protectorate</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.CsTw { color: yellowgreen; }

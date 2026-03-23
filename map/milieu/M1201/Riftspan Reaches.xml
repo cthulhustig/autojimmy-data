@@ -40,6 +40,7 @@
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
     <Allegiance Code="A4" Base="As">Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Yellow" Allegiance="As" LabelPosition="0604">0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1201 1202 1103 1003 0904 0905 0805 0706 0606 0507 0407 0308 0208 0109 0008 0007 0006 0005 0004 0003 0002 0001 0000</Border>

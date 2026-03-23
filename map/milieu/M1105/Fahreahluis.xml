@@ -43,6 +43,7 @@
     <Allegiance Code="AsT7" Base="As">Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerlearlyo (20), Yetahikh (24)</Allegiance>
     <Allegiance Code="AsT2" Base="As">Aslan Hierate, Tlaukhu control, Syoisuis (3)</Allegiance>
     <Allegiance Code="AsT6" Base="As">Aslan Hierate, Tlaukhu control, Uiktawa (7), Iykyasea (17), Faowaou (27)</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Borders>
     <Border Allegiance="As" LabelPosition="0411">0006 0106 0105 0205 0305 0306 0307 0407 0408 0409 0410 0311 0211 0112 0113 0114 0115 0215 0316 0216 0217 0218 0219 0120 0121 0020 0019 0018 0017 0016 0015 0014 0013 0012 0011 0010 0009 0008 0007 0006</Border>

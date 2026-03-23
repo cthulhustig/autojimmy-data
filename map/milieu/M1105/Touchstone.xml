@@ -47,6 +47,7 @@
     <Allegiance Code="AsT2" Base="As">Aslan Hierate, Tlaukhu control, Syoisuis (3)</Allegiance>
     <Allegiance Code="AsXX" Base="As">Aslan Hierate, unknown</Allegiance>
     <Allegiance Code="AsT0" Base="As">Aslan Hierate, Tlaukhu control, Yerlyaruiwo (1), Hrawoao (13), Eisohiyw (14), Ferekhearl (19)</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="1911" Color="#FFCC00" Wrap="false">Aosola Gulf</Label>

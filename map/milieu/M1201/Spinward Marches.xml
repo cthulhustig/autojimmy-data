@@ -41,6 +41,10 @@
     <Allegiance Code="Fa">Federation of Alsas</Allegiance>
     <Allegiance Code="Sw">Sword Worlds Confederation</Allegiance>
     <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="DaCf">Darrian Confederation</Allegiance>
+    <Allegiance Code="ZhIN" Base="Zh">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
+    <Allegiance Code="SwCf">Sword Worlds Confederation</Allegiance>
+    <Allegiance Code="Fd">Federation of Arden</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Re { color: lightblue; }

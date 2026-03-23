@@ -25,6 +25,9 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="Ia">Ithklur Aexzz</Allegiance>
+    <Allegiance Code="HvFd" Base="Hv">Hive Federation</Allegiance>
+    <Allegiance Code="Bz">Hive Federation Buffer Zone</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="Pink" Allegiance="Ia" LabelPosition="2802">2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3301 3201 3102 3103 3102 3001 2901 2800 2701 2601 2602 2603 2504 2403 2402 2302 2301 2200</Border>

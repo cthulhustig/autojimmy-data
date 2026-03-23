@@ -32,6 +32,8 @@
   <Allegiances>
     <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="So" Base="So">Solomani Confederation</Allegiance>
+    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
+    <Allegiance Code="SoLE" Base="So">Solomani Confederation, Lubbock Enclave</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Allegiance="SoCf" LabelPosition="3010">3211</Border>

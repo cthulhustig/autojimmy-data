@@ -39,6 +39,7 @@
     <Allegiance Code="Me">Megusard Corporate</Allegiance>
     <Allegiance Code="Tc">Tellerian Cluster</Allegiance>
     <Allegiance Code="Vc">Virus Controlled</Allegiance>
+    <Allegiance Code="Ao">Reformation Coalition Area of Operation</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Tr { color: lightgreen; }

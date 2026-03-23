@@ -40,6 +40,7 @@
     <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
     <Allegiance Code="JuHl" Base="Jp">Julian Protectorate, Hegemony of Lorean</Allegiance>
+    <Allegiance Code="JuPr" Base="Jp">Julian Protectorate</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Allegiance="ImDa" LabelPosition="2232" Label="Third Imperium">0028 0128 0127 0227 0327 0426 0527 0627 0728 0828 0929 1029 1129 1228 1328 1327 1326 1426 1527 1626 1726 1826 1927 2027 2128 2227 2328 2428 2429 2430 2431 2432 2433 2434 2435 2536 2436 2337 2237 2138 2038 2039 1940 1840 1741 1641 1541 1441 1341 1241 1141 1041 0941 0841 0741 0641 0541 0441 0341 0241 0141 0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028</Border>

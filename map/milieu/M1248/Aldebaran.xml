@@ -39,6 +39,8 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="Si">Solomani Imperium</Allegiance>
+    <Allegiance Code="Te">Terran Confederatiom</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="#F79779" Allegiance="Si" LabelPosition="2612">1708 1808 1909 2009 2109 2208 2309 2408 2508 2608 2709 2808 2908 3007 3107 3206 3306 3307 3308 3309 3310 3311 3312 3313 3314 3213 3113 3012 2913 2812 2713 2613 2514 2414 2315 2214 2114 2013 2012 2011 1911 1810 1710 1709 1708</Border>

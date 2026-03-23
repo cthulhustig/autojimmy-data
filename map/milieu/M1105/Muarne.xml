@@ -28,6 +28,7 @@
     <Allegiance Code="Iu">Ickoul Union</Allegiance>
     <Allegiance Code="Hi">Hillayag Federation</Allegiance>
     <Allegiance Code="Su">Sayd Trade Union</Allegiance>
+    <Allegiance Code="Ki">Kitram Ascendancy</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="OliveDrab" Allegiance="Ki" LabelPosition="2607">2407 2507 2506 2606 2706 2705 2706 2707 2607 2508 2407</Border>

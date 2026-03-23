@@ -40,6 +40,8 @@
     <Allegiance Code="Vd">Society of Equals</Allegiance>
     <Allegiance Code="Vt">Thoengling Empire</Allegiance>
     <Allegiance Code="Vk">Commonality of Kedzudh</Allegiance>
+    <Allegiance Code="Cr">Cronor Consulate</Allegiance>
+    <Allegiance Code="Vs">Vargr Splinters</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Vd,

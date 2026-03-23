@@ -41,6 +41,7 @@
     <Allegiance Code="So">Solee Empire</Allegiance>
     <Allegiance Code="Tv">Voskl Trade Alliance</Allegiance>
     <Allegiance Code="Sc">Sitah Hiver Client State</Allegiance>
+    <Allegiance Code="Ao">Reformation Coalition Area of Operation</Allegiance>
   </Allegiances>
   <Stylesheet>
       border.Rc { color: lightblue; }

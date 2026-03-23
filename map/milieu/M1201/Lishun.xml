@@ -38,6 +38,7 @@
     <Allegiance Code="??">Unknown</Allegiance>
     <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Ca">Conderation of Antares</Allegiance>
+    <Allegiance Code="Bi">Black Imperium Holocaust Zone</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Ca { color: lightblue; }

@@ -51,6 +51,7 @@
     <Allegiance Code="NaAs">Non-Aligned, Aslan-dominated</Allegiance>
     <Allegiance Code="AsT1">Aslan Hierate, Tlaukhu control, Khaukheairl (2), Estoieie' (16), Toaseilwi (22)</Allegiance>
     <Allegiance Code="AsT5">Aslan Hierate, Tlaukhu control, Hlyueawi (6), Isoitiyro (15)</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="0709" Color="White" Wrap="false">J-5 Route</Label>

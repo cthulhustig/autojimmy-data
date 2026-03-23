@@ -42,6 +42,7 @@
     <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
     <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Fl">Florian League</Allegiance>
+    <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Borders>
     <Border Allegiance="As" LabelPosition="2540">2039 2139 2138 2137 2237 2337 2436 2536 2635 2735 2834 2934 3033 3032 3031 3030 3029 2929 3028 3128 3227 3226 3225 3224 3223 3123 3222 3322 3323 3324 3325 3326 3327 3328 3329 3330 3331 3332 3333 3334 3335 3336 3337 3338 3339 3340 3341 3241 3141 3041 2941 2841 2741 2641 2541 2441 2341 2241 2141 2040 2039</Border>

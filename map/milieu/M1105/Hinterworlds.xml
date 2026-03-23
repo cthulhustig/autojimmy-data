@@ -46,6 +46,7 @@
     <Allegiance Code="CyUn">Cytralin Unity</Allegiance>
     <Allegiance Code="GnCl">Gniivi Collective</Allegiance>
     <Allegiance Code="CoLp">Council of Leh Perash</Allegiance>
+    <Allegiance Code="ImDs" Base="Im">Third Imperium, Domain of Sol</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.RaRa { color: purple; }

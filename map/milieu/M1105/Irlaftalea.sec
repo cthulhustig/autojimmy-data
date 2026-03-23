@@ -29,461 +29,468 @@
 # Subsector O: Eihlaorlaos
 # Subsector P: Treyakhel
 
-# Alleg: A1: "Aslan Hierate, Tlaukhu control, Khaukheairl (2), Estoieie' (16), Toaseilwi (22)"
-# Alleg: A2: "Aslan Hierate, Tlaukhu control, Syoisuis (3)"
-# Alleg: A3: "Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)"
-# Alleg: A4: "Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)"
-# Alleg: A6: "Aslan Hierate, Tlaukhu control, Uiktawa (7), Iykyasea (17), Faowaou (27)"
-# Alleg: A7: "Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerlearlyo (20), Yetahikh (24)"
-# Alleg: A8: "Aslan Hierate, Tlaukhu control, Seieakh (9), Akatoiloh (18), We'okurir (29)"
-# Alleg: A9: "Aslan Hierate, Tlaukhu control, Aokhalte (10), Sahao' (21), Ouokhoi (26)"
-# Alleg: As: "Aslan Hierate"
+# Alleg: AsMw: "Aslan Hierate, single multiple-world clan dominates"
+# Alleg: AsSc: "Aslan Hierate, multiple clans split control"
+# Alleg: AsT1: "Aslan Hierate, Tlaukhu control, Khaukheairl (2), Estoieie' (16), Toaseilwi (22)"
+# Alleg: AsT2: "Aslan Hierate, Tlaukhu control, Syoisuis (3)"
+# Alleg: AsT3: "Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)"
+# Alleg: AsT4: "Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)"
+# Alleg: AsT6: "Aslan Hierate, Tlaukhu control, Uiktawa (7), Iykyasea (17), Faowaou (27)"
+# Alleg: AsT7: "Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerlearlyo (20), Yetahikh (24)"
+# Alleg: AsT8: "Aslan Hierate, Tlaukhu control, Seieakh (9), Akatoiloh (18), We'okurir (29)"
+# Alleg: AsT9: "Aslan Hierate, Tlaukhu control, Aokhalte (10), Sahao' (21), Ouokhoi (26)"
+# Alleg: AsTv: "Aslan Hierate, Tlaukhu vassal clan dominates"
+# Alleg: AsVc: "Aslan Hierate, vassal clan dominates"
+# Alleg: AsWc: "Aslan Hierate, single one-world clan dominates"
+# Alleg: AsXX: "Aslan Hierate, unknown"
 # Alleg: Na: "Non-Aligned, Human-dominated"
+# Alleg: NaAs: "Non-Aligned, Aslan-dominated"
+# Alleg: NaHu: "Non-Aligned, Human-dominated"
+# Alleg: NaXX: "Non-Aligned, unclaimed"
 # Alleg: Se: "Steaak'heafera"
 
-Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PBG W A  Stellar
----- -------------------- --------- -------------------- ---- ---- ---- - - - --- - -- -------
-0101                      XXXXXXX-X                                     - - - XXX   Na        
-0103                      XXXXXXX-X                                     - - - XXX   Na        
-0206                      XXXXXXX-X                                     - - - XXX   Na        
-0207                      XXXXXXX-X                                     - - - XXX   Na        
-0210                      XXXXXXX-X                                     - - - XXX   Na        
-0308                      XXXXXXX-X                                     - - - XXX   Na        
-0309                      XXXXXXX-X                                     - - - XXX   Na        
-0310                      XXXXXXX-X                                     - - - XXX   Na        
-0406                      XXXXXXX-X                                     - - - XXX   Na        
-0407                      XXXXXXX-X                                     - - - XXX   Na        
-0409                      XXXXXXX-X                                     - - - XXX   Na        
-0503                      XXXXXXX-X                                     - - - XXX   Na        
-0507                      XXXXXXX-X                                     - - - XXX   Na        
-0601                      XXXXXXX-X                                     - - - XXX   Na        
-0609                      XXXXXXX-X                                     - - - XXX   Na        
-0610                      XXXXXXX-X                                     - - - XXX   Na        
-0706                      XXXXXXX-X                                     - - - XXX   Na        
-0801                      XXXXXXX-X                                     - - - XXX   Na        
-0807                      XXXXXXX-X                                     - - - XXX   Na        
-0810                      XXXXXXX-X                                     - - - XXX   Na        
-0906                      XXXXXXX-X                                     - - - XXX   Na        
-1002                      XXXXXXX-X                                     - - - XXX   Na        
-1004                      XXXXXXX-X                                     - - - XXX   Na        
-1005                      XXXXXXX-X                                     - - - XXX   Na        
-1007                      XXXXXXX-X                                     - - - XXX   Na        
-1008                      XXXXXXX-X                                     - - - XXX   As        
-1009                      XXXXXXX-X                                     - - - XXX   As        
-1105                      XXXXXXX-X                                     - - - XXX   Na        
-1106                      XXXXXXX-X                                     - - - XXX   Na        
-1107                      XXXXXXX-X                                     - - - XXX   Na        
-1201                      XXXXXXX-X                                     - - - XXX   Na        
-1203                      XXXXXXX-X                                     - - - XXX   Na        
-1205                      XXXXXXX-X                                     - - - XXX   Na        
-1206                      XXXXXXX-X                                     - - - XXX   Na        
-1208                      XXXXXXX-X                                     - - - XXX   As        
-1209                      XXXXXXX-X                                     - - - XXX   As        
-1301                      XXXXXXX-X                                     - - - XXX   Na        
-1303                      XXXXXXX-X                                     - - - XXX   Na        
-1306                      XXXXXXX-X                                     - - - XXX   Na        
-1310                      XXXXXXX-X                                     - - - XXX   A8        
-1402                      XXXXXXX-X                                     - - - XXX   Na        
-1403                      XXXXXXX-X                                     - - - XXX   Na        
-1404                      XXXXXXX-X                                     - - - XXX   Na        
-1409                      XXXXXXX-X                                     - - - XXX   As        
-1501                      XXXXXXX-X                                     - - - XXX   Na        
-1505                      XXXXXXX-X                                     - - - XXX   Na        
-1506                      XXXXXXX-X                                     - - - XXX   Na        
-1508                      XXXXXXX-X                                     - - - XXX   Na        
-1509                      XXXXXXX-X                                     - - - XXX   Na        
-1602                      XXXXXXX-X                                     - - - XXX   Na        
-1603                      XXXXXXX-X                                     - - - XXX   Na        
-1604                      XXXXXXX-X                                     - - - XXX   Na        
-1606                      XXXXXXX-X                                     - - - XXX   Na        
-1704                      XXXXXXX-X                                     - - - XXX   Na        
-1707                      XXXXXXX-X                                     - - - XXX   Na        
-1708                      XXXXXXX-X                                     - - - XXX   Na        
-1802                      XXXXXXX-X                                     - - - XXX   Na        
-1806                      XXXXXXX-X                                     - - - XXX   Na        
-1905                      XXXXXXX-X                                     - - - XXX   Na        
-1906                      XXXXXXX-X                                     - - - XXX   Na        
-1907                      XXXXXXX-X                                     - - - XXX   Na        
-2003                      XXXXXXX-X                                     - - - XXX   Na        
-2005                      XXXXXXX-X                                     - - - XXX   Na        
-2006                      XXXXXXX-X                                     - - - XXX   Na        
-2102                      XXXXXXX-X                                     - - - XXX   Na        
-2108                      XXXXXXX-X                                     - - - XXX   Na        
-2109                      XXXXXXX-X                                     - - - XXX   Na        
-2110                      XXXXXXX-X                                     - - - XXX   Na        
-2201                      XXXXXXX-X                                     - - - XXX   Na        
-2208                      XXXXXXX-X                                     - - - XXX   As        
-2209                      XXXXXXX-X                                     - - - XXX   As        
-2210                      XXXXXXX-X                                     - - - XXX   As        
-2303                      XXXXXXX-X                                     - - - XXX   Na        
-2304                      XXXXXXX-X                                     - - - XXX   Na        
-2305                      XXXXXXX-X                                     - - - XXX   Na        
-2306                      XXXXXXX-X                                     - - - XXX   As        
-2307                      XXXXXXX-X                                     - - - XXX   As        
-2308                      XXXXXXX-X                                     - - - XXX   As        
-2310                      XXXXXXX-X                                     - - - XXX   As        
-2401                      XXXXXXX-X                                     - - - XXX   Na        
-2403                      XXXXXXX-X                                     - - - XXX   Na        
-2404                      XXXXXXX-X                                     - - - XXX   Na        
-2407                      XXXXXXX-X                                     - - - XXX   As        
-2410                      XXXXXXX-X                                     - - - XXX   As        
-2502                      XXXXXXX-X                                     - - - XXX   Na        
-2503                      XXXXXXX-X                                     - - - XXX   Na        
-2505                      XXXXXXX-X                                     - - - XXX   As        
-2507                      XXXXXXX-X                                     - - - XXX   As        
-2509                      XXXXXXX-X                                     - - - XXX   As        
-2510                      XXXXXXX-X                                     - - - XXX   As        
-2603                      XXXXXXX-X                                     - - - XXX   As        
-2607                      XXXXXXX-X                                     - - - XXX   As        
-2608                      XXXXXXX-X                                     - - - XXX   As        
-2609                      XXXXXXX-X                                     - - - XXX   As        
-2610                      XXXXXXX-X                                     - - - XXX   As        
-2701                      XXXXXXX-X                                     - - - XXX   Na        
-2704                      XXXXXXX-X                                     - - - XXX   As        
-2708                      XXXXXXX-X                                     - - - XXX   A6        
-2710                      XXXXXXX-X                                     - - - XXX   As        
-2801                      XXXXXXX-X                                     - - - XXX   Na        
-2802                      XXXXXXX-X                                     - - - XXX   Na        
-2806                      XXXXXXX-X                                     - - - XXX   As        
-2807                      XXXXXXX-X                                     - - - XXX   As        
-2808                      XXXXXXX-X                                     - - - XXX   As        
-2809                      XXXXXXX-X                                     - - - XXX   As        
-2902                      XXXXXXX-X                                     - - - XXX   Na        
-2906                      XXXXXXX-X                                     - - - XXX   As        
-3004                      XXXXXXX-X                                     - - - XXX   As        
-3005                      XXXXXXX-X                                     - - - XXX   As        
-3006                      XXXXXXX-X                                     - - - XXX   As        
-3103                      XXXXXXX-X                                     - - - XXX   Na        
-3105                      XXXXXXX-X                                     - - - XXX   As        
-3109                      XXXXXXX-X                                     - - - XXX   Na        
-3110                      XXXXXXX-X                                     - - - XXX   Na        
-3202                      XXXXXXX-X                                     - - - XXX   Na        
-3205                      XXXXXXX-X                                     - - - XXX   Na        
-3208                      XXXXXXX-X                                     - - - XXX   Na        
-0112                      XXXXXXX-X                                     - - - XXX   Na        
-0113                      XXXXXXX-X                                     - - - XXX   Na        
-0116                      XXXXXXX-X                                     - - - XXX   Na        
-0117                      XXXXXXX-X                                     - - - XXX   Na        
-0213                      XXXXXXX-X                                     - - - XXX   Na        
-0214                      XXXXXXX-X                                     - - - XXX   Na        
-0216                      XXXXXXX-X                                     - - - XXX   Na        
-0217                      XXXXXXX-X                                     - - - XXX   Na        
-0219                      XXXXXXX-X                                     - - - XXX   Na        
-0314                      XXXXXXX-X                                     - - - XXX   Na        
-0317                      XXXXXXX-X                                     - - - XXX   Na        
-0318                      XXXXXXX-X                                     - - - XXX   Na        
-0412                      XXXXXXX-X                                     - - - XXX   Na        
-0413                      XXXXXXX-X                                     - - - XXX   Na        
-0414                      XXXXXXX-X                                     - - - XXX   As        
-0416                      XXXXXXX-X                                     - - - XXX   As        
-0418                      XXXXXXX-X                                     - - - XXX   A9        
-0512                      XXXXXXX-X                                     - - - XXX   Na        
-0514                      XXXXXXX-X                                     - - - XXX   As        
-0515                      XXXXXXX-X                                     - - - XXX   A1        
-0517                      XXXXXXX-X                                     - - - XXX   As        
-0519                      XXXXXXX-X                                     - - - XXX   As        
-0612                      XXXXXXX-X                                     - - - XXX   Na        
-0617                      XXXXXXX-X                                     - - - XXX   As        
-0618                      XXXXXXX-X                                     - - - XXX   As        
-0620                      XXXXXXX-X                                     - - - XXX   Na        
-0713                      XXXXXXX-X                                     - - - XXX   As        
-0714                      XXXXXXX-X                                     - - - XXX   As        
-0718                      XXXXXXX-X                                     - - - XXX   As        
-0812                      XXXXXXX-X                                     - - - XXX   As        
-0814                      XXXXXXX-X                                     - - - XXX   As        
-0911                      XXXXXXX-X                                     - - - XXX   As        
-0914                      XXXXXXX-X                                     - - - XXX   A9        
-0918                      XXXXXXX-X                                     - - - XXX   As        
-1012                      XXXXXXX-X                                     - - - XXX   A3        
-1014                      XXXXXXX-X                                     - - - XXX   As        
-1115                      XXXXXXX-X                                     - - - XXX   A8        
-1117                      XXXXXXX-X                                     - - - XXX   As        
-1213                      XXXXXXX-X                                     - - - XXX   As        
-1217                      XXXXXXX-X                                     - - - XXX   As        
-1218                      XXXXXXX-X                                     - - - XXX   As        
-1219                      XXXXXXX-X                                     - - - XXX   As        
-1312                      XXXXXXX-X                                     - - - XXX   As        
-1315                      XXXXXXX-X                                     - - - XXX   Na        
-1316                      XXXXXXX-X                                     - - - XXX   Na        
-1411                      XXXXXXX-X                                     - - - XXX   As        
-1511                      XXXXXXX-X                                     - - - XXX   As        
-1512                      XXXXXXX-X                                     - - - XXX   As        
-1513                      XXXXXXX-X                                     - - - XXX   Na        
-1515                      XXXXXXX-X                                     - - - XXX   Na        
-1517                      XXXXXXX-X                                     - - - XXX   As        
-1518                      XXXXXXX-X                                     - - - XXX   A9        
-1612                      XXXXXXX-X                                     - - - XXX   Na        
-1614                      XXXXXXX-X                                     - - - XXX   Na        
-1616                      XXXXXXX-X                                     - - - XXX   As        
-1617                      XXXXXXX-X                                     - - - XXX   As        
-1619                      XXXXXXX-X                                     - - - XXX   As        
-1711                      XXXXXXX-X                                     - - - XXX   Na        
-1718                      XXXXXXX-X                                     - - - XXX   As        
-1811                      XXXXXXX-X                                     - - - XXX   Na        
-1817                      XXXXXXX-X                                     - - - XXX   As        
-1818                      XXXXXXX-X                                     - - - XXX   As        
-1820                      XXXXXXX-X                                     - - - XXX   As        
-1912                      XXXXXXX-X                                     - - - XXX   Na        
-1914                      XXXXXXX-X                                     - - - XXX   As        
-1916                      XXXXXXX-X                                     - - - XXX   As        
-1918                      XXXXXXX-X                                     - - - XXX   As        
-1919                      XXXXXXX-X                                     - - - XXX   As        
-1920                      XXXXXXX-X                                     - - - XXX   A4        
-2011                      XXXXXXX-X                                     - - - XXX   Na        
-2017                      XXXXXXX-X                                     - - - XXX   As        
-2112                      XXXXXXX-X                                     - - - XXX   As        
-2113                      XXXXXXX-X                                     - - - XXX   As        
-2116                      XXXXXXX-X                                     - - - XXX   As        
-2117                      XXXXXXX-X                                     - - - XXX   As        
-2118                      XXXXXXX-X                                     - - - XXX   A7        
-2119                      XXXXXXX-X                                     - - - XXX   As        
-2120                      XXXXXXX-X                                     - - - XXX   As        
-2211                      XXXXXXX-X                                     - - - XXX   As        
-2220                      XXXXXXX-X                                     - - - XXX   As        
-2312                      XXXXXXX-X                                     - - - XXX   As        
-2313                      XXXXXXX-X                                     - - - XXX   As        
-2414                      XXXXXXX-X                                     - - - XXX   As        
-2517                      XXXXXXX-X                                     - - - XXX   As        
-2612                      XXXXXXX-X                                     - - - XXX   As        
-2613                      XXXXXXX-X                                     - - - XXX   A2        
-2619                      XXXXXXX-X                                     - - - XXX   As        
-2620                      XXXXXXX-X                                     - - - XXX   As        
-2711                      XXXXXXX-X                                     - - - XXX   As        
-2720                      XXXXXXX-X                                     - - - XXX   A9        
-2812                      XXXXXXX-X                                     - - - XXX   As        
-2813                      XXXXXXX-X                                     - - - XXX   A6        
-2816                      XXXXXXX-X                                     - - - XXX   As        
-2820                      XXXXXXX-X                                     - - - XXX   As        
-2911                      XXXXXXX-X                                     - - - XXX   As        
-2916                      XXXXXXX-X                                     - - - XXX   As        
-2918                      XXXXXXX-X                                     - - - XXX   As        
-2919                      XXXXXXX-X                                     - - - XXX   As        
-3020                      XXXXXXX-X                                     - - - XXX   Na        
-3111                      XXXXXXX-X                                     - - - XXX   As        
-3112                      XXXXXXX-X                                     - - - XXX   As        
-3113                      XXXXXXX-X                                     - - - XXX   As        
-3117                      XXXXXXX-X                                     - - - XXX   Na        
-3212                      XXXXXXX-X                                     - - - XXX   As        
-3214                      XXXXXXX-X                                     - - - XXX   As        
-3220                      XXXXXXX-X                                     - - - XXX   As        
-0127                      XXXXXXX-X                                     - - - XXX   Se        
-0129                      XXXXXXX-X                                     - - - XXX   Se        
-0130                      XXXXXXX-X                                     - - - XXX   Se        
-0222                      XXXXXXX-X                                     - - - XXX   Na        
-0225                      XXXXXXX-X                                     - - - XXX   Se        
-0227                      XXXXXXX-X                                     - - - XXX   Se        
-0230                      XXXXXXX-X                                     - - - XXX   Se        
-0322                      XXXXXXX-X                                     - - - XXX   Na        
-0326                      XXXXXXX-X                                     - - - XXX   Se        
-0328                      XXXXXXX-X                                     - - - XXX   Se        
-0423                      XXXXXXX-X                                     - - - XXX   Na        
-0521                      XXXXXXX-X                                     - - - XXX   Na        
-0523                      XXXXXXX-X                                     - - - XXX   Na        
-0525                      XXXXXXX-X                                     - - - XXX   Se        
-0530                      XXXXXXX-X                                     - - - XXX   Se        
-0621                      XXXXXXX-X                                     - - - XXX   Na        
-0622                      XXXXXXX-X                                     - - - XXX   Na        
-0625                      XXXXXXX-X                                     - - - XXX   Se        
-0626                      XXXXXXX-X                                     - - - XXX   Se        
-0629                      XXXXXXX-X                                     - - - XXX   Se        
-0724                      XXXXXXX-X                                     - - - XXX   Se        
-0725                      XXXXXXX-X                                     - - - XXX   Se        
-0727                      XXXXXXX-X                                     - - - XXX   Se        
-0730                      XXXXXXX-X                                     - - - XXX   Se        
-0824                      XXXXXXX-X                                     - - - XXX   Se        
-0828                      XXXXXXX-X                                     - - - XXX   Se        
-0830                      XXXXXXX-X                                     - - - XXX   Se        
-0929                      XXXXXXX-X                                     - - - XXX   Se        
-1022                      XXXXXXX-X                                     - - - XXX   Na        
-1023                      XXXXXXX-X                                     - - - XXX   Na        
-1024                      XXXXXXX-X                                     - - - XXX   Na        
-1030                      XXXXXXX-X                                     - - - XXX   Na        
-1122                      XXXXXXX-X                                     - - - XXX   Na        
-1123                      XXXXXXX-X                                     - - - XXX   Na        
-1125                      XXXXXXX-X                                     - - - XXX   Na        
-1130                      XXXXXXX-X                                     - - - XXX   Na        
-1223                      XXXXXXX-X                                     - - - XXX   Na        
-1225                      XXXXXXX-X                                     - - - XXX   Na        
-1230                      XXXXXXX-X                                     - - - XXX   Na        
-1321                      XXXXXXX-X                                     - - - XXX   Na        
-1322                      XXXXXXX-X                                     - - - XXX   Na        
-1326                      XXXXXXX-X                                     - - - XXX   Na        
-1424                      XXXXXXX-X                                     - - - XXX   Na        
-1426                      XXXXXXX-X                                     - - - XXX   Na        
-1428                      XXXXXXX-X                                     - - - XXX   Na        
-1522                      XXXXXXX-X                                     - - - XXX   As        
-1523                      XXXXXXX-X                                     - - - XXX   As        
-1527                      XXXXXXX-X                                     - - - XXX   Na        
-1621                      XXXXXXX-X                                     - - - XXX   As        
-1622                      XXXXXXX-X                                     - - - XXX   As        
-1624                      XXXXXXX-X                                     - - - XXX   As        
-1726                      XXXXXXX-X                                     - - - XXX   As        
-1728                      XXXXXXX-X                                     - - - XXX   As        
-1924                      XXXXXXX-X                                     - - - XXX   As        
-1927                      XXXXXXX-X                                     - - - XXX   As        
-1928                      XXXXXXX-X                                     - - - XXX   As        
-1929                      XXXXXXX-X                                     - - - XXX   As        
-2021                      XXXXXXX-X                                     - - - XXX   As        
-2022                      XXXXXXX-X                                     - - - XXX   As        
-2025                      XXXXXXX-X                                     - - - XXX   As        
-2121                      XXXXXXX-X                                     - - - XXX   As        
-2127                      XXXXXXX-X                                     - - - XXX   A4        
-2130                      XXXXXXX-X                                     - - - XXX   Na        
-2221                      XXXXXXX-X                                     - - - XXX   A4        
-2222                      XXXXXXX-X                                     - - - XXX   As        
-2223                      XXXXXXX-X                                     - - - XXX   As        
-2224                      XXXXXXX-X                                     - - - XXX   As        
-2225                      XXXXXXX-X                                     - - - XXX   As        
-2226                      XXXXXXX-X                                     - - - XXX   As        
-2228                      XXXXXXX-X                                     - - - XXX   As        
-2230                      XXXXXXX-X                                     - - - XXX   Na        
-2323                      XXXXXXX-X                                     - - - XXX   As        
-2324                      XXXXXXX-X                                     - - - XXX   As        
-2326                      XXXXXXX-X                                     - - - XXX   As        
-2327                      XXXXXXX-X                                     - - - XXX   As        
-2330                      XXXXXXX-X                                     - - - XXX   Na        
-2421                      XXXXXXX-X                                     - - - XXX   As        
-2422                      XXXXXXX-X                                     - - - XXX   As        
-2423                      XXXXXXX-X                                     - - - XXX   A2        
-2426                      XXXXXXX-X                                     - - - XXX   Na        
-2427                      XXXXXXX-X                                     - - - XXX   Na        
-2429                      XXXXXXX-X                                     - - - XXX   Na        
-2521                      XXXXXXX-X                                     - - - XXX   As        
-2525                      XXXXXXX-X                                     - - - XXX   Na        
-2527                      XXXXXXX-X                                     - - - XXX   As        
-2529                      XXXXXXX-X                                     - - - XXX   As        
-2625                      XXXXXXX-X                                     - - - XXX   Na        
-2626                      XXXXXXX-X                                     - - - XXX   As        
-2629                      XXXXXXX-X                                     - - - XXX   As        
-2721                      XXXXXXX-X                                     - - - XXX   As        
-2723                      XXXXXXX-X                                     - - - XXX   Na        
-2724                      XXXXXXX-X                                     - - - XXX   Na        
-2726                      XXXXXXX-X                                     - - - XXX   As        
-2730                      XXXXXXX-X                                     - - - XXX   As        
-2821                      XXXXXXX-X                                     - - - XXX   As        
-2827                      XXXXXXX-X                                     - - - XXX   As        
-2922                      XXXXXXX-X                                     - - - XXX   Na        
-2924                      XXXXXXX-X                                     - - - XXX   As        
-2926                      XXXXXXX-X                                     - - - XXX   A6        
-2928                      XXXXXXX-X                                     - - - XXX   As        
-2929                      XXXXXXX-X                                     - - - XXX   As        
-3023                      XXXXXXX-X                                     - - - XXX   As        
-3025                      XXXXXXX-X                                     - - - XXX   As        
-3027                      XXXXXXX-X                                     - - - XXX   As        
-3028                      XXXXXXX-X                                     - - - XXX   As        
-3029                      XXXXXXX-X                                     - - - XXX   A3        
-3123                      XXXXXXX-X                                     - - - XXX   As        
-3124                      XXXXXXX-X                                     - - - XXX   As        
-3221                      XXXXXXX-X                                     - - - XXX   As        
-3222                      XXXXXXX-X                                     - - - XXX   As        
-3226                      XXXXXXX-X                                     - - - XXX   As        
-0134                      XXXXXXX-X                                     - - - XXX   Se        
-0135                      XXXXXXX-X                                     - - - XXX   Se        
-0140                      XXXXXXX-X                                     - - - XXX   Se        
-0233                      XXXXXXX-X                                     - - - XXX   Se        
-0234                      XXXXXXX-X                                     - - - XXX   Se        
-0235                      XXXXXXX-X                                     - - - XXX   Se        
-0238                      XXXXXXX-X                                     - - - XXX   Se        
-0239                      XXXXXXX-X                                     - - - XXX   Se        
-0240                      XXXXXXX-X                                     - - - XXX   Na        
-0332                      XXXXXXX-X                                     - - - XXX   Se        
-0336                      XXXXXXX-X                                     - - - XXX   Se        
-0338                      XXXXXXX-X                                     - - - XXX   Se        
-0432                      XXXXXXX-X                                     - - - XXX   Se        
-0433                      XXXXXXX-X                                     - - - XXX   Se        
-0435                      XXXXXXX-X                                     - - - XXX   Se        
-0437                      XXXXXXX-X                                     - - - XXX   Se        
-0439                      XXXXXXX-X                                     - - - XXX   Na        
-0531                      XXXXXXX-X                                     - - - XXX   Se        
-0532                      XXXXXXX-X                                     - - - XXX   Se        
-0631                      XXXXXXX-X                                     - - - XXX   Se        
-0632                      XXXXXXX-X                                     - - - XXX   Se        
-0640                      XXXXXXX-X                                     - - - XXX   Na        
-0731                      XXXXXXX-X                                     - - - XXX   Se        
-0735                      XXXXXXX-X                                     - - - XXX   Se        
-0738                      XXXXXXX-X                                     - - - XXX   Na        
-0740                      XXXXXXX-X                                     - - - XXX   Na        
-0832                      XXXXXXX-X                                     - - - XXX   Se        
-0839                      XXXXXXX-X                                     - - - XXX   Na        
-0840                      XXXXXXX-X                                     - - - XXX   Na        
-0931                      XXXXXXX-X                                     - - - XXX   Se        
-0935                      XXXXXXX-X                                     - - - XXX   Na        
-0936                      XXXXXXX-X                                     - - - XXX   Na        
-0937                      XXXXXXX-X                                     - - - XXX   Na        
-1035                      XXXXXXX-X                                     - - - XXX   Na        
-1131                      XXXXXXX-X                                     - - - XXX   Na        
-1132                      XXXXXXX-X                                     - - - XXX   Na        
-1134                      XXXXXXX-X                                     - - - XXX   Na        
-1231                      XXXXXXX-X                                     - - - XXX   Na        
-1233                      XXXXXXX-X                                     - - - XXX   Na        
-1234                      XXXXXXX-X                                     - - - XXX   Na        
-1235                      XXXXXXX-X                                     - - - XXX   Na        
-1236                      XXXXXXX-X                                     - - - XXX   Na        
-1239                      XXXXXXX-X                                     - - - XXX   Na        
-1339                      XXXXXXX-X                                     - - - XXX   Na        
-1340                      XXXXXXX-X                                     - - - XXX   Na        
-1431                      XXXXXXX-X                                     - - - XXX   Na        
-1432                      XXXXXXX-X                                     - - - XXX   Na        
-1434                      XXXXXXX-X                                     - - - XXX   Na        
-1435                      XXXXXXX-X                                     - - - XXX   Na        
-1436                      XXXXXXX-X                                     - - - XXX   Na        
-1439                      XXXXXXX-X                                     - - - XXX   Na        
-1440                      XXXXXXX-X                                     - - - XXX   Na        
-1534                      XXXXXXX-X                                     - - - XXX   Na        
-1537                      XXXXXXX-X                                     - - - XXX   Na        
-1635                      XXXXXXX-X                                     - - - XXX   Na        
-1636                      XXXXXXX-X                                     - - - XXX   Na        
-1637                      XXXXXXX-X                                     - - - XXX   Na        
-1639                      XXXXXXX-X                                     - - - XXX   Na        
-1731                      XXXXXXX-X                                     - - - XXX   Na        
-1732                      XXXXXXX-X                                     - - - XXX   Na        
-1740                      XXXXXXX-X                                     - - - XXX   Na        
-1833                      XXXXXXX-X                                     - - - XXX   Na        
-1835                      XXXXXXX-X                                     - - - XXX   Na        
-1931                      XXXXXXX-X                                     - - - XXX   Na        
-1933                      XXXXXXX-X                                     - - - XXX   Na        
-1934                      XXXXXXX-X                                     - - - XXX   Na        
-1935                      XXXXXXX-X                                     - - - XXX   Na        
-1938                      XXXXXXX-X                                     - - - XXX   Na        
-2032                      XXXXXXX-X                                     - - - XXX   Na        
-2035                      XXXXXXX-X                                     - - - XXX   Na        
-2038                      XXXXXXX-X                                     - - - XXX   Na        
-2136                      XXXXXXX-X                                     - - - XXX   Na        
-2232                      XXXXXXX-X                                     - - - XXX   Na        
-2234                      XXXXXXX-X                                     - - - XXX   Na        
-2238                      XXXXXXX-X                                     - - - XXX   Na        
-2240                      XXXXXXX-X                                     - - - XXX   Na        
-2336                      XXXXXXX-X                                     - - - XXX   Na        
-2338                      XXXXXXX-X                                     - - - XXX   Na        
-2339                      XXXXXXX-X                                     - - - XXX   Na        
-2340                      XXXXXXX-X                                     - - - XXX   Na        
-2435                      XXXXXXX-X                                     - - - XXX   Na        
-2437                      XXXXXXX-X                                     - - - XXX   Na        
-2439                      XXXXXXX-X                                     - - - XXX   Na        
-2534                      XXXXXXX-X                                     - - - XXX   Na        
-2535                      XXXXXXX-X                                     - - - XXX   Na        
-2536                      XXXXXXX-X                                     - - - XXX   Na        
-2540                      XXXXXXX-X                                     - - - XXX   Na        
-2631                      XXXXXXX-X                                     - - - XXX   Na        
-2633                      XXXXXXX-X                                     - - - XXX   Na        
-2634                      XXXXXXX-X                                     - - - XXX   Na        
-2639                      XXXXXXX-X                                     - - - XXX   Na        
-2735                      XXXXXXX-X                                     - - - XXX   Na        
-2736                      XXXXXXX-X                                     - - - XXX   Na        
-2738                      XXXXXXX-X                                     - - - XXX   Na        
-2740                      XXXXXXX-X                                     - - - XXX   Na        
-2831                      XXXXXXX-X                                     - - - XXX   Na        
-2832                      XXXXXXX-X                                     - - - XXX   Na        
-2833                      XXXXXXX-X                                     - - - XXX   Na        
-2834                      XXXXXXX-X                                     - - - XXX   Na        
-2837                      XXXXXXX-X                                     - - - XXX   Na        
-2839                      XXXXXXX-X                                     - - - XXX   Na        
-2933                      XXXXXXX-X                                     - - - XXX   Na        
-3034                      XXXXXXX-X                                     - - - XXX   Na        
-3036                      XXXXXXX-X                                     - - - XXX   Na        
-3132                      XXXXXXX-X                                     - - - XXX   Na        
-3134                      XXXXXXX-X                                     - - - XXX   As        
-3136                      XXXXXXX-X                                     - - - XXX   Na        
-3140                      XXXXXXX-X                                     - - - XXX   Na        
-3233                      XXXXXXX-X                                     - - - XXX   As        
-3234                      XXXXXXX-X                                     - - - XXX   As        
+Hex  Name                 UWP       Remarks                     {Ix}   (Ex)    [Cx]   N B  Z PBG W  A    Stellar  
+---- -------------------- --------- --------------------------- ------ ------- ------ - -- - --- -- ---- ---------
+0101 Prarshon             C66889E-C Pa Ph Ri                    {  2 } (     ) [    ] - -  - 602    NaAs K0 V     
+0103 Keldiese             C447420-9 Ni Pa                       { -1 } (     ) [    ] - -  - 600    NaAs K0 V     
+0206 Thedutom             A645555-A Ag Ni                       {  2 } (     ) [    ] - -  - 620    NaAs G5 V     
+0207 Ewadatir             D000330-9 As Lo Va                    { -2 } (     ) [    ] - -  - 420    NaAs M0 V     
+0210 Siop                 B686996-C Ga Hi Pr                    {  3 } (     ) [    ] - -  - 402    NaAs K0 V     
+0308 Lara                 EAC4120-A Fl Lo                       { -1 } (     ) [    ] - -  - 323    NaAs M0 V     
+0309 Oso                  D200000-9 Di Va                       { -2 } (800-5) [0000] - -  R 032    NaAs M0 V     
+0310 Hotero               C536332-9 Lo                          { -1 } (     ) [    ] - -  - 501    NaAs M0 V     
+0406 Shestangald          D357533-B Ag Ni                       {  0 } (     ) [    ] - -  - 920    NaAs K0 V     
+0407 Aegh                 C769574-8 Ni Pr                       { -2 } (     ) [    ] - -  - 630    NaAs G5 V     
+0409 Menos                C532100-9 Lo Po                       { -1 } (     ) [    ] - -  - 201    NaAs K0 V     
+0503 Deas                 A785785-C Ag Ga Ri (Etak'auhew)       {  4 } (     ) [    ] - -  - 600 7  Na   K0 V     
+0507 Ermi                 C8C3310-A Fl Lo                       {  0 } (     ) [    ] - -  - 201    NaAs M7 V     
+0601 Shitarewi            B696678-A Ag Ni EtakW                 {  2 } (     ) [    ] - -  - 430 10 Na   M7 V     
+0609 Vesa                 C5486AC-A Ag Ni                       {  1 } (     ) [    ] - -  - 921    NaAs G5 V     
+0610 Yerimat              C9A3342-A Fl Lo                       {  0 } (     ) [    ] - -  - 302    NaAs M7 V     
+0706 Oraen                C692850-9 He Ph Pi                    {  0 } (     ) [    ] - -  - 423    NaHu K0 V     
+0801 Fobre                D786661-A Ag Ga Ni Ri O:1002          {  1 } (     ) [    ] - -  - 333    NaAs K0 V     
+0807 Iwan                 E337103-6 Lo                          { -3 } (     ) [    ] - -  - 330    NaAs M0 V     
+0810 Limo                 C995488-A Ni Pa                       {  0 } (     ) [    ] - -  - 612    NaAs G5 V     
+0906 Keruin               DAD2102-5 Lo                          { -3 } (     ) [    ] - -  - 300    NaAs G5 V     
+1002 Yunofi               D86668A-C Ag Ga Ni Ri                 {  1 } (     ) [    ] - -  - 602    NaAs G5 V     
+1004 Oundoir              B66966A-B Da Mr Ni Ri Etak6           {  2 } (     ) [    ] - -  A 501 13 NaAs K0 V     
+1005 Ouse                 C346333-6 Lo                          { -2 } (     ) [    ] - -  - 902    NaAs K0 V     
+1007 Obis                 X473000-2 Da Di                       { -3 } (A00-5) [0000] - -  A 024 16 NaAs K0 V     
+1008 Aoerah               C789A7A-9 Hi Etak6                    {  1 } (     ) [    ] - -  - 420    AsSc K0 V     
+1009 Uauaha               A437574-A Ni                          {  1 } (     ) [    ] - -  - 112    AsSc M7 V     
+1105 Gamef                C777687-A Ag Ni                       {  1 } (     ) [    ] - -  - 800    NaAs G5 V     
+1106 Dothont              D695778-A Ag Pi                       {  1 } (     ) [    ] - -  - 733    NaAs K0 V     
+1107 Watir                C467763-9 Ag Ri O:1106                {  2 } (     ) [    ] - -  - 220    NaAs K0 V     
+1201 Yuto                 A7756B9-C Ag Ni                       {  2 } (     ) [    ] - -  - 200    NaAs G5 V     
+1203 Ahather              B899520-9 Ni                          {  0 } (     ) [    ] - -  - 101    NaAs K0 V     
+1205 Eren                 C465511-B Ag Ni Pr                    {  1 } (     ) [    ] - -  - 412    NaAs K0 V     
+1206 Thetha               D788000-B Di                          { -1 } (C00-5) [0000] - -  - 004    NaAs K0 V     
+1208 Aihsteaalr           C000225-6 As Lo Va                    { -2 } (     ) [    ] - -  - 321    AsWc M0 V     
+1209 Keasual              D310440-B Ni                          { -1 } (     ) [    ] - -  - 802    AsWc M0 V     
+1301 Potvur               E774220-9 Lo                          { -2 } (     ) [    ] - -  - 602    NaAs K0 V M8 V
+1303 Ouir                 C883420-8 Ni                          { -2 } (     ) [    ] - -  - 230    NaAs K0 V     
+1306 Enfothecote          A7856AB-C Ag Ga Ni Ri                 {  3 } (     ) [    ] - -  - 412    NaAs K0 V     
+1310 Sewyes               A694988-D Hi In                       {  4 } (     ) [    ] - -  - 901    AsT8 K0 V     
+1402 Eani                 B471533-A He Ni                       {  1 } (     ) [    ] - -  - 730    NaAs K0 V     
+1403 Fanronsa             E510000-9 Di                          { -2 } (A00-5) [0000] - -  - 002 8  NaAs M0 V     
+1404 Ule                  C300275-B Lo Va                       {  0 } (     ) [    ] - -  - 602    NaAs M0 V     
+1409 Ahyasarayeei         B7A3744-A Fl                          {  2 } (     ) [    ] - -  - 300    AsVc M0 V     
+1501 Dalde                E000536-6 As Ni Va                    { -3 } (     ) [    ] - -  - 412    NaAs M0 V     
+1505 Abopeif              D456000-4 Di                          { -3 } (A00-5) [0000] - -  - 001    NaAs K0 V     
+1506 Midnight             B987589-A Ag Ni Pr                    {  2 } (     ) [    ] - -  - 101    NaHu K0 V M8 V
+1508 Aeteregoland         C210440-8 Ni                          { -2 } (     ) [    ] - -  - 322    NaAs M0 V     
+1509 Deocer               E647333-8 Lo                          { -3 } (     ) [    ] - -  - 500    NaAs G5 V     
+1602 Bedca                C849464-A Ni Re                       {  0 } (     ) [    ] - -  - 101    NaAs G5 V     
+1603 Thapeto              EA9A100-6 Lo Oc                       { -3 } (     ) [    ] - -  - 100    NaAs K0 V     
+1604 Aneshe               C000437-7 As Ni Va                    { -2 } (     ) [    ] - -  - 710    NaAs M0 V     
+1606 Ifoeldead            C634443-7 Ni                          { -2 } (     ) [    ] - -  - 323    NaAs M7 V     
+1704 Dundersewed          C462130-8 Lo                          { -2 } (     ) [    ] - -  - 600    NaAs K0 V     
+1707 Tivitou              D100453-6 Ni Va                       { -3 } (     ) [    ] - -  - 412    NaAs M0 V     
+1708 Voido                C646000-5 Di                          { -2 } (A00-5) [0000] - -  - 001 13 NaAs G5 V     
+1802 Cier                 E77749D-A Ni Pa                       { -1 } (     ) [    ] - -  - 101    NaAs G5 V     
+1806 Beoucer              C445544-A Ag Ni                       {  1 } (     ) [    ] - -  - 322    NaAs K0 V     
+1905 Endren               C354597-B Ag Ni                       {  1 } (     ) [    ] - -  - 500    NaAs K0 V     
+1906 Retwanee             A342798-9 He Pi Po                    {  1 } (     ) [    ] - -  - 503    NaAs K0 V     
+1907 Oftaad               C796448-A Ni Pa                       {  0 } (     ) [    ] - -  - 101    NaAs K0 V     
+2003 Anga                 C100000-8 Di Va                       { -2 } (700-5) [0000] - -  - 000    NaAs M0 V     
+2005 Utast                C546436-9 Ni Pa                       { -1 } (     ) [    ] - -  - 701    NaAs G5 V     
+2006 Nufobelyide          D55336A-8 Lo Mr Po                    { -3 } (     ) [    ] - -  - 324    NaAs G5 V     
+2102 Olathid              E413232-8 Ic Lo                       { -3 } (     ) [    ] - -  - 600    NaAs M0 V     
+2108 Tahteoy              B526544-9 Ni                          {  0 } (     ) [    ] - -  - 431    NaAs M0 V     
+2109 Tido                 BA6A962-B Oc Hi Pr O:2208             {  3 } (     ) [    ] - -  - 112    NaAs G5 V     
+2110 Osaasoo              E8A4524-A FL Ni                       { -1 } (     ) [    ] - -  - 200    NaAs M0 V     
+2201 Hethenge             E527153-5 Lo                          { -3 } (     ) [    ] - -  - 302    NaAs M0 V     
+2208 Alrayalr             B47257D-C He Ni                       {  1 } (     ) [    ] - -  - 310    AsSc K0 V     
+2209 Eyeka                AA9A878-D Oc Ph Pi                    {  2 } (     ) [    ] - -  - 600    AsSc K0 V     
+2210 Ufer                 A678756-B Ag Pi                       {  3 } (     ) [    ] - -  - 304    AsWc K0 V     
+2303 Itwa                 C698576-A Ag Ni                       {  1 } (     ) [    ] - -  - 501    NaAs K0 V     
+2304 Copra                B68887C-C Pa Ph Ri                    {  3 } (     ) [    ] - -  - 211    NaAs K0 V     
+2305 Eend                 D6855BB-6 Ag Ga Ni Pr                 { -2 } (     ) [    ] - -  - 103    NaAs K0 V     
+2306 Ihyoeiliyw           C10057A-9 Ni Sa Va                    { -1 } (     ) [    ] - -  - 803    AsSc M0 V     
+2307 Yeliawar             A79A979-E Hi In Wa                    {  4 } (     ) [    ] - -  - 430    AsSc K0 V     
+2308 Uawyo'eahoul         B4306B7-B De Na Ni Po                 {  1 } (     ) [    ] - -  - 602    AsWc M0 V     
+2310 Hlasoah              D350367-5 De Lo Mr Po                 { -3 } (     ) [    ] - -  - 232    AsSc F5 V     
+2401 Odom                 E424100-7 Lo                          { -3 } (     ) [    ] - -  - 612    NaAs M0 V     
+2403 Essonalyaet          C668527-A Ag Ni Pr                    {  1 } (     ) [    ] - -  - 102    NaAs K0 V     
+2404 Yeale                C464597-9 Ag Ni Pr                    {  0 } (     ) [    ] - -  - 204    NaAs K0 V     
+2407 Elasyus              C53856B-7 Mr Ni                       { -2 } (     ) [    ] - -  - 612    AsTv M0 V     
+2410 Ealihtesear          C8A3200-6 Fl Lo                       { -2 } (     ) [    ] - -  - 104    AsXX M0 V     
+2502 Oueng                C000535-7 As Ni Va                    { -2 } (     ) [    ] - -  - 320    NaAs M0 V     
+2503 Odthetdean           C511445-9 Ic Ni                       { -1 } (     ) [    ] - -  - 310    NaAs M0 V     
+2505 Areau                B343577-D Ni Po                       {  1 } (     ) [    ] - -  A 911    AsSc K0 V     
+2507 Iheil                A74A686-C Ni Wa                       {  1 } (     ) [    ] - -  - 712 13 AsWc K0 V M8 V
+2509 Sisas                C200630-B Na Ni Va                    {  0 } (     ) [    ] - -  - 103    AsTv M0 V     
+2510 Khtealya             A477647-E Ag Ni                       {  2 } (     ) [    ] - -  - 430    AsWc K0 V     
+2603 Teala                A56787F-C Pa Ph Ri                    {  3 } (     ) [    ] - -  - 901    AsSc K0 V     
+2607 Uiiwelr              E57A568-9 Mr Ni Wa                    { -2 } (     ) [    ] - -  - 412    AsVc K0 V     
+2608 Ulrilruil            B44659B-B Ag Ni                       {  2 } (     ) [    ] - -  - 813    AsWc K0 V     
+2609 Ralourl              A979987-C Hi In                       {  4 } (78B-4) [7B3F] - -  - 403 16 AsTv G5 V     
+2610 Haiaihealyol         C749310-B Lo                          {  0 } (     ) [    ] - -  - 313 8  AsXX G5 V     
+2701 Tiat                 A898658-9 Ag Fo Ni Di(Rheagris)       {  1 } (B53+4) [9738] - -  R 202 11 NaAs K0 V     
+2704 Iyktoaoi             C343222-9 Lo Po                       { -1 } (     ) [    ] - -  - 932 13 AsWc K0 V     
+2708 Aiareahkyu           D410688-A Na Ni                       { -1 } (     ) [    ] - -  - 400 10 AsT6 M0 V     
+2710 Heawyahealr          A88898B-E Hi Pr                       {  3 } (     ) [    ] - -  A 231 13 AsVc K0 V     
+2801 Eanatmard            E233000-7 Di Po                       { -3 } (700-5) [0000] - -  - 010 13 NaAs M0 V     
+2802 Inay                 A223113-D Lk Lo Po                    {  1 } (B01+1) [627C] - -  - 114 16 NaAs M0 V     
+2806 Eaui                 B653544-D Ni Po                       {  1 } (     ) [    ] - -  - 201    AsVc K0 V M8 V
+2807 Aoualoa              B110699-9 Na Ni                       {  0 } (     ) [    ] - -  - 332    AsTv M7 V     
+2808 Weiuisti             BAC18AB-B Fl He Ph                    {  2 } (     ) [    ] - -  - 513    AsWc M0 V     
+2809 Iysyair              E649210-B Lo                          { -1 } (     ) [    ] - -  - 201    AsXX K0 V M8 V
+2902 Rereont              C226363-B Lo Lk O:2603                {  0 } (B20+2) [536B] - -  - 401 10 NaAs M0 V     
+2906 Iyheisoa             AAA9777-B Fl                          {  2 } (     ) [    ] - -  - 630    AsSc M0 V     
+3004 Kaaaukhteh           C310541-8 Ni                          { -2 } (     ) [    ] - -  - 920    AsMw M0 V     
+3005 Mikes World          C689500-9 Ni Pr Huma3                 { -1 } (     ) [    ] - -  - 320    AsTv K0 V     
+3006 Eiua                 B78A630-B Ni Ri Wa                    {  2 } (     ) [    ] - -  - 601    AsMw K0 V     
+3103 Orwisa               D6A3222-6 Fl Lo                       { -3 } (     ) [    ] - -  - 301    NaAs M7 V     
+3105 Aoikhou              B555564-D Ag Ni Re                    {  2 } (     ) [    ] - -  - 402    AsWc G5 V     
+3109 Prerla               E323123-6 Lo Po                       { -3 } (     ) [    ] - -  - 423    NaAs M0 V     
+3110 Waoftald             E7C5100-7 Fl Lo                       { -3 } (     ) [    ] - -  - 500    NaAs M7 V     
+3202 Enshareem            B8B3944-C Fl Hi In Zker2              {  4 } (     ) [    ] - -  - 500 8  NaAs M0 V     
+3205 Aamou                C345300-B Lo                          {  0 } (     ) [    ] - -  - 531    NaAs K0 V     
+3208 Khiyh                C464589-9 Ag Ni Pr                    {  0 } (     ) [    ] - -  - 702    NaAs K0 V     
+0112 Martial              A3446AD-D Ag Ni                       {  2 } (     ) [    ] - -  - 403    NaAs K0 V     
+0113 Urdiss               C110663-C Na Ni Tz O:0112             {  0 } (     ) [    ] - -  - 412    NaAs M7 V     
+0116 Treven               C352000-9 Di Po                       { -1 } (700-5) [0000] - -  - 000    NaAs K0 V     
+0117 Ainyat               D8C4430-9 Fl Ni                       { -2 } (     ) [    ] - -  - 732    NaAs M7 V     
+0213 Yovarlabooro         D8C7654-A Fl Ni                       { -1 } (     ) [    ] - -  - 322    NaAs M7 V     
+0214 Resore               DA6A385-6 Lo Oc                       { -3 } (     ) [    ] - -  - 720    NaAs G5 V     
+0216 Dodwethaeam          E688000-5 Di                          { -3 } (600-5) [0000] - -  - 000    NaAs K0 V     
+0217 Aepa                 C9B7420-B Fl Fo Ni ZkerW              {  0 } (435+3) [742A] - -  R 100 8  NaAs M0 V     
+0219 Worot                B577663-C Ag Ni O:0416                {  2 } (     ) [    ] - -  - 302    NaAs K0 V     
+0314 Ibi                  C310465-7 Ni Re                       { -2 } (     ) [    ] - -  - 504    NaAs M0 V     
+0317 Athar                B510565-A Ni Re                       {  1 } (     ) [    ] - -  - 602    NaAs M0 V     
+0318 Opstor               B525533-C Ni                          {  1 } (     ) [    ] - -  - 601    NaAs M0 V     
+0412 Orethintetep         E202324-7 Ic Lo Va                    { -3 } (     ) [    ] - -  - 721    NaAs G5 V     
+0413 Enthofet             C210332-9 Lo                          { -1 } (     ) [    ] - -  - 320    NaAs K0 V     
+0414 Iylaiyefai           C997477-7 Ni Pa                       { -2 } (     ) [    ] - -  - 623    AsSc G5 V     
+0416 A'uftya              B566741-B Ag Ri                       {  4 } (     ) [    ] - -  - 202    AsMw M0 V     
+0418 Khtaseraos           B622554-9 He Ni Po                    {  0 } (     ) [    ] - -  - 322    AsT9 M0 V     
+0512 Abefedegen           C73658B-A Ni                          {  0 } (     ) [    ] - -  - 301    NaAs M7 V     
+0514 Eiylr                AAB57CC-D Fl Zker4                    {  2 } (     ) [    ] - -  - 731    AsTv M0 V     
+0515 Iykoiiyftuil         C898586-A Ag Ni                       {  1 } (     ) [    ] - -  - 433    AsT1 K0 V     
+0517 Eawyo                D629110-9 Lo                          { -2 } (     ) [    ] - -  - 224    AsXX M0 V     
+0519 Ftahyaa              B465586-C Ag Ni Pr                    {  2 } (     ) [    ] - -  - 100    AsVc K0 V     
+0612 Adou                 B436656-B Ni                          {  1 } (     ) [    ] - -  - 302    NaAs G5 V     
+0617 Awyuwahas            A865978-E Ga Hi Pr                    {  3 } (     ) [    ] - -  - 124    AsSc M0 V     
+0618 Hafa                 AA68954-D Hi Pr                       {  3 } (     ) [    ] - -  - 211    AsMw G5 V     
+0620 Tatwe                C693577-C Ni                          {  0 } (     ) [    ] - -  - 720    NaAs K0 V     
+0713 Atewhrisai           E7A6000-4 Di Fl                       { -3 } (B00-5) [0000] - -  - 021    AsWc M0 V     
+0714 Tolral               A887963-C Ga Hi Pr O:0416             {  3 } (     ) [    ] - -  - 103    AsMw K0 V     
+0718 Akhyorl              C475563-A Ag Ni O:0416                {  1 } (     ) [    ] - -  A 322    AsMw K0 V     
+0812 Iyseryar             AA9A966-E Hi In Mr Oc                 {  4 } (     ) [    ] - -  - 523    AsVc K0 V M8 V
+0814 Kheaha               B764763-A Ag Ri O:0914                {  4 } (     ) [    ] - -  - 631    AsTv M0 V     
+0911 Wyahealrelr          A767888-C Ga Pa Ph Ri                 {  3 } (     ) [    ] - -  - 320    AsMw G5 V     
+0914 Iywayal              A5639A7-D Hi Pr                       {  3 } (     ) [    ] - -  - 412    AsT9 K0 V     
+0918 Uisyuhiy             A692866-E He Mr Ph Pi                 {  2 } (     ) [    ] - -  - 322    AsWc K0 V     
+1012 Rauhouei             B431554-C Ni Po                       {  1 } (     ) [    ] - -  A 502    AsT3 M0 V     
+1014 Hkilrao              C654452-A Ni Pa                       {  0 } (     ) [    ] - -  A 711    AsWc G5 V     
+1115 Hwoite               B649866-D Ph Pi Px                    {  2 } (     ) [    ] - -  - 223    AsT8 G5 V     
+1117 Hlealriyhoar         A5719B9-D He Hi In                    {  4 } (     ) [    ] - -  A 700    AsWc K0 V     
+1213 Laeilrasew           C875400-8 Ni Pa                       { -2 } (     ) [    ] - -  - 310    AsWc K0 V M8 V
+1217 Akiyuar              A110742-B Na Pi                       {  2 } (     ) [    ] - -  - 332    AsVc M0 V     
+1218 Eihwaoa              A89AACE-E Hi In Wa                    {  4 } (     ) [    ] - -  - 302    AsTv K0 V     
+1219 Hraolroa             C220435-A De Ni Po                    {  0 } (     ) [    ] - -  - 700    AsWc M0 V     
+1312 Aeiua                D433241-8 Lo Po                       { -3 } (     ) [    ] - -  - 304    AsVc M0 V     
+1315 Thiape               C693000-C Di                          {  0 } (800-5) [0000] - -  - 000    NaXX K0 V     
+1316 Kackan               B748000-B Di(Walla)                   {  1 } (A00-5) [0000] - -  - 033    NaXX G5 V     
+1411 Iild                 C100120-8 Lo Va                       { -2 } (     ) [    ] - -  - 321    AsWc M0 V     
+1511 Weahualiail          A440875-E De He Ph Pi Po              {  2 } (     ) [    ] - -  - 420    AsSc F5 V     
+1512 Yoliyreaa            B7696BE-B Ni Ri                       {  2 } (     ) [    ] - -  - 233    AsWc K0 V M8 V
+1513 Tarlea               B212000-D Di Ic                       {  1 } (C00-5) [0000] - -  - 033    NaXX M0 V     
+1515 Osoun                D645000-9 Di                          { -2 } (A00-5) [0000] - -  - 023    NaXX G5 V     
+1517 Hkiyli               C200444-9 Ni Va                       { -1 } (     ) [    ] - -  - 500    AsTv M7 V     
+1518 Eae'yah              A7499A7-E Hi In                       {  4 } (     ) [    ] - -  - 213    AsT9 G5 V     
+1612 Ofod                 C859577-B Ni                          {  0 } (     ) [    ] - -  - 202    NaAs K0 V     
+1614 Caste                DAC5220-8 Fl Lo Huma6                 { -3 } (810-1) [4167] - -  - 312 10 NaXX M7 V     
+1616 Ratlai               D451224-8 Lo Po                       { -3 } (     ) [    ] - -  - 602    AsMw K0 V     
+1617 Yaakaler             C0007AC-A As Na Pi Va                 {  1 } (     ) [    ] - -  - 220    AsMw M0 V     
+1619 Eiafyalr             E347354-6 Lo                          { -3 } (     ) [    ] - -  A 512    AsVc K0 V     
+1711 Jodsoi               C6A2468-A He Fl Mr Ni                 {  0 } (     ) [    ] - -  - 220    NaAs K0 V     
+1718 Wuhoihe              C000556-B As Ni Va                    {  0 } (     ) [    ] - -  - 512    AsMw M0 V     
+1811 Versteles            C230444-7 De Ni Po                    { -2 } (     ) [    ] - -  - 101    NaAs M0 V     
+1817 Aohya'ai             D515000-9 Di Ic                       { -2 } (900-5) [0000] - -  - 023    AsMw M7 V     
+1818 Iwahkea              D443200-A Lo Po                       { -1 } (     ) [    ] - -  - 201    AsWc K0 V     
+1820 Kta                  B66A644-E Ni Ri Rs Wa                 {  2 } (     ) [    ] - -  - 502    AsVc K5 V M8 V
+1912 Othoo                C444355-A Lo                          {  0 } (     ) [    ] - -  - 412    NaAs K0 V     
+1914 Iyeihkeh             A682776-E Ri                          {  3 } (     ) [    ] - -  - 411    AsSc G5 V     
+1916 Tlirerye'            CA87431-9 Ni Pa                       { -1 } (     ) [    ] - -  - 712    AsVc G5 V     
+1918 Iylyaluaa            B887A86-B Ga Hi                       {  3 } (     ) [    ] - -  - 223    AsVc K0 V     
+1919 Oiiysail             C200152-9 Lo Va                       { -1 } (     ) [    ] - -  - 120    AsWc M0 V     
+1920 Osoihalr             A3259B7-C Hi In Lk                    {  4 } (     ) [    ] - -  - 512    AsT4 M0 V     
+2011 Tiaxfrond            B326622-9 Ni                          {  0 } (     ) [    ] - -  - 323    NaAs M7 V     
+2017 Foulakehtiyh         E100136-9 Lo Va                       { -2 } (     ) [    ] - -  - 703    AsTv M0 V     
+2112 Iiyafea              E333336-7 Fo Lo Po Px Tz              { -3 } (     ) [    ] - -  R 711    AsTv M0 V     
+2113 Iyhewealr            B561857-B Ph Ri                       {  3 } (     ) [    ] - -  - 300    AsWc K0 V     
+2116 Waiweih              A5628A5-E Ph Ri                       {  3 } (     ) [    ] - -  A 802    AsWc K0 V     
+2117 Tuawouhearl          E533451-8 Ni Po                       { -3 } (     ) [    ] - -  A 311    AsWc M0 V     
+2118 Erlaea               CAB2000-0 Ba Fl He                    { -2 } (B00-5) [0000] - -  - 020 8  AsT7 M0 V     
+2119 Stiykyu              C410447-A Ni                          {  0 } (     ) [    ] - -  - 400    AsTv M0 V     
+2120 Eakhikhea            C350533-A De Ni Po                    {  0 } (     ) [    ] - -  - 201    AsTv F5 V     
+2211 Hwarual              A41089A-D Na Ph Pi                    {  2 } (     ) [    ] - V  - 700 11 AsMw M0 V     
+2220 Eoiruih              E7A8300-6 Fl Lo                       { -3 } (     ) [    ] - -  - 620    AsXX M0 V     
+2312 Haroih               E304000-0 Ba Ic Va                    { -3 } (800-5) [0000] - -  - 031    AsMw M0 V     
+2313 Uarhekhi             A785ACB-C Ga Hi                       {  3 } (     ) [    ] - -  - 700    AsTv K0 V     
+2414 Hkoioiy              C565563-8 Ag Ni Pr O:2211             { -1 } (     ) [    ] - -  - 701 9  AsMw K0 V     
+2517 Hkaihtuaouiy         E695222-9 Lo                          { -2 } (     ) [    ] - -  - 604    AsVc K0 V     
+2612 Eayehew              C337302-7 Lo                          { -2 } (     ) [    ] - -  - 531    AsWc M0 V     
+2613 Hliwkuilail          D110458-9 Ni                          { -2 } (     ) [    ] - -  - 610    AsT2 M7 V     
+2619 Fyeiaeaw             E512000-0 Ba Ic                       { -3 } (A00-5) [0000] - -  - 011    AsWc M7 V     
+2620 Aiahyu               A664963-C Hi Pr O:2223                {  3 } (     ) [    ] - -  - 422    AsVc K0 V     
+2711 Kearoiwyas           C559585-C Ni                          {  0 } (     ) [    ] - -  - 520    AsMw G5 V     
+2720 Ktaye                B674854-D Pa Ph Pi                    {  2 } (     ) [    ] - -  - 502 12 AsT9 K0 V     
+2812 Oihfeafua            C344237-9 Lo                          { -1 } (     ) [    ] - -  - 702    AsWc K0 V     
+2813 Eairulyuai           A0009CH-E As Hi In Na Va              {  4 } (     ) [    ] - -  - 531    AsT6 M7 V     
+2816 Yaouea               C431586-8 Ni Po                       { -2 } (     ) [    ] - -  - 500    AsTv M0 V     
+2820 Eawaw                C446583-C Ag Ni                       {  1 } (     ) [    ] - -  - 111    AsVc K0 V     
+2911 Aiwoarea'au          B476763-9 Ag Pi O:2813                {  2 } (     ) [    ] - -  - 410 11 AsXX K0 V     
+2916 Iyahkiy              B230777-D De Na Po                    {  2 } (     ) [    ] - -  - 433    AsSc M0 V     
+2918 Kteeirl              E84A000-0 Ba Wa                       { -3 } (700-5) [0000] - -  - 031    AsSc G5 V     
+2919 Ai'ouhie             C7A0450-8 He Ni                       { -2 } (     ) [    ] - -  - 400    AsTv M0 V     
+3020 Gimitaardaod         B3277AB-D Pi                          {  2 } (     ) [    ] - -  - 102    AsMw M0 V     
+3111 Iyfyu                D558000-0 Ba                          { -3 } (300-5) [0000] - -  - 030    AsSc G5 V     
+3112 Heaaiyh              D221203-A Lo Po                       { -1 } (     ) [    ] - -  - 720    AsVc M0 V     
+3113 Hteakhtea            B767757-E Ag Ga Ri                    {  4 } (     ) [    ] - -  A 323    AsMw G5 V     
+3117 Frei                 B77A833-C Ph Pi Wa                    {  2 } (     ) [    ] - -  - 300    NaAs K0 V     
+3212 Oihuahah             A2338BC-D Na Ph Po                    {  2 } (     ) [    ] - -  - 501    AsTv M0 V     
+3214 Khtiryakhaw          E63A25A-7 Lo Wa                       { -3 } (     ) [    ] - -  - 404    AsVc M0 V     
+3220 Hkeaseafui           E425230-8 Lo                          { -3 } (     ) [    ] - -  - 712    AsTv M7 V     
+0127 Efti                 A6249CC-D Hi In Eikh5                 {  4 } (     ) [    ] - -  - 210    Se   M7 V     
+0129 Trundfethor          A35287A-D Ph Po Eikh2 Asla2           {  2 } (     ) [    ] - -  - 622    Se   K0 V     
+0130 Ewedo                C434110-A Lo Eikh6                    {  0 } (     ) [    ] - -  - 331    Se   M0 V     
+0222 Hesepel              C442210-C He Lo Po                    {  0 } (     ) [    ] - -  - 602    NaAs K0 V     
+0225 Todi                 A4638C8-D Ph Ri Eikh5 Asla3 Huma1     {  3 } (     ) [    ] - -  - 502    Se   K0 V     
+0227 Efers                D656465-B Ga Ni Pa Re Eikh1 Asla3     { -1 } (     ) [    ] - -  - 220    Se   G5 V     
+0230 Bedetecad            C779696-C Ni Cale6 Eikh4              {  0 } (     ) [    ] - S  - 223    Se   G5 V     
+0322 Defari               A000645-D As Na Ni Va Huma6 Eikh3     {  1 } (     ) [    ] - -  - 230    NaHu M7 V     
+0326 Sedbet               X34687B-C Pa Ph Pi Fo Eikh3 Asla2     {  0 } (     ) [    ] - -  R 131    Se   K0 V     
+0328 Erous                C310685-8 Na Ni Asla1 Eikh3           { -2 } (     ) [    ] - S  - 622    Se   M0 V     
+0423 Vapeht               A330610-C De Na Ni Po                 {  1 } (     ) [    ] - -  - 123    NaAs M7 V     
+0521 Arwhouap             B334865-D Ph O:0724 Eikh5 Asla4       {  2 } (     ) [    ] - -  - 214    NaXX M0 V     
+0523 Trita                C200100-B Lo Va                       {  0 } (     ) [    ] - -  - 523    NaXX M0 V     
+0525 Freldord             AA7A775-C Cp Oc Pi Asla1 (Caleuche)8  {  3 } (     ) [    ] - NS - 110    Se   G5 V     
+0530 Uilye                C66A563-B Ni Pr Wa O:0731 Eikh3 Cale6 {  0 } (     ) [    ] - S  - 201    Se   K0 V     
+0621 Unshedo              D75A210-9 Lo Wa Cale2                 { -2 } (     ) [    ] - -  - 431    NaAs G5 V     
+0622 Sama                 X7B3216-2 Fl Fo Lo Rs Asla3           { -3 } (     ) [    ] - -  R 601    NaXX M0 V     
+0625 Stito                C435562-8 Ni O:0727 Eikh3 Asla1       { -2 } (     ) [    ] - S  - 812    Se   M0 V     
+0626 Tharga               C7A3594-A Fl Ni Eikh3 Asla5           {  1 } (     ) [    ] - W  - 910    Se   M0 V     
+0629 Theded               E410000-0 Ba                          { -3 } (A00-5) [0000] - -  - 000 7  Se   M0 V     
+0724 Taserefir            A658722-D Ag Cale5 Eikh3              {  4 } (H6A+2) [BA3B] - D  - 923 14 Se   G5 V     
+0725 Cusmoupa             C554687-9 Ag Ni Eikh4 Asla2           {  0 } (     ) [    ] - -  - 822    Se   G5 V     
+0727 Waeck                A4709A8-C De He Hi In Eikh6 Asla2     {  4 } (     ) [    ] - N  - 502    Se   F5 V     
+0730 Uremoun              C685563-C Ag Ga Ni Pr O:0725 Eikh5    {  1 } (     ) [    ] - -  - 113    Se   K0 V     
+0824 Athodend             C776587-8 Ag Ni Eikh3 Asla4 Huma3     { -1 } (     ) [    ] - S  - 133    Se   G5 V     
+0828 Lingen               E690213-9 De He Lo Rs Asla3 Eikh5     { -2 } (     ) [    ] - -  - 100    Se   F5 V     
+0830 Andma                C67A563-C Ni Re Wa Asla2 Cale1 Eikh3  {  0 } (     ) [    ] - -  - 611    Se   K0 V     
+0929 Ome                  B787AC7-D Ga Hi Asla4 Cale4 Eikh1     {  3 } (     ) [    ] - -  - 612    Se   K0 V     
+1022 Thetecme             A566995-D Hi Pr                       {  3 } (     ) [    ] - -  - 812    NaXX K0 V     
+1023 Eeu                  B74A589-B Ni Wa                       {  1 } (     ) [    ] - -  - 623    NaXX G5 V     
+1024 Wediya               D63569B-5 Ni                          { -3 } (     ) [    ] - -  - 400    NaXX M0 V     
+1030 Lindye               C643133-9 Lo Po                       { -1 } (     ) [    ] - -  - 503    NaXX G5 V     
+1122 Thetro               C542464-9 He Ni Po Re                 { -1 } (     ) [    ] - -  - 800    NaXX G5 V     
+1123 Whabeor              C4646AB-6 Ag Ni Ri                    {  0 } (     ) [    ] - -  - 431    NaXX K0 V     
+1125 Yunge                C428441-8 Ni                          { -2 } (     ) [    ] - -  - 312    NaXX M0 V     
+1130 Ninmen               C6B7404-7 Fl Ni                       { -2 } (     ) [    ] - -  - 301    NaXX M0 V     
+1223 Athaa                C447332-6 Lo                          { -2 } (     ) [    ] - -  - 604    NaXX K0 V     
+1225 Haji                 A7489BA-D Hi In                       {  4 } (     ) [    ] - -  - 420    NaHu G5 V     
+1230 Whirpi               E749424-3 Ni                          { -3 } (     ) [    ] - -  - 600    NaAs G5 V     
+1321 Reropi               E323000-0 Ba Po                       { -3 } (700-5) [0000] - -  - 001    NaXX M0 V     
+1322 Nie                  A79388B-B Ph Pi                       {  2 } (     ) [    ] - -  - 400    NaXX K0 V     
+1326 Voreeetan            E430000-0 Ba De Po                    { -3 } (700-5) [0000] - -  - 020    NaXX M0 V     
+1424 Eind                 C446378-9 Lo                          { -1 } (     ) [    ] - -  - 602    NaXX K0 V     
+1426 Sirel                B464877-8 Pa Ph Ri                    {  1 } (     ) [    ] - -  - 622    NaXX K0 V     
+1428 Alita                B883875-C Ph Ri Asla4 Huma5           {  3 } (     ) [    ] - -  - 331 13 NaXX K0 V     
+1522 Kuiahrye             C677444-A Ni Pa                       {  0 } (     ) [    ] - -  - 102    AsVc K0 V     
+1523 Eifyewa              B885744-B Ag Ga Ri                    {  4 } (     ) [    ] - -  - 514    AsTv K0 V     
+1527 Thee                 B35357D-9 Ni Po                       {  0 } (     ) [    ] - -  - 630    NaAs K0 V     
+1621 Uuihryo              C7A4440-9 Fl Ni                       { -1 } (     ) [    ] - -  - 234 20 AsVc M0 V     
+1622 Aus                  C452215-9 Lo Po                       { -1 } (     ) [    ] - -  - 402    AsXX K0 V     
+1624 Hwuiuel              C100000-0 Ba Va                       { -2 } (C00-5) [0000] - -  - 030    AsTv M0 V     
+1726 Esyahas              C220595-9 De Ni Po                    { -1 } (     ) [    ] - -  - 502    AsMw M0 V     
+1728 E'wiywawwyes         B336578-C Ni                          {  1 } (     ) [    ] - -  - 323    AsSc K0 V     
+1927 Ewolasaaolui         A787636-C Ag Ga Ni Ri                 {  3 } (     ) [    ] - -  - 300    AsMw K0 V     
+1928 Hrualea              AA98A98-C Hi In                       {  4 } (     ) [    ] - -  - 821    AsTv K0 V M8 V
+1929 Eitla                A000887-D As Na Ph Pi Va              {  2 } (     ) [    ] - -  - 123    AsVc M0 V     
+2021 Hkyahakhoi           B556776-D Ag                          {  3 } (     ) [    ] - -  - 323    AsSc G5 V     
+2022 Khaktou              C410300-A Lo                          {  0 } (     ) [    ] - -  - 201    AsVc M0 V     
+2025 Hrausahiy            C475974-D Hi In                       {  3 } (     ) [    ] - -  - 900    AsSc K0 V     
+2121 Hkeeawuis            E683164-9 Lo Re Rs                    { -2 } (700+1) [2128] - -  - 901 8  AsWc K0 V     
+2127 Yuhuilraulr          B689562-B Ni Pr O:2221                {  1 } (     ) [    ] - -  - 803    AsT4 K0 V     
+2130 Karnin               A898AB7-F Hi In Asla3                 {  4 } (     ) [    ] - -  - 530    NaHu K0 V     
+2221 Iseawouhuiw          B556656-D Ag Ni                       {  2 } (     ) [    ] - -  - 102    AsT4 G5 V     
+2222 Haiyea               A739974-E Hi                          {  3 } (     ) [    ] - -  - 230    AsSc M7 V     
+2223 Eaei                 A684777-D Ag Ri                       {  4 } (     ) [    ] - -  - 101    AsSc K0 V     
+2224 Auikhtourl           C572887-C He Ph Pi                    {  1 } (     ) [    ] - -  - 500    AsWc K0 V     
+2225 Kiyhrao              C9B2202-A Fl He Lo                    {  0 } (     ) [    ] - -  - 101    AsSc M7 V     
+2226 Ahke                 C346498-C Ni Pa                       {  0 } (     ) [    ] - -  - 400    AsWc K0 V     
+2228 Wouseitawarl         A767733-C Ag Ga Pz Ri                 {  4 } (     ) [    ] - -  A 301    AsVc G5 V     
+2230 Irpeer               E62A457-A Ni                          { -1 } (     ) [    ] - -  - 200    NaXX M0 V     
+2323 Oiwiywyo             A68A9A8-C Hi Pr Wa                    {  3 } (     ) [    ] - -  - 123    AsTv K0 V     
+2324 Iweakei              C776400-9 Ni Pa                       { -1 } (     ) [    ] - -  - 132    AsSc G5 V     
+2326 Afoe                 E536000-7 Di                          { -3 } (     ) [    ] - -  - 003    AsSc M0 V     
+2327 Ekuirwerl            C9C97BB-B Fl                          {  1 } (     ) [    ] - -  - 322    AsVc M0 V     
+2330 Cenvecer             C9B4343-9 Fl Lo                       { -1 } (     ) [    ] - -  - 402    NaXX M0 V     
+2421 Earwuirow            E230787-8 De Na Po                    { -2 } (     ) [    ] - -  - 702    AsWc M0 V     
+2422 Fyohe                D447486-6 Ni Pa                       { -3 } (     ) [    ] - -  A 101    AsVc K0 V     
+2423 Aihu                 C67A841-C Ph Pi Wa                    {  1 } (     ) [    ] - -  - 611    AsT2 K0 V     
+2426 Viso                 A968978-F Hi Pr (Virkesh)9            {  3 } (     ) [    ] - -  - 401    NaHu K0 V M8 V
+2427 Tein                 B47798A-D Hi In Virk6 Huma1           {  4 } (     ) [    ] - -  - 512    AsMw K0 V     
+2429 Isel                 C220233-9 De Lo Po                    { -1 } (     ) [    ] - -  - 201    Na   M0 V     
+2521 Yakhuirl             C646264-A Lo Re                       {  0 } (     ) [    ] - -  - 720    AsSc G5 V     
+2525 Hirja                A7689AA-E Hi Pr Virk8                 {  3 } (     ) [    ] - -  - 502    NaHu G2 V     
+2527 Atauwiyh             A996878-E Pa Ph Pi                    {  2 } (     ) [    ] - -  - 802    AsSc G5 V     
+2529 Iystew               B200522-B Ni Va                       {  1 } (     ) [    ] - -  - 901    AsWc M0 V     
+2625 Thimthato            AA7A7AC-D Oc Pi Virk3 Asla4           {  2 } (     ) [    ] - -  - 120    NaHu K0 V M8 V
+2626 Harlo                B889784-E Ri                          {  3 } (     ) [    ] - -  - 212    AsWc K0 V     
+2629 Aisserleh            C8A4475-A Fl Ni                       {  0 } (     ) [    ] - -  - 200    AsSc M0 V     
+2721 Khiyakea             C68A687-C Ni Ri Wa                    {  1 } (     ) [    ] - -  - 201    AsVc K0 V     
+2723 Inin                 A786A67-F Ga Hi Mr Asla4              {  3 } (     ) [    ] - -  - 622    NaHu K0 V     
+2724 Ifbreeck             B685665-A Ag Ga Ni Ri O:2427 Asla1    {  3 } (     ) [    ] - -  - 133    NaHu K0 V     
+2726 Ktiyhrohe            D466523-A Ag Ni Pr                    {  0 } (     ) [    ] - -  - 201    AsMw K0 V     
+2730 Ktirereas            B4108AC-D Na Ph Pi                    {  2 } (     ) [    ] - -  - 320    AsWc M0 V     
+2821 Heiktiy              A747663-C Ag Ni O:2723                {  2 } (     ) [    ] - -  - 124    AsMw G5 V     
+2827 Aoiekh               C778689-9 Ag Ni Lear7                 {  0 } (     ) [    ] - -  - 401    AsMw K0 V M8 V
+2922 Cushe                B555698-B Ag Ni Huma6                 {  2 } (     ) [    ] - -  - 510    AsWc G5 V     
+2924 Iyhao'               E226333-6 Lo                          { -3 } (     ) [    ] - -  - 330    AsWc M0 V     
+2926 Yaoer                C626648-8 Ni                          { -2 } (     ) [    ] - -  - 401    AsT6 M0 V     
+2928 Kyeeir               A79688A-C Pa Ph Pi                    {  2 } (     ) [    ] - -  A 732    AsMw K0 V     
+2929 Wawehakhyus          A457848-E Pa Ph Lear6                 {  2 } (     ) [    ] - -  - 602    AsMw K0 V     
+3023 Iwua                 B77A963-E Hi In Wa O:2723             {  4 } (     ) [    ] - -  - 101    AsMw K0 V M8 V
+3025 Khta'erlarl          C695647-B Ag Ni                       {  1 } (     ) [    ] - -  - 631    AsWc K0 V     
+3027 Khoihalrou           A681AA9-E Hi                          {  3 } (     ) [    ] - -  A 310    AsMw K0 V     
+3028 Weisoukh             B767640-9 Ag Ga Ni Ri Lear2           {  2 } (     ) [    ] - -  - 802    AsMw G5 V     
+3029 Oihesouwe            E547210-6 Lo                          { -3 } (     ) [    ] - -  - 921    AsT3 G5 V     
+3123 Ktehatlaeilu         C220376-B De Lo Po                    {  0 } (     ) [    ] - -  - 100    AsSc M0 V     
+3124 Ouil                 B69387E-E Ph Pi                       {  2 } (     ) [    ] - -  - 302    AsSc K0 V     
+3221 Hriyilyo             A659688-C Ni                          {  1 } (     ) [    ] - -  A 932    AsVc G5 V     
+3222 Uaea                 C789669-B Ni Mr Ri                    {  1 } (     ) [    ] - -  - 101    AsSc K0 V     
+3226 Pepper               B747512-A Ag Ni Huma1                 {  2 } (     ) [    ] - -  - 220    AsTv G5 V     
+0134 Congred              C415596-C Ic Ni Eikh5                 {  0 } (     ) [    ] - -  - 700    Se   M0 V     
+0135 Garcanmors           B88A797-B Ri Wa Cale5 Eikh1           {  3 } (     ) [    ] - N  - 302    Se   K0 V     
+0140 Suyin                D236563-B Ni Asla1 Eikh4 O:0338       { -1 } (     ) [    ] - -  - 300    Se   M0 V     
+0233 Pranaonaf            C210210-B Lo Asla6 Eikh2              {  0 } (     ) [    ] - -  - 732    Se   M0 V     
+0234 Tarchi               A658861-C Pa Ph O:0433 Cale4 Eikh5    {  3 } (     ) [    ] - W  - 433    Se   G5 V     
+0235 Etpi                 A303663-A Ic Na Ni Va Eikh5 O:0435    {  2 } (     ) [    ] - NS - 521    Se   M0 V     
+0238 Fesi                 C000516-B As Ni Va Asla5 Eikh4        {  0 } (     ) [    ] - S  - 202    Se   M0 V     
+0239 Jini                 C350563-C De Ni Po Asla6 Eikh3 O:0338 {  0 } (     ) [    ] - -  - 402    Se   F5 V     
+0240 Yesid                D456110-A Lo Eikh4                    { -1 } (     ) [    ] - -  R 131    Na   K0 V     
+0332 Hoout                B638687-9 Ni Cale6 Eikh4              {  0 } (     ) [    ] - S  - 101    Se   M0 V     
+0336 Seeda                C446210-9 Fr Lo Eikh3 Huma3           { -1 } (     ) [    ] - MS - 702    Se   K0 V     
+0338 Leri                 B89AAA7-C Hi In Wa Asla6 Cale1 Eikh1  {  4 } (     ) [    ] - -  - 301    Se   K0 V     
+0432 Tudhir               A334463-D Cx Ni Re Asla8 Eikh2        {  1 } (     ) [    ] - -  - 821    Se   M7 V     
+0433 Amerely              A6399A7-C Hi Eikh6                    {  3 } (     ) [    ] - -  - 403    Se   M0 V     
+0435 Emaan                A888761-C Ag Ri Cale6 Eikh1 O:0338    {  4 } (     ) [    ] - -  - 403 11 Se   K0 V     
+0437 Onowac               E423113-9 Lo Po Eikh3                 { -2 } (     ) [    ] - -  - 200    Se   M0 V     
+0439 Vusfa                B7658DD-7 Ga Pa Ph Ri EikhW           {  1 } (     ) [    ] - -  - 121    Na   G5 V     
+0531 Rente                C79A7A7-C Pi Wa Eikh5                 {  1 } (     ) [    ] - -  - 300    Se   K5 V M8 V
+0532 Anjovo               D9987BC-C Ag Pi Cale3 Eikh6           {  1 } (     ) [    ] - -  - 331    Se   G5 V     
+0631 Lafo                 B888884-B Ph Pa Ri Cale3 Eikh5        {  3 } (     ) [    ] - N  - 601    Se   K0 V     
+0632 Edendyoep            C6A1213-A Fl He Lo                    {  0 } (     ) [    ] - -  - 732    Se   M0 V     
+0640 Asarea               E200326-8 Lo Va                       { -3 } (     ) [    ] - -  - 430    NaAs M0 V     
+0731 Ein                  B6968A9-D Cp (Eikhui’)8 Pa Ph Pi      {  2 } (     ) [    ] - -  - 331    Se   K0 V     
+0735 Ande                 E8C6210-9 Fl Lo                       { -2 } (     ) [    ] - -  - 321    Se   M0 V     
+0738 Hanepof              C629466-9 Ni Px Asla2 Huma3           { -1 } (     ) [    ] - -  - 801    NaXX M0 V     
+0740 Yedavan              X747000-0 Ba Da                       { -3 } (     ) [    ] - -  A 021    NaXX G5 V     
+0832 Odo                  C110413-A Ni Eikh5                    {  0 } (     ) [    ] - -  - 420    Se   M0 V     
+0839 Iyaly                A510624-9 Na Ni                       {  0 } (     ) [    ] - -  - 731    NaXX M0 V     
+0840 Shafot               B336763-A O:1239                      {  2 } (     ) [    ] - -  - 101    NaAs M0 V     
+0931 Hefgeyin             D448586-8 Ag Ni Asla7 Cale2           { -2 } (     ) [    ] - S  - 312    Se   K0 V     
+0935 Oen                  C577500-5 Ag Ni                       { -1 } (     ) [    ] - -  - 432    NaXX K0 V     
+0936 Iftda                D436200-7 Lo                          { -3 } (     ) [    ] - -  - 701    NaXX M0 V     
+0937 Ousafo               B47176A-9 He Mr Pi Sa Huma1           {  1 } (     ) [    ] - -  - 203 10 NaAs K0 V     
+1035 Alex's Harbour       CAA9251-C Fl Lo                       {  0 } (     ) [    ] - M  - 600 4  NaHu M0 V     
+1131 Bao                  A76789B-7 Ga Pa Ph Ri                 {  1 } (     ) [    ] - -  - 413 8  NaXX G5 V     
+1132 Edyois               C435736-9                             {  0 } (     ) [    ] - -  - 920    NaXX M0 V     
+1134 Pirjemi              A5628CB-C Ph Ri                       {  3 } (     ) [    ] - -  - 503    NaXX K0 V     
+1231 Henet                C7A2354-A Fl He Lo                    {  0 } (     ) [    ] - -  A 824    NaXX M0 V     
+1233 Oepi                 D978200-8 Lo                          { -3 } (     ) [    ] - -  - 601    NaXX G5 V     
+1234 Tanat                C555333-6 Lo                          { -2 } (     ) [    ] - -  - 813    NaXX G5 V     
+1235 Thao                 X839200-5 Fo Lo                       { -3 } (     ) [    ] - -  R 202    NaXX M0 V     
+1236 Surtos               B796587-6 Ag Ni                       {  0 } (     ) [    ] - -  - 120    NaXX K0 V     
+1239 Oda                  A57A943-D Hi In Wa                    {  4 } (     ) [    ] - -  - 112    NaAs K0 V     
+1339 Eas                  X100464-0 Fo Ni Re Va                 { -3 } (     ) [    ] - -  R 432 9  NaXX M0 V     
+1340 Sarframet            A682663-A Ni Ri O:1240                {  2 } (     ) [    ] - -  - 533    NaAs K0 V     
+1431 Setvashave           A99A8A6-A Ph Pi Wa                    {  2 } (     ) [    ] - -  - 301    NaXX K0 V     
+1432 Waferban             E6A1300-9 Fl He Lo                    { -2 } (     ) [    ] - -  - 620    NaXX M0 V     
+1434 Jonda                D7A1100-6 Fl He Lo                    { -3 } (     ) [    ] - -  - 730    NaXX M0 V     
+1435 Wenfrera             C200345-7 Lo Va                       { -2 } (     ) [    ] - -  - 113    NaXX M7 V     
+1436 Eghiameeden          E724200-7 Lo                          { -3 } (     ) [    ] - -  - 102    NaAs M7 V     
+1439 Coyar                C958145-5 Lo                          { -2 } (     ) [    ] - -  - 112    NaAs G5 V     
+1440 Geporsi              D532154-7 Lo Po                       { -3 } (     ) [    ] - -  - 521    NaXX M7 V     
+1534 Oretet               E110000-0 Ba                          { -3 } (900-5) [0000] - -  - 033    NaXX M0 V     
+1537 Thouhoersill         C73A200-9 Lo Wa                       { -1 } (     ) [    ] - -  - 303    NaXX M0 V     
+1635 Isi                  C425331-A Lo                          {  0 } (     ) [    ] - -  - 433    NaXX M0 V     
+1636 Mosthie              C6B0300-7 He Lo                       { -2 } (     ) [    ] - -  - 200    NaXX M0 V     
+1637 Gedces               C447347-5 Lo                          { -2 } (     ) [    ] - -  - 431    NaXX K0 V     
+1639 Misthour             E856552-5 Ag Ga Ni                    { -2 } (     ) [    ] - -  - 201    NaXX G5 V     
+1731 Hadelyyet            B656655-8 Ag Ga Ni                    {  0 } (     ) [    ] - -  - 430    NaXX G5 V     
+1732 Ones                 E355121-6 Lo                          { -3 } (     ) [    ] - -  - 501    NaXX K0 V     
+1740 Faseaduthiin         C444300-A Lo                          {  0 } (     ) [    ] - -  - 310    NaXX K0 V     
+1833 Dito                 E549235-8 Lo                          { -3 } (     ) [    ] - -  - 223    NaXX G5 V     
+1835 Ditai                B236654-C Ni                          {  1 } (     ) [    ] - -  - 900    NaXX M0 V     
+1931 Sesdis               A689848-8 Ph Ri                       {  1 } (     ) [    ] - -  - 721    NaXX K0 V     
+1933 Prering              C410631-A Fo Na Ni Sa ChirW           {  0 } (     ) [    ] - -  R 301    NaXX M0 V     
+1934 Uilika               B564775-9 Ag Ri                       {  3 } (     ) [    ] - -  - 122    NaXX K0 V     
+1935 Nenero               C212563-9 Ic Ni O:1934                { -1 } (     ) [    ] - -  - 511    NaXX M0 V     
+1938 Benu                 C000420-C As Ni Va                    {  0 } (     ) [    ] - -  - 602    NaXX M0 V     
+2032 Persia               E786214-2 Ga Ho Lo Tz                 { -3 } (B10+1) [1111] - -  - 302 8  NaHu K0 V     
+2035 Esstegid             C94A430-A Ni Wa                       {  0 } (     ) [    ] - -  - 402    NaXX G5 V     
+2038 Lededu               A673761-8 Pi O:2636                   {  0 } (     ) [    ] - -  - 831    NaAs K0 V     
+2136 Eteras               E562221-8 Lo Asla6 Huma4              { -3 } (     ) [    ] - -  - 122    NaXX K0 V     
+2232 Espip                B3308AB-8 De Na Ph Po                 {  0 } (     ) [    ] - -  - 202    NaXX M0 V     
+2234 Thouveni             E745200-5 Lo                          { -3 } (     ) [    ] - -  - 421    NaXX G5 V     
+2238 Warapliht            C466567-A Ag Ni Pe Pr                 {  1 } (     ) [    ] - -  - 302    NaXX K0 V     
+2240 Indpin               A766662-8 Ag Ga Ni Ri O:2536          {  1 } (     ) [    ] - -  - 600    NaAs G5 V     
+2336 Esete                A9E98A7-A Ph                          {  2 } (     ) [    ] - -  - 300    NaXX G5 V     
+2338 Whena                B647533-9 Ag Ni                       {  1 } (     ) [    ] - -  - 213    NaXX G5 V     
+2339 Marseille            C758100-8 Lo                          { -2 } (     ) [    ] - V  - 111 11 NaHu G5 V     
+2340 Iru                  B858522-B Ag Ni                       {  2 } (     ) [    ] - -  - 502    NaXX G5 V     
+2435 Itatiraoo            A466798-8 Ag Ri                       {  2 } (     ) [    ] - -  - 931    NaXX K0 V     
+2437 Legast               B68787C-8 Ga Pa Ph Ri                 {  1 } (     ) [    ] - -  - 902    NaXX K0 V     
+2439 Irao                 C100200-9 Fo Lo Va                    { -1 } (     ) [    ] - -  R 404    NaAs M0 V     
+2534 Fide                 C515441-7 Ic Ni                       { -2 } (     ) [    ] - -  - 300    NaXX M0 V     
+2535 Steiis               E7C4000-0 Ba Fl                       { -3 } (800-5) [0000] - -  - 002    NaXX M7 V     
+2536 Hithes               A97977C-B Pi                          {  2 } (     ) [    ] - -  - 502    NaAs G5 V     
+2540 Jalo                 D333252-6 Lo Po                       { -3 } (     ) [    ] - -  - 732    NaXX M0 V     
+2631 Udeti                C230105-8 De Lo Po Sa Huma2           { -2 } (     ) [    ] - -  - 611    NaAs M7 V     
+2633 Oon                  A96A410-D Ni Wa Inyx5                 {  1 } (     ) [    ] - -  - 230    NaXX K0 V     
+2634 Ean                  E435000-0 Ba                          { -3 } (     ) [    ] - -  - 002    NaXX M7 V     
+2639 Sedenpronsta         E8B4103-5 Fl Lo                       { -3 } (     ) [    ] - -  - 611    NaXX M0 V     
+2735 Idoyeer              C41066A-8 Mr Na Ni                    { -2 } (     ) [    ] - -  - 230    NaXX M0 V     
+2736 Virdouaireon         B0008BA-9 As Na Ph Pi Sa Va           {  1 } (     ) [    ] - -  - 821    NaXX M0 V     
+2738 Iri                  E99A666-8 Mr Ni Rs Tz Wa Chir5        { -3 } (     ) [    ] - -  - 323    NaAs K0 V     
+2740 Efehi                E514242-4 Ic Lo                       { -3 } (     ) [    ] - -  - 412    NaXX M0 V     
+2831 Donoven              D698388-3 Fo Fr Lo                    { -3 } (C20-2) [4151] - -  R 410 8  NaXX K0 V     
+2832 Plerhetren           C524257-8 Lo                          { -2 } (     ) [    ] - -  - 401    NaXX M0 V     
+2833 Brepregronso         C31058C-7 Ni                          { -2 } (     ) [    ] - -  - 301    NaXX M0 V     
+2834 Gejud                D540000-0 Ba De He Po                 { -3 } (C00-5) [0000] - -  - 002 9  NaXX F5 V     
+2837 Argemeta             D8B3000-0 Ba Fl                       { -3 } (C00-5) [0000] - -  - 030 15 NaXX M0 V     
+2839 Searegifeand         E000000-0 As Ba Va                    { -3 } (700-5) [0000] - -  - 010 11 NaXX M0 V     
+2933 Vereom               DAC3210-9 Fl Lo                       { -2 } (     ) [    ] - -  - 302    NaXX M0 V     
+3034 Cifet                B878655-A Ag Ni                       {  2 } (     ) [    ] - -  - 202    NaXX G5 V     
+3036 Conoafaird           E100345-8 Lo Va                       { -3 } (     ) [    ] - -  - 200    NaXX M7 V     
+3132 Iloed                C310000-0 Ba                          { -2 } (300-5) [0000] - -  - 032 13 NaXX M0 V     
+3134 Fteya                A742649-A He Ni Po                    {  1 } (     ) [    ] - -  - 422    AsMw G5 V     
+3136 Kahyoei              C565425-C Ni Pa                       {  0 } (     ) [    ] - -  - 221    NaAs K0 V     
+3140 Anda                 B98A6AD-C Ni Ri Wa                    {  2 } (     ) [    ] - -  A 200 5  NaXX K0 V     
+3233 Iyhtaktyewe          A777000-7 Di                          { -1 } (800-5) [0000] - -  - 004    AsSc G5 V     
+3234 Foilaiawyah          B697642-D Ag Ni                       {  2 } (     ) [    ] - -  - 302    AsWc K0 V     
