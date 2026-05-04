@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Sector Tags="OTU Unreviewed" Abbreviation="Zhie">
+<Sector Selected="true" Tags="Unreviewed OTU" Abbreviation="Zhie">
   <Name Lang="zh">Zhiensh</Name>
   <Credits>
 
@@ -9,7 +9,8 @@
     </Credits>
   <X>-7</X>
   <Y>-5</Y>
-  <DataFile Author="Bella" Source="Mongoose" Milieu="M1105" />
+  <Product Author="Isabella Treccani-Chinelli" Title="The Core Expeditions" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-core-expeditions" />
+  <DataFile Author="Isabella Treccani-Chinelli" Source="Mongoose Publishing" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="B">Zhatant</Subsector>
   </Subsectors>
