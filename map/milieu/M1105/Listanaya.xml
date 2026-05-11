@@ -5,7 +5,24 @@
   <X>-1</X>
   <Y>-5</Y>
   <DataFile Author="John G. Wood" Source="Underdeveloped Sectors" Milieu="M1105" Ref="https://web.archive.org/web/20160205040546/http://homepage.ntlworld.com/elvwood/Traveller/Sectors/" />
-  <Subsectors />
+  <Subsectors>
+    <Subsector Index="A">Lukhskakhu</Subsector>
+    <Subsector Index="B">Uthtsos</Subsector>
+    <Subsector Index="C">Suekhdae</Subsector>
+    <Subsector Index="D">Adzksou</Subsector>
+    <Subsector Index="E">Ngusrue</Subsector>
+    <Subsector Index="F">Zaekszu</Subsector>
+    <Subsector Index="G">Fedz</Subsector>
+    <Subsector Index="H">Naeou</Subsector>
+    <Subsector Index="I">Afirskoug</Subsector>
+    <Subsector Index="J">Zaerse</Subsector>
+    <Subsector Index="K">Ksough</Subsector>
+    <Subsector Index="L">Thagzkhue</Subsector>
+    <Subsector Index="M">Uedh</Subsector>
+    <Subsector Index="N">Gzaathduer</Subsector>
+    <Subsector Index="O">Aegghog</Subsector>
+    <Subsector Index="P">Ghogvoeghz</Subsector>
+  </Subsectors>
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
     <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>

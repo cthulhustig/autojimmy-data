@@ -5,7 +5,8 @@
   <Credits />
   <X>-1</X>
   <Y>5</Y>
-  <DataFile Author="Jo Grant, Jeff Zeitlin, and Matthew Collins" Milieu="M1105" />
+  <Product Author="Martin J. Dougherty" Title="Cluster Truck" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/cluster-truck" />
+  <DataFile Author="Jo Grant, Jeff Zeitlin, Matthew Collins, Martin J. Dougherty" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Grieg</Subsector>
     <Subsector Index="B">Nadon</Subsector>

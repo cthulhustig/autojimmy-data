@@ -389,7 +389,7 @@ Hex  Name                 UWP       Remarks                                     
 0838 Mewey                D786799-5 Ag Ga Ri (Mewey) Lt                         { 0 }  (967+1) [8766] -     -  - 701 8  NaHu K3 V M3 V     
 0840 975-452              E100316-9 Lo Va                                       { -2 } (820-3) [2148] -     -  - 821 10 NaHu M0 V          
 0931 Asteltine            B7A7402-A Fl Ni                                       { 1 }  (734-3) [1516] -     -  - 210 10 NaHu K7 V M3 V     
-0938 Inchin               D42035A-A De He Lo Po                                 { -1 } (A20+1) [527C] -     -  - 823 8  NaHu F0 V          
+0938 Inchin               D42035A-A De He Lo Po Sa                              { -1 } (A20+1) [527C] -     -  - 823 8  NaHu F0 V          
 0940 Singer               D553774-6 Po                                          { -2 } (965-4) [5534] -     -  - 901 9  NaHu M2 V M2 V     
 1031 567-908              E532000-0 Ba Po (Shriekers) Lt                        { -3 } (200-5) [0000] -     -  - 010 9  NaXX K5 III D      
 1037 Avastan              C433520-A Ni Po                                       { 0 }  (D44-4) [1515] -     -  - 724 11 NaHu M3 V          

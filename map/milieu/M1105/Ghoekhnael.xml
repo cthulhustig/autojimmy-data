@@ -16,7 +16,24 @@
   <X>-4</X>
   <Y>-4</Y>
   <DataFile Author="John G. Wood, WG Zeist" Source="Underdeveloped Sectors" Milieu="M1105" Ref="https://web.archive.org/web/20160205040546/http://homepage.ntlworld.com/elvwood/Traveller/Sectors/" />
-  <Subsectors />
+  <Subsectors>
+    <Subsector Index="A">Nukhaegdo</Subsector>
+    <Subsector Index="B">Zaengogkou</Subsector>
+    <Subsector Index="C">Ikhsksu</Subsector>
+    <Subsector Index="D">Gvaeoek</Subsector>
+    <Subsector Index="E">Ang</Subsector>
+    <Subsector Index="F">Orgzorzu</Subsector>
+    <Subsector Index="G">Llueguen</Subsector>
+    <Subsector Index="H">Korllaekhighz</Subsector>
+    <Subsector Index="I">Tsaggvurrg</Subsector>
+    <Subsector Index="J">Tunkhika</Subsector>
+    <Subsector Index="K">Enka</Subsector>
+    <Subsector Index="L">Guaedzzaer</Subsector>
+    <Subsector Index="M">Aerskhorrg</Subsector>
+    <Subsector Index="N">Ghoae</Subsector>
+    <Subsector Index="O">Taezrae</Subsector>
+    <Subsector Index="P">Irrdaeoee</Subsector>
+  </Subsectors>
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
     <Allegiance Code="TY">Taakas Yh'Drak</Allegiance>

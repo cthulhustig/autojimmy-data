@@ -15,7 +15,24 @@
   <X>2</X>
   <Y>-4</Y>
   <DataFile Author="John G. Wood, WG Zeist" Source="Underdeveloped Sectors" Milieu="M1105" Ref="https://web.archive.org/web/20160205040546/http://homepage.ntlworld.com/elvwood/Traveller/Sectors/" />
-  <Subsectors />
+  <Subsectors>
+    <Subsector Index="A">Etarrka</Subsector>
+    <Subsector Index="B">Goeoaeg</Subsector>
+    <Subsector Index="C">Gvok</Subsector>
+    <Subsector Index="D">Oukhko</Subsector>
+    <Subsector Index="E">Gvasrue</Subsector>
+    <Subsector Index="F">Konrro</Subsector>
+    <Subsector Index="G">Zuedhdhue</Subsector>
+    <Subsector Index="H">Ksakvuethgoll</Subsector>
+    <Subsector Index="I">Inggaeur</Subsector>
+    <Subsector Index="J">Eksfae</Subsector>
+    <Subsector Index="K">Gzueoeks</Subsector>
+    <Subsector Index="L">Tsonggerngog</Subsector>
+    <Subsector Index="M">Daekfoen</Subsector>
+    <Subsector Index="N">Uengsa</Subsector>
+    <Subsector Index="O">Ghaz</Subsector>
+    <Subsector Index="P">Iekh</Subsector>
+  </Subsectors>
   <Allegiances>
     <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VJ">Authority of Joekghr</Allegiance>

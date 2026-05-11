@@ -15,7 +15,24 @@
   <X>-2</X>
   <Y>-4</Y>
   <DataFile Author="John G. Wood, WG Zeist" Source="Underdeveloped Sectors" Milieu="M1105" Ref="https://web.archive.org/web/20160205040546/http://homepage.ntlworld.com/elvwood/Traveller/Sectors/" />
-  <Subsectors />
+  <Subsectors>
+    <Subsector Index="A">Ragzdhagksa</Subsector>
+    <Subsector Index="B">Angzae</Subsector>
+    <Subsector Index="C">Oknouughsaz</Subsector>
+    <Subsector Index="D">Kaekhsrroe</Subsector>
+    <Subsector Index="E">Dhuengksa</Subsector>
+    <Subsector Index="F">Zefoerrglu</Subsector>
+    <Subsector Index="G">Sooellkoks</Subsector>
+    <Subsector Index="H">Toegkikhsdzu</Subsector>
+    <Subsector Index="I">Adznugroa</Subsector>
+    <Subsector Index="J">Okti</Subsector>
+    <Subsector Index="K">Ksurstso</Subsector>
+    <Subsector Index="L">Tegrrerrgh</Subsector>
+    <Subsector Index="M">Geghzksae</Subsector>
+    <Subsector Index="N">Nekhszo</Subsector>
+    <Subsector Index="O">Ergvaekhs</Subsector>
+    <Subsector Index="P">Ukkaegh</Subsector>
+  </Subsectors>
   <Allegiances>
     <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VS">Jarrgh Subjugate</Allegiance>

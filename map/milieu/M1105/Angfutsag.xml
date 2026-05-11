@@ -7,7 +7,24 @@
   <X>3</X>
   <Y>-4</Y>
   <DataFile Author="John G. Wood" Source="Underdeveloped Sectors" Milieu="M1105" Ref="https://web.archive.org/web/20160205040546/http://homepage.ntlworld.com/elvwood/Traveller/Sectors/" />
-  <Subsectors />
+  <Subsectors>
+    <Subsector Index="A">Khugzkfael</Subsector>
+    <Subsector Index="B">Oenggaen</Subsector>
+    <Subsector Index="C">Oghsourgnarr</Subsector>
+    <Subsector Index="D">Daon</Subsector>
+    <Subsector Index="E">Llanghikhing</Subsector>
+    <Subsector Index="F">Zedh</Subsector>
+    <Subsector Index="G">Aezgueng</Subsector>
+    <Subsector Index="H">Daevin</Subsector>
+    <Subsector Index="I">Ghaersvazkoe</Subsector>
+    <Subsector Index="J">Aekhsek</Subsector>
+    <Subsector Index="K">Elgaerztsu</Subsector>
+    <Subsector Index="L">Uksgoth</Subsector>
+    <Subsector Index="M">Gzoukhghagh</Subsector>
+    <Subsector Index="N">Thaen</Subsector>
+    <Subsector Index="O">Gizzaghzko</Subsector>
+    <Subsector Index="P">Aeraears</Subsector>
+  </Subsectors>
   <Allegiances>
     <Allegiance Code="--">Unknown</Allegiance>
     <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>

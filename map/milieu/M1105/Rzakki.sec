@@ -3,303 +3,305 @@
 # Rzakki
 # -2,5
 
-# Name: Rzakki (va)
+# Name: Rzakki
 
 # Abbreviation: Rzak
 
 # Milieu: M1105
 
-# Author:    John G. Wood
+# Credits: Rzakki The Rzakki sector was refined and basic systems updated by Mark F. Anderson based on the initial work done by John G. Wood in the Underdeveloped Sectors group.
+
+# Author:    Mark F. Anderson, John G. Wood
 # Source:    Underdeveloped Sectors
 # Ref:       https://web.archive.org/web/20160205040546/http://homepage.ntlworld.com/elvwood/Traveller/Sectors/
 
-# Subsector A: 
-# Subsector B: 
-# Subsector C: 
-# Subsector D: 
-# Subsector E: 
-# Subsector F: 
-# Subsector G: 
-# Subsector H: 
-# Subsector I: 
-# Subsector J: 
-# Subsector K: 
-# Subsector L: 
-# Subsector M: 
-# Subsector N: 
-# Subsector O: 
-# Subsector P: 
+# Subsector A: Akh
+# Subsector B: Gzoullaksve
+# Subsector C: Zuedzfaekog
+# Subsector D: Ouunzaedhaegz
+# Subsector E: Velrrodhgvoe
+# Subsector F: Uzdzaengnen
+# Subsector G: Aersung
+# Subsector H: Lloegh
+# Subsector I: Ozzagluurr
+# Subsector J: Khoengfu
+# Subsector K: Ongkouk
+# Subsector L: Uekhgogaghz
+# Subsector M: Oeghfueghrughz
+# Subsector N: Vaenguggirr
+# Subsector O: Gakhknol
+# Subsector P: Oenthou
 
-# Alleg: --: "Unknown"
-# Alleg: Va: "Non-Aligned, Vargr-dominated"
+# Alleg: NaVa: "Non-Aligned, Vargr-dominated"
+# Alleg: NaXX: "Non-Aligned, unclaimed"
 # Alleg: VU: "Union of Seekers"
 # Alleg: VZ: "Ruzz Confederation"
 
-Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z PBG W A  Stellar            
----- -------------------- --------- -------------------- ---- ---- ---- - -- - --- - -- -------------------
-0106                      X579000-0 Ba Lo Ni                            - -  - 023   -- F0 V               
-0107                      X979000-0 Ba Lo Ni                            - -  - 002   -- F2 V M8 V          
-0110                      X445000-0 Ba Lo Ni                            - -  - 004   -- F6 V               
-0308                      X300000-0 Ba Lo Ni Va                         - -  - 017   -- M1 V M6 V          
-0402                      X896000-0 Ba Lo Ni                            - -  - 000   -- F1 V               
-0405                      X323000-0 Ba Lo Ni Po                         - -  - 004   -- M3 V M6 V          
-0410                      X434000-0 Ba Lo Ni                            - -  - 006   -- K8 V M1 V          
-0510                      X87A000-0 Ba Lo Ni Wa                         - -  - 020   -- K8 V M3 V          
-0602                      XAE7000-0 Ba Fl Lo Ni                         - -  - 033   -- G0 V M5 V          
-0605                      X749000-0 Ba Lo Ni                            - -  - 002   -- M7 V               
-0606                      X454000-0 Ba Lo Ni                            - -  - 007   -- F8 V M7 V          
-0608                      X9C6000-0 Ba Fl Lo Ni                         - -  - 000   -- M0 V M1 V          
-0703                      X534000-0 Ba Lo Ni                            - -  - 000   -- K8 V M0 V          
-0709                      X536000-0 Ba Lo Ni                            - -  - 033   -- M2 V M6 V          
-0803                      X211000-0 Ba Ic Lo Ni                         - -  - 002   -- M1 V               
-0805                      XA7A000-0 Ba Lo Ni Wa                         - -  - 024   -- G4 V G7 V          
-0807                      X310000-0 Ba Lo Ni                            - -  - 002   -- M8 V               
-0809                      X684000-0 Ba Lo Ni                            - -  - 015   -- F8 V M4 V          
-0903                      X444000-0 Ba Lo Ni                            - -  - 039   -- G4 V M6 V          
-0905                      X201000-0 Ba Ic Lo Ni Va                      - -  - 000   -- M1 V M3 V          
-0906                      X586000-0 Ba Lo Ni                            - -  - 004   -- F8 V               
-0908                      X240000-0 Ba De Lo Ni Po                      - -  - 003   -- F0 V M3 V          
-1003                      X596000-0 Ba Lo Ni                            - -  - 001   -- F1 V               
-1007                      X9B2000-0 Ba Fl Lo Ni                         - -  - 000   -- M2 V               
-1008                      XA77000-0 Ba Lo Ni                            - -  - 011   -- F9 V               
-1009                      XAC6000-0 Ba Fl Lo Ni                         - -  - 003   -- M8 V               
-1102                      X444000-0 Ba Lo Ni                            - -  - 010   -- K8 V               
-1103                      X485000-0 Ba Lo Ni                            - -  - 014   -- G2 V               
-1105                      X250000-0 Ba De Lo Ni Po                      - -  - 035   -- F9 V M7 V          
-1107                      X234000-0 Ba Lo Ni                            - -  - 000   -- M0 V M1 V          
-1201                      X475000-0 Ba Lo Ni                            - -  - 003   -- F9 V               
-1202                      X556000-0 Ba Lo Ni                            - -  - 003   -- M4 V               
-1207                      X232000-0 Ba Lo Ni Po                         - -  - 005   -- M2 V M6 V          
-1208                      X55A000-0 Ba Lo Ni Wa                         - -  - 003   -- F6 V               
-1304                      X427000-0 Ba Lo Ni                            - -  - 001   -- M5 V               
-1305                      X578000-0 Ba Lo Ni                            - -  - 004   -- F8 V M2 V          
-1306                      X669000-0 Ba Lo Ni                            - -  - 001   -- F4 V               
-1310                      X757000-0 Ba Lo Ni                            - -  - 004   -- K8 V               
-1401                      X693000-0 Ba Lo Ni                            - -  - 004   -- F5 V               
-1402                      X545000-0 Ba Lo Ni                            - -  - 001   -- F0 V M3 V          
-1403                      X76A000-0 Ba Lo Ni Wa                         - -  - 002   -- F7 V               
-1407                      X381000-0 Ba Lo Ni                            - -  - 003   -- F3 V               
-1503                      X424000-0 Ba Lo Ni                            - -  - 022   -- K6 V               
-1505                      X69A000-0 Ba Lo Ni Wa                         - -  - 011   -- F4 V M1 V          
-1508                      X301000-0 Ba Ic Lo Ni Va                      - -  - 003   -- M0 V M2 V          
-1510                      X404000-0 Ba Ic Lo Ni Va                      - -  - 002   -- M1 II              
-1605                      X120000-0 Ba De Lo Ni Po                      - -  - 013   -- M8 V               
-1606                      X985000-0 Ba Lo Ni                            - -  - 003   -- G0 V M0 V          
-1608                      X200000-0 Ba Lo Ni Va                         - -  - 021   -- K7 V               
-1609                      X636000-0 Ba Lo Ni                            - -  - 004   -- M1 V M4 V          
-1702                      X658000-0 Ba Lo Ni                            - -  - 000   -- M6 V               
-1802                      X76A000-0 Ba Lo Ni Wa                         - -  - 004   -- F0 V M2 V          
-1808                      X512000-0 Ba Ic Lo Ni                         - -  - 014   -- K5 V M3 V          
-1810                      X582000-0 Ba Lo Ni                            - -  - 001   -- F6 V               
-1908                      X454000-0 Ba Lo Ni                            - -  - 013   -- K5 V M3 V          
-2001                      X346000-0 Ba Lo Ni                            - -  - 002   -- F9 V               
-2004                      X150000-0 Ba De Lo Ni Po                      - -  - 020   -- F8 V M8 V          
-2006                      X877000-0 Ba Lo Ni                            - -  - 000   -- F7 V               
-2007                      X97A000-0 Ba Lo Ni Wa                         - -  - 005   -- K3 V               
-2010                      X515000-0 Ba Ic Lo Ni                         - -  - 011   -- M2 V               
-2104                      X332000-0 Ba Lo Ni Po                         - -  - 004   -- F9 V               
-2109                      X9B5000-0 Ba Fl Lo Ni                         - -  - 000   -- M0 V M8 V          
-2110                      X9B2000-0 Ba Fl Lo Ni                         - -  - 000   -- M7 V               
-2201                      X371000-0 Ba Lo Ni                            - -  - 014   -- F5 V               
-2202                      X200000-0 Ba Lo Ni Va                         - -  - 000   -- M0 III             
-2204                      X429000-0 Ba Lo Ni                            - -  - 003   -- F8 V M8 V          
-2205                      X243000-0 Ba Lo Ni Po                         - -  - 002   -- F9 V               
-2206                      X655000-0 Ba Lo Ni                            - -  - 000   -- M4 V               
-2210                      X537000-0 Ba Lo Ni                            - -  - 001   -- M4 V               
-2303                      X7C5000-0 Ba Fl Lo Ni                         - -  - 014   -- K4 III M8 V        
-2307                      X222000-0 Ba Lo Ni Po                         - -  - 021   -- F0 V M4 V          
-2407                      X352000-0 Ba Lo Ni Po                         - -  - 002   -- F1 V               
-2408                      X332000-0 Ba Lo Ni Po                         - -  - 004   -- M0 V               
-2509                      X797000-0 Ba Lo Ni                            - -  - 002   -- F8 V               
-2510                      X579000-0 Ba Lo Ni                            - -  - 007   -- M3 V M8 V          
-2602                      X120000-0 Ba De Lo Ni Po                      - -  - 003   -- G1 V               
-2607                      X575000-0 Ba Lo Ni                            - -  - 005   -- K7 V M7 V          
-2702                      X300000-0 Ba Lo Ni Va                         - -  - 004   -- G0 V               
-2805                      X578000-0 Ba Lo Ni                            - -  - 003   -- F2 V               
-2908                      X564000-0 Ba Lo Ni                            - -  - 021   -- F4 V               
-3004                      X250000-0 Ba De Lo Ni Po                      - -  - 017   -- F5 V M0 V          
-3005                      X6B1000-0 Ba Fl Lo Ni                         - -  - 012   -- K3 V               
-3102                      X201000-0 Ba Ic Lo Ni Va                      - -  - 022   -- M0 V               
-0211                      X644000-0 Ba Lo Ni                            - -  - 004   -- F9 V M0 V          
-0213                      X343000-0 Ba Lo Ni Po                         - -  - 002   -- F8 V M8 V          
-0214                      X200000-0 Ba Lo Ni Va                         - -  - 001   -- K1 V               
-0312                      X301000-0 Ba Ic Lo Ni Va                      - -  - 024   -- G1 III             
-0315                      X432000-0 Ba Lo Ni Po                         - -  - 020   -- F4 V M8 V          
-0316                      X200000-0 Ba Lo Ni Va                         - -  - 004   -- G5 V               
-0411                      X647000-0 Ba Lo Ni                            - -  - 000   -- K1 V               
-0416                      X681000-0 Ba Lo Ni                            - -  - 006   -- M3 V M5 V          
-0520                      X766000-0 Ba Lo Ni                            - -  - 004   -- F2 V               
-0613                      X78A000-0 Ba Lo Ni Wa                         - -  - 006   -- M0 V M0 V          
-0614                      X446000-0 Ba Lo Ni                            - -  - 002   -- G2 V M1 V          
-0618                      X65A000-0 Ba Lo Ni Wa                         - -  - 002   -- F4 V M6 V          
-0620                      X9C4000-0 Ba Fl Lo Ni                         - -  - 010   -- K1 V               
-0717                      X243000-0 Ba Lo Ni Po                         - -  - 006   -- F3 V M5 V M3 V M8 V
-0720                      X72A000-0 Ba Lo Ni Wa                         - -  - 000   -- M1 V M6 V          
-0815                      X310000-0 Ba Lo Ni                            - -  - 007   -- M5 V M6 V          
-0819                      X464000-0 Ba Lo Ni                            - -  - 021   -- F7 V M7 V          
-0820                      X66A000-0 Ba Lo Ni Wa                         - -  - 002   -- F3 V               
-0911                      X412000-0 Ba Ic Lo Ni                         - -  - 002   -- M6 V               
-0914                      X557000-0 Ba Lo Ni                            - -  - 013   -- G1 V               
-0917                      X796000-0 Ba Lo Ni                            - -  - 024   -- F8 V M0 V          
-0919                      X340000-0 Ba De Lo Ni Po                      - -  - 006   -- F3 V M7 V          
-1014                      X403000-0 Ba Ic Lo Ni Va                      - -  - 016   -- M1 V M6 V          
-1017                      X410000-0 Ba Lo Ni                            - -  - 013   -- M3 V M8 V          
-1112                      X361000-0 Ba Lo Ni                            - -  - 000   -- F6 V               
-1113                      X527000-0 Ba Lo Ni                            - -  - 002   -- M4 V               
-1118                      XA68000-0 Ba Lo Ni                            - -  - 010   -- M4 V               
-1119                      X628000-0 Ba Lo Ni                            - -  - 004   -- M7 V               
-1211                      X887000-0 Ba Lo Ni                            - -  - 003   -- F7 V               
-1213                      X110000-0 Ba Lo Ni                            - -  - 003   -- F1 V               
-1216                      X686000-0 Ba Lo Ni                            - -  - 034   -- M3 V               
-1217                      X767000-0 Ba Lo Ni                            - -  - 003   -- F8 V               
-1313                      X89A000-0 Ba Lo Ni Wa                         - -  - 002   -- F3 V M2 V          
-1315                      X583000-0 Ba Lo Ni                            - -  - 000   -- K7 V               
-1319                      X86A000-0 Ba Lo Ni Wa                         - -  - 016   -- F9 V M5 V          
-1415                      X334000-0 Ba Lo Ni                            - -  - 000   -- M0 V               
-1416                      X65A000-0 Ba Lo Ni Wa                         - -  - 014   -- M5 V               
-1514                      X666000-0 Ba Lo Ni                            - -  - 013   -- F7 V M6 V          
-1516                      X421000-0 Ba Lo Ni Po                         - -  - 023   -- M8 V               
-1613                      X785000-0 Ba Lo Ni                            - -  - 003   -- F7 V               
-1616                      X200000-0 Ba Lo Ni Va                         - -  - 036   -- F3 V M5 V F8 V M8 V
-1617                      X233000-0 Ba Lo Ni Po                         - -  - 014   -- G6 III             
-1811                      X457000-0 Ba Lo Ni                            - -  - 023   -- F8 V               
-1815                      X473000-0 Ba Lo Ni                            - -  - 013   -- M1 V M1 V          
-1816                      X424000-0 Ba Lo Ni                            - -  - 004   -- K2 V M5 V          
-1819 Tholats              C2326AA-A Na Ni Po                            - -  - 501   Va M7 V M7 V          
-1911                      XAF3000-0 Ba Fl Lo Ni                         - -  - 010   -- M4 V               
-1913                      X446000-0 Ba Lo Ni                            - -  - 016   -- F1 V M2 V          
-1916                      X354000-0 Ba Lo Ni                            - -  - 005   -- F3 V M7 V          
-1919 Aengi                C562101-7 Lo Ni                               - C  - 124   Va F4 V               
-2015                      X574000-0 Ba Lo Ni                            - -  - 000   -- M5 V               
-2111                      X6B1000-0 Ba Fl Lo Ni                         - -  - 026   -- K3 V M1 V          
-2113                      X9E7000-0 Ba Fl Lo Ni                         - -  - 000   -- M7 V               
-2114                      XAE6000-0 Ba Fl Lo Ni                         - -  - 010   -- M6 V               
-2115                      X351000-0 Ba Lo Ni Po                         - -  - 002   -- K3 V M1 V          
-2214                      X432000-0 Ba Lo Ni Po                         - -  - 014   -- F6 III             
-2216                      X000000-0 As Ba Lo Ni                         - -  - 001   -- M0 V M1 V          
-2314                      X539000-0 Ba Lo Ni                            - -  - 000   -- M3 V               
-2315                      X64A000-0 Ba Lo Ni Wa                         - -  - 000   -- F4 V M5 V          
-2414                      X350000-0 Ba De Lo Ni Po                      - -  - 014   -- G4 V               
-2415                      X99A000-0 Ba Lo Ni Wa                         - -  - 002   -- F9 V               
-2416                      X8B4000-0 Ba Fl Lo Ni                         - -  - 006   -- K2 V M3 V          
-2417                      X895000-0 Ba Lo Ni                            - -  - 004   -- F5 V               
-2418                      X524000-0 Ba Lo Ni                            - -  - 000   -- F9 V M6 V          
-2420 Notsezdzuok          C733564-9 Ni Po                               - -  - 325   Va M7 V M8 V          
-2519                      X301000-0 Ba Ic Lo Ni Va                      - -  - 004   -- M0 V               
-2612                      X301000-0 Ba Ic Lo Ni Va                      - -  - 000   -- K8 V               
-2616                      XAA4000-0 Ba Fl Lo Ni                         - -  - 033   -- G7 V               
-2720                      X523000-0 Ba Lo Ni Po                         - -  - 004   -- K8 V               
-2818                      X500000-0 Ba Lo Ni Va                         - -  - 014   -- M2 V               
-2819                      X472000-0 Ba Lo Ni                            - -  - 004   -- F1 V M5 V          
-3013                      X8D6000-0 Ba Fl Lo Ni                         - -  - 002   -- M4 V               
-3016                      X110000-0 Ba Lo Ni                            - -  - 000   -- F9 V M5 V          
-3111                      X000000-0 As Ba Lo Ni                         - -  - 020   -- M0 V               
-3214                      X583000-0 Ba Lo Ni                            - -  - 002   -- F2 V               
-3217                      X7A1000-0 Ba Fl Lo Ni                         - -  - 004   -- M1 III M3 V        
-3218                      X8A6000-0 Ba Fl Lo Ni                         - -  - 000   -- M8 V               
-0121                      X9C9000-0 Ba Fl Lo Ni                         - -  - 006   -- M2 V M2 V          
-0123                      X524000-0 Ba Lo Ni                            - -  - 028   -- M0 V M7 V          
-0125                      X87A000-0 Ba Lo Ni Wa                         - -  - 000   -- F3 V               
-0126                      X100000-0 Ba Lo Ni Va                         - -  - 005   -- F2 IV M2 V         
-0129                      X534000-0 Ba Lo Ni                            - -  - 002   -- M6 V               
-0230                      X696000-0 Ba Lo Ni                            - -  - 005   -- F8 V M1 V          
-0325                      X677000-0 Ba Lo Ni                            - -  - 012   -- F2 V               
-0525                      X562000-0 Ba Lo Ni                            - -  - 000   -- F5 V               
-0526                      X220000-0 Ba De Lo Ni Po                      - -  - 002   -- F0 IV              
-0529 Ikhtaez              D9B5438-5 Fl Ni                               - CK - 500   Va M0 V M6 V          
-0623                      X568000-0 Ba Lo Ni                            - -  - 020   -- F4 V               
-0628 Aetsoul              C453425-6 Ni Po                               - C  - 802   Va G4 V               
-0723                      X558000-0 Ba Lo Ni                            - -  - 011   -- F4 V               
-0922                      X969000-0 Ba Lo Ni                            - -  - 004   -- F3 V M7 V          
-0930 Dzingae              C845876-4                                     - CK - 913   Va F2 V               
-1022                      X240000-0 Ba De Lo Ni Po                      - -  - 004   -- F2 V               
-1024 Vaekazirrg           D562787-2                                     - K  - 513   Va F5 V               
-1026 Noengdolrokh         E471544-4 Ni                                  - C  - 916   Va F6 V M5 V          
-1121 Raeourrghats         C454443-6 Ni                                  - -  - 823   Va F6 V M7 V          
-1127 Aegugz               D5A3223-4 Fl Lo Ni                            - K  - 403   Va M1 V M2 V          
-1221 Aegzaedhudz          B425761-8                                     - K  - 103   Va M3 II G0 V         
-1224 Sangakh              C674001-2 Lo Ni                               - C  - 614   Va F4 V M7 V          
-1225 Rrouae               C8C08BA-7 De                                  - K  - 303   Va F7 V M5 V          
-1321 Khugaedh             C583643-5 Ag Ni Ri                            - -  - 602   Va F4 V               
-1323 Gogaal               B757410-6 Ni                                  - K  - 514   Va G1 V               
-1325 Ifoknughor           B300433-8 Ni Va                               - -  - 605   Va K7 V M6 V          
-1330 Ghoangkouts          C323431-7 Ni Po                               - -  - 803   VU M4 V M8 V          
-1421 Ueoe                 C541400-6 Ni Po                               - -  - 434   Va F2 V M1 V          
-1423 Oezouk               D84A577-8 Ni Wa                               - C  - 110   Va F0 V               
-1429 Koekllighz           C5A0000-8 Ba De Lo Ni                         - C  - 800   VU M1 V               
-1521 Dukhuegoegho         C569877-4                                     - -  - 500   Va F6 V               
-1528 Llae                 C9A7876-6 Fl                                  - K  - 122   VU G2 V M7 V          
-1622 Ueaedz               C120A97-B De Hi In Na Po                      - C  - 111   Va F7 V               
-1623 Loengkfodz           C410479-9 Ni                                  - -  - 600   Va G6 V               
-1629 Khasouts             C410A75-9 Hi Na                               - K  - 803   VU F1 V M5 V          
-1726 Ghaerrgvorr          D558778-1 Ag                                  - -  - 501   Va F8 V M1 V          
-1727 Oeko                 B685542-A Ag Ni                               - -  - 713   Va F4 V               
-1825 Enksael              C698334-2 Lo Ni                               - K  - 703   Va F8 V               
-1826 Llouzas              C20097B-5 Hi Na Va                            - K  - 900   Va F3 V               
-1830 Avukfou              B21047A-D Ni                                  - -  - 801   Va A5 IV              
-1921 Uthzekora            B200686-A Na Ni Va                            - K  - 500   Va M2 V M5 V          
-1923 Zoethael             E10078A-6 Na Va                               - C  - 705   Va M0 V               
-2021 Zourazanin           E230357-3 De Lo Ni Po                         - -  - 910   Va M6 V               
-2023 Agadhzurz            B53A79A-7 Wa                                  - -  - 503   Va G5 V M5 V          
-2025 Kutadhviz            C563765-8 Ag Ri                               - -  - 504   Va M7 V               
-2225 Uallaeo              CAD9434-9 Fl Ni                               - K  - 101   Va M3 V M6 V          
-2227 Oe                   C688645-3 Ag Ni Ri                            - K  - 914   Va F8 V               
-2228 Kikuegher            C978300-8 Lo Ni                               - -  - 400   Va M7 V               
-2230 Karruenekh           C84A577-6 Ni Wa                               - C  - 903   Va F7 V               
-2321 Golghogllal          E000222-7 As Lo Ni                            - C  - 303   Va M0 V M3 V          
-2426 Dhagzun              D483400-8 Ni                                  - -  - 313   Va F3 V               
-2523 Vozorrgvorr          E84A874-8 Wa                                  - -  - 200   Va F4 V               
-2629 Khougnukh            C78579B-2 Ag Ri                               - C  - 104   Va F9 V M8 V          
-2723 Dokiaiz              C999A77-D Hi In                               - K  - 211   Va F5 V               
-2727 Zonarrgh             C221436-4 Ni Po                               - K  - 500   Va G3 V               
-2830 Orrouroerr           E256100-7 Lo Ni                               - -  - 316   Va F6 V M4 V          
-2923 Gvoeghoglleg         A100661-B Na Ni Va                            - -  - 700   Va M4 V               
-2926 Llaenazaeng          C364884-5                                     - -  - 401   Va F6 V M2 V          
-3026 Oegkhurugvaz         B327443-7 Ni                                  - K  - 604   Va M7 V M8 V          
-3028 Goeloznoz            C210978-9 Hi Na                               - K  - 114   Va K5 V               
-3029 Ksaegveng            C577344-7 Lo Ni                               - -  - 503   Va F9 V               
-3126 Llengoerr            C547361-5 Lo Ni                               - K  - 710   Va F3 V               
-3130 Ouruekoez            EAA78AE-0 Fl                                  - C  - 714   Va F9 V               
-3227 Noukugzaegoe         B36256A-A Ni                                  - K  - 534   Va F0 V M0 V          
-0134                      X656000-0 Ba Lo Ni                            - -  - 013   -- M3 V               
-0238 Onun                 B5478BB-7                                     - K  - 505   Va F7 V M0 V          
-0431 Voenaenneg           E100343-9 Lo Ni Va                            - C  - 900   Va G1 V               
-0436 Otoghauen            C8999A7-6 Hi In                               - C  - 510   Va F0 V M8 V          
-0438 Ikdzuthongka         C673400-8 Ni                                  - -  - 414   Va F8 V               
-0536 Etsaefadh            C120576-7 De Ni Po                            - -  - 121   Va K5 V               
-0539 Aekhourkots          C1306AB-9 De Na Ni Po                         - -  - 605   Va M7 V               
-0632 Khodzitsverr         A887575-D Ag Ni                               - -  - 301   Va F7 V M2 V          
-0633 Kouazu               C56056A-7 De Ni                               - C  - 901   Va F3 V M1 V          
-0738 Gharagzael           C13085A-8 De Na Po                            - K  - 500   Va F8 V               
-0740 Ngoerrkueng          D777400-8 Ni                                  - C  - 124   Va F5 V M7 V          
-0832 Roeksvoks            B322320-9 Lo Ni Po                            - -  - 504   Va M7 II M0 V         
-0931 Sookszuekho          C898676-4 Ag Ni                               - K  - 623   Va G2 V               
-0935 Gazanvoerso          D353111-3 Lo Ni Po                            - C  - 203   Va F8 V               
-0937 Oezkhaerzoz          C2108AF-9 Na                                  - -  - 120   Va F9 V               
-0938 Sozooeg              C994A79-B Hi In                               - C  - 621   Va F2 V               
-1033 Rokean               X353772-0 Ag Po                               - C  - 324   Va F6 V               
-1136 Konarung             B451498-8 Ni Po                               - -  - 301   Va M1 V M5 V          
-1235 Aegksounorz          C9E4765-9 Fl                                  - -  - 603   Va G2 V M6 V          
-1338 Sesogz               C1005A9-B Ni Va                               - C  - 502   Va M1 V               
-1533 Ongral               C533100-5 Lo Ni Po                            - -  - 103   Va M7 V               
-1633 Zaeuzkhokh           C000221-9 As Lo Ni                            - -  - 601   Va M4 V               
-1731 Rokhougsuen          C400646-7 Na Ni Va                            - -  - 413   Va M7 V               
-1732 Ozgvilulvagh         D86A154-6 Lo Ni Wa                            - C  - 923   Va F8 V M0 V          
-1832 Dhaeaeng             C666400-A Ni                                  - C  - 715   Va F2 V M8 V          
-1932 Kakunoeg             C260210-6 De Lo Ni                            - C  - 903   Va M1 V               
-1934 Voksaerzaerz         C663125-7 Lo Ni                               - -  - 921   Va F9 V               
-2031 Ighghakhits          C266444-8 Ni                                  - -  - 623   Va F0 V               
-2038 Ksoarokhaks          C120976-7 De Hi In Na Po                      - C  - 113   Va F0 V               
-2132 Soentsaets           A256426-A Ni                                  - K  - 901   Va F2 V               
-2140 Kurrghorrouk         A678657-7 Ag Ni                               - -  - 402   Va F1 V M4 V          
-2332 Igkizlurz            C85A778-5 Wa                                  - -  - 801   Va F2 V               
-2333 Foezksar             A66466A-6 Ag Ni Ri                            - -  - 214   Va F5 V               
-2440 Raghzzegzon          C536000-8 Ba Lo Ni                            - -  - 920   Va M7 V               
-2631 Rukhzurrgh           D77A975-6 Hi In Wa                            - -  - 113   VZ F7 V               
-2632 Oerrgsuerrgh         D361799-3 Ri                                  - -  - 800   VZ G8 V               
-2633 Gadae                E586312-3 Lo Ni                               - C  - 901   VZ K6 V M7 V          
-2736 Dhagzarer            D6A5589-2 Fl Ni                               - -  - 100   Va M7 V               
-2836 Roudzgvae            X272402-3 Ni                                  - C  - 303   Va F9 V               
-3032 Dzuedonuegho         C10057B-8 Ni Va                               - K  - 302   Va M1 V M7 V          
-3131 Thoughivo            C460321-7 De Lo Ni                            - -  - 804   Va F1 V               
-3235 Aeghdaz              C353558-4 Ag Ni Po                            - -  - 600   Va M2 V               
+Hex  Name                 UWP       Remarks              {Ix} (Ex)    [Cx]   N B  Z PBG W  A    Stellar       
+---- -------------------- --------- -------------------- ---- ------- ------ - -- - --- -- ---- --------------
+0106 RkA0106              X579000-0 Ba                   {-3} (500-5) [0000] - -  - 023 15 NaXX F0 V          
+0107 RzA0107              X979000-0 Ba                   {-3} (900-5) [0000] - -  - 002 12 NaXX F2 V M8 V     
+0110 RzA0110              X445000-0 Ba                   {-3} (400-5) [0000] - -  - 004 13 NaXX F6 V          
+0308 RzA0308              X300000-0 Ba Va Sa             {-3} (300-5) [0000] - -  - 017 17 NaXX M1 V M6 V     
+0402 RzA0402              X896000-0 Ba                   {-3} (800-5) [0000] - -  - 000 9  NaXX F1 V          
+0405 RzA0405              X323000-0 Ba Po                {-3} (300-5) [0000] - -  - 004 14 NaXX M3 V M6 V     
+0410 RzA0410              X434000-0 Ba                   {-3} (400-5) [0000] - -  - 006 14 NaXX K8 V M1 V     
+0510 RzA0510              X87A000-0 Ba Wa                {-3} (800-5) [0000] - -  - 020 9  NaXX K8 V M3 V     
+0602 RzA0602              XAE7000-0 Ba                   {-3} (500-5) [0000] - -  - 033 11 NaXX G0 V M5 V     
+0605 RzA0605              X749000-0 Ba                   {-3} (700-5) [0000] - -  - 002 11 NaXX M7 V          
+0606 RzA0606              X454000-0 Ba                   {-3} (400-5) [0000] - -  - 007 13 NaXX F8 V M7 V     
+0608 RzA0608              X9C6000-0 Ba Fl                {-3} (900-5) [0000] - -  - 000 4  NaXX M0 V M1 V     
+0703 RzA0703              X534000-0 Ba                   {-3} (500-5) [0000] - -  - 000 3  NaXX K8 V M0 V     
+0709 RzA0709              X536000-0 Ba                   {-3} (500-5) [0000] - -  - 033 11 NaXX M2 V M6 V     
+0803 RzA0803              X211000-0 Ba Ic                {-3} (200-5) [0000] - -  - 002 9  NaXX M1 V          
+0805 RzA0805              XA7A000-0 Ba Oc                {-3} (A00-5) [0000] - -  - 024 16 NaXX G4 V G7 V     
+0807 RzA0807              X310000-0 Ba                   {-3} (300-5) [0000] - -  - 002 12 NaXX M8 V          
+0809 RzA0809              X684000-0 Ba                   {-3} (600-5) [0000] - -  - 015 16 NaXX F8 V M4 V     
+0903 RzB0903              X444000-0 Ba                   {-3} (400-5) [0000] - -  - 039 15 NaXX G4 V M6 V     
+0905 RzB0905              X201000-0 Ba Ic Va             {-3} (200-5) [0000] - -  - 000 3  NaXX M1 V M3 V     
+0906 RzB0906              X586000-0 Ba                   {-3} (500-5) [0000] - -  - 004 15 NaXX F8 V          
+0908 RzB0908              X240000-0 Ba De Po Sa          {-3} (200-5) [0000] - -  - 003 10 NaXX F0 V M3 V     
+1003 RzB1003              X596000-0 Ba                   {-3} (500-5) [0000] - -  - 001 10 NaXX F1 V          
+1007 RzB1007              X9B2000-0 Ba Fl He             {-3} (900-5) [0000] - -  - 000 6  NaXX M2 V          
+1008 RzB1008              XA77000-0 Ba                   {-3} (A00-5) [0000] - -  - 011 12 NaXX F9 V          
+1009 RzB1009              XAC6000-0 Ba Fl                {-3} (A00-5) [0000] - -  - 003 10 NaXX M8 V          
+1102 RzB1102              X444000-0 Ba                   {-3} (400-5) [0000] - -  - 010 6  NaXX K8 V          
+1103 RzB1103              X485000-0 Ba                   {-3} (400-5) [0000] - -  - 014 9  NaXX G2 V          
+1105 RzB1105              X250000-0 Ba De Po Sa          {-3} (200-5) [0000] - -  - 035 18 NaXX F9 V M7 V     
+1107 RzB1107              X234000-0 Ba                   {-3} (200-5) [0000] - -  - 000 7  NaXX M0 V M1 V     
+1201 RzB1201              X475000-0 Ba                   {-3} (400-5) [0000] - -  - 003 6  NaXX F9 V          
+1202 RzB1202              X556000-0 Ba                   {-3} (500-5) [0000] - -  - 003 11 NaXX M4 V          
+1207 RzB1207              X232000-0 Ba Po                {-3} (200-5) [0000] - -  - 005 13 NaXX M2 V M6 V     
+1208 RzB1208              X55A000-0 Ba Wa                {-3} (500-5) [0000] - -  - 003 10 NaXX F6 V          
+1304 RzB1304              X427000-0 Ba                   {-3} (400-5) [0000] - -  - 001 11 NaXX M5 V          
+1305 RzB1305              X578000-0 Ba                   {-3} (500-5) [0000] - -  - 004 12 NaXX F8 V M2 V     
+1306 RzB1306              X669000-0 Ba                   {-3} (600-5) [0000] - -  - 001 9  NaXX F4 V          
+1310 RzB1310              X757000-0 Ba Ga                {-3} (700-5) [0000] - -  - 004 9  NaXX K8 V          
+1401 RzB1401              X693000-0 Ba                   {-3} (600-5) [0000] - -  - 004 12 NaXX F5 V          
+1402 RzB1402              X545000-0 Ba                   {-3} (500-5) [0000] - -  - 001 9  NaXX F0 V M3 V     
+1403 RzB1403              X76A000-0 Ba Wa                {-3} (700-5) [0000] - -  - 002 9  NaXX F7 V          
+1407 RzB1407              X381000-0 Ba                   {-3} (300-5) [0000] - -  - 003 7  NaXX F3 V          
+1503 RzB1503              X424000-0 Ba                   {-3} (400-5) [0000] - -  - 022 14 NaXX K6 V          
+1505 RzB1505              X69A000-0 Ba Wa                {-3} (600-5) [0000] - -  - 011 13 NaXX F4 V M1 V     
+1508 RzB1508              X301000-0 Ba Ic Va             {-3} (300-5) [0000] - -  - 003 11 NaXX M0 V M2 V     
+1510 RzB1510              X404000-0 Ba Ic Va             {-3} (400-5) [0000] - -  - 002 9  NaXX M1 II         
+1605 RzB1605              X120000-0 Ba De Po Sa          {-3} (200-5) [0000] - -  - 013 16 NaXX M8 V          
+1606 RzB1606              X985000-0 Ba                   {-3} (900-5) [0000] - -  - 003 15 NaXX G0 V M0 V     
+1608 RzB1608              X200000-0 Ba Va                {-3} (200-5) [0000] - -  - 021 8  NaXX K7 V          
+1609 RzB1609              X636000-0 Ba                   {-3} (600-5) [0000] - -  - 004 8  NaXX M1 V M4 V     
+1702 RzC1702              X658000-0 Ba                   {-3} (600-5) [0000] - -  - 000 3  NaXX M6 V          
+1802 RzC1802              X76A000-0 Ba Wa                {-3} (700-5) [0000] - -  - 004 11 NaXX F0 V M2 V     
+1808 RzC1808              X512000-0 Ba Ic                {-3} (500-5) [0000] - -  - 014 12 NaXX K5 V M3 V     
+1810 RzC1810              X582000-0 Ba                   {-3} (500-5) [0000] - -  - 001 9  NaXX F6 V          
+1908 RzC1908              X454000-0 Ba                   {-3} (400-5) [0000] - -  - 013 16 NaXX K5 V M3 V     
+2001 RzC2001              X346000-0 Ba                   {-3} (300-5) [0000] - -  - 002 9  NaXX F9 V          
+2004 RzC2004              X150000-0 Ba De Po             {-3} (200-5) [0000] - -  - 020 14 NaXX F8 V M8 V     
+2006 RzC2006              X877000-0 Ba                   {-3} (800-5) [0000] - -  - 000 8  NaXX F7 V          
+2007 RzC2007              X97A000-0 Ba Wa                {-3} (900-5) [0000] - -  - 005 12 NaXX K3 V          
+2010 RzC2010              X515000-0 Ba Ic                {-3} (500-5) [0000] - -  - 011 7  NaXX M2 V          
+2104 RzC2104              X332000-0 Ba Po                {-3} (300-5) [0000] - -  - 004 14 NaXX F9 V          
+2109 RzC2109              X9B5000-0 Ba Fl                {-3} (900-5) [0000] - -  - 000 8  NaXX M0 V M8 V     
+2110 RzC2110              X9B2000-0 Ba Fl He             {-3} (900-5) [0000] - -  - 000 9  NaXX M7 V          
+2201 RzC2201              X371000-0 Ba He                {-3} (300-5) [0000] - -  - 014 8  NaXX F5 V          
+2202 RzC2202              X200000-0 Ba Va                {-3} (200-5) [0000] - -  - 000 12 NaXX M0 III        
+2204 RzC2204              X429000-0 Ba                   {-3} (400-5) [0000] - -  - 003 9  NaXX F8 V M8 V     
+2205 RzC2205              X243000-0 Ba Po                {-3} (200-5) [0000] - -  - 002 10 NaXX F9 V          
+2206 RzC2206              X655000-0 Ba Ga                {-3} (600-5) [0000] - -  - 000 5  NaXX M4 V          
+2210 RzC2210              X537000-0 Ba                   {-3} (500-5) [0000] - -  - 001 12 NaXX M4 V          
+2303 RzC2303              X7C5000-0 Ba Fl                {-3} (700-5) [0000] - -  - 014 15 NaXX K4 III M8 V   
+2307 RzC2307              X222000-0 Ba Po                {-3} (200-5) [0000] - -  - 021 13 NaXX F0 V M4 V     
+2407 RzC2407              X352000-0 Ba Po                {-3} (300-5) [0000] - -  - 002 14 NaXX F1 V          
+2408 RzC2408              X332000-0 Ba Po                {-3} (300-5) [0000] - -  - 004 9  NaXX M0 V          
+2509 RzD2509              X797000-0 Ba                   {-3} (900-5) [0000] - -  - 002 9  NaXX F8 V          
+2510 RzD2510              X579000-0 Ba                   {-3} (500-5) [0000] - -  - 007 15 NaXX M3 V M8 V     
+2602 RzD2602              X120000-0 Ba De Po Sa          {-3} (200-5) [0000] - -  - 003 15 NaXX G1 V          
+2607 RzD2607              X575000-0 Ba                   {-3} (500-5) [0000] - -  - 005 10 NaXX K7 V M7 V     
+2702 RzD2702              X300000-0 Ba Va                {-3} (300-5) [0000] - -  - 004 10 NaXX G0 V          
+2805 RzD2805              X578000-0 Ba                   {-3} (500-5) [0000] - -  - 003 12 NaXX F2 V          
+2908 RzD2908              X564000-0 Ba                   {-3} (500-5) [0000] - -  - 021 9  NaXX F4 V          
+3004 RzD3004              X250000-0 Ba De Po Sa          {-3} (200-5) [0000] - -  - 017 18 NaXX F5 V M0 V     
+3005 RzD3005              X6B1000-0 Ba Fl He             {-3} (600-5) [0000] - -  - 012 13 NaXX K3 V          
+3102 RzD3102              X201000-0 Ba Ic Va             {-3} (200-5) [0000] - -  - 022 12 NaXX M0 V          
+0211 RzE0211              X644000-0 Ba                   {-3} (600-5) [0000] - -  - 004 10 NaXX F9 V M0 V     
+0213 RzE0213              X343000-0 Ba Po                {-3} (300-5) [0000] - -  - 002 7  NaXX F8 V M8 V     
+0214 RzE0214              X200000-0 Ba Va                {-3} (200-5) [0000] - -  - 001 7  NaXX K1 V          
+0312 RzE0312              X301000-0 Ba Ic Va             {-3} (300-5) [0000] - -  - 024 14 NaXX G1 III        
+0315 RzE0315              X432000-0 Ba Po                {-3} (400-5) [0000] - -  - 020 12 NaXX F4 V M8 V     
+0316 RzE0316              X200000-0 Va Ba                {-3} (200-5) [0000] - -  - 004 11 NaXX G5 V          
+0411 RzE0411              X647000-0 Ba                   {-3} (600-5) [0000] - -  - 000 8  NaXX K1 V          
+0416 RzE0416              X681000-0 Ba                   {-3} (600-5) [0000] - -  - 006 18 NaXX M3 V M5 V     
+0520 RzE0520              X766000-0 Ba Ga                {-3} (700-5) [0000] - -  - 004 14 NaXX F2 V          
+0613 RzE0613              X78A000-0 Ba Wa                {-3} (700-5) [0000] - -  - 006 14 NaXX M0 V M0 V     
+0614 RzE0614              X446000-0 Ba                   {-3} (400-5) [0000] - -  - 002 13 NaXX G2 V M1 V     
+0618 RzE0618              X65A000-0 Ba Wa                {-3} (600-5) [0000] - -  - 002 10 NaXX F4 V M6 V     
+0620 RzE0620              X9C4000-0 Ba Fl                {-3} (900-5) [0000] - -  - 010 7  NaXX K1 V          
+0717 RzE0717              X243000-0 Ba Po Sa             {-3} (200-5) [0000] - -  - 006 18 NaXX F3 V M5 V M3 V
+0720 RzE0720              X72A000-0 Ba                   {-3} (700-5) [0000] - -  - 000 6  NaXX M1 V M6 V     
+0815 RzE0815              X310000-0 Ba Sa                {-3} (300-5) [0000] - -  - 007 14 NaXX M5 V M6 V     
+0819 RzE0819              X464000-0 Ba                   {-3} (400-5) [0000] - -  - 021 13 NaXX F7 V M7 V     
+0820 RzE0820              X66A000-0 Ba Wa                {-3} (600-5) [0000] - -  - 002 10 NaXX F3 V          
+0911 RzF0911              X412000-0 Ba Ic                {-3} (400-5) [0000] - -  - 002 7  NaXX M6 V          
+0914 RzF0914              X557000-0 Ba                   {-3} (500-5) [0000] - -  - 013 8  NaXX G1 V          
+0917 RzF0917              X796000-0 Ba                   {-3} (700-5) [0000] - -  - 024 17 NaXX F8 V M0 V     
+0919 RzF0919              X340000-0 Ba De He Po Lk       {-3} (300-5) [0000] - -  - 006 9  NaXX F3 V M7 V     
+1014 RzF1014              X403000-0 Ba Ic Va             {-3} (400-5) [0000] - -  - 016 13 NaXX M1 V M6 V     
+1017 RzF1017              X410000-0 Ba                   {-3} (400-5) [0000] - -  - 013 12 NaXX M3 V M8 V     
+1112 RzF1112              X361000-0 Ba                   {-3} (300-5) [0000] - -  - 000 7  NaXX F6 V          
+1113 RzF1113              X527000-0 Ba                   {-3} (500-5) [0000] - -  - 002 11 NaXX M4 V          
+1118 RzF1118              XA68000-0 Ba                   {-3} (A00-5) [0000] - -  - 010 9  NaXX M4 V          
+1119 RzF1119              X628000-0 Ba                   {-3} (600-5) [0000] - -  - 004 8  NaXX M7 V          
+1211 RzF1211              X887000-0 Ba Ga                {-3} (800-5) [0000] - -  - 003 12 NaXX F7 V          
+1213 RzF1213              X110000-0 Ba                   {-3} (200-5) [0000] - -  - 003 15 NaXX F1 V          
+1216 RzF1216              X686000-0 Ba Ga                {-3} (600-5) [0000] - -  - 034 12 NaXX M3 V          
+1217 RzF1217              X767000-0 Ba Ga                {-3} (700-5) [0000] - -  - 003 9  NaXX F8 V          
+1313 RzF1313              X89A000-0 Ba Wa                {-3} (800-5) [0000] - -  - 002 9  NaXX F3 V M2 V     
+1315 RzF1315              X583000-0 Ba                   {-3} (500-5) [0000] - -  - 000 6  NaXX K7 V          
+1319 RzF1319              X86A000-0 Ba Wa                {-3} (800-5) [0000] - -  - 016 12 NaXX F9 V M5 V     
+1415 RzF1415              X334000-0 Ba                   {-3} (300-5) [0000] - -  - 000 7  NaXX M0 V          
+1416 RzF1416              X65A000-0 Ba Wa                {-3} (600-5) [0000] - -  - 014 12 NaXX M5 V          
+1514 RzF1514              X666000-0 Ba Ga                {-3} (600-5) [0000] - -  - 013 12 NaXX F7 V M6 V     
+1516 RzF1516              X421000-0 Ba He Po             {-3} (400-5) [0000] - -  - 023 9  NaXX M8 V          
+1613 RzF1613              X785000-0 Ba Ga                {-3} (700-5) [0000] - -  - 003 9  NaXX F7 V          
+1616 RzF1616              X200000-0 Ba Va Sa             {-3} (200-5) [0000] - -  - 036 18 NaXX F3 V M5 V F8 V
+1617 RzF1617              X233000-0 Ba Po Sa             {-3} (200-5) [0000] - -  - 014 17 NaXX G6 III        
+1811 RzG1811              X457000-0 Ba                   {-3} (400-5) [0000] - -  - 023 17 NaXX F8 V          
+1815 RzG1815              X473000-0 Ba                   {-3} (400-5) [0000] - -  - 013 15 NaXX M1 V M1 V     
+1816 RzG1816              X424000-0 Ba                   {-3} (400-5) [0000] - -  - 004 8  NaXX K2 V M5 V     
+1819 Tholats              C2326AA-A Na Ni Po             {+0} (854-1) [41AC] - -  - 501 8  NaVa M7 V M7 V     
+1911 RzG1911              XAF3000-0 Ba                   {-3} (A00-5) [0000] - -  - 010 9  NaXX M4 V          
+1913 RzG1913              X446000-0 Ba                   {-3} (400-5) [0000] - -  - 016 15 NaXX F1 V M2 V     
+1916 RzG1916              X354000-0 Ba                   {-3} (300-5) [0000] - -  - 005 14 NaXX F3 V M7 V     
+1919 Aengi                C562101-7 Lo                   {-2} (800+1) [1499] - C  - 124 9  NaVa F4 V          
+2015 RzG2015              X574000-0 Ba                   {-3} (500-5) [0000] - -  - 000 8  NaXX M5 V          
+2111 RzG2111              X6B1000-0 Ba Fl He             {-3} (600-5) [0000] - -  - 026 11 NaXX K3 V M1 V     
+2113 RzG2113              X9E7000-0 Ba                   {-3} (900-5) [0000] - -  - 000 5  NaXX M7 V          
+2114 RzG2114              XAE6000-0 Ba                   {-3} (A00-5) [0000] - -  - 010 6  NaXX M6 V          
+2115 RzG2115              X351000-0 Ba Po                {-3} (300-5) [0000] - -  - 002 5  NaXX K3 V M1 V     
+2214 RzG2214              X432000-0 Ba Po                {-3} (400-5) [0000] - -  - 014 10 NaXX F6 III        
+2216 RzG2216              X000000-0 As Ba Va             {-3} (200-5) [0000] - -  - 001 9  NaXX M0 V M1 V     
+2314 RzG2314              X539000-0 Ba                   {-3} (500-5) [0000] - -  - 000 8  NaXX M3 V          
+2315 RzG2315              X64A000-0 Ba Wa                {-3} (600-5) [0000] - -  - 000 4  NaXX F4 V M5 V     
+2414 RzG2414              X350000-0 Ba De Po Sa          {-3} (300-5) [0000] - -  - 014 16 NaXX G4 V          
+2415 RzG2415              X99A000-0 Ba Wa                {-3} (900-5) [0000] - -  - 002 8  NaXX F9 V          
+2416 RzG2416              X8B4000-0 Ba Fl                {-3} (800-5) [0000] - -  - 006 14 NaXX K2 V M3 V     
+2417 RzG2417              X895000-0 Ba                   {-3} (800-5) [0000] - -  - 004 8  NaXX F5 V          
+2418 RzG2418              X524000-0 Ba                   {-3} (500-5) [0000] - -  - 000 5  NaXX F9 V M6 V     
+2420 Notsezdzuok          C733524-9 Ni Po                {-1} (J42+3) [257A] - -  - 325 16 NaVa M7 V M8 V     
+2519 RzH2519              X301000-0 Ba Ic Va             {-3} (300-5) [0000] - -  - 004 11 NaXX M0 V          
+2612 RzH2612              X301000-0 Ba Ic Va             {-3} (300-5) [0000] - -  - 000 11 NaXX K8 V          
+2616 RzH2616              XAA4000-0 Ba Fl                {-3} (A00-5) [0000] - -  - 033 15 NaXX G7 V          
+2720 RzH2720              X523000-0 Ba Po                {-3} (500-5) [0000] - -  - 004 13 NaXX K8 V          
+2818 RzH2818              X500000-0 Ba Va                {-3} (500-5) [0000] - -  - 014 12 NaXX M2 V          
+2819 RzH2819              X472000-0 Ba He                {-3} (400-5) [0000] - -  - 004 14 NaXX F1 V M5 V     
+3013 RzH3013              X8D6000-0 Ba                   {-3} (800-5) [0000] - -  - 002 11 NaXX M4 V          
+3016 RzH3016              X110000-0 Ba                   {-3} (200-5) [0000] - -  - 000 8  NaXX F9 V M5 V     
+3111 RzH3111              X000000-0 As Ba Va             {-3} (200-5) [0000] - -  - 020 9  NaXX M0 V          
+3214 RzH3214              X583000-0 Ba                   {-3} (500-5) [0000] - -  - 002 11 NaXX F2 V          
+3217 RzH3217              X7A1000-0 Ba Fl He             {-3} (700-5) [0000] - -  - 004 10 NaXX M1 III M3 V   
+3218 RzH3218              X8A6000-0 Ba Fl                {-3} (800-5) [0000] - -  - 000 9  NaXX M8 V          
+0121 RzI0121              X9C9000-0 Ba Fl                {-3} (900-5) [0000] - -  - 006 13 NaXX M2 V M2 V     
+0123 RzI0123              X524000-0 Ba                   {-3} (500-5) [0000] - -  - 028 15 NaXX M0 V M7 V     
+0125 RzI0125              X87A000-0 Ba Wa                {-3} (800-5) [0000] - -  - 000 9  NaXX F3 V          
+0126 RzI0126              X100000-0 Ba Va Sa             {-3} (200-5) [0000] - -  - 005 12 NaXX F2 IV M2 V    
+0129 RzI0129              X534000-0 Ba                   {-3} (500-5) [0000] - -  - 002 11 NaXX M6 V          
+0230 RzI0230              X696000-0 Ba                   {-3} (600-5) [0000] - -  - 005 13 NaXX F8 V M1 V     
+0325 RzI0325              X677000-0 Ba                   {-3} (600-5) [0000] - -  - 012 12 NaXX F2 V          
+0525 RzI0525              X562000-0 Ba                   {-3} (500-5) [0000] - -  - 000 11 NaXX F5 V          
+0526 RzI0526              X220000-0 Ba De Po             {-3} (200-5) [0000] - -  - 002 7  NaXX F0 IV         
+0529 Ikhtaez              D9B5438-5 Fl Lt Ni             {-2} (A30+1) [22A9] - CK - 500 10 NaVa M0 V M6 V     
+0623 RzI0623              X568000-0 Ba                   {-3} (500-5) [0000] - -  - 020 15 NaXX F4 V          
+0628 Aetsoul              C453425-6 Ni Po                {-2} (332+4) [4287] - C  - 802 9  NaVa G4 V          
+0723 RzI0723              X558000-0 Ba                   {-3} (500-5) [0000] - -  - 011 9  NaXX F4 V          
+0922 RzJ0922              X969000-0 Ba                   {-3} (900-5) [0000] - -  - 004 12 NaXX F3 V M7 V     
+0930 Dzingae              C845876-4 Lt Ph Pa Pi          {+0} (972+1) [A788] - CK - 913 11 NaVa F2 V          
+1022 RzJ1022              X240000-0 Ba De Po Sa          {-3} (200-5) [0000] - -  - 004 11 NaXX F2 V          
+1024 Vaekazirrg           D562787-2 Lt Ri                {-1} (563+1) [6265] - K  - 513 13 NaVa F5 V          
+1026 Noengdolrokh         E471544-4 Lt Ni He             {-3} (343+4) [17A9] - C  - 916 16 NaVa F6 V M5 V     
+1121 Raeourrghats         C454443-6 Ni Pa                {-2} (330+5) [12AB] - -  - 823 14 NaVa F6 V M7 V     
+1127 Aegugz               D5A3223-4 Fl Lo                {-3} (510+4) [5483] - K  - 403 16 NaVa M1 V M2 V     
+1221 Aegzaedhudz          B425761-8 Pi O:1622            {+0} (667+2) [3AA4] - K  - 103 12 NaVa M3 II G0 V    
+1224 Sangakh              C674001-4 Di                   {-2} (C00-5) [0000] - C  - 014 15 NaVa F4 V M7 V     
+1225 Rrouae               C8C08BA-7 He Ph                {-1} (973-2) [32AC] - K  - 303 9  NaVa F7 V M5 V     
+1321 Khugaedh             C583643-5 Lt Ni Ri             {-1} (A55+1) [6765] - -  - 602 8  NaVa F4 V          
+1323 Gogaal               B757410-6 Ga Ni Pa             {-1} (C35+2) [647B] - K  - 514 17 NaVa G1 V          
+1325 Ifoknughor           B300433-8 Ni Va                {-1} (734+1) [4579] - -  - 605 13 NaVa K7 V M6 V     
+1330 Ghoangkouts          C323431-7 Ni Po                {-2} (430+1) [15A9] - -  - 803 6  VU   M4 V M8 V     
+1421 Ueoe                 C541400-6 Ni Po He             {-2} (834-1) [8779] - -  - 434 11 NaVa F2 V M1 V     
+1423 Oezouk               D84A577-8 Ni Wa                {-3} (D40-1) [9499] - C  - 110 9  NaVa F0 V          
+1429 Koekllighz           C5A0000-8 Di He                {-2} (300-5) [0000] - C  - 000 9  VU   M1 V          
+1521 Dukhuegoegho         C569877-4 Lt Ri Ph             {+0} (A78-1) [84A7] - -  - 500 3  NaVa F6 V          
+1528 Llae                 C9A7876-6 Fl Ph                {-1} (A76+2) [4A77] - K  - 122 15 VU   G2 V M7 V     
+1622 Ueaedz               C120A97-B De Hi In Na Po       {+3} (49A+1) [5957] - C  - 111 9  NaVa F7 V          
+1623 Loengkfodz           C410479-9 Ni                   {-1} (230-4) [968A] - -  - 600 8  NaVa G6 V          
+1629 Khasouts             C410A75-9 Hi Na In             {+2} (C98+2) [DC9A] - K  - 803 11 VU   F1 V M5 V     
+1726 Ghaerrgvorr          D558778-1 Ag Lt                {-1} (868+1) [C476] - -  - 501 9  NaVa F8 V M1 V     
+1727 Oeko                 B685542-A Ag Ga Ni Pr          {+2} (945-2) [499E] - -  - 713 10 NaVa F4 V          
+1825 Enksael              C698334-4 Lo Lt                {-2} (C20+3) [8377] - K  - 703 9  NaVa F8 V          
+1826 Llouzas              C20097B-7 Hi In Lt Na Va       {+1} (288-2) [DC56] - K  - 900 6  NaVa F3 V          
+1830 Avukfou              B21047A-D Ht Ni                {+1} (337+1) [24AC] - -  - 801 9  NaVa A5 IV         
+1921 Uthzekora            B200686-A Na Ni Va             {+1} (257+1) [596A] - K  - 500 3  NaVa M2 V M5 V     
+1923 Zoethael             E10078A-6 Na Va Pi Sa          {-2} (261-1) [4958] - C  - 705 13 NaVa M0 V          
+2021 Zourazanin           E230357-5 De Lo Lt Po          {-3} (220+1) [7361] - -  - 910 9  NaVa M6 V          
+2023 Agadhzurz            B53A79A-8 Wa                   {+0} (96B-4) [9949] - -  - 503 8  NaVa G5 V M5 V     
+2025 Kutadhviz            C563765-8 Ri O:1826            {+0} (864+1) [6967] - -  - 504 7  NaVa M7 V          
+2225 Uallaeo              CAD9434-9 Ni                   {-1} (D31+2) [65A5] - K  - 101 9  NaVa M3 V M6 V     
+2227 Oe                   C688645-3 Ag Lt Ni Ri          {+0} (652+1) [56A6] - K  - 914 16 NaVa F8 V          
+2228 Kikuegher            C978300-8 Lo                   {-2} (920+1) [8654] - -  - 400 9  NaVa M7 V          
+2230 Karruenekh           C84A577-6 Ni Wa                {-2} (640-2) [A7AA] - C  - 903 11 NaVa F7 V          
+2321 Golghogllal          E000262-7 As Lo Va O:2420      {-3} (210+3) [745A] - C  - 303 12 NaVa M0 V M3 V     
+2426 Dhagzun (Nanaris)    D483400-8 Ni (Nanarin)         {-3} (E31+1) [7576] - -  - 313 13 NaXX F3 V          
+2523 Vozorrgvorr          E84A874-8 Wa Ph Pi             {-2} (A74+3) [A488] - -  - 200 9  NaVa F4 V          
+2629 Khougnukh            C78579B-3 Ag Ga Lt Ri          {+1} (769-3) [78A7] - C  - 104 16 NaVa F9 V M8 V     
+2723 Dokiaiz              C999A77-D Hi Ht In             {+3} (A9E+1) [FA8B] - K  - 211 9  NaVa F5 V          
+2727 Zonarrgh             C221436-6 Ni Po                {-2} (230-5) [3277] - K  - 500 6  NaVa G3 V          
+2830 Orrouroerr           E256100-7 Lo                   {-3} (800+3) [6376] - -  - 316 13 NaVa F6 V M4 V     
+2923 Gvoeghoglleg         A100661-B Na Ni Va O:2723      {+1} (257-1) [8828] - -  - 700 9  NaVa M4 V          
+2926 Llaenazaeng          C364884-5 Lt Ri Ph Pa          {+0} (475+2) [9655] - -  - 401 10 NaVa F6 V M2 V     
+3026 Oegkhurugvaz         B327443-8 Ni                   {-1} (834+3) [1559] - K  - 604 12 NaVa M7 V M8 V     
+3028 Goeloznoz            C210978-9 Hi In Na Sa          {+2} (F8B+3) [966B] - K  - 114 12 NaVa K5 V          
+3029 Ksaegveng            C577344-7 Lo                   {-2} (720+2) [457A] - -  - 503 16 NaVa F9 V          
+3126 Llengoerr            C547361-5 Lo Lt O:3028         {-2} (520+5) [618A] - K  - 710 6  NaVa F3 V          
+3130 Ouruekoez            EAA78AE-2 Fl Lt Ph             {-2} (B77+1) [5595] - C  - 714 10 NaVa F9 V          
+3227 Noukugzaegoe         B36256A-A Ni Pr O:3028         {+1} (F45+1) [45AA] - K  - 534 16 NaVa F0 V M0 V     
+0134 RzM0134              X656000-0 Ba Ga                {-3} (600-5) [0000] - -  - 013 13 NaXX M3 V          
+0238 Onun                 B5478BB-7 Ph Pa Pi             {+0} (87A-3) [699C] - K  - 505 12 NaVa F7 V M0 V     
+0431 Voenaenneg           E100343-9 Lo Va                {-2} (620+5) [4687] - C  - 900 11 NaVa G1 V          
+0436 Otoghauen            C8999A7-6 Hi In                {+1} (788+1) [DA48] - C  - 510 6  NaVa F0 V M8 V     
+0438 Ikdzuthongka         C673400-8 Ni                   {-2} (D31+4) [5275] - -  - 414 14 NaVa F8 V          
+0536 Etsaefadh            C120576-7 De Ni Po             {-2} (344-1) [518C] - -  - 121 13 NaVa K5 V          
+0539 Aekhourkots          C1306AB-9 De Na Ni Po Tz       {-1} (753-1) [6357] - -  - 605 13 NaVa M7 V          
+0632 Khodzitsverr         A887575-D Ag Ga Ht Ni Pr       {+2} (B48+2) [A65B] - -  - 301 9  NaVa F7 V M2 V     
+0633 Kouazu               C56056A-7 De Ni Pr O:0632      {-2} (443-3) [4179] - C  - 901 9  NaVa F3 V M1 V     
+0738 Gharagzael           C13085A-8 De Na Po Ph          {-1} (776-2) [7699] - K  - 500 6  NaVa F8 V          
+0740 Ngoerrkueng          D777400-8 Ni Pa                {-3} (D31-2) [12A9] - C  - 124 14 NaVa F5 V M7 V     
+0832 Roeksvoks            B322320-9 Lo Po He             {+0} (A20+5) [657D] - -  - 504 17 NaVa M7 II M0 V    
+0931 Sookszuekho          C898676-4 Ag Lt Ni             {-1} (354+3) [95A9] - K  - 623 12 NaVa G2 V          
+0935 Gazanvoerso          D353111-3 Lo Lt Po             {-3} (200-1) [33A8] - C  - 203 9  NaVa F8 V          
+0937 Oezkhaerzoz          C2108AF-9 Na Ph Pi             {+0} (479-1) [868B] - -  - 120 9  NaVa F9 V          
+0938 Sozooeg              C994A79-B Hi In                {+3} (B9C-2) [E848] - C  - 621 10 NaVa F2 V          
+1033 Rokean               X353772-0 Lt Po Sa             {-2} (764+1) [C5A4] - C  - 324 14 NaVa F6 V          
+1136 Konarung             B451498-8 Ni Po Sa             {-1} (733+1) [8636] - -  - 301 9  NaVa M1 V M5 V     
+1235 Aegksounorz          C9E4765-9 O:1338               {+0} (F63+1) [765B] - -  - 603 10 NaVa G2 V M6 V     
+1338 Sesogz               C1005A9-B Ni Va Sa             {+0} (444+4) [5686] - C  - 502 9  NaVa M1 V          
+1533 Ongral               C533100-6 Lo Po                {-2} (500+1) [2467] - -  - 103 9  NaVa M7 V          
+1633 Zaeuzkhokh           C000221-9 As Lo Va             {-1} (A10+5) [7597] - -  - 601 6  NaVa M4 V          
+1731 Rokhougsuen          C400646-7 Na Ni Va Sa          {-2} (654+1) [3475] - -  - 413 10 NaVa M7 V          
+1732 Ozgvilulvagh         D86A154-6 Lo Wa                {-3} (C00+2) [636A] - C  - 923 17 NaVa F8 V M0 V     
+1832 Dhaeaeng             C666400-A Ga Ni Pa             {+0} (A34+1) [9359] - C  - 715 16 NaVa F2 V M8 V     
+1932 Kakunoeg             C260210-6 De Lo                {-2} (810+3) [7379] - C  - 903 10 NaVa M1 V          
+1934 Voksaerzaerz         C663125-7 Lo                   {-2} (800+1) [14A7] - -  - 921 9  NaVa F9 V          
+2031 Ighghakhits          C266444-8 Ni Pa                {-2} (A30+5) [139B] - -  - 623 14 NaVa F0 V          
+2038 Ksoarokhaks          C120976-8 De Hi In Na Po Sa    {+1} (E84+2) [9696] - C  - 113 15 NaVa F0 V          
+2132 Soentsaets           A256426-A Ni Pa                {+1} (633+3) [4849] - K  - 901 6  NaVa F2 V          
+2140 Kurrghorrouk         A678657-8 Ag Ni                {+0} (C51-1) [7748] - -  - 402 5  NaVa F1 V M4 V     
+2332 Igkizlurz            C85A778-5 Wa                   {-1} (664-1) [83A7] - -  - 801 10 NaVa F2 V          
+2333 Foezksar             A66466A-7 Ag Ni Ri O:1830      {+1} (A54-2) [5C62] - -  - 214 12 NaVa F5 V          
+2440 Raghzzegzon          C536000-8 Di                   {-2} (900-5) [0000] - -  - 020 9  NaVa M7 V          
+2631 Rukhzurrgh           D77A975-6 Hi In Wa             {+0} (688-1) [D878] - -  - 113 17 VZ   F7 V          
+2632 Oerrgsuerrgh         D361799-3 Lt Ri                {-1} (965-2) [95A8] - -  - 800 6  VZ   G8 V          
+2633 Gadae                E586312-3 Lo Lt                {-3} (820+5) [8574] - C  - 901 9  VZ   K6 V M7 V     
+2736 Dhagzarer            D6A5589-3 Fl Lt Ni             {-3} (941+2) [1387] - -  - 100 6  NaVa M7 V          
+2836 Roudzgvae            X272402-3 Lt Ni Sa             {-3} (530+4) [7398] - C  - 303 10 NaVa F9 V          
+3032 Dzuedonuegho         C10057B-8 Ni Va                {-2} (440-5) [628A] - K  - 302 5  NaVa M1 V M7 V     
+3131 Thoughivo            C460321-7 De Lo                {-2} (C20+5) [13AC] - -  - 804 9  NaVa F1 V          
+3235 Aeghdaz              C353558-6 Ni Po                {-2} (240+1) [35A9] - -  - 600 11 NaVa M2 V          
