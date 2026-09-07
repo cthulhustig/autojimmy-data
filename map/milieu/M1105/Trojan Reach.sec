@@ -130,7 +130,7 @@ Hex  Name                 UWP       Remarks                       {Ix}   (Ex)   
 2904 Iscand               B795553-B Ag Ni                         { 2 }  (846-1) [2728] BC    N  - 101 11 ImDd K6 V          
 2909 Mirage               A560676-A De Ni Ri                      { 2 }  (B56+1) [5849] BC    -  - 603 9  ImDd F0 V          
 2910 Susanawo             D68A430-5 Ni Wa Lt                      { -3 } (631-5) [1111] B     -  - 111 10 ImDd F0 V          
-3003 627-301              X000120-7 As Lo Va Fo RsB               { -3 } (300-5) [1112] -     -  R 901 10 ImDd F3 V          
+3003 627-301              X000120-7 As Lo Va Fo RsB               { -3 } (300-5) [1112] -     -  R 901 10 ImDd F3 V BH       
 3105 Neumann              B876AA9-D Hi In Ht                      { 4 }  (H9G+5) [BE6E] BEf   N  - 123 13 ImDd G3 V          
 3107 Ploderash            D303696-8 Ic Na Ni Va                   { -3 } (A51-4) [5347] B     -  - 520 10 ImDd F1 V M9 V     
 0116 Daruf                D540358-5 De He Lo Po FlorW Px Lt       { -3 } (520-3) [3155] -     -  - 213 12 FlLe F6 V          

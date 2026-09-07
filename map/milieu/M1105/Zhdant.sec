@@ -12,7 +12,7 @@
 
 # Author:    William Dover and Clay Bush
 # Publisher: HIWG
-# Ref:       http://www.zho.berka.com/data/CLASSIC/sector.pl?sector=ZHODANE
+# Ref:       https://zhodani.space/data/CLASSIC/sector.cgi?sector=ZHODANE
 
 # Subsector A: Drevlishienz
 # Subsector B: Chiashov
@@ -31,562 +31,560 @@
 # Subsector O: Iezranspa
 # Subsector P: Stieniazhir
 
-# Alleg: Cw: "Chirper World"
-# Alleg: Dr: "Droyne"
-# Alleg: Zh: "Zhodani Consulate"
+# Alleg: ZhJp: "Zhodani Consulate, Jadlapriants Province"
 
-Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z PBG W A  Stellar        
----- -------------------- --------- -------------------- ---- ---- ---- - -- - --- - -- ---------------
-0109 Ilviei               C200431-C Va Ni                               - -  - 504   Zh M6 V           
-0110 Enzhtladr            A687658-D Ag Ni Ri                            - KM - 612   Zh M7 V           
-0203 Vezhna               A4658CC-9                                     - KM - 503   Zh F7 V M6 V      
-0208 Ianshenj             B527786-B Ni                                  - -  - 603   Zh F9 V M5 V      
-0302 Iadvada              A77399B-E Hi In Cp                            - KM - 304   Zh M5 V           
-0303 Yal Vri              B534677-B Ni                                  - -  - 323   Zh G9 V M7 V      
-0307 Tlenshiebr           B749310-C Lo Ni                               - KM - 302   Zh K3 V M9 V      
-0308 Azhia Naz            A574551-E Ag Ni                               - KM - 305   Zh M7 V M7 V      
-0403 Ievrinj              D95A400-9 Wa Ni                               - -  U 100   Zh G4 V           
-0406 Dlopansh             A582431-D Ni Po                               - D  - 312   Zh M5 V           
-0409 Zdieq                D77769A-6 Ag Ni                               - -  - 710   Zh M8 V           
-0507 Sianbistiaql         C362502-A Ni Po                               - -  - 913   Zh F7 V           
-0602 Tliavrianch          B68969C-B Ni Ri                               - -  - 600   Zh M5 V           
-0603 Drepadze             B859AAA-D Hi                                  - KM - 925   Zh G4 V           
-0606 Oiedr                E624100-7 Lo Ni                               - -  - 723   Zh G7 V           
-0607 Iatlbench            BA9A576-B Wa Hi                               - -  - 504   Zh M8 V           
-0609 Vravrchtia           B132656-C Wa Ni Po                            - -  - 204   Zh K7 V           
-0610 Jrbrianch            B79A454-D Wa Ni                               - KM - 700   Zh M2 V M3 V      
-0701 Dav                  C738554-B Ni                                  - -  - 802   Zh M4 II          
-0702 Jdedbrrchie          E562441-7 Ni                                  - -  - 903   Zh M3 V M5 V      
-0703 Brolyeze             B48486A-D Ri O:0603                           - -  - 813   Zh F8 V           
-0707 Drianiadriel         A966220-B Lo Ni                               - KM - 413   Zh F1 IV          
-0709 Oviaansh             C536441-7 Ni An                               - -  - 222   Zh M7 V           
-0805 Dradi                CAFA444-C Fl Wa Ni                            - -  - 301   Zh M0 V           
-0806 Pakrashziavr         C200433-B Va Ni                               - -  - 301   Zh M3 V           
-0808 Zi Sebria            C250575-9 De Ni Po                            - KM - 203   Zh M5 V           
-0901 Kiarbonjivr          A635243-C Lo Ni                               - KM - 312   Zh M6 V M8 V      
-0902 Etl                  AAC597B-E Fl Hi                               - -  - 313   Zh G5 V           
-0905 Anchjdant            C79A78A-A Wa                                  - -  U 603   Zh F9 V M1 V      
-0909 Evzhdianz            A555641-C Ag Ni                               - KM - 302   Zh F6 V M0 V      
-1004 Blablet              B776753-9 Ag                                  - KM - 410   Zh F7 V           
-1005 Tsotliedrant         A672432-C Ni                                  - -  - 904   Zh M9 V           
-1008 Yia'rnch             CAB2547-A Fl Ni                               - -  - 404   Zh K6 III         
-1102 Sinzazhda            A566111-C Lo Ni                               - KM - 700   Zh G8 V M7 V      
-1104 Viribr               B7B4100-D Fl Lo Ni                            - -  - 800   Zh F1 V M4 V      
-1107 Tianjshier           A6A5643-E Fl Ni                               - KM - 225   Zh F2 V           
-1109 Eplstiash            C522357-B Lo Ni Po                            - -  - 600   Zh G2 V           
-1110 Enshklame            B7A4889-A Fl                                  - -  U 814   Zh F9 V           
-1201 Ejriens              B477167-8 Lo Ni O:1301                        - KM - 305   Zh F0 V           
-1203 Briavniedl           E759451-7 Ni                                  - -  - 403   Zh F6 V           
-1204 Chiashov             A534ABA-E Hi Cp                               - D  - 423   Zh F0 V           
-1206 Anchfial             A534333-D Lo Ni                               - -  - 303   Zh M0 V M0 V      
-1207 Nochvi               B888655-A Ag Ni Ri                            - -  - 102   Zh G1 V           
-1208 Diabriefa            C786533-8 Ag Ni D2                            - -  - 623   Zh F1 V M6 V      
-1210 Ontsavre'            B334511-C Ni                                  - -  - 600   Zh M2 V M4 V      
-1301 Pibiansia            A77669C-C Ag Ni An                            - KM - 101   Zh F0 V           
-1304 Tlrnzh               E223211-8 Lo Ni Po                            - -  - 225   Zh M4 V M7 V      
-1307 Rafieqr              B68A651-C Wa Ri Ni                            - -  - 300   Zh F4 V           
-1310 Ialil                A516627-C Ic Ni                               - KM - 904   Zh K6 V           
-1402 Dlozhti              AA88594-B Ag Ni                               - -  - 413   Zh F7 V           
-1403 Ablnits              C446612-8 Ag Ni                               - KM - 223   Zh F2 V M4 V M9 V 
-1406 Tlinzhfrrfr          B242350-D Lo Ni Po                            - -  - 404   Zh K0 V           
-1407 Chtiatstats          B558442-7 Ni                                  - -  - 611   Zh K9 V M9 V      
-1409 Zhdibliav            C87A774-9 Wa                                  - KM - 104   Zh F8 V M9 V      
-1410 Pechbre'r            B513328-A Ic Lo Ni                            - -  - 620   Zh F2 II          
-1501 Nabrchtiz            B23267C-A Na Ni Po                            - KM - 103   Zh M7 V           
-1502 Dra'e                D342130-7 Lo Ni Po                            - -  - 900   Zh M8 V           
-1506 Kiaavr               A568849-B Ri D2                               - KM - 805   Zh F3 V           
-1507 Chiash               C251325-9 Lo Ni Po                            - -  - 711   Zh M3 V           
-1508 Brenzhstel           B4139B7-D Ic Hi In Na                         - KM - 403   Zh F9 V           
-1509 Ziprdanzh            A949471-D Ni                                  - -  - 320   Zh M2 V M7 V      
-1510 Echiepench           B987655-B Ag Ni Ri                            - -  - 300   Zh F4 V M1 V      
-1602 Te Zhdok             B424553-B Ni                                  - KM - 915   Zh M0 II          
-1604 Tiaklienzi           A48666A-E Ag Ri Mr                            - -  - 123   Zh A7 V F0 V M2 V 
-1607 Nevl                 A446779-D Ag                                  - -  - 524   Zh K4 V           
-1701 Zdiebe               C433203-9 Lo Ni Po                            - -  - 503   Zh G8 III         
-1702 Lienche              B0009AC-E As Hi In Na                         - -  - 525   Zh M0 V M3 V      
-1708 Viatla               D335878-7                                     - -  - 120   Zh F0 V           
-1801 Gentsvri             CA89612-9 Ni Ri                               - -  U 411   Zh K5 V           
-1807 Fliaqrjdiafl         C36677B-8 Ag Ri                               - -  - 615   Zh F7 V G7 V      
-1809 Yurm                 A364665-D Ag Ni Ri Mr                         - KM - 423   Cw B4 Ia          
-1902 Fanchebl             C564526-9 Ag Ni                               - KM - 804   Zh M2 V M4 V      
-1906 Ta Oshak             C544346-8 Lo Ni                               - -  - 502   Zh K2 V M6 V      
-1907 Dlelozh              E667532-6 Ag Ni C1                            - -  - 401   Zh G8 V M6 V      
-2002 Ja' Datl             A233788-E Na Po                               - -  - 801   Zh K1 III         
-2004 Perie                BA6A747-A Wa Ri                               - KM - 600   Zh M6 V           
-2005 Zhdendeel            C35388C-6 Po                                  - -  - 205   Zh M3 V           
-2006 E'madliadr           B336572-C Ni                                  - -  - 412   Zh A3 V           
-2008 Pinchar              C332504-C Ni Po                               - -  - 111   Zh F1 V           
-2102 Erimonsh             C351687-8 Ni Po                               - -  - 612   Zh F8 V M4 V M8 V 
-2104 Diant                C484664-9 Ag Ni Ri O:2203                     - -  - 704   Zh F2 V           
-2106 Zdiemsi              B414220-C Ic Lo Ni                            - -  - 322   Zh M9 V           
-2107 Ofchtiaqr            A311526-E Ic Ni                               - D  - 301   Zh M1 V M2 V      
-2108 Frad                 C6857C7-7 Ag                                  - -  - 612   Zh F7 V           
-2109 Ietsianjjal          A484658-D Ag Ni Ri                            - -  - 913   Zh A9 V           
-2110 Zdal                 E667999-7 Hi                                  - -  - 801   Zh F2 V           
-2201 Bretvela             E88A416-8 Wa Ni                               - -  - 602   Zh F3 V           
-2203 Ienjefroda           A225988-E Hi In Cp                            - -  - 921   Zh F3 V M9 V      
-2207 Jiebrdliesh          E558678-4 Ag Ni                               - -  - 422   Zh F1 V M2 V      
-2208 Rintazha             E565623-2 Ag Ni                               - -  U 402   Zh F2 V           
-2210 Fladensh             A76767A-C Ag Ni Ri                            - -  - 622   Zh K3 V           
-2302 Pranvriav            C595543-5 Ag Ni                               - KM - 710   Zh F0 V           
-2305 Jitlesh              C343445-9 Ni Po                               - -  - 104   Zh F7 V M7 V      
-2310 Anchief              C424ACF-C Hi In                               - -  - 401   Zh G0 V           
-2402 Ianttlaiam           A767662-B Ag Ni Ri O:2403                     - -  - 904   Zh K0 II          
-2403 Proplvabriench       A685756-C Ag Ri                               - KM - 915   Zh K7 V           
-2405 Vinzzdefviakl        D975655-7 Ag Ni Ri                            - -  - 302   Zh F7 V M4 V      
-2406 Itedrshatl           B334A9A-E Hi                                  - -  - 404   Zh F3 V           
-2407 Petsyabr             E755320-5 Lo Ni An                            - -  - 702   Zh F0 V           
-2408 Nebltafenzh          B582458-B Ni                                  - KM - 403   Zh F9 V M0 V      
-2409 Zhdelstatl           E74677A-9 Ag                                  - -  U 903   Zh F3 V           
-2410 Chiezshe             B569351-A Lo Ni                               - -  - 202   Zh F4 V           
-2501 Javrebr              A52389C-D Na Po                               - KM - 103   Zh G7 V M1 V      
-2502 Vrali                C310667-7 Na Ni O:2501                        - -  - 102   Zh K7 V           
-2506 Eyevr                C130434-C De Ni Po                            - -  - 303   Zh F6 V           
-2507 Iaflodiafl           A420356-E De Lo Ni Po                         - D  - 222   Zh K8 V M8 V      
-2509 Dlefltiant           C000555-B As Ni                               - -  - 623   Zh K9 V           
-2510 Pansi                X975000-0 Ba Lo Ni                            - -  F 500   Zh F2 V M7 V      
-2601 Tsiav                C210447-B Ni                                  - -  - 110   Zh G3 V M3 V      
-2602 Zhdievr              D75A533-9 Wa Ni                               - -  - 701   Zh F8 V M0 V      
-2610 Azhiebr              C433100-B Lo Ni                               - -  - 402   Zh G2 V           
-2701 Briz                 A685797-B Ag Ri D3                            - -  - 704   Zh F8 V M1 V      
-2702 Arichbrr             A67A8AA-C Wa                                  - -  - 933   Zh K7 V           
-2703 Nial                 D461647-5 Ni Ri                               - -  - 834   Zh F9 V M0 V      
-2706 Chtopl               C6647BB-7 Ag C1                               - KM - 120   Zh G6 V M7 V      
-2708 Avrtlavlom           C74A98B-C Wa Hi In                            - -  - 524   Zh F5 V M5 V      
-2709 Dlon                 E573553-6 Ni                                  - -  U 504   Zh F8 V           
-2710 Jesezyien            B7749BF-B Hi In                               - -  - 613   Zh F9 V           
-2802 Pliachatl            BABA9C7-E Fl Hi                               - W  - 802   Zh F5 V           
-2803 Tlaj Kie             C223124-B Lo Ni Po                            - -  - 203   Zh M8 V M9 V      
-2804 Plilpiebr            E535685-7 Ni                                  - -  - 423   Zh A6 V K8 V M3 V 
-2805 Shtonche             A764AED-E Hi                                  - -  - 604   Zh F0 V           
-2806 Viaval               D558353-7 Lo Ni                               - -  - 204   Zh F5 V           
-2807 Afipiaf              A576200-D Lo Ni An                            - KM - 105   Zh F8 V           
-2809 Dliesh               B8A4412-A Fl Ni                               - -  - 303   Zh K1 IV          
-2902 Noplidr Ash          C373585-8 Ni                                  - -  - 800   Zh F6 V           
-2904 Rqlinsia             B5A1210-B Fl Lo Ni                            - -  - 903   Zh M5 V M5 V      
-2906 Ensnelatl            C879223-8 Lo Ni                               - KM - 800   Zh F6 V           
-3003 Zemetiaz             A000952-E As Hi In Na                         - KM - 713   Zh G2 V M1 V      
-3006 Vrol                 C79559C-9 Ag Ni                               - -  - 402   Zh F2 V           
-3008 Biachdranch          E5457A6-5 Ag                                  - -  - 902   Zh G8 V M5 V      
-3010 Chtabra              A458974-E Hi Cp                               - KM - 503   Zh F7 V           
-3101 Jiajsenzh            E303878-8 Va Ic Na                            - -  - 424   Zh F4 V           
-3106 Shimpatlmant         E854836-5                                     - -  - 322   Zh F9 V           
-3108 Lannens              C661100-A Lo Ni                               - -  - 623   Zh F7 V M4 V      
-3110 Aiantladlinch        E321367-8 Lo Ni Po                            - -  - 410   Zh M4 V           
-3202 Qotlseli             E202652-9 Va Ic Na Ni                         - -  - 303   Zh F0 II          
-3203 Ajvench              A400420-C Va Lo Ni                            - KM - 623   Zh M7 V M9 V      
-3205 Peshia               C562311-9 Lo Ni                               - -  - 104   Zh G9 V           
-3208 Eloqlezdev           C6969BB-A Hi In                               - -  - 904   Zh F0 V           
-3209 Ietsplash            C7B0623-9 De Ni                               - -  - 105   Zh F2 V           
-0115 Pradjaie             D745486-7 Ni                                  - -  - 904   Zh M4 V           
-0116 Oddlekliekl          D567324-8 Ni                                  - KM - 210   Zh F4 V           
-0119 Te Zdansaa           E582674-5 Ni Ri                               - -  - 302   Zh F4 V           
-0120 Tiatlieadev          A400AAA-E Va Hi In Na                         - D  - 724   Zh M5 V           
-0212 Qianienshietl        B77669C-B Ag Ni                               - D  - 104   Zh M3 V           
-0213 Lofenzh              E55A366-6 Wa Lo Ni O:0214                     - -  - 721   Zh F3 V M2 V      
-0214 Ivin                 A98A659-D Wa Ri                               - -  - 111   Zh F5 V           
-0216 Azzdedr              E3118A9-8 Ic Na                               - -  - 610   Zh F6 V M5 V      
-0315 Vladefef             C100A55-D Va Hi In Na                         - -  - 824   Zh F0 V           
-0317 Blel                 C242435-7 Ni Po                               - -  - 222   Zh G7 V M0 V      
-0319 Sazhiebr             B372224-9 Lo Ni                               - -  - 614   Zh M7 V           
-0411 Ezhdiar              E230511-7 De Ni Po                            - -  - 910   Zh M1 V M4 V      
-0414 Dablfliansh          D344356-6 Lo Ni Po                            - -  - 910   Zh M7 V M8 V      
-0416 Vol                  C41487C-9 Ic                                  - -  - 520   Zh F2 V           
-0418 Dashipr              A675AFC-E Hi In Cp                            - KM - 523   Zh M5 V           
-0419 Flatliaanch          B303640-C Va Ic Ni Na                         - -  - 903   Zh M1 V M7 V M8 V 
-0420 Ovloplats            C344735-7 Ag                                  - -  - 504   Zh K7 V           
-0512 Denzhimie            A595555-C Ag Ni                               - -  - 202   Zh F9 V M4 V      
-0514 Yaskekue             B6876X3-E Ag Ni Ri An                         - M  - 523   Dr M7 V           
-0516 Ple'shtenzh          C333556-B Ni Po                               - -  - 722   Zh M9 V           
-0517 Qlonjia              C969375-6 Lo Ni                               - KM - 623   Zh F7 V M4 V      
-0518 Kel                  B335525-B Ni D1                               - -  - 504   Zh K7 V           
-0611 Safrapl              A370957-E De Hi In                            - -  - 222   Zh F1 V M4 V      
-0614 Driechi              A234471-E Ni                                  - KM - 703   Zh M2 V           
-0617 Enzhiavl             C788A98-A Hi                                  - -  - 902   Zh F9 V           
-0620 Detsplieshia         C585200-8 Lo Ni C9                            - -  - 814   Zh F9 V M1 V      
-0711 Benshqra             A377663-B Ag Ni O:0611                        - -  - 122   Zh M9 V           
-0715 Mrkr                 C646123-8 Lo Ni                               - -  - 714   Zh F7 V           
-0716 Ilvliel              D642510-5 Ni Po                               - -  - 412   Zh F4 V           
-0718 Tiedr                X423000-0 Ba Lo Ni                            - -  F 904   Zh K3 V M9 V      
-0720 Avria                C466651-A Ag Ni Ri                            - KM - 713   Zh F5 V           
-0811 Iatiaiepr            C6649C4-5 Hi                                  - -  - 603   Zh F5 V           
-0812 Braqlia              B9C5101-C Fl Lo Ni                            - -  - 223   Zh G3 V           
-0814 Qrialdats            C587655-9 Ag Ni Ri                            - -  - 520   Zh F3 V M9 V      
-0815 Plejditsie           B000457-D As Ni                               - KM - 123   Zh F5 V           
-0820 Qriokro              E325453-7 Ni                                  - -  - 300   Zh K3 III         
-0913 Tlavliei             C586976-A Hi                                  - KM - 511   Zh F5 V           
-0914 Kaflde               B89A769-C Wa O:0915                           - -  - 112   Zh M3 V           
-0915 Ialpa                A766745-C Ag Ri                               - -  - 223   Zh K1 IV K8 V     
-0918 Rpepzdefr            B56A420-C Wa Ni                               - KM - 103   Zh M4 V           
-0919 Kobrchtenzh          B200000-A Va Ba                               - -  - 805   Zh M5 V           
-1013 Jeazhivr             D441448-7 Ni Po                               - -  - 124   Zh G2 V           
-1014 Achoqr               D354777-5 Ag                                  - -  - 805   Zh M7 III         
-1018 Tinsh                AAB6855-D Fl                                  - KM - 911   Zh G4 V M9 V      
-1019 Kiail                B45769D-A Ag Ni                               - -  - 523   Zh K6 IV M7 V     
-1116 Flo'fliezhie         D56587B-3 Ri                                  - -  U 712   Zh G9 V           
-1119 Piabldal             C230377-A De Lo Ni Po                         - -  - 814   Zh G4 V           
-1211 Fia Vlenchta         B61499C-B Ic Hi In Na                         - KM - 222   Zh K0 V           
-1217 Kaythe               A4855X5-E Ag Ni An                            - M  - 424   Dr G0 V           
-1313 Jdizialia            B454353-C Lo Ni                               - KM - 302   Zh A1 V           
-1314 Zdarapel             E766344-4 Lo Ni                               - -  - 831   Zh A1 V           
-1315 Enssazi'             A523136-C Lo Ni Po                            - D  - 714   Zh M0 V M9 V      
-1316 Iaplpa'tlal          D323566-9 Ni Po O:1315                        - -  - 512   Zh F3 III M3 V    
-1319 Tliaqbrav            A876974-E Hi In Cp                            - KM - 402   Zh K8 V M5 V      
-1412 Chieplans            B597ABB-C Hi In                               - KM - 925   Zh F3 V M5 V M3 V 
-1512 Vemietl              A686356-D Lo Ni                               - KM - 324   Zh M9 V           
-1514 Chtaoz               E221522-8 Ni Po                               - -  - 122   Zh M9 IV M3 V     
-1517 Ine'tedl             E875778-6 Ag                                  - -  - 740   Zh M7 IV          
-1519 Blotl                A766448-D Ni                                  - KM - 602   Zh K3 V K4 V      
-1613 Tliaqbravets         A88878A-A Ag Ri D1                            - -  - 700   Zh G9 III F9 IV   
-1617 Dlivkebla            A545689-B Ag Ni                               - KM - 222   Zh K9 V M3 V      
-1618 Chiech               B55769C-6 Ag Ni                               - -  - 612   Zh K2 V M6 V      
-1620 Tlevlblaziakr        A466A98-E Hi                                  - KM - 924   Zh M7 V           
-1713 Prosial              B56567A-A Ag Ni Ri                            - KM - 324   Zh F3 V M1 V      
-1715 Aplavriadl           C373201-8 Lo Ni                               - -  - 505   Zh M3 V M7 V      
-1718 Ta Niabr             D97A688-7 Wa Ni                               - -  - 423   Zh F0 V           
-1719 Enzjdivr             C7C599C-B Fl Hi                               - KM - 902   Zh M9 V           
-1720 Apre                 C330245-B Lo Ni Po                            - -  - 804   Zh F8 V M8 V      
-1813 Vabrafl              B513254-A Ic Lo Ni                            - KM - 310   Zh A6 IV F6 V M3 V
-1817 Ieridr               B42145A-D Ni Po                               - -  - 304   Zh G3 IV          
-1820 Ienen                C484510-8 Ag Ni                               - -  - 923   Zh F9 V M7 V      
-1912 Piafleprianz         E213796-7 Ic Na                               - -  - 724   Zh F2 V           
-1915 Satjiel              A78A656-E Wa Ni Ri C1                         - KM - 113   Zh F6 V M4 V      
-1916 Anzdla               C300100-D Va Lo Ni                            - -  - 921   Zh M6 V           
-1918 Chivrea              A210975-E Hi In Na                            - KM - 704   Zh M2 V           
-2013 Tlenshial            A10058A-E Va Ni                               - -  - 904   Zh K3 III M8 V    
-2014 Jiavraql             C150162-9 De Lo Ni Po O:1915                  - -  - 221   Zh K9 V           
-2016 Pradlredrva'         B577798-8 Ag C1                               - -  - 902   Zh F8 V           
-2017 Flonzebrienzh        A344996-E Hi In Cp                            - KM - 204   Zh M0 V M4 V      
-2019 Ple'na               A684511-A Ag Ni                               - KM - 200   Zh F5 V M1 V      
-2112 Ichientsi            C220000-B De Ba Po                            - -  - 924   Zh F0 II          
-2117 Chakrrzh             CAA4136-B Fl Lo Ni                            - -  - 424   Zh M1 V M1 V      
-2213 Zhdapatl             E210543-8 Ni                                  - -  - 223   Zh K7 V           
-2216 Evvlieanj            C487551-9 Ag Ni An                            - KM - 401   Zh F4 V           
-2219 Beshenj Frazht       A5049A7-E Va Ic Hi In                         - KM - 104   Zh F9 V           
-2220 Idlol                E360657-5 De Ni                               - -  - 703   Zh G8 V           
-2311 Zdiafplat            A46988B-D Ri                                  - D  - 103   Zh G4 V           
-2315 Kriaz                C200578-9 Va Ni                               - -  - 802   Zh M4 V M9 V      
-2316 Bliadrats            A000400-E As Ni                               - -  - 734   Zh G4 V M5 V      
-2413 Diaia                X8C0000-0 De Ba                               - -  F 023   Zh K0 IV          
-2414 Iablazient           B996ACE-D Hi In                               - KM - 501   Zh F7 V M6 V      
-2416 Veprkesh             B669503-B Ag Ni                               - -  - 603   Zh F1 V           
-2420 Zryenz               C746879-7 Ag                                  - -  U 504   Zh F0 V           
-2512 Rieflyensh           B9B4441-C Fl Ni                               - -  - 333   Zh M7 V           
-2514 Ambrefl              A9D1631-C Fl Ni                               - KM - 814   Zh F9 V           
-2515 Chta'ia              C594766-8 Ag O:2615                           - -  - 213   Zh F4 V M1 V      
-2517 Jdans                A888797-B Ag Ri                               - -  - 111   Zh F8 V           
-2520 Dlieoviabr           CACA657-C Wa Fl Ni                            - -  - 800   Zh K6 V M6 V      
-2611 Tlolble              A7A4320-E Fl Lo Ni                            - KM - 522   Zh K8 V           
-2612 Jol Diadl            C150203-A De Lo Ni Po                         - -  - 924   Zh M0 V           
-2613 Iepkrachtiabra       C5599CE-8 Hi                                  - -  - 801   Zh F1 V M0 V      
-2614 Dizdir               E570778-5 De                                  - -  - 711   Zh F4 V           
-2615 Zilil                A5688CC-B                                     - KM - 104   Zh K0 V           
-2619 Batlia               B140553-D De Ni Po                            - -  - 603   Zh F4 V M1 V      
-2711 Viakl                D799536-7 Ni                                  - -  - 505   Zh M5 V M9 V      
-2712 Insia                C98A7B9-A Wa                                  - -  - 400   Zh G3 V           
-2714 Qlachtefl            E7B359B-8 Fl Ni                               - -  - 710   Zh F9 V           
-2716 Ochiaza              B851611-C Wa Ni                               - -  - 214   Zh F8 V M3 V      
-2717 Jdikliev             B330230-B De Lo Ni Po                         - -  - 302   Zh F7 IV          
-2718 Etlifevro            A777A75-E Hi In                               - KM - 202   Zh G2 V           
-2719 Zhdant               A6547C8-F Ag An Cx                            - KM - 811   Zh K0 V           
-2720 Vlazzhden            C210143-8 Lo Ni                               - -  - 303   Zh G1 IV          
-2811 Li' Veatla           E100556-B Va Ni                               - -  - 502   Zh M9 V           
-2814 Title                B545679-8 Ag Ni C4                            - KM - 815   Zh F5 V           
-2816 Oshtinz              D644645-6 Ag Ni                               - -  - 104   Zh G7 V           
-2818 Diabllianzhel        C538542-9 Ni                                  - -  - 403   Zh A9 II K8 V     
-2819 Tlapinsh             B569854-C Ri                                  - -  - 622   Zh F7 V           
-2820 Ezevrtlad            C120000-B De Ba Po                            - -  - 900   Zh K2 III         
-2911 Jdanzdia             C7A2558-8 Fl Ni                               - KM - 520   Zh F5 V M5 V      
-2914 Floeflianse          C433A55-E Hi Po                               - -  - 223   Zh K0 V           
-2915 Zdanqlad             C622101-B Lo Ni Po                            - -  - 802   Zh M5 V M6 V      
-2919 Alchiavrie           B222362-A Lo Ni Po O:3018                     - -  - 402   Zh M0 V           
-2920 Riapzhiatlensh       A00098A-E As Hi In Na                         - D  - 924   Zh M3 V           
-3014 Alienjne             C3128BD-A Ic Na                               - KM - 900   Zh G3 IV          
-3015 Blizatl              C646455-7 Ni                                  - -  U 604   Zh F3 V M2 V      
-3017 Ansdrel              C5546A7-8 Ag Ni                               - -  - 703   Zh F8 V M6 V      
-3018 Dribr                A2659EA-E Hi An                               - KM - 802   Zh G7 V           
-3019 Vlieshstoql          D100336-8 Va Lo Ni                            - -  - 600   Zh G3 V M1 V      
-3111 Shoprbria            E585674-5 Ag Ni Ri                            - -  U 525   Zh M0 V           
-3113 Eblits               C9C6410-9 Fl Ni                               - -  - 423   Zh K9 II M8 V     
-3114 Iabridr              B420535-D De Ni Po                            - -  - 501   Zh M4 V M7 V      
-3117 Jdozhdafria          A85948A-E Ni                                  - D  - 123   Zh F5 V           
-3211 Vemepl Qlivr         E000120-9 As Lo Ni                            - -  - 524   Zh F7 V           
-3212 Eklcha               D565796-5 Ag Ri                               - -  - 404   Zh G0 V           
-3213 Stevloash            D570999-6 Hi In                               - -  - 203   Zh F8 V           
-3214 Jenkints             B468454-C Ni D4                               - KM - 920   Zh M0 V M4 V      
-3217 Ovotsanj             A000522-E As Ni                               - KM - 215   Zh M1 V M3 V      
-3219 Kriat                C200456-C Va Ni                               - -  - 101   Zh F2 V           
-3220 Te'iavr              C7676BA-8 Ag Ni                               - -  - 304   Zh F5 V M7 V      
-0123 Ratlechzder          B3427AB-A Po                                  - KM - 221   Zh F7 V           
-0126 Dlelstekre           A88A6A8-E Wa Ni                               - KM - 603   Zh F1 V           
-0129 Dlivldla             A795ADD-D Hi In                               - KM - 503   Zh F0 V           
-0130 Anchvlanzhad         E552312-4 Lo Ni Po                            - -  - 905   Zh F7 V M3 V      
-0223 Aqanzzhdiabl         D211404-9 Ic Na                               - -  - 903   Zh F6 V M3 V      
-0224 Qievjach             C76A528-A Wa Ni                               - -  - 504   Zh F1 V           
-0228 Liatsrza             E445424-8 Ni                                  - -  - 813   Zh G4 V           
-0229 Ieazhizh             B677997-B Hi In                               - -  - 602   Zh F6 V           
-0322 Echshiaanzh          B529ADC-D Hi In                               - -  - 604   Zh F1 V           
-0326 Biezi                D237570-8 Ni                                  - -  - 704   Zh M1 V M4 V      
-0421 Zhdintsadr           D628AAB-A Hi In                               - KM - 904   Zh M3 V           
-0425 Shtanso              B65A56A-C Wa Ni O:0322                        - -  - 303   Zh K2 V M8 V      
-0428 Ierdratodr           C150559-9 De Ni Po                            - KM - 604   Zh K5 V M4 V      
-0521 Kenshjievr           C9A479C-8 Fl                                  - -  - 223   Zh M7 V           
-0522 Zharkash             E468524-7 Ag Ni                               - -  - 112   Zh G2 IV          
-0523 Vedrenie'            A788558-D Ag Ni D3                            - KM - 804   Zh F9 IV          
-0525 Shezhanzdra          E587321-6 Lo Ni                               - -  - 103   Zh K7 V           
-0526 Qlentileche          A887957-E Hi Cp                               - D  - 712   Zh F3 V           
-0528 Iaflianiaqr          D687536-7 Ag Ni C5                            - -  - 903   Zh K1 V           
-0530 Zhdekr               A7A6527-D Fl Ni                               - KM - 804   Zh M4 V           
-0622 Plobradash           C538528-9 Ni                                  - -  - 610   Zh G3 V M6 V      
-0628 Iazqatl              C000377-B As Lo Ni                            - -  - 313   Zh M4 V           
-0629 Da'bits              E468727-5 Ag N1                               - -  - 304   Zh F3 V           
-0721 Jdavriatsebl         E7838AB-4 Ri                                  - -  U 304   Zh K7 V M5 V      
-0728 Lirraif              C678323-7 Lo Po                               - -  - 805   Zh M7 V           
-0822 Flia'sar             C7A2776-D Fl                                  - -  - 612   Zh F7 III         
-0824 Iazdonts             AAC97C7-C Fl                                  - KM - 404   Zh F4 V           
-0829 Qriam                B673885-9                                     - KM - 631   Zh A1 V           
-0921 Jdiepleqr            E5239B6-8 Hi In Na Po                         - -  - 401   Zh F9 V           
-0922 Dlechfria'           CAC897A-A Fl Hi                               - KM - 804   Zh G7 III         
-0924 Flienjmiench         B887696-9 Ag Ni Ri                            - -  - 401   Zh M3 V           
-0925 Kiflladl             E353532-4 Ni Po                               - -  - 104   Zh K6 V           
-0927 Yashetlavr           C000AFF-E As Hi In Na                         - -  U 524   Zh M2 V M7 V      
-0928 I'di                 B7B4728-B Fl                                  - -  - 914   Zh M4 V           
-1021 Iaprprietl           A888876-C Ri D3                               - -  - 202   Zh K8 V           
-1022 Zhodri               E797666-5 Ag Ni O:1021                        - -  - 702   Zh F2 V M3 V      
-1024 Jivladavl            B67855A-A Ag Ni C4                            - -  - 400   Zh G4 V M3 V      
-1025 Diapche              C675684-8 Ag Ni Ri                            - -  - 615   Zh F2 V           
-1026 Blieme               C848562-9 Ag Ni O:0927                        - KM U 601   Zh F3 V M6 V      
-1029 Sotszhdiao           C7A098C-B De Hi                               - -  - 605   Zh F2 V M9 V      
-1030 Briaji               C53789D-9                                     - -  - 504   Zh F1 V           
-1121 Zhdintre             B54477A-8 Ag                                  - -  - 200   Zh M4 V           
-1123 Shtenzh Qlotl        A544A75-E Hi In                               - KM - 702   Zh F1 V           
-1126 Dlia'abl             B798569-9 Ni O:1127                           - -  - 404   Zh F8 V M4 V M0 V 
-1127 Priatsziarr          A558757-C Ag Ni                               - -  - 300   Zh G4 V           
-1128 Tians Da' Jefr       B494A9C-E Hi In                               - KM - 613   Zh F8 V M9 V M2 V 
-1221 Ferchoblvel          C656659-7 Ag Ni                               - -  - 103   Zh K6 V M4 V      
-1222 Chti'di              C38487C-A Ri                                  - -  - 902   Zh M2 V           
-1225 Lantizh Ant          B65458A-A Ag Ni                               - -  - 400   Zh K9 V           
-1226 Iqletsi              B768676-9 Ag Ni Ri                            - -  - 514   Zh G6 V           
-1230 Plazdiets            C66875A-8 Ag Ri                               - -  - 603   Zh F4 V M0 V      
-1321 Plietsvie            E556688-4 Ag Ni                               - -  - 720   Zh F0 V M7 V      
-1323 Iashintdria          A354535-E Ag Ni                               - KM - 203   Zh K0 V           
-1324 Kiroadr              C567687-7 Ag Ni Ri                            - -  - 703   Zh F9 V M8 V      
-1325 Tiak                 A569697-A Ni Ri                               - D  - 304   Zh F0 V           
-1326 Frianjekrizh         B89AA58-E Wa Hi In                            - -  - 103   Zh F2 V           
-1328 Zdrint               AA899A6-D Hi Cp                               - -  - 903   Zh G1 V M9 V      
-1329 EQASHTEPLI           A8786A7-B Ag Ni                               - KM - 805   Zh K8 V           
-1330 Zhdonchiano          C89A453-9 Wa Ni                               - KM - 421   Zh K8 V M3 V      
-1421 Tlozhdevr            E364796-5 Ag                                  - -  - 402   Zh G3 V           
-1422 Aiv                  B8B6639-B Fl Ni An                            - -  - 223   Zh G7 V M9 V      
-1423 Briazdle             A31236A-E Ic Ni O:1323                        - -  - 104   Zh M2 V M8 V      
-1428 Mimklefliez          B966A9A-A Hi                                  - KM - 712   Zh F6 V M9 V      
-1523 Staantoch            A677554-C Ag Ni                               - -  - 703   Zh F7 V           
-1525 Jiazshiepr           C446989-D Hi In                               - -  - 702   Zh F6 V           
-1526 Chtiadrshienz        B566654-A Ag Ni Ri                            - -  - 602   Zh F4 V           
-1528 Fialkatsevr          B445518-A Ag Ni                               - -  - 820   Zh F9 V           
-1529 Qloiz                A877784-B Ag                                  - -  - 903   Zh F7 V M8 V M7 V 
-1624 Lelhtontsa           B8999BF-C Hi In                               - KM - 802   Zh F1 V M2 V      
-1625 Iashfliezh           E574449-6 Ni                                  - -  - 514   Zh G8 V M1 V      
-1626 Shtodli              D481356-8 Lo Ni                               - -  - 800   Zh G9 V           
-1627 Edri                 E471242-7 Lo Ni                               - -  - 853   Zh F0 V           
-1628 Tsadlzhdanch         A6A5500-E Fl Ni                               - -  - 704   Zh K7 II          
-1721 Afliavl              B300447-C Va Ni                               - -  - 624   Zh F5 V           
-1722 Dri Ats              C145745-8 Ag                                  - -  - 402   Zh M0 V M2 V      
-1725 Vravchadl            D845579-7 Ag Ni                               - -  - 102   Zh F2 V M7 V      
-1726 Eplzhdepl            A435987-E Hi                                  - KM - 312   Zh M0 V M9 V      
-1727 Vriarzdanz           B344769-B Ag O:1727                           - -  - 404   Zh F7 V           
-1730 Oprinzh              C55878A-7 Ag                                  - KM - 902   Zh G4 V M7 V      
-1824 Jdanzri              B263412-B Ni                                  - -  - 510   Zh F1 V           
-1827 Nalkentsbr           D787544-6 Ag Ni                               - -  - 221   Zh F0 V           
-1829 Dlanzhtsianzh        CA7A757-A Wa                                  - -  - 301   Zh F2 V           
-1830 Shaaika              B744959-D Hi In                               - -  - 711   Zh F7 V M4 V      
-1921 Tletdovr Zedr        C556AAD-C Hi                                  - KM - 724   Zh G3 V           
-1923 Briefr               E749479-5 Ni                                  - -  - 103   Zh G7 V           
-1924 Zhdityia             A592220-C Lo Ni                               - -  - 621   Zh F9 V           
-1927 Klinzha              B733586-A Ni                                  - -  - 610   Zh F9 II          
-1928 Tlat                 C788579-9 Ag Ni Ri                            - -  - 204   Zh F1 V           
-1929 Sansniaapr           B435535-B Ni                                  - -  - 913   Zh A8 III         
-2023 Zhde'iekdlats        A767753-C Ag Ri                               - KM - 102   Zh F8 V           
-2025 Zdefrients           A77A999-E Wa Hi In Cp                         - D  - 303   Zh F1 V           
-2026 Albetl               C445503-A Ag Ni                               - -  - 804   Zh F8 V M8 V      
-2028 Piezshtopr           C988371-9 Lo Ni                               - KM - 201   Zh F9 V M7 V      
-2029 Qiash                C884753-8 Ag Ri                               - -  - 604   Zh G9 V           
-2122 Zdiaeva              C441322-7 Lo Ni Po                            - -  - 502   Zh M6 V           
-2123 Vriatlieiesho        B423646-B Ni Na Po                            - -  - 912   Zh K4 V M7 V      
-2127 Prantravli           E322584-8 Ni Po                               - -  - 403   Zh G3 V           
-2221 Leqro'prinsta        B460784-A De Ri                               - -  - 302   Zh M0 V M7 V      
-2222 Plonzhremo           B526ABB-E Hi In                               - -  - 904   Zh F3 V           
-2224 Riatsjansh           E643000-0 Ba Lo Ni Po                         - -  U 802   Zh K5 V M8 V      
-2228 Qrentsabr            C350726-7 De Po                               - KM - 514   Zh F2 V           
-2230 Aklie                CAA5100-A Fl Lo Ni                            - -  - 304   Zh F7 V           
-2321 Denzia               A769432-E Ni                                  - KM - 923   Zh F3 V M0 V      
-2327 Piensinzh            C54278B-7 Po                                  - KM - 212   Zh F4 V           
-2328 Artsi'chto           D788798-5 Ag Ri                               - -  U 802   Zh M8 V M9 V      
-2422 Priaklpa             E8866BA-4 Ag Ni Ri                            - -  - 405   Zh F8 V           
-2424 Inshyedr             B464842-A Ri                                  - KM - 500   Zh F8 V           
-2429 Vliashoz             D468655-7 Ag Ni Ri                            - -  - 800   Zh K4 V M1 V      
-2430 Azzhefrstav          A00087B-D As Na                               - KM - 120   Zh K2 V M0 V      
-2522 Afaents              C240786-8 De Po                               - -  - 900   Zh F7 V           
-2523 Vrie'stiach          C666000-9 Ba                                  - -  U 304   Zh F8 V           
-2526 Nianshia             B584322-B Lo Ni                               - -  - 500   Zh F9 V           
-2528 Ofbieb               B348547-C Ag Ni                               - KM - 123   Zh F0 V           
-2529 Manzh                C465731-6 Ag                                  - -  - 504   Zh F5 V M9 V      
-2530 Jdizal               C251210-A Lo Ni Po                            - -  - 403   Zh F3 V M2 V      
-2625 Zhdedanjie           C336699-A Ni                                  - -  - 604   Zh M2 V M4 V      
-2628 Atlantsia            A577AAA-E Hi In                               - -  - 724   Zh K8 V M7 V      
-2721 Brevral              E542755-7 Po                                  - -  - 110   Zh G3 V           
-2722 Shtiazqliad          C7B5888-9 Fl                                  - -  - 404   Zh F4 V M7 V      
-2725 Zdenche              A538972-D Hi                                  - KM - 303   Zh F7 V M0 V      
-2726 Vefdel               D7336A5-6 Na Ni Po                            - -  - 900   Zh A3 V K9 V      
-2727 Plel                 A99A798-E Wa                                  - -  - 402   Zh F6 V           
-2728 Stiantliepl          E9A4000-0 Fl Ba                               - -  - 804   Zh K2 V           
-2729 Kilsi                CA67653-6 Ag Ni Ri                            - -  - 701   Zh F8 V           
-2730 Plelinchier          B5859BD-B Hi D0 Cp                            - KM - 925   Zh G1 V M0 V M5 V 
-2821 Veliate              A561257-C Lo Ni                               - -  - 203   Zh F3 V           
-2824 Dle'chtench          C000874-A As Na                               - -  U 321   Zh F9 IV M4 V     
-2827 Jdonzh               A000953-E As Hi In Na                         - -  - 823   Zh G2 III         
-2828 Stiechste            B76756A-A Ag O:2827                           - -  - 502   Zh F7 V           
-2830 Iavach               D87A8CB-7 Wa                                  - -  - 802   Zh F9 V           
-2924 Zhaneiprta           E333223-B Lo Ni Po                            - -  - 923   Zh G6 V M9 V      
-2925 Pripia               C776432-9 Ni                                  - -  - 304   Zh F9 V           
-2926 Pliepfliants         A200659-D Va Ni Na                            - D  - 904   Zh M5 V M7 V      
-2929 Rinchaedle           E200321-9 Va Lo Ni                            - -  - 202   Zh F8 V M4 V      
-2930 Tevief               C735586-A Ni                                  - -  - 200   Zh M8 V           
-3021 Shrnz                C65A220-B Wa Lo Ni                            - -  - 510   Zh G9 V           
-3022 Jie'ezid             C9D3846-9 Fl                                  - KM - 223   Zh G3 V M5 V      
-3026 Dritskanzh           C100978-D Va Hi In Na                         - -  U 904   Zh F1 V           
-3027 Ajora                B211301-C Ic Lo Ni                            - -  - 334   Zh M3 V M8 V      
-3028 Daziesavavl          B696874-9                                     - KM - 703   Zh F0 V           
-3121 Drodlievrie          A8C69C7-E Fl Hi                               - KM - 211   Zh K6 V M2 V      
-3122 Abria                B567557-8 Ag Ni                               - -  - 104   Zh F3 V           
-3125 Iaranch              A331555-C Ni Po                               - KM - 703   Zh K0 IV M9 V     
-3126 Enjpliatafr          B5508A6-9 De Po An                            - -  - 403   Zh G7 V           
-3129 Rnchpri              B652779-A Po                                  - -  - 200   Zh F5 V M3 V      
-3222 Ashash               D769623-7 Ni                                  - -  - 302   Zh G2 V           
-0132 Pemchtod             B87A455-B Wa Ni                               - -  - 613   Zh K0 V           
-0133 Iazdizh              B8B8574-C Fl Ni                               - KM - 523   Zh M1 V           
-0137 Dabryo               A46A872-C Wa Ri                               - KM - 414   Zh M8 V           
-0232 Oqpri                B9A578A-9 Fl                                  - -  - 401   Zh K4 V M5 V      
-0234 Biazims              B586ABB-E Hi                                  - -  - 113   Zh G5 V           
-0235 Rafatlianzh          E336445-7 Ni Po                               - -  - 514   Zh A5 V           
-0240 Taplbrieqlets        A676321-C Lo Ni                               - KM - 210   Zh M2 V           
-0335 Vianch               C668585-6 Ag Ni                               - -  - 802   Zh G0 V M7 V      
-0336 Mekrash              A768AAA-E Hi Cp                               - D  - 523   Zh M7 V           
-0338 Feiaz                A456426-B Ni                                  - -  - 601   Zh M2 V M7 V      
-0339 Tlatonsh             C667649-6 Ag Ni Ri                            - -  U 710   Zh K9 V           
-0340 Zhiadlnere           B584797-8 Ag Ri                               - -  - 804   Zh F2 V           
-0431 Zhdianzrl            A223325-C Lo Ni Po                            - D  - 124   Zh K3 V M4 V      
-0432 Jiedrzdiets          B234335-A Lo Ni                               - -  - 404   Zh M7 V           
-0437 Antsrpr              B200484-C Va Ni                               - KM - 613   Zh K6 V           
-0440 Fiapr                A442926-E Hi In An                            - -  - 524   Zh F1 V           
-0531 Kevstetyie           B354353-A Lo Ni                               - -  - 504   Zh F5 V           
-0535 Flotl                C7C1586-B Fl Ni                               - KM - 803   Zh M5 V           
-0536 Aja                  A78A986-D Wa Hi                               - -  - 813   Zh F7 V M4 V      
-0537 Krievla              B676876-7 Ri                                  - -  - 204   Zh F4 V           
-0634 Zebrafmiadl          C3457A5-7 Ag                                  - -  - 711   Zh F5 V M7 V      
-0637 Idr Jdel             CA96304-9 Lo Ni                               - -  - 103   Zh F3 V           
-0639 Zhelizhins           X440334-6 De Lo Ni Po                         - -  F 330   Zh M5 II          
-0732 Chibre               B552431-A Ni Po                               - -  - 703   Zh F7 V           
-0733 Eshnaievr            C466653-8 Ag Ni                               - -  - 400   Zh B5 V           
-0734 Shifrtliaz           C445524-9 Ag Ni                               - -  - 813   Zh K4 V M9 V      
-0736 Dronjfezhish         B737336-C Lo Ni                               - -  - 703   Zh M3 V           
-0737 Zdonzhvietl          B589668-9 Ni Ri Mr                            - KM - 420   Zh K3 III         
-0738 Inzhdepl Driep       B5009A9-C Va Hi In Na                         - -  - 805   Zh F3 V           
-0740 Chtek                D889678-3 Ni Ri                               - -  U 300   Zh K1 V           
-0831 Klikivr              E0007A9-9 As Na                               - -  - 312   Zh M2 V           
-0833 Viat                 D683463-5 Ni O:0934                           - KM - 203   Zh K5 V M3 V      
-0836 Tanjbrelo            C367543-8 Ag Ni                               - KM - 704   Zh M5 V           
-0931 Velieirbe            C2339B9-B Hi Na Po                            - -  - 205   Zh G4 V           
-0932 Dliamtiaqe           B240657-C De Ni                               - -  - 404   Zh F0 V M4 V      
-0934 Chikrdapr            A666787-C Ag Ri D2                            - -  - 104   Zh G0 V           
-0937 Kiadlensh            A793486-A Ni                                  - -  - 400   Zh F0 V           
-0938 Ilaiaiashie          B578ABB-D Hi In                               - -  - 722   Zh F4 V           
-0939 Enchiap              A466796-C Ag Ri An                            - -  - 404   Zh K3 V           
-1033 Tiepl                E849333-7 Lo Ni                               - -  - 600   Zh F2 V           
-1034 Ia Sishetlel         B100110-C Va Lo Ni                            - -  - 912   Zh K0 V           
-1039 Eshdlients           B767642-9 Ag Ni Ri                            - -  - 903   Zh F2 V           
-1131 Voibr                A58765B-B Ag Ni Ri                            - KM - 804   Zh K4 V           
-1134 Senshiak             C212345-A Ic Lo Ni                            - -  - 302   Zh A1 V           
-1140 Driensho             D355652-4 Ag Ni                               - -  - 820   Zh F1 V M4 V M1 V 
-1235 Jesezyienjie         A578956-E Hi In Cp                            - D  - 603   Zh F3 V           
-1236 Revr                 C344683-8 Ag Ni                               - -  - 104   Zh M0 V           
-1238 Azhiapsta            C966616-5 Ag Ni                               - KM - 111   Zh F9 V           
-1239 Brezdrontlie         C322245-9 Lo Ni                               - -  - 812   Zh K7 V M6 V      
-1240 Iakroshia            D798796-6 Ag                                  - -  - 421   Zh F6 V M7 V      
-1334 Ayssthon             A346856-E                                     - M  - 111   Dr B5 III         
-1338 Tlaibra              E557726-2 Ag                                  - -  - 215   Zh K7 V           
-1340 Jifaofr              C758777-7 Ag                                  - KM - 812   Zh F1 V M6 V      
-1431 Dalziaash            B556555-B Ag Ni                               - -  - 204   Zh M4 V           
-1435 Itlezhshadr          C544677-5 Ag Ni                               - -  - 401   Zh F2 V           
-1437 Dlo'planshvrl        C494516-7 Ag Ni                               - -  - 804   Zh F8 V           
-1531 Prie                 B2339A6-C Hi Na                               - -  - 604   Zh G7 V           
-1534 Tiezhblibl           A9A6242-D Fl Lo Ni                            - KM - 814   Zh F7 V           
-1535 Pledrzdiem           C556589-8 Ag Ni                               - -  - 801   Zh M1 V M2 V      
-1538 Qentsvri             B84A9BA-C Wa Hi In                            - KM - 623   Zh F1 V           
-1539 Zdavlvlal            E564767-1 Ag Ri O:1540                        - -  - 410   Zh G6 V M0 V      
-1540 Iecht'vrnts          A4379AB-E Hi                                  - -  - 912   Zh G9 V M7 V      
-1631 Prelzdial            B346643-7 Ag Ni                               - -  - 301   Zh K6 V           
-1632 Achablshtel          A000ACC-E As Hi In                            - KM - 301   Zh M3 V M8 V      
-1635 Betsapr              C211945-A Ic Hi In                            - -  - 910   Zh F7 V           
-1636 Eke                  B658755-B Ag C2                               - -  - 303   Zh F9 V           
-1732 Dimkiv               A627446-E Ni                                  - -  - 823   Zh F3 V M1 V      
-1735 A'ats                C450000-8 De Ba                               - KM - 901   Zh F0 V           
-1736 Idlianj              E7A6361-8 Fl Lo Ni O:1835                     - -  - 211   Zh F3 V           
-1739 Iedrif               E447252-7 Lo Ni                               - -  U 405   Zh F4 V           
-1740 Sele                 A535547-D Lo Ni                               - KM - 804   Zh A3 II          
-1832 Siair                B274230-C Lo Ni                               - -  - 403   Zh K0 V           
-1835 E'eqlid              E998787-5 Ag                                  - -  - 514   Zh F0 V           
-1837 Praflazh             A547786-B Ag                                  - KM - 305   Zh G6 V           
-1839 Val                  C320344-9 De Lo Ni Po                         - -  - 304   Zh M6 V           
-1931 Iabrbents            B676975-C Hi In                               - KM - 910   Zh K1 V           
-1936 Keshjia              X200000-0 Va Ba                               - -  F 014   Zh M6 V           
-2031 Chtrnsdlad           C76A662-9 Wa Ni Ri O:2132                     - -  - 700   Zh F3 V           
-2032 Dievronez            B677361-B Lo Ni O:2132                        - -  - 105   Zh G3 V M8 V M2 V 
-2034 Oythepru             A66586B-C Ri Mr                               - M  - 324   Dr F3 V M4 V M9 V 
-2037 Niaqonsr             A7A4555-D Fl Ni                               - D  - 402   Zh K7 V M4 V      
-2038 Iezranspa            A346A75-E Hi In Cp                            - KM - 514   Zh F0 V           
-2040 Ve'tlievro           B644420-9 Ni                                  - -  - 401   Zh F1 V           
-2132 Chtadro              A96AABE-E Hi Na                               - -  - 123   Zh G0 V           
-2137 Ianchdotliadl        A415333-E Ic Lo Ni                            - -  - 103   Zh M3 V           
-2138 Kliedi               B200355-D Va Lo Ni                            - -  - 112   Zh M6 V           
-2140 Yenz                 E4146A5-7 Ic Ni                               - -  - 400   Zh M2 V M4 V      
-2240 Sti'chtiaze          A227555-D Ni                                  - KM - 810   Zh B3 III         
-2331 Dlafchans            C423552-B Ni Po                               - -  - 601   Zh M4 V M9 V      
-2333 Iaroofl              B311430-C Ic Ni                               - KM - 312   Zh K7 V           
-2334 Niyakl               D554523-5 Ag Ni                               - -  - 702   Zh F9 V M2 V      
-2432 Enchbiash            C237426-A Ni                                  - -  - 404   Zh G9 V M3 V      
-2434 Iikdla'              A786677-B Ag Ni Ri D2                         - -  - 600   Zh K3 V           
-2435 Qrianchor            A679985-E Hi In                               - KM - 734   Zh F5 V           
-2438 Ebrrnch              A360686-C De Ni Ri                            - KM - 824   Zh F9 V           
-2536 Daod                 C546210-9 Lo Ni                               - -  - 914   Zh F3 V M9 V      
-2538 Fiestiash            A5546A8-A Ag Ni                               - -  - 110   Zh K5 V           
-2540 Vredriazh            C462614-7 C1                                  - KM - 603   Zh F7 V M0 V      
-2632 Tlavldri             A578595-B Ag Ni                               - -  - 414   Zh F0 V           
-2636 Stieniazhir          A444A50-E Hi In Cp                            - KM - 304   Zh G0 V M3 V M4 V 
-2637 Anshfrea             C77A49C-A Wa Ni                               - -  - 203   Zh F7 V           
-2733 Rminchzha            E444162-5 Lo Ni O:2632                        - -  - 315   Zh G1 V M7 V      
-2734 Drajeprplia          A88A756-9 Wa Ri An                            - -  - 404   Zh G4 V           
-2737 Enenshe              C2025A8-B Va Ic Ni                            - -  - 900   Zh M9 III M8 V    
-2739 Kernapliatl          B767ABF-C Hi                                  - KM - 803   Zh K2 V           
-2740 Ieprtipr             E658676-4 Ag Ni                               - -  U 301   Zh F9 V M6 V      
-2832 Vanchletl            B300214-D Va Lo Ni                            - -  - 512   Zh M2 V           
-2836 Branti               B592245-9 Lo Ni                               - -  - 222   Zh F1 V           
-2837 Vikredle             D476868-7 O:2737                              - -  - 513   Zh M0 V M4 V      
-2840 Prablebr             C53866B-8 Ni O:2940                           - -  - 104   Zh K1 V           
-2931 Viaprjiel            B1308CA-A De Na Po                            - -  - 213   Zh A9 V G8 V      
-2936 Rliad                A795554-E Ni D6                               - D  - 903   Zh F7 V           
-2939 Dadlal               EAB9430-9 Fl Ni                               - -  - 813   Zh M2 II M1 V     
-2940 Tsavlinstodr         C5A0ADH-D De Hi                               - -  U 120   Zh G9 V           
-3031 Shansedl             B597559-B Ag Ni                               - KM - 802   Zh F6 IV          
-3032 Qlazhdiapoe          C2366A8-9 Ni                                  - -  - 915   Zh M0 V M8 V      
-3034 Iekrdechtod          E783223-7 Lo Ni                               - -  - 802   Zh G7 V           
-3035 Yiazdabl             C798543-8 Ag                                  - -  - 212   Zh F6 V M7 V      
-3040 Nanjie               C300400-A Va Ni                               - -  - 401   Zh M3 V           
-3132 Avlelepal            B210213-B Lo Ni                               - -  - 810   Zh K7 V           
-3133 Flash                C000425-C As Ni                               - -  - 720   Zh G2 IV M3 V     
-3134 Rzaim                E76A7CD-4 Wa Ri                               - -  - 604   Zh B0 V           
-3140 Ienchachtenz         A200988-E Va Hi In Na                         - KM - 901   Zh M2 V           
-3233 Zi'evl               B652537-A Ni Po                               - KM - 613   Zh F8 V           
-3236 Jabraiadr            D646354-7 Lo Ni                               - KM - 202   Zh K1 V           
-3237 Brovriashtipr        C956302-8 Lo Ni                               - -  - 900   Zh F0 V           
-3239 Desidri              C452644-9 Ni Po                               - -  - 404   Zh F3 V M2 V      
+Hex  Name                 UWP       Remarks                 {Ix}   (Ex)    [Cx]   N B  Z PBG W  A    Stellar       
+---- -------------------- --------- ----------------------- ------ ------- ------ - -- - --- -- ---- --------------
+0109 Ilviei               C200431-B Va Ni                   { 0 }  (B35+5) [844F] - -  - 504 10 ZhJp M6 V          
+0110 Enzhtladr            A687658-D Ga Ni Ag Ri Cp Ht       { 4 }  (B59-3) [9A6F] - KM - 612 15 ZhJp K7 V          
+0203 Vezhna               A4657CC-9 Ag Ri                   { 4 }  (968-2) [7B27] - KM - 503 10 ZhJp K7 V D        
+0208 Ianshenj             B527786-B Pi Di(minor)            { 2 }  (A69+1) [593B] - -  - 603 16 ZhJp F9 V M5 V     
+0302 Iadvada              A77389B-C Ph Pi Ht                { 3 }  (B7D+3) [CB7C] - KM - 304 12 ZhJp K5 V          
+0303 Yal Vri              B534677-B Ni                      { 1 }  (C55-1) [675E] - -  - 323 16 ZhJp G9 V D        
+0307 Tlenshiebr           B749000-0 Ba Di(minor) Lt         { -1 } (A00-5) [0000] - -  - 002 6  ZhJp K3 V D        
+0308 Azhia Naz            A574551-E Ni Ag Ht                { 3 }  (D46+1) [789C] - KM - 305 14 ZhJp G7 V D        
+0403 Ievrinj              D95A400-9 Wa Ni                   { -2 } (633+3) [428B] - -  - 100 10 ZhJp G4 V          
+0406 Dlopansh             A582431-D Ni Ht                   { 2 }  (A35-1) [563C] - D  - 312 13 ZhJp M5 V          
+0409 Zdieq                D77769A-6 Ni Ag                   { -2 } (950-1) [3414] - -  - 710 12 ZhJp G8 V          
+0507 Sianbistiaql         C362502-A Ni Pr                   { 0 }  (F41+2) [8528] - -  - 913 11 ZhJp M7 V          
+0602 Tliavrianch          B68969C-B Ni Ri                   { 2 }  (456-1) [987A] - -  - 600 10 ZhJp K5 V          
+0603 Drepadze             B8598AA-B Ph                      { 3 }  (979+1) [8B99] - KM - 925 12 ZhJp G4 V          
+0606 Oiedr                E624000-0 Ba Lt                   { -3 } (700-5) [0000] - -  - 023 14 ZhJp M7 V          
+0607 Iatlbench            BA9A576-B Oc Ni                   { 1 }  (844-1) [863C] - -  - 504 8  ZhJp G8 V          
+0609 Vravrchtia           B132656-C Ni Na Po Ht             { 1 }  (A54+1) [378B] - -  - 204 13 ZhJp M7 V          
+0610 Jrbrianch            B79A454-D Wa Ni Ht                { 2 }  (733+1) [463D] - KM - 700 7  ZhJp M2 V M3 V     
+0701 Dav                  C738554-B Ni                      { 0 }  (A42-1) [553A] - -  - 802 8  ZhJp M4 II         
+0702 Jdedbrrchie          E562441-7 Ni                      { -3 } (B32-4) [5114] - -  - 903 11 ZhJp K3 V M5 V     
+0703 Brolyeze             B48476A-B Ag Ri O:0603            { 4 }  (B68-1) [9B2D] - -  - 813 9  ZhJp G8 V          
+0707 Drianiadriel         A966000-0 Ba Lt                   { -1 } (600-5) [0000] - -  - 013 10 ZhJp K1 IV         
+0709 Oviaansh             C536441-7 Ni An                   { -2 } (633+1) [2225] - -  - 222 15 ZhJp M7 V          
+0805 Dradi                CAFA444-C Oc Ni Ht                { 0 }  (733+1) [941B] - -  - 301 11 ZhJp M0 V          
+0806 Pakrashziavr         C200433-B Va Ni                   { 0 }  (435+1) [548F] - -  - 301 11 ZhJp M3 V          
+0808 Zi Sebria            C250575-9 De Ni Po                { 0 }  (D46+3) [356D] - KM - 203 9  ZhJp M5 V          
+0901 Kiarbonjivr          A635000-0 Ba Di(minor) Lt         { -1 } (B00-5) [0000] - -  - 012 7  ZhJp M6 V D        
+0902 Etl                  AAC587B-D Fl Ph Ht                { 2 }  (F7A-4) [9A6D] - -  - 313 13 ZhJp G5 V          
+0905 Anchjdant            C79A78A-A Wa Pi Di(minor)         { 1 }  (D6D+2) [7819] - -  - 603 12 ZhJp K9 V M1 V     
+0909 Evzhdianz            A555641-C Ni Ag Ht                { 3 }  (957-1) [891H] - KM - 302 7  ZhJp K6 V D        
+1004 Blablet              B776753-9 Ag Pi                   { 3 }  (D6B-1) [5A39] - KM - 410 5  ZhJp K7 V          
+1005 Tsotliedrant         A672432-C He Ni Ht                { 1 }  (C32+3) [355H] - -  - 904 14 ZhJp M9 V          
+1008 Yia'rnch             CAB2547-A Fl He Ni                { 0 }  (B45-4) [553B] - -  - 404 8  ZhJp K6 III        
+1102 Sinzazhda            A566000-0 Ba Lt                   { -1 } (700-5) [0000] - -  - 000 12 ZhJp G8 V D        
+1104 Viribr               B7B4000-0 Fl Ba Lt                { -1 } (700-5) [0000] - -  - 000 7  ZhJp F1 V D        
+1107 Tianjshier           A6A5643-D Fl Ni Ht                { 2 }  (E58+1) [885H] - KM - 225 16 ZhJp M2 V          
+1109 Eplstiash            C522000-0 He Ba Po Lt             { -2 } (600-5) [0000] - -  - 000 10 ZhJp G2 V          
+1110 Enshklame            B7A4789-A Fl Di(exotic minor)     { 2 }  (A69+4) [698C] - -  - 814 14 ZhJp K9 V          
+1201 Ejriens              B477000-0 Ba O:1301 Lt            { -1 } (800-5) [0000] - -  - 005 8  ZhJp M0 V          
+1203 Briavniedl           E759451-7 Ni                      { -3 } (C32-2) [3165] - -  - 403 14 ZhJp M6 V          
+1204 Chiashov             A5348BA-D Ph Ht                   { 3 }  (E7C-1) [5B8E] - D  - 423 14 ZhJp M0 V          
+1206 Anchfial             A534000-0 Ba Lt                   { -1 } (400-5) [0000] - -  - 003 6  ZhJp M0 V D        
+1207 Nochvi               B888655-A Ni Ag Ri                { 3 }  (A58-3) [49AA] - -  - 102 8  ZhJp G1 V          
+1208 Diabriefa            C786533-8 Ga Ni Ag Pr Droy2       { -1 } (D41+4) [144C] - -  - 623 13 ZhJp K1 V M6 V     
+1210 Ontsavre'            B334511-C Ni Ht                   { 1 }  (445-5) [361H] - -  - 600 4  ZhJp M4 V D        
+1301 Pibiansia            A77669C-C Ni Ag An Ht             { 3 }  (858+1) [993F] - KM - 101 4  ZhJp K0 V          
+1304 Tlrnzh               E223000-0 Ba Po Lt                { -3 } (700-5) [0000] - -  - 025 17 ZhJp M7 V D        
+1307 Rafieqr              B68A651-C Wa Ni Ri Ht             { 2 }  (553+1) [7817] - -  - 300 8  ZhJp K4 V          
+1310 Ialil                A516627-C Ic Ni Ht                { 2 }  (B55+2) [788E] - KM - 904 10 ZhJp K6 V          
+1402 Dlozhti              AA88594-B Ni Ag Pr                { 2 }  (E44+1) [676B] - -  - 413 10 ZhJp M7 V          
+1403 Ablnits              C446612-8 Ni Ag                   { 0 }  (A53+4) [4665] - KM - 223 11 ZhJp M2 V M4 V D   
+1406 Tlinzhfrrfr          B242000-0 Ba Po Lt                { -1 } (800-5) [0000] - -  - 004 9  ZhJp M0 V          
+1407 Chtiatstats          B558442-7 Ni Pa                   { -1 } (932+1) [7315] - -  - 611 11 ZhJp K9 V D        
+1409 Zhdibliav            C87A774-9 Wa Pi                   { 1 }  (A63-1) [A87C] - KM - 104 14 ZhJp K8 V M9 V     
+1410 Pechbre'r            B513000-0 Ic Ba Lt                { -1 } (200-5) [0000] - -  - 020 5  ZhJp M2 V          
+1501 Nabrchtiz            B23267C-A Ni Na Po                { 2 }  (754-2) [384F] - KM - 103 12 ZhJp M7 V          
+1502 Dra'e                D342000-0 He Ba Po Lt             { -3 } (B00-5) [0000] - -  - 000 4  ZhJp M8 V          
+1506 Kiaavr               A568749-B Ag Ri Cp Droy2          { 5 }  (D6F+3) [8C8A] - KM - 805 15 ZhJp K3 V          
+1507 Chiash               C251000-0 Ba Po Lt                { -2 } (700-5) [0000] - -  - 011 10 ZhJp M3 V          
+1508 Brenzhstel           B4138B7-C Ic Ph Na Pi Ht          { 3 }  (776-2) [8B5D] - KM - 403 15 ZhJp F9 V          
+1509 Ziprdanzh            A949475-D Ni Ht                   { 1 }  (837-1) [551F] - -  - 320 11 ZhJp M7 V D        
+1510 Echiepench           B987655-B Ni Ag Ri                { 3 }  (755-2) [895B] - -  - 300 4  ZhJp G4 V M1 V     
+1602 Te Zhdok             B424553-B Ni                      { 2 }  (F47+2) [9737] - KM - 915 14 ZhJp M0 III        
+1604 Tiaklienzi           A48666A-D Ni Ag Ri Mr Ht          { 3 }  (G57+5) [795D] - -  - 123 15 ZhJp G7 V K0 V D   
+1607 Nevl                 A446779-D Ag Pi Ht                { 3 }  (E6B+1) [8A39] - -  - 524 12 ZhJp M4 V          
+1701 Zdiebe               C433000-0 Ba Po Lt                { -2 } (200-5) [0000] - -  - 003 14 ZhJp G8 III        
+1702 Lienche              B0008AC-D As Va Ph Na Pi Ht       { 2 }  (D78+4) [7AAB] - -  - 525 18 ZhJp M0 V M3 V     
+1708 Viatla               D335778-7                         { -2 } (567+1) [6526] - -  - 120 13 ZhJp M0 V          
+1801 Gentsvri             CA89612-9 Ni Ri                   { 0 }  (856-4) [366C] - -  - 411 8  ZhJp K5 V          
+1807 Fliaqrjdiafl         C36677B-8 Ag Ri Di(minor)         { 1 }  (F67+4) [785A] - -  - 615 18 ZhJp F7 V G7 V     
+1809 Yurm                 A364665-D Ni Ag Ri ChirW Mr Ht    { 4 }  (C55-2) [1A4C] - KM - 423 11 ZhJp M4 V          
+1902 Fanchebl             C564526-9 Ni Ag Pr                { 1 }  (642+2) [264B] - KM - 804 12 ZhJp K2 V M4 V     
+1906 Ta Oshak             C544000-0 Ba Lt                   { -2 } (700-5) [0000] - -  - 002 7  ZhJp M2 V M6 V     
+1907 Dlelozh              E667532-6 Ga Ni Ag Pr Chir1       { -2 } (742+1) [6318] - -  - 401 11 ZhJp G8 V D        
+2002 Ja' Datl             A233788-E Na Po Ht                { 2 }  (669+1) [799G] - -  - 801 10 ZhJp K1 III        
+2004 Perie                BA6A747-A Oc Ri Cp                { 4 }  (66E-1) [5B8A] - KM - 600 6  ZhJp G6 V          
+2005 Zhdendeel            C35378C-6 Po                      { -1 } (467+4) [7653] - -  - 205 12 ZhJp M3 V          
+2006 E'madliadr           B336572-C Ni Ht                   { 1 }  (B44+1) [766E] - -  - 412 11 ZhJp A3 V          
+2008 Pinchar              C332504-C Ni Po Ht                { 0 }  (945+1) [657D] - -  - 111 12 ZhJp F1 V          
+2102 Erimonsh             C351687-8 Ni Po                   { -2 } (E51+1) [6417] - -  - 612 13 ZhJp F8 V M4 V D   
+2104 Diant                C484664-9 Ni Ag Ri O:2203         { 1 }  (954+2) [3728] - -  - 704 9  ZhJp G2 V          
+2106 Zdiemsi              B414000-0 Ic Ba Lt                { -1 } (700-5) [0000] - -  - 022 9  ZhJp M9 V          
+2107 Ofchtiaqr            A311526-E Ic Ni Ht                { 2 }  (A44+4) [175G] - D  - 301 5  ZhJp M1 V D        
+2108 Frad                 C6857C7-7 Ga Ag Ri                { 1 }  (76B-1) [9879] - -  - 612 8  ZhJp K7 V          
+2109 Ietsianjjal          A484658-D Ni Ag Ri Ht             { 3 }  (D54+4) [895G] - -  - 913 7  ZhJp K9 V          
+2110 Zdal                 E667999-7 Ga Hi Pr Di(minor)      { -1 } (884-4) [B818] - -  - 801 7  ZhJp K2 V          
+2201 Bretvela             E88A416-8 Wa Ni                   { -3 } (C30-1) [6159] - -  - 602 8  ZhJp M3 V          
+2203 Ienjefroda           A225988-E Hi In Ht                { 4 }  (B8F-1) [CD6F] - -  - 921 9  ZhJp M3 V M9 V     
+2207 Jiebrdliesh          E558678-4 Ni Ag Lt                { -2 } (A51-5) [6455] - -  - 422 12 ZhJp K1 V D        
+2208 Rintazha             E565623-2 Ni Ag Ri Lt             { -1 } (852-5) [7552] - -  - 402 11 ZhJp K2 V          
+2210 Fladensh             A76767A-C Ga Ni Ag Ri Ht          { 3 }  (658+1) [593D] - -  - 622 9  ZhJp K3 V          
+2302 Pranvriav            C595543-5 Ni Ag Lt                { 0 }  (441+1) [7576] - KM - 710 11 ZhJp K0 V          
+2305 Jitlesh              C343445-9 Ni Po                   { -1 } (G33+1) [831A] - -  - 104 14 ZhJp F7 V D        
+2310 Anchief              C4249CF-C Hi In Ht                { 3 }  (88B-3) [AC2E] - -  - 401 7  ZhJp G0 V          
+2402 Ianttlaiam           A767662-B Ga Ni Ag Ri O:2403      { 3 }  (655+1) [9979] - -  - 904 8  ZhJp K0 III        
+2403 Proplvabriench       A685756-C Ga Ag Ri Di(minor) Ht   { 5 }  (E6C+4) [8C3C] - KM - 915 16 ZhJp K7 V          
+2405 Vinzzdefviakl        D975655-7 Ni Ag                   { -2 } (B52+2) [34A8] - -  - 302 11 ZhJp K7 V M4 V     
+2406 Itedrshatl           B33489A-C Ph Ht                   { 2 }  (E79+1) [5A89] - -  - 404 7  ZhJp M3 V          
+2407 Petsyabr             E755000-0 Ga Ba An Lt             { -3 } (500-5) [0000] - -  - 002 9  ZhJp M0 V          
+2408 Nebltafenzh          B582458-B Ni                      { 2 }  (733+4) [2618] - KM - 403 7  ZhJp K9 V D        
+2409 Zhdelstatl           E74677A-6 Ag Pi Di(minor)         { -1 } (861+3) [5621] - -  - 903 9  ZhJp M3 V          
+2410 Chiezshe             B569000-0 Ba Lt                   { -1 } (500-5) [0000] - -  - 002 8  ZhJp G4 V          
+2501 Javrebr              A52379C-D Na Pi Po Ht             { 3 }  (76B+4) [2AAC] - KM - 103 8  ZhJp G7 V M1 V     
+2502 Vrali                C310667-7 Ni Na O:2501            { -2 } (A51-4) [5415] - -  - 102 15 ZhJp M7 V          
+2506 Eyevr                C130434-C De Ni Po Ht             { 0 }  (534-3) [245F] - -  - 303 12 ZhJp M6 V          
+2507 Iaflodiafl           A420000-0 De He Ba Po Lt          { -1 } (B00-5) [0000] - -  - 022 16 ZhJp K8 V M8 V     
+2509 Dlefltiant           C000555-B As Va Ni                { 0 }  (B43+1) [859G] - -  - 623 17 ZhJp M9 V D        
+2510 Pansi                X975000-0 Ba Di(minor) Lt         { -3 } (700-5) [0000] - -  F 000 11 ZhJp M2 V          
+2601 Tsiav                C210447-B Ni                      { 0 }  (632+5) [949C] - -  - 110 6  ZhJp G3 V M3 V     
+2602 Zhdievr              D75A533-9 Wa Ni                   { -2 } (742-2) [6344] - -  - 701 6  ZhJp F8 V D        
+2610 Azhiebr              C433000-0 Ba Po Lt                { -2 } (800-5) [0000] - -  - 002 11 ZhJp G2 V          
+2701 Briz                 A685797-B Ga Ag Ri Cp Droy3       { 4 }  (B6B-1) [9B1B] - -  - 704 17 ZhJp K8 V D        
+2702 Arichbrr             A67A7AA-C Wa Pi Ht                { 2 }  (B65+1) [5968] - -  - 933 11 ZhJp K7 V          
+2703 Nial                 D461647-5 Ni Ri Lt                { -2 } (750+2) [2418] - -  - 834 14 ZhJp G9 V M0 V     
+2706 Chtopl               C6647BB-7 Ag Ri Chir1             { 2 }  (765+1) [3947] - KM - 120 10 ZhJp G6 V D        
+2708 Avrtlavlom           C74A88B-A Wa Ph Pi                { 1 }  (978+2) [4967] - -  - 524 16 ZhJp M5 V D        
+2709 Dlon                 E573553-6 Ni                      { -3 } (A42+1) [2255] - -  - 504 9  ZhJp F8 V          
+2710 Jesezyien            B7748BF-A Ph Pa Pi                { 2 }  (C78-2) [5A3C] - -  - 613 12 ZhJp F9 V          
+2802 Pliachatl            BABA8C7-D Fl Ph Ht                { 3 }  (87E+1) [8B5A] - W  - 802 15 ZhJp F5 V          
+2803 Tlaj Kie             C223000-0 Ba Po Lt                { -2 } (700-5) [0000] - -  - 003 11 ZhJp M8 V M9 V     
+2804 Plilpiebr            E535685-7 Ni                      { -3 } (450-3) [53A7] - -  - 423 13 ZhJp A6 V K8 V M3 V
+2805 Shtonche             A7648ED-C Ph Pa Ri Ht             { 3 }  (F75+3) [7B2C] - -  - 604 16 ZhJp M0 V          
+2806 Viaval               D558000-0 Ba Lt                   { -3 } (900-5) [0000] - -  - 004 11 ZhJp M5 V          
+2807 Afipiaf              A576000-0 Ba An Lt                { -1 } (700-5) [0000] - -  - 005 11 ZhJp K8 V          
+2809 Dliesh               B8A4412-A Fl Ni                   { 1 }  (B34+1) [5549] - -  - 303 12 ZhJp K1 IV         
+2902 Noplidr Ash          C373585-8 Ni                      { -2 } (441-5) [6327] - -  - 800 9  ZhJp M6 V          
+2904 Rqlinsia             B5A1000-0 Fl He Ba Lt             { -1 } (800-5) [0000] - -  - 003 11 ZhJp M5 V M5 V     
+2906 Ensnelatl            C879000-0 Ba Lt                   { -2 } (500-5) [0000] - -  - 000 7  ZhJp K6 V          
+3003 Zemetiaz             A000852-E As Va Ph Na Pi Ht       { 3 }  (C79-1) [CB6D] - KM - 713 12 ZhJp G2 V D        
+3006 Vrol                 C79559C-9 Ni Ag                   { 0 }  (645+2) [1556] - -  - 402 6  ZhJp M2 V          
+3008 Biachdranch          E5457A6-5 Ag Pi Lt                { -1 } (269+4) [2691] - -  - 902 7  ZhJp G8 V D        
+3010 Chtabra              A458874-D Ph Pa Ht                { 3 }  (67B+5) [9B5B] - KM - 503 11 ZhJp G7 V          
+3101 Jiajsenzh            E303778-8 Ic Va Na Pi             { -2 } (C64-1) [8555] - -  - 424 16 ZhJp M4 V          
+3106 Shimpatlmant         E854736-5 Ag Lt                   { -1 } (862+1) [4678] - -  - 322 10 ZhJp F9 V          
+3108 Lannens              C661000-0 Ba Lt                   { -2 } (800-5) [0000] - -  - 023 14 ZhJp M7 V D        
+3110 Aiantladlinch        E321000-0 He Ba Po O:3010 Lt      { -3 } (B00-5) [0000] - -  - 010 10 ZhJp M4 V          
+3202 Qotlseli             E202652-9 Ic Va Ni Na             { -2 } (553-2) [5464] - -  - 303 13 ZhJp F0 IV         
+3203 Ajvench              A400420-C Va Ni Ht                { 2 }  (A37+1) [1648] - KM - 623 15 ZhJp M9 V D        
+3205 Peshia               C562000-0 Ba Lt                   { -2 } (700-5) [0000] - -  - 004 11 ZhJp G9 V          
+3208 Eloqlezdev           C6968BB-8 Ph Pa Pi                { -1 } (C76-1) [B78B] - -  - 904 8  ZhJp K0 V          
+3209 Ietsplash            C7B0623-9 He Ni                   { -1 } (C51+2) [8548] - -  - 105 13 ZhJp F2 V          
+0115 Pradjaie             D745486-7 Ni Pa                   { -3 } (830+2) [3188] - -  - 904 12 ZhJp M4 V          
+0116 Oddlekliekl          D567000-0 Ba Lt                   { -3 } (400-5) [0000] - -  - 010 11 ZhJp K4 V          
+0119 Te Zdansaa           E582674-5 Ni Ri Lt                { -2 } (A50+2) [6475] - -  - 302 8  ZhJp M4 V          
+0120 Tiatlieadev          A400AAA-E Va Hi Na In Ht          { 5 }  (C9G+1) [CF3C] - D  - 724 15 ZhJp M5 V          
+0212 Qianienshietl        B77669C-A Ni Ag                   { 3 }  (D55+5) [492B] - D  - 104 13 ZhJp G3 V          
+0213 Lofenzh              E55A000-0 Wa Ba O:0214 Lt         { -3 } (600-5) [0000] - -  - 021 14 ZhJp M3 V D        
+0214 Ivin                 A98A659-D Wa Ni Ri Ht             { 2 }  (B55-1) [989F] - -  - 111 9  ZhJp G5 V          
+0216 Azzdedr              E3118A9-8 Ic Ph Na Pi             { -2 } (775-2) [9689] - -  - 610 9  ZhJp M5 V M6 V     
+0315 Vladefef             C100A55-D Va Hi Na In Ht          { 3 }  (B9B+2) [6D7C] - -  - 824 12 ZhJp M0 V          
+0317 Blel                 C242435-7 Ni Po                   { -2 } (833+1) [3278] - -  - 222 15 ZhJp G7 V D        
+0319 Sazhiebr             B372000-0 He Ba Lt                { -1 } (200-5) [0000] - -  - 014 16 ZhJp M7 V          
+0411 Ezhdiar              E230511-7 De Ni Po                { -3 } (742-2) [6248] - -  - 910 11 ZhJp M1 V M4 V     
+0414 Dablfliansh          D344000-0 Ba Lt                   { -3 } (900-5) [0000] - -  - 010 12 ZhJp M7 V D        
+0416 Vol                  C41487C-9 Ic Ph Pi                { 0 }  (57B+5) [8878] - -  - 520 7  ZhJp M2 V          
+0418 Dashipr              A675AFC-E Hi In Cp Ht             { 5 }  (E97+1) [EF6E] - KM - 523 16 ZhJp G5 V          
+0419 Flatliaanch          B303640-C Ic Va Ni Na Ht          { 1 }  (F53-3) [777F] - -  - 903 8  ZhJp M7 V M8 V D   
+0420 Ovloplats            C344735-7 Ag Pi                   { 0 }  (869+1) [6735] - -  - 504 16 ZhJp M7 V          
+0512 Denzhimie            A595555-C Ni Ag Ht                { 2 }  (443+1) [779D] - -  - 202 10 ZhJp K9 V D        
+0514 Yaskekue             B687653-B Ga Ni Ag Ri An DroyW    { 3 }  (B54-3) [7929] - M  - 523 13 ZhJp K7 V          
+0516 Ple'shtenzh          C333556-B Ni Po                   { 0 }  (G45-3) [457D] - -  - 722 12 ZhJp M9 V          
+0517 Qlonjia              C969000-0 Ba Lt                   { -2 } (400-5) [0000] - -  - 023 10 ZhJp M7 V D        
+0518 Kel                  B335525-B Ni Droy1                { 1 }  (944+1) [766A] - -  - 504 9  ZhJp K7 V          
+0611 Safrapl              A370857-E De He Ph Pi Ht          { 2 }  (C7C+3) [AA3C] - -  - 222 15 ZhJp M1 V M4 V     
+0614 Driechi              A234476-E Ni Ht                   { 2 }  (B34+1) [267D] - KM - 703 11 ZhJp M2 V          
+0617 Enzhiavl             C788A98-A Hi                      { 2 }  (79A+1) [CC4A] - -  - 902 6  ZhJp M9 V          
+0620 Detsplieshia         C585200-5 Lo ChirW Lt             { -2 } (A10-1) [5177] - -  - 814 11 ZhJp K9 V D        
+0711 Benshqra             A377663-B Ni Ag O:0611            { 2 }  (953+1) [684B] - -  - 122 14 ZhJp M9 V          
+0715 Mrkr                 C646000-0 Ba Lt                   { -2 } (C00-5) [0000] - -  - 014 14 ZhJp M7 V          
+0716 Ilvliel              D642510-5 He Ni Po Lt             { -3 } (641+1) [7256] - -  - 412 8  ZhJp F4 V          
+0718 Tiedr                X423000-0 Ba Po Lt                { -3 } (B00-5) [0000] - -  F 004 15 ZhJp M3 V D        
+0720 Avria                C466651-A Ni Ag Ri                { 3 }  (B59+1) [89AB] - KM - 713 15 ZhJp K5 V          
+0811 Iatiaiepr            C6648CD-5 Ph Pa Ri Di(minor) Lt   { 0 }  (87B+1) [6865] - -  - 603 9  ZhJp G5 V          
+0812 Braqlia              B9C5000-0 Fl Ba Lt                { -1 } (B00-5) [0000] - -  - 023 13 ZhJp G3 V          
+0814 Qrialdats            C587655-9 Ni Ag Ri                { 1 }  (C52+1) [876A] - -  - 520 11 ZhJp K3 V D        
+0815 Plejditsie           B000457-D As Va Ni Ht             { 2 }  (C37+1) [864F] - KM - 123 11 ZhJp F5 V          
+0820 Qriokro              E325453-7 Ni                      { -3 } (633-2) [412B] - -  - 300 6  ZhJp K3 III        
+0913 Tlavliei             C586876-8 Ph Pa Ri                { 1 }  (97D+1) [7958] - KM - 511 9  ZhJp K5 V          
+0914 Kaflde               B89A769-C Wa Pi O:0915 Ht         { 2 }  (A68+2) [894C] - -  - 112 11 ZhJp M3 V          
+0915 Ialpa                A766745-C Ga Ag Ri Ht             { 4 }  (B6C-1) [5B6D] - -  - 223 18 ZhJp K1 IV K8 V    
+0918 Rpepzdefr            B56A420-C Wa Ni Ht                { 2 }  (C37+3) [465C] - KM - 103 9  ZhJp K4 V          
+0919 Kobrchtenzh          B200000-0 Va Ba Lt                { -1 } (900-5) [0000] - -  - 005 9  ZhJp M5 V          
+1013 Jeazhivr             D441448-7 He Ni Po                { -3 } (433+2) [2145] - -  - 124 19 ZhJp G2 V          
+1014 Achoqr               D354777-5 Ag Lt                   { -1 } (865+1) [2686] - -  - 805 17 ZhJp M7 III        
+1018 Tinsh                AAB6855-D Fl Ph Ht                { 3 }  (87C+3) [CB4E] - KM - 911 9  ZhJp G4 V M9 V     
+1019 Kiail                B45769D-A Ni Ag                   { 2 }  (A57+1) [4878] - -  - 523 13 ZhJp K6 IV M7 V    
+1116 Flo'fliezhie         D56587B-3 Ph Pa Ri (minor) Lt     { -1 } (278+3) [9745] - -  U 712 9  ZhJp G9 V          
+1119 Piabldal             C230000-0 De Ba Po Lt             { -2 } (600-5) [0000] - -  - 014 15 ZhJp G4 V          
+1211 Fia Vlenchta         B61489C-B Ic Ph Pi                { 3 }  (C79-2) [8B2A] - KM - 222 14 ZhJp M0 V          
+1217 Kaythe               A485555-E Ni Ag Pr An DroyW Ht    { 2 }  (E43+2) [575J] - M  - 424 14 ZhJp G0 V          
+1313 Jdizialia            B454000-0 Ba Lt                   { -1 } (500-5) [0000] - -  - 002 11 ZhJp A1 V          
+1314 Zdarapel             E766000-0 Ga Ba Lt                { -3 } (900-5) [0000] - -  - 031 11 ZhJp K1 V          
+1315 Enssazi'             A523000-0 Ba Po Lt                { -1 } (C00-5) [0000] - -  - 014 11 ZhJp M0 V M9 V     
+1316 Iaplpa'tlal          D323566-9 Ni Po O:1315            { -2 } (744-1) [6348] - -  - 512 9  ZhJp M3 V D        
+1319 Tliaqbrav            A876974-E Hi In Cp Ht             { 5 }  (B8D-2) [AE6H] - KM - 402 11 ZhJp K8 V M5 V     
+1412 Chieplans            B5979BB-C Hi In Ht                { 5 }  (D8E-1) [BE6G] - KM - 925 19 ZhJp K3 V M3 V M5 V
+1512 Vemietl              A686000-0 Ga Ba Lt                { -1 } (800-5) [0000] - -  - 024 14 ZhJp K9 V          
+1514 Chtaoz               E221522-8 Ni Po                   { -3 } (B43-5) [7213] - -  - 122 15 ZhJp M9 IV M3 V    
+1517 Ine'tedl             E875778-6 Ag Pi                   { -1 } (964-3) [5619] - -  - 740 12 ZhJp M7 IV         
+1519 Blotl                A766448-D Ga Ni Pa Ht             { 2 }  (434+4) [6649] - KM - 602 10 ZhJp K3 V K4 V     
+1613 Tliaqbravets         A88878A-A Ag Ri Droy1             { 4 }  (26B+1) [9B8F] - -  - 700 12 ZhJp F9 V G9 V     
+1617 Dlivkebla            A545689-B Ni Ag                   { 3 }  (D59+2) [597D] - KM - 222 15 ZhJp K9 V M3 V     
+1618 Chiech               B55769C-6 Ni Ag                   { 0 }  (653-1) [4636] - -  - 612 16 ZhJp K2 V M6 V     
+1620 Tlevlblaziakr        A466A98-E Hi Ht                   { 4 }  (99D+1) [AE7J] - KM - 924 11 ZhJp M7 V          
+1713 Prosial              B56567A-A Ni Ag Ri                { 4 }  (C59+2) [6A8A] - KM - 324 18 ZhJp K3 V D        
+1715 Aplavriadl           C373000-0 Ba Lt                   { -2 } (700-5) [0000] - -  - 005 13 ZhJp M3 V D        
+1718 Ta Niabr             D97A688-7 Wa Ni                   { -3 } (A52-3) [8343] - -  - 423 14 ZhJp K0 V          
+1719 Enzjdivr             C7C599C-B Fl Hi In                { 4 }  (486-1) [8D4A] - KM - 902 10 ZhJp M9 V          
+1720 Apre                 C330000-0 De Ba Po Lt             { -2 } (700-5) [0000] - -  - 004 10 ZhJp M8 V M8 V     
+1813 Vabrafl              B513000-0 Ic Ba Lt                { -1 } (800-5) [0000] - -  - 010 11 ZhJp A6 V F6 V D   
+1817 Ieridr               B42145A-D He Ni Po Ht             { 1 }  (B32-1) [655D] - -  - 304 11 ZhJp G3 IV         
+1820 Ienen                C484510-8 Ni Ag Pr                { -1 } (A41-1) [74A9] - -  - 923 11 ZhJp M9 V D        
+1912 Piafleprianz         E213796-7 Ic Na Pi                { -2 } (862+1) [3548] - -  - 724 9  ZhJp M2 V          
+1915 Satjiel              A78A656-E Wa Ni Ri Chir1 Ht       { 3 }  (B55+4) [395E] - KM - 113 13 ZhJp K6 V D        
+1916 Anzdla               C300000-0 Va Ba Lt                { -2 } (200-5) [0000] - -  - 021 14 ZhJp M6 V          
+1918 Chivrea              A210975-E Hi Na In Ht             { 5 }  (88D+2) [BE2H] - KM - 704 12 ZhJp M2 V          
+2013 Tlenshial            A10058A-E Va Ni Ht                { 1 }  (943+5) [766E] - -  - 904 10 ZhJp K3 III M8 V   
+2014 Jiavraql             C150000-0 De Ba Po O:1915 Lt      { -2 } (A00-5) [0000] - -  - 021 12 ZhJp M9 V          
+2016 Pradlredrva'         B577798-8 Ag Pi Chir1             { 1 }  (B6B-2) [6878] - -  - 902 7  ZhJp K8 V          
+2017 Flonzebrienzh        A344996-E Hi In Cp Ht             { 5 }  (98D+2) [9E8F] - KM - 204 12 ZhJp M0 V D        
+2019 Ple'na               A684511-A Ni Ag Pr                { 3 }  (548-2) [784F] - KM - 200 4  ZhJp M5 V D        
+2112 Ichientsi            C220000-0 De Ba Po Lt             { -2 } (700-5) [0000] - -  - 024 13 ZhJp M0 IV         
+2117 Chakrrzh             CAA4000-0 Fl Ba Lt                { -2 } (300-5) [0000] - -  - 024 14 ZhJp M1 V D        
+2213 Zhdapatl             E210543-8 Ni                      { -3 } (D40-2) [4225] - -  - 223 14 ZhJp K7 V          
+2216 Evvlieanj            C487551-9 Ni Ag Pr An             { 1 }  (842+2) [4639] - KM - 401 11 ZhJp G4 V          
+2219 Beshenj Frazht       A5049A7-E Ic Va Hi In Ht          { 5 }  (78G-3) [7E4C] - KM - 104 15 ZhJp M9 V          
+2220 Idlol                E360657-5 De Ni Ri Lt             { -2 } (852+1) [8485] - -  - 703 7  ZhJp G8 V          
+2311 Zdiafplat            A46978B-D Ri Ht                   { 4 }  (96C+1) [6B8G] - D  - 103 12 ZhJp G4 V          
+2315 Kriaz                C200578-9 Va Ni                   { -1 } (B43+4) [346A] - -  - 802 7  ZhJp B2 Ia         
+2316 Bliadrats            A000400-E As Va Ni Ht             { 1 }  (E34-4) [555E] - -  - 734 16 ZhJp G4 V M5 V     
+2413 Diaia                X8C0000-0 He Ba Lt                { -3 } (700-5) [0000] - -  F 023 18 ZhJp K0 IV         
+2414 Iablazient           B9968CE-A Ph Pa Pi                { 3 }  (87A+2) [6B8B] - KM - 501 10 ZhJp K7 V D        
+2416 Veprkesh             B669503-B Ni Pr                   { 1 }  (C44+1) [769A] - -  - 603 12 ZhJp G1 V          
+2420 Zryenz               C746879-7 Ph Pa Pi (minor)        { -1 } (873+1) [9732] - -  U 504 12 ZhJp M0 V          
+2512 Rieflyensh           B9B4441-C Fl Ni Ht                { 1 }  (D37+1) [158G] - -  - 333 15 ZhJp K7 V          
+2514 Ambrefl              A9D1631-C Ni Ht                   { 2 }  (954+2) [389F] - KM - 814 17 ZhJp M9 V          
+2515 Chta'ia              C594766-8 Ag Pi O:2615            { 0 }  (B67+2) [576D] - -  - 213 10 ZhJp K4 V D        
+2517 Jdans                A888797-B Ag Ri                   { 4 }  (96B+2) [7B2C] - -  - 111 12 ZhJp G8 V          
+2520 Dlieoviabr           CACA657-C Fl Ni Ht                { 0 }  (A55-1) [868A] - -  - 800 7  ZhJp K6 V D        
+2611 Tlolble              A7A4000-0 Fl Ba Lt                { -1 } (900-5) [0000] - -  - 022 17 ZhJp K8 V          
+2612 Jol Diadl            C150000-0 De Ba Po Lt             { -2 } (800-5) [0000] - -  - 024 15 ZhJp M0 V          
+2613 Iepkrachtiabra       C5598CE-8 Ph                      { -1 } (47A+1) [4738] - -  - 801 12 ZhJp K1 V M0 V     
+2614 Dizdir               E570778-5 De He Pi Lt             { -2 } (561+3) [6585] - -  - 711 10 ZhJp M4 V          
+2615 Zilil                A5688CC-B Ph Pa Ri                { 4 }  (A7E+1) [7C6B] - KM - 104 10 ZhJp K0 V          
+2619 Batlia               B140553-D De Ni Po Ht             { 1 }  (C47-2) [665C] - -  - 603 10 ZhJp M1 V M4 V     
+2711 Viakl                D799536-7 Ni                      { -3 } (840-3) [7236] - -  - 505 15 ZhJp M9 V D        
+2712 Insia                C98A7B9-A Wa Ri                   { 2 }  (569+5) [592A] - -  - 400 8  ZhJp G3 V          
+2714 Qlachtefl            E7B359B-8 Fl Ni                   { -3 } (C41+2) [5216] - -  - 710 9  ZhJp M9 V          
+2716 Ochiaza              B851611-A Ni Po                   { 1 }  (F56+1) [977B] - -  - 214 10 ZhJp M8 V D        
+2717 Jdikliev             B330000-0 De Ba Po Lt             { -1 } (900-5) [0000] - -  - 002 12 ZhJp M7 IV         
+2718 Etlifevro            A777A75-E Hi In Ht                { 5 }  (A9G-1) [8FAG] - KM - 202 11 ZhJp G2 V          
+2719 Zhdant               A654AC8-F Hi Cx An [Zhodani] Ht   { 4 }  (C9C-2) [9B9A] - KM - 811 10 ZhJp M0 V          
+2720 Vlazzhden            C210000-0 Ba Lt                   { -2 } (500-5) [0000] - -  - 003 13 ZhJp G1 IV         
+2811 Li' Veatla           E100556-B Va Ni                   { -1 } (B44-1) [549C] - -  - 502 9  ZhJp M9 V          
+2814 Title                B545679-8 Ni Ag Chir4             { 1 }  (F54-1) [7766] - KM - 815 15 ZhJp M5 V          
+2816 Oshtinz              D644645-6 Ni Ag                   { -2 } (950+2) [9447] - -  - 104 17 ZhJp G7 V          
+2818 Diabllianzhel        C538542-9 Ni                      { -1 } (942+3) [94AA] - -  - 403 9  ZhJp A9 V K8 V     
+2819 Tlapinsh             B569854-C Ph Ri Ht                { 3 }  (C7A-1) [6B3F] - -  - 622 15 ZhJp K7 V          
+2820 Ezevrtlad            C120000-0 De Ba Po Lt             { -2 } (700-5) [0000] - -  - 000 10 ZhJp K2 III        
+2911 Jdanzdia             C7A2558-8 Fl He Ni                { -1 } (644+2) [7466] - KM - 520 14 ZhJp K5 V M5 V     
+2914 Floeflianse          C433A55-E Hi Na Po Ht             { 2 }  (99D-1) [DC7C] - -  - 223 10 ZhJp K0 V          
+2915 Zdanqlad             C622000-0 He Ba Po Lt             { -2 } (900-5) [0000] - -  - 002 8  ZhJp M5 V D        
+2919 Alchiavrie           B222000-0 Ba Po O:3018 Lt         { -1 } (500-5) [0000] - -  - 002 14 ZhJp M0 V          
+2920 Riapzhiatlensh       A00098A-E As Va Hi Na In Ht       { 5 }  (F8E-2) [CE8D] - D  - 924 12 ZhJp M3 V          
+3014 Alienjne             C3128BD-A Ic Ph Na Pi             { 2 }  (A7A+1) [5A2A] - KM - 900 11 ZhJp M3 IV         
+3015 Blizatl              C646455-7 Ni Pa                   { -2 } (632+1) [224B] - -  U 604 14 ZhJp M3 V D        
+3017 Ansdrel              C5546A7-8 Ni Ag                   { -1 } (653-4) [9569] - -  - 703 16 ZhJp K8 V D        
+3018 Dribr                A2659EA-E Hi Pr An Ht             { 4 }  (A8A-3) [9D4H] - KM - 802 9  ZhJp G7 V          
+3019 Vlieshstoql          D100000-0 Va Ba Lt                { -3 } (600-5) [0000] - -  - 000 5  ZhJp M3 V D        
+3111 Shoprbria            E585674-5 Ni Ag Ri Lt             { -1 } (650+1) [3551] - -  - 525 16 ZhJp K0 V          
+3113 Eblits               C9C6410-9 Fl Ni                   { -1 } (D30+1) [6348] - -  - 423 13 ZhJp K9 III M8 V   
+3114 Iabridr              B420535-D De He Ni Po Ht          { 1 }  (743+3) [664D] - -  - 501 10 ZhJp M4 V M7 V     
+3117 Jdozhdafria          A85948A-E Ni Ht                   { 2 }  (C36-2) [666F] - D  - 123 16 ZhJp K5 V          
+3211 Vemepl Qlivr         E000000-0 As Va Ba Lt             { -3 } (600-5) [0000] - -  - 024 17 ZhJp M7 V          
+3212 Eklcha               D565796-5 Ag Ri Lt                { 0 }  (868-3) [9764] - -  - 404 13 ZhJp G0 V          
+3213 Stevloash            D570999-6 De He Hi In             { 0 }  (589+1) [9934] - -  - 203 15 ZhJp M8 V          
+3214 Jenkints             B468454-C Ni Pa Droy4 Ht          { 2 }  (A36+1) [367E] - KM - 920 10 ZhJp K0 V D        
+3217 Ovotsanj             A000522-E As Va Ni Ht             { 2 }  (D47-1) [572A] - KM - 215 13 ZhJp M1 V M3 V     
+3219 Kriat                C200456-C Va Ni Ht                { 0 }  (536+2) [247D] - -  - 101 6  ZhJp M2 V          
+3220 Te'iavr              C7676BA-8 Ga Ni Ag Ri             { 0 }  (B54+1) [366B] - -  - 304 12 ZhJp K5 V D        
+0123 Ratlechzder          B3427AB-A He Pi Po                { 3 }  (969+2) [9A9A] - KM - 221 13 ZhJp M7 V          
+0126 Dlelstekre           A88A6A8-E Wa Ni Ri Ht             { 3 }  (954-1) [696C] - KM - 603 15 ZhJp G1 V          
+0129 Dlivldla             A795ADD-D Hi In Ht                { 5 }  (99E-1) [AF7G] - KM - 503 9  ZhJp M0 V          
+0130 Anchvlanzhad         E552000-0 Ba Po Lt                { -3 } (A00-5) [0000] - -  - 005 13 ZhJp M3 V M7 V     
+0223 Aqanzzhdiabl         D211404-9 Ic Ni                   { -2 } (B32+1) [122A] - -  - 903 11 ZhJp F6 V M3 V     
+0224 Qievjach             C76A528-A Wa Ni Pr                { 0 }  (946+1) [354B] - -  - 504 11 ZhJp K1 V          
+0228 Liatsrza             E445424-8 Ni Pa                   { -3 } (F31-4) [5156] - -  - 813 12 ZhJp G4 V          
+0229 Ieazhizh             B677997-B Hi In (minor)           { 4 }  (989+3) [AD47] - -  - 602 6  ZhJp G6 V          
+0322 Echshiaanzh          B529ADC-D Hi In Ht                { 4 }  (D9E+1) [EE6H] - -  - 604 15 ZhJp M1 V          
+0326 Biezi                D237577-8 Ni                      { -3 } (940+3) [1235] - -  - 704 10 ZhJp M1 V D        
+0421 Zhdintsadr           D628AAB-A Hi In                   { 3 }  (99B+1) [FD7B] - KM - 904 8  ZhJp M3 V          
+0425 Shtanso              B65A56A-C Wa Ni O:0322 Ht         { 1 }  (B46+1) [361D] - -  - 303 10 ZhJp K2 V D        
+0428 Ierdratodr           C150559-9 De Ni Po                { 0 }  (A43-2) [7585] - KM - 604 14 ZhJp K5 V M4 V     
+0521 Kenshjievr           C9A479C-8 Fl                      { -1 } (B6A-2) [5689] - -  - 223 10 ZhJp M7 V          
+0522 Zharkash             E468524-7 Ni Ag Pr                { -2 } (543-1) [5352] - -  - 112 11 ZhJp G2 IV         
+0523 Vedrenie'            A788558-D Ni Ag Pr Droy3 Ht       { 3 }  (D49-3) [582B] - KM - 804 13 ZhJp F9 IV         
+0525 Shezhanzdra          E587000-0 Ba Lt                   { -3 } (500-5) [0000] - -  - 003 9  ZhJp K7 V          
+0526 Qlentileche          A887957-E Ga Hi Pr Cp Ht          { 4 }  (78E+1) [9D4A] - D  - 712 16 ZhJp M3 V          
+0528 Iaflianiaqr          D687536-7 Ga Ni Ag Pr Chir5       { -2 } (444-1) [2357] - -  - 903 6  ZhJp K1 V          
+0530 Zhdekr               A7A6527-D Fl Ni Ht                { 2 }  (B46-5) [374H] - KM - 804 12 ZhJp M4 V          
+0622 Plobradash           C538528-9 Ni                      { -1 } (543-2) [14AC] - -  - 610 8  ZhJp G3 V M6 V     
+0628 Iazqatl              C000000-0 As Va Ba Lt             { -2 } (600-5) [0000] - -  - 013 15 ZhJp M4 V          
+0629 Da'bits              E468727-5 Ag Ri Lt                { 0 }  (867-1) [A731] - -  - 304 12 ZhJp M3 V          
+0721 Jdavriatsebl         E7838AB-4 Ph Ri (minor) Lt        { -1 } (977-5) [7765] - -  U 304 14 ZhJp K7 V D        
+0728 Lirraif              C678000-0 Ba Lt                   { -2 } (600-5) [0000] - -  - 005 11 ZhJp K7 V          
+0822 Flia'sar             C7A2776-9 Fl He                   { 0 }  (76B-2) [A766] - -  - 612 14 ZhJp M7 III        
+0824 Iazdonts             AAC97C7-C Fl Ht                   { 3 }  (B67+3) [6A7A] - KM - 404 12 ZhJp M4 V          
+0829 Qriam                B673885-9 Ph Pi                   { 2 }  (C7B-2) [8A58] - KM - 631 15 ZhJp G1 V          
+0921 Jdiepleqr            E5239B6-8 Hi Na In Po             { 0 }  (78C-4) [89A7] - -  - 401 11 ZhJp M9 V          
+0922 Dlechfria'           CAC897A-A Fl Hi In                { 4 }  (989+1) [5D48] - KM - 804 15 ZhJp G7 III        
+0924 Flienjmiench         B887696-9 Ga Ni Ag Ri             { 2 }  (753-5) [585A] - -  - 401 8  ZhJp M3 V          
+0925 Kiflladl             E353532-4 Ni Po Lt                { -3 } (841+4) [5266] - -  - 104 12 ZhJp M6 V          
+0927 Yashetlavr           C000AFF-E As Va Hi Na In Ht       { 3 }  (F95-2) [CD6C] - -  U 524 15 ZhJp M2 V D        
+0928 I'di                 B7B4728-B Fl                      { 2 }  (C66+1) [99AF] - -  - 914 16 ZhJp M4 V          
+1021 Iaprprietl           A888876-C Ph Pa Ri Droy3 Ht       { 3 }  (87A+3) [8B8D] - -  - 202 11 ZhJp K8 V          
+1022 Zhodri               E797666-5 Ni Ag O:1021 Lt         { -2 } (B53-1) [6469] - -  - 702 9  ZhJp K2 V D        
+1024 Jivladavl            B67855A-A Ni Ag Chir4             { 2 }  (847-1) [676E] - -  - 400 11 ZhJp G4 V D        
+1025 Diapche              C675684-8 Ni Ag                   { -1 } (E50+1) [5548] - -  - 615 14 ZhJp F2 V          
+1026 Blieme               C848562-9 Ni Ag O:0927            { 1 }  (B46+4) [765B] - KM U 601 8  ZhJp M3 V D        
+1029 Sotszhdiao           C7A098C-B He Hi In                { 3 }  (E8E+1) [CC5A] - -  - 605 11 ZhJp F2 V M9 V     
+1030 Briaji               C53789D-9 Ph                      { 0 }  (D76+1) [D85A] - -  - 504 16 ZhJp M1 V          
+1121 Zhdintre             B54477A-8 Ag Pi                   { 1 }  (968-1) [785D] - -  - 200 9  ZhJp M4 V          
+1123 Shtenzh Qlotl        A544A75-E Hi In Ht                { 5 }  (C9G+1) [AF4A] - KM - 702 11 ZhJp M1 V          
+1126 Dlia'abl             B798569-9 Ni Ag O:1127            { 1 }  (E47+1) [3668] - -  - 404 11 ZhJp K8 V M4 V D   
+1127 Priatsziarr          A558757-C Ag Ht                   { 3 }  (56D+2) [6A1F] - -  - 300 5  ZhJp G4 V          
+1128 Tians Da' Jefr       B494A9C-E Hi In Cp Ht             { 5 }  (D9G-4) [EF7G] - KM - 613 15 ZhJp M8 V M9 V D   
+1221 Ferchoblvel          C656659-7 Ga Ni Ag                { -1 } (855+4) [8547] - -  - 103 12 ZhJp K6 V D        
+1222 Chti'di              C38487C-9 Ph Pa Ri                { 1 }  (A77-1) [8949] - -  - 902 5  ZhJp M2 V          
+1225 Lantizh Ant          B65458A-A Ni Ag                   { 2 }  (543+2) [57A9] - -  - 400 8  ZhJp M9 V          
+1226 Iqletsi              B768676-9 Ni Ag Ri                { 2 }  (A57+1) [2834] - -  - 514 14 ZhJp G6 V          
+1230 Plazdiets            C66875A-8 Ag Ri                   { 1 }  (764-4) [9879] - -  - 603 10 ZhJp K4 V D        
+1321 Plietsvie            E556688-4 Ni Ag Lt                { -2 } (550-5) [7457] - -  - 720 14 ZhJp F0 V M7 V     
+1323 Iashintdria          A354535-E Ni Ag Ht                { 3 }  (948+1) [184H] - KM - 203 11 ZhJp M0 V          
+1324 Kiroadr              C567687-7 Ni Ag Ri                { 0 }  (756+1) [7654] - -  - 703 12 ZhJp K9 V D        
+1325 Tiak                 A569697-A Ni Ri                   { 3 }  (B59-2) [894A] - D  - 304 16 ZhJp K0 V          
+1326 Frianjekrizh         B89AA58-E Wa Hi In Ht             { 4 }  (C9C-2) [FE1B] - -  - 103 11 ZhJp G2 V          
+1328 Zdrint               AA899A6-D Hi Pr Ht                { 3 }  (B8B+2) [8C1G] - -  - 903 9  ZhJp G1 V M9 V     
+1329 EQASHTEPLI           A8786A7-B Ni Ag                   { 3 }  (A58-4) [397C] - KM - 805 12 ZhJp K8 V          
+1330 Zhdonchiano          C89A453-9 Wa Ni                   { 0 }  (734-2) [444D] - KM - 421 7  ZhJp K8 V M3 V     
+1421 Tlozhdevr            E364796-5 Ag Ri (minor) Lt        { 0 }  (869-3) [6795] - -  - 402 10 ZhJp G3 V          
+1422 Aiv                  B8B6639-B Fl Ni An                { 1 }  (F56+1) [974C] - -  - 223 10 ZhJp G7 V D        
+1423 Briazdle             A312000-0 Ic Ba O:1323 Lt         { -1 } (500-5) [0000] - -  - 004 13 ZhJp M2 V M8 V     
+1428 Mimklefliez          B966A9A-A Hi                      { 4 }  (A98-1) [7E19] - KM - 712 10 ZhJp K6 V D        
+1523 Staantoch            A677554-C Ni Ag Ht                { 2 }  (C43-4) [776B] - -  - 703 9  ZhJp K7 V          
+1525 Jiazshiepr           C446989-B Hi In                   { 3 }  (989+1) [DC2A] - -  - 702 10 ZhJp M6 V          
+1526 Chtiadrshienz        B566654-A Ni Ag Ri                { 3 }  (856-2) [498A] - -  - 602 8  ZhJp K4 V          
+1528 Fialkatsevr          B445518-A Ni Ag                   { 2 }  (C45+4) [8779] - -  - 820 9  ZhJp M9 V          
+1529 Qloiz                A877784-B Ag Pi                   { 3 }  (A6F+5) [8A5A] - -  - 903 9  ZhJp F7 V M8 V D   
+1624 Lelhtontsa           B8999BF-C Hi In (minor) Ht        { 5 }  (88D+1) [6E5B] - KM - 802 11 ZhJp K1 V D        
+1625 Iashfliezh           E574449-6 Ni Pa                   { -3 } (930+3) [4118] - -  - 514 18 ZhJp G8 V D        
+1626 Shtodli              D481000-0 Ba Lt                   { -3 } (800-5) [0000] - -  - 000 4  ZhJp G9 V          
+1627 Edri                 E471000-0 He Ba Lt                { -3 } (700-5) [0000] - -  - 053 18 ZhJp F0 V          
+1628 Tsadlzhdanch         A6A5500-E Fl Ni Ht                { 1 }  (E46+1) [561A] - -  - 704 8  ZhJp K7 III        
+1721 Afliavl              B300447-C Va Ni Ht                { 1 }  (F37+3) [4579] - -  - 624 15 ZhJp M5 V          
+1722 Dri Ats              C145745-8 Ag Pi                   { 0 }  (966+1) [8778] - -  - 402 13 ZhJp M2 V D        
+1725 Vravchadl            D845579-7 Ni Ag                   { -2 } (B43-3) [2314] - -  - 102 7  ZhJp F2 V M7 V     
+1726 Eplzhdepl            A435987-E Hi (minor) Ht           { 4 }  (78D-1) [BD6F] - KM - 312 10 ZhJp M0 V M9 V     
+1727 Vriarzdanz           B344769-B Ag Pi O:1727            { 3 }  (C6B+1) [5A7F] - -  - 404 14 ZhJp M7 V          
+1730 Oprinzh              C55878A-7 Ag                      { 1 }  (666-1) [7887] - KM - 902 13 ZhJp G4 V M7 V     
+1824 Jdanzri              B263412-B Ni                      { 1 }  (A36+2) [253A] - -  - 510 9  ZhJp M1 V          
+1827 Nalkentsbr           D787544-6 Ga Ni Ag Pr             { -2 } (740-4) [7339] - -  - 221 13 ZhJp M0 V          
+1829 Dlanzhtsianzh        CA7A757-A Oc Pi                   { 1 }  (56A+1) [7897] - -  - 301 11 ZhJp K2 V          
+1830 Shaaika              B744959-D Hi In Ht                { 4 }  (886+1) [7D5B] - -  - 711 9  ZhJp F7 V D        
+1921 Tletdovr Zedr        C556AAD-C Hi Ht                   { 3 }  (A9B+3) [ED3G] - KM - 724 14 ZhJp G3 V          
+1923 Briefr               E749479-5 Ni Lt                   { -3 } (330-2) [6178] - -  - 103 12 ZhJp G7 V          
+1924 Zhdityia             A592000-0 He Ba Lt                { -1 } (500-5) [0000] - -  - 021 10 ZhJp F9 V          
+1927 Klinzha              B733586-A Ni Po                   { 1 }  (645-3) [164C] - -  - 610 4  ZhJp M9 V          
+1928 Tlat                 C788579-9 Ni Ag Pr                { 0 }  (B43+3) [4589] - -  - 204 9  ZhJp K1 V          
+1929 Sansniaapr           B435535-B Ni                      { 1 }  (B47+1) [4687] - -  - 913 7  ZhJp M8 V          
+2023 Zhde'iekdlats        A767753-C Ga Ag Ri Ht             { 5 }  (A6A+5) [BCAB] - KM - 102 12 ZhJp K8 V          
+2025 Zdefrients           A77A999-E Wa Hi In Cp Ht          { 5 }  (788-3) [BE6B] - D  - 303 9  ZhJp K1 V          
+2026 Albetl               C445503-A Ni Ag                   { 1 }  (846+4) [268A] - -  - 804 13 ZhJp M8 V          
+2028 Piezshtopr           C988000-0 Ba Lt                   { -2 } (B00-5) [0000] - -  - 001 13 ZhJp G9 V M7 V     
+2029 Qiash                C884753-8 Ag Ri                   { 1 }  (969+1) [2867] - -  - 604 15 ZhJp G9 V          
+2122 Zdiaeva              C441000-0 He Ba Po Lt             { -2 } (600-5) [0000] - -  - 002 9  ZhJp M6 V          
+2123 Vriatlieiesho        B423646-B Ni Na Po                { 1 }  (E52-3) [573C] - -  - 912 12 ZhJp K4 V M7 V     
+2127 Prantravli           E322584-8 He Ni Po                { -3 } (541+2) [225A] - -  - 403 8  ZhJp G3 V          
+2221 Leqro'prinsta        B460784-A De Ri                   { 3 }  (96E+1) [7A5B] - -  - 302 10 ZhJp K0 V M7 V     
+2222 Plonzhremo           B526ABB-E Hi In Ht                { 4 }  (C9F-3) [8E7B] - -  - 904 13 ZhJp F3 V          
+2224 Riatsjansh           E643000-0 Ba Po Di(minor) Lt      { -3 } (600-5) [0000] - -  U 002 10 ZhJp M5 V D        
+2228 Qrentsabr            C350726-7 De Po                   { 0 }  (568-1) [8748] - KM - 514 14 ZhJp K2 V          
+2230 Aklie                CAA5000-0 Fl Ba Lt                { -2 } (800-5) [0000] - -  - 004 14 ZhJp K7 V          
+2321 Denzia               A769432-E Ni Ht                   { 2 }  (C38-3) [267E] - KM - 923 11 ZhJp G3 V D        
+2327 Piensinzh            C54278B-7 He Pi Po (minor)        { 0 }  (969-2) [4735] - KM - 212 11 ZhJp F4 V          
+2328 Artsi'chto           D788798-5 Ag Ri (minor) Lt        { 0 }  (964+4) [4749] - -  U 802 10 ZhJp K9 V D        
+2422 Priaklpa             E8866BA-4 Ga Ni Ag Ri Lt          { -1 } (450-2) [9556] - -  - 405 11 ZhJp G8 V          
+2424 Inshyedr             B464842-A Ph Pa Ri                { 4 }  (47C+3) [AC85] - KM - 500 6  ZhJp K8 V          
+2429 Vliashoz             D468655-7 Ni Ag Ri                { -1 } (654-3) [A546] - -  - 800 7  ZhJp K4 V D        
+2430 Azzhefrstav          A00087B-D As Va Ph Na Pi Ht       { 3 }  (C7A-2) [BB8D] - KM - 120 11 ZhJp K2 V M0 V     
+2522 Afaents              C240786-8 De Pi Po                { -1 } (B64+1) [A657] - -  - 900 8  ZhJp M7 V          
+2523 Vrie'stiach          C666000-0 Ga Ba Di(minor) Lt      { -2 } (700-5) [0000] - -  U 004 12 ZhJp K8 V          
+2526 Nianshia             B584000-0 Ba Lt                   { -1 } (800-5) [0000] - -  - 000 6  ZhJp M9 V          
+2528 Ofbieb               B348547-C Ni Ag Ht                { 3 }  (G44+5) [883C] - KM - 123 15 ZhJp M0 V          
+2529 Manzh                C465731-6 Ag Ri                   { 1 }  (465-1) [4822] - -  - 504 13 ZhJp K5 V D        
+2530 Jdizal               C251000-0 Ba Po Di(minor) Lt      { -2 } (800-5) [0000] - -  - 003 9  ZhJp M2 V M3 V     
+2625 Zhdedanjie           C336699-A Ni                      { 0 }  (E54+1) [4679] - -  - 604 14 ZhJp M2 V D        
+2628 Atlantsia            A577AAA-E Hi In Ht                { 4 }  (B9B-4) [6E1H] - -  - 724 14 ZhJp K8 V D        
+2721 Brevral              E542755-7 He Pi Po                { -2 } (764-1) [B574] - -  - 110 13 ZhJp M3 V          
+2722 Shtiazqliad          C7B5888-9 Fl Ph                   { 0 }  (973-5) [6857] - -  - 404 9  ZhJp K4 V M7 V     
+2725 Zdenche              A538972-D Hi Ht                   { 4 }  (B8A-1) [6D5A] - KM - 303 11 ZhJp K7 V M0 V     
+2726 Vefdel               D7336A5-6 Ni Na Po                { -3 } (A50+4) [6355] - -  - 900 12 ZhJp A3 V D        
+2727 Plel                 A99A798-E Wa Pi Ht                { 2 }  (C6E-1) [693F] - -  - 402 10 ZhJp K6 V          
+2728 Stiantliepl          E9A4000-0 Fl Ba Lt                { -3 } (A00-5) [0000] - -  - 004 15 ZhJp K2 V          
+2729 Kilsi                CA67653-6 Ni Ag Ri                { 0 }  (C55-3) [5659] - -  - 701 9  ZhJp K8 V          
+2730 Plelinchier          B5859BD-B Hi Pr Cp Droy0          { 4 }  (B8D-1) [AD3F] - KM - 925 16 ZhJp G1 V M0 V D   
+2821 Veliate              A561000-0 Ba Lt                   { -1 } (500-5) [0000] - -  - 003 8  ZhJp M3 V          
+2824 Dle'chtench          C000874-A As Va Ph Na Pi          { 1 }  (B7A+2) [497C] - -  U 321 13 ZhJp F9 IV M4 V    
+2827 Jdonzh               A000953-E As Va Hi Na In Ht       { 4 }  (E8B-1) [8D8F] - -  - 823 15 ZhJp G2 III        
+2828 Stiechste            B76756A-A Ga Ni Ag Pr O:2827      { 2 }  (B44-1) [174A] - -  - 502 14 ZhJp K7 V          
+2830 Iavach               D87A8CB-7 Wa Ph Pi                { -2 } (674+4) [7643] - -  - 802 12 ZhJp M9 V          
+2924 Zhaneiprta           E333000-0 Ba Po Lt                { -3 } (300-5) [0000] - -  - 023 8  ZhJp M9 V D        
+2925 Pripia               C776432-9 Ni Pa                   { -1 } (C33+1) [5369] - -  - 304 13 ZhJp M9 V          
+2926 Pliepfliants         A200659-D Va Ni Na Ht             { 2 }  (B56-2) [385C] - D  - 904 16 ZhJp M5 V M7 V     
+2929 Rinchaedle           E200000-0 Va Ba Lt                { -3 } (500-5) [0000] - -  - 002 9  ZhJp F8 V M4 V     
+2930 Tevief               C735586-A Ni                      { 0 }  (542-1) [4577] - -  - 200 8  ZhJp M8 V          
+3021 Shrnz                C65A000-0 Wa Ba Lt                { -2 } (900-5) [0000] - -  - 010 7  ZhJp G9 V          
+3022 Jie'ezid             C9D3846-9 Ph                      { 1 }  (C7B-1) [D91C] - KM - 223 14 ZhJp G3 V D        
+3026 Dritskanzh           C100978-D Va Hi Na In Ht          { 3 }  (D8B+1) [9C3E] - -  U 904 12 ZhJp F1 V          
+3027 Ajora                B211000-0 Ic Ba Lt                { -1 } (800-5) [0000] - -  - 034 11 ZhJp M3 V M8 V     
+3028 Daziesavavl          B696874-9 Ph Pa Pi                { 2 }  (979-1) [3A5D] - KM - 703 14 ZhJp M0 V          
+3121 Drodlievrie          A8C69C7-E Fl Hi In Ht             { 5 }  (68A+2) [DE6C] - KM - 211 11 ZhJp K6 V D        
+3122 Abria                B567557-8 Ni Ag Pr                { 0 }  (E46-4) [457C] - -  - 104 9  ZhJp K3 V          
+3125 Iaranch              A331555-C Ni Po Ht                { 2 }  (D47-2) [679H] - KM - 703 15 ZhJp K0 IV D       
+3126 Enjpliatafr          B5508A6-9 De Ph Po An             { 1 }  (776+2) [995B] - -  - 403 14 ZhJp G7 V          
+3129 Rnchpri              B652779-A Po                      { 2 }  (B69-3) [7916] - -  - 200 12 ZhJp F5 V D        
+3222 Ashash               D769623-7 Ni Ri                   { -2 } (550-2) [2478] - -  - 302 12 ZhJp G2 V          
+0132 Pemchtod             B87A455-B Wa Ni                   { 1 }  (B32+1) [152B] - -  - 613 11 ZhJp K0 V          
+0133 Iazdizh              B8B8574-C Fl Ni Ht                { 2 }  (746+1) [677C] - KM - 523 18 ZhJp M1 V          
+0137 Dabryo               A46A872-C Wa Ph Ri Ht             { 4 }  (G7F-1) [5C4E] - KM - 414 9  ZhJp K8 V          
+0232 Oqpri                B9A578A-9 Fl                      { 1 }  (A6A+1) [784C] - -  - 401 9  ZhJp K4 V D        
+0234 Biazims              B586ABB-E Hi Ht                   { 3 }  (D9E+1) [BD9G] - -  - 113 11 ZhJp G5 V          
+0235 Rafatlianzh          E336445-7 Ni                      { -3 } (833-3) [9185] - -  - 514 12 ZhJp A5 V          
+0240 Taplbrieqlets        A676000-0 Ba Lt                   { -1 } (500-5) [0000] - -  - 010 8  ZhJp M2 V          
+0335 Vianch               C668585-6 Ni Ag Pr                { -1 } (741-3) [945B] - -  - 802 12 ZhJp G0 V D        
+0336 Mekrash              A768AAA-E Hi Cp Ht                { 4 }  (G9A-4) [EE5C] - D  - 523 14 ZhJp K7 V          
+0338 Feiaz                A456426-B Ni Pa                   { 1 }  (635+1) [356D] - -  - 601 9  ZhJp M2 V M7 V     
+0339 Tlatonsh             C667649-6 Ga Ni Ag Ri             { 0 }  (756+1) [1668] - -  U 710 9  ZhJp K9 V          
+0340 Zhiadlnere           B584797-8 Ag Ri                   { 2 }  (668+1) [B988] - -  - 804 16 ZhJp G2 V          
+0431 Zhdianzrl            A223000-0 Ba Po Lt                { -1 } (600-5) [0000] - -  - 024 16 ZhJp M3 V M4 V     
+0432 Jiedrzdiets          B234000-0 Ba Lt                   { -1 } (700-5) [0000] - -  - 004 16 ZhJp M7 V          
+0437 Antsrpr              B200484-C Va Ni Ht                { 2 }  (F37-2) [569F] - KM - 613 10 ZhJp M6 V          
+0440 Fiapr                A442996-E He Hi In Po An Ht       { 4 }  (F8C+1) [AD5D] - -  - 524 12 ZhJp M1 V          
+0531 Kevstetyie           B354000-0 Ba Lt                   { -1 } (500-5) [0000] - -  - 004 12 ZhJp M5 V          
+0535 Flotl                C7C1586-A Fl He Ni                { 1 }  (E44-3) [7618] - KM - 803 9  ZhJp M5 V          
+0536 Aja                  A78A986-D Wa Hi Pr Ht             { 3 }  (A8A+1) [5C5G] - -  - 813 15 ZhJp K7 V D        
+0537 Krievla              B676876-7 Ph Pa Pi                { 0 }  (A79+2) [884A] - -  - 204 11 ZhJp G4 V          
+0634 Zebrafmiadl          C3457A5-7 Ag Pi                   { 0 }  (868+2) [4765] - -  - 711 11 ZhJp M5 V D        
+0637 Idr Jdel             CA96000-0 Ba Lt                   { -2 } (C00-5) [0000] - -  - 003 11 ZhJp F3 V          
+0639 Zhelizhins           X440000-0 De He Ba Po Lt          { -3 } (600-5) [0000] - -  F 030 10 ZhJp M5 III        
+0732 Chibre               B552431-A Ni Po                   { 1 }  (E35+1) [252A] - -  - 703 6  ZhJp M7 V          
+0733 Eshnaievr            C466653-8 Ni Ag Ri                { 0 }  (355+1) [B629] - -  - 400 8  ZhJp K5 V          
+0734 Shifrtliaz           C445524-9 Ni Ag                   { 0 }  (F44-3) [153A] - -  - 813 16 ZhJp M4 V D        
+0736 Dronjfezhish         B737000-0 Ba Lt                   { -1 } (200-5) [0000] - -  - 003 7  ZhJp M3 V          
+0737 Zdonzhvietl          B589668-9 Ni Ri Mr                { 2 }  (554+3) [682E] - KM - 420 12 ZhJp K3 III        
+0738 Inzhdepl Driep       B5009A9-C Va Hi Na In Ht          { 4 }  (E8A-2) [BD78] - -  - 805 16 ZhJp M3 V          
+0740 Chtek                D889678-3 Ni Ri Lt                { -2 } (350+1) [A474] - -  U 300 5  ZhJp K1 V          
+0831 Klikivr              E0007A9-9 As Va Na Pi             { -1 } (966-3) [B666] - -  - 312 12 ZhJp M2 V          
+0833 Viat                 D683463-5 Ni O:0934 Lt            { -2 } (531+3) [6255] - KM - 203 10 ZhJp K5 V M3 V     
+0836 Tanjbrelo            C367543-8 Ni Ag Pr                { 0 }  (D43+4) [4545] - KM - 704 9  ZhJp M5 V          
+0931 Velieirbe            C2339B9-B Hi Na Po                { 2 }  (B88+5) [AB56] - -  - 205 13 ZhJp G4 V          
+0932 Dliamtiaqe           B240657-C De Ni Po Ht             { 1 }  (952+1) [9779] - -  - 404 16 ZhJp M0 V D        
+0934 Chikrdapr            A666787-C Ga Ag Ri Droy2 Ht       { 4 }  (A6C+1) [2B9A] - -  - 104 10 ZhJp G0 V          
+0937 Kiadlensh            A793486-A Ni                      { 1 }  (B37+1) [5556] - -  - 400 11 ZhJp K0 V          
+0938 Ilaiaiashie          B578ABB-D Hi In Ht                { 4 }  (F9A-2) [CE7G] - -  - 722 10 ZhJp K4 V          
+0939 Enchiap              A466796-C Ag Ri An Ht             { 4 }  (96C-2) [8B1H] - -  - 404 16 ZhJp M3 V          
+1033 Tiepl                E849000-0 Ba Lt                   { -3 } (700-5) [0000] - -  - 000 11 ZhJp M2 V          
+1034 Ia Sishetlel         B100000-0 Va Ba Lt                { -1 } (600-5) [0000] - -  - 012 11 ZhJp M0 V          
+1039 Eshdlients           B767642-9 Ga Ni Ag Ri             { 2 }  (A56+1) [487B] - -  - 903 9  ZhJp K2 V          
+1131 Voibr                A58765B-B Ni Ag Ri                { 4 }  (859+3) [BA9F] - KM - 804 13 ZhJp K4 V          
+1134 Senshiak             C212000-0 Ic Ba Lt                { -2 } (700-5) [0000] - -  - 002 11 ZhJp M1 V          
+1140 Driensho             D355652-4 Ni Ag Lt                { -2 } (753+2) [4461] - -  - 820 14 ZhJp F1 V M4 V D   
+1235 Jesezyienjie         A578956-E Hi In Cp Ht             { 5 }  (A8F+3) [CE3B] - D  - 603 9  ZhJp K3 V          
+1236 Revr                 C344683-8 Ni Ag                   { -1 } (853+1) [9514] - -  - 104 8  ZhJp M0 V          
+1238 Azhiapsta            C966616-5 Ni Ag Ri Lt             { 1 }  (B55-4) [7774] - KM - 111 7  ZhJp G9 V          
+1239 Brezdrontlie         C322000-0 He Ba Po Lt             { -2 } (500-5) [0000] - -  - 012 11 ZhJp K7 V M6 V     
+1240 Iakroshia            D798796-6 Ag Pi                   { -1 } (B68+2) [8677] - -  - 421 11 ZhJp M6 V D        
+1334 Ayssthon             A346856-E Ph Pa Pi DroyW Ht       { 2 }  (D75-1) [3A4A] - M  - 111 10 ZhJp F5 V          
+1338 Tlaibra              E557726-2 Ag Lt                   { -1 } (962-1) [6666] - -  - 215 12 ZhJp K7 V          
+1340 Jifaofr              C758777-7 Ag                      { 1 }  (765-3) [C843] - KM - 812 12 ZhJp K1 V D        
+1431 Dalziaash            B556555-B Ni Ag                   { 2 }  (E43+2) [A75D] - -  - 204 14 ZhJp M4 V          
+1435 Itlezhshadr          C544677-5 Ni Ag Lt                { -1 } (754+1) [5547] - -  - 401 10 ZhJp M2 V          
+1437 Dlo'planshvrl        C494516-7 Ni Ag                   { -1 } (A44+3) [8446] - -  - 804 14 ZhJp K8 V          
+1531 Prie                 B2339A6-C Hi Na Po Ht             { 3 }  (E8A+1) [ECAA] - -  - 604 9  ZhJp G7 V          
+1534 Tiezhblibl           A9A6000-0 Fl Ba Lt                { -1 } (700-5) [0000] - -  - 014 14 ZhJp M7 V          
+1535 Pledrzdiem           C556589-8 Ni Ag                   { -1 } (740+3) [5465] - -  - 801 14 ZhJp M2 V D        
+1538 Qentsvri             B84A9BA-C Wa Hi In Ht             { 5 }  (98F-2) [BE6E] - KM - 623 12 ZhJp M1 V          
+1539 Zdavlvlal            E564767-1 Ag Ri O:1540 Lt         { 0 }  (A66+1) [9771] - -  - 410 7  ZhJp G6 V M0 V     
+1540 Iecht'vrnts          A4379AB-E Hi Ht                   { 3 }  (688+1) [7C4B] - -  - 912 7  ZhJp G9 V D        
+1631 Prelzdial            B346643-7 Ni Ag                   { 0 }  (854-3) [5669] - -  - 301 10 ZhJp K6 V          
+1632 Achablshtel          A000ACC-E As Va Hi Na In Ht       { 5 }  (69D+1) [9F5G] - KM - 301 10 ZhJp M3 V M8 V     
+1635 Betsapr              C211945-A Ic Hi Na In             { 3 }  (986-4) [DC46] - -  - 910 11 ZhJp M7 V          
+1636 Eke                  B658755-B Ag Chir2                { 3 }  (968+1) [7A8A] - -  - 303 14 ZhJp K9 V          
+1732 Dimkiv               A627446-E Ni Ht                   { 1 }  (C36+4) [258C] - -  - 823 14 ZhJp M3 V D        
+1735 A'ats                C450000-0 De Ba Po Lt             { -1 } (A00-5) [0000] - KM - 001 11 ZhJp M0 V          
+1736 Idlianj              E7A6000-0 Fl Ba O:1835 Lt         { -3 } (500-5) [0000] - -  - 011 12 ZhJp G3 V          
+1739 Iedrif               E447000-0 Ba Di(minor) Lt         { -3 } (C00-5) [0000] - -  U 005 11 ZhJp M4 V          
+1740 Sele                 A535547-D Ni Ht                   { 2 }  (748+3) [374D] - KM - 804 14 ZhJp M3 V          
+1832 Siair                B274000-0 Ba Lt                   { -1 } (500-5) [0000] - -  - 003 9  ZhJp M0 V          
+1835 E'eqlid              E998787-5 Ag Pi Lt                { -1 } (666+4) [2612] - -  - 514 13 ZhJp K0 V          
+1837 Praflazh             A547786-B Ag Pi                   { 4 }  (D68+1) [8B3A] - KM - 305 13 ZhJp G6 V          
+1839 Val                  C320000-0 De He Ba Po Lt          { -2 } (700-5) [0000] - -  - 004 16 ZhJp M6 V          
+1931 Iabrbents            B676975-C Hi In (minor) Ht        { 5 }  (A8A-1) [AE69] - KM - 910 12 ZhJp K1 V          
+1936 Keshjia              X200000-0 Va Ba Lt                { -3 } (600-5) [0000] - -  F 014 17 ZhJp M6 V          
+2031 Chtrnsdlad           C76A662-9 Wa Ni Ri O:2132         { 0 }  (952-1) [6698] - -  - 700 7  ZhJp M3 V          
+2032 Dievronez            B677000-0 Ba Di(minor) O:2132 Lt  { -1 } (800-5) [0000] - -  - 005 11 ZhJp G3 V M8 V D   
+2034 Oythepru             A66586B-C Ga Ph Pa Ri DroyW Mr Ht { 3 }  (G76+5) [6B2G] - M  - 324 17 ZhJp K3 V M4 V D   
+2037 Niaqonsr             A7A4555-D Fl Ni Ht                { 2 }  (D47+1) [67AB] - D  - 402 7  ZhJp K7 V D        
+2038 Iezranspa            A346A75-E Hi In Cp Ht             { 5 }  (E9A-1) [AF4B] - KM - 514 13 ZhJp M0 V          
+2040 Ve'tlievro           B644420-9 Ni Pa                   { 0 }  (931+1) [849A] - -  - 401 7  ZhJp M1 V          
+2132 Chtadro              A96AABE-E Wa Hi Ht                { 3 }  (E9B+2) [ED6F] - -  - 123 14 ZhJp G0 V          
+2137 Ianchdotliadl        A415000-0 Ic Ba Lt                { -1 } (400-5) [0000] - -  - 003 14 ZhJp M3 V          
+2138 Kliedi               B200000-0 Va Ba Lt                { -1 } (600-5) [0000] - -  - 012 11 ZhJp M6 V          
+2140 Yenz                 E4146A5-7 Ic Ni                   { -3 } (750+4) [A359] - -  - 400 8  ZhJp M2 V M4 V     
+2240 Sti'chtiaze          A227555-D Ni Ht                   { 2 }  (644+2) [471F] - KM - 810 9  ZhJp M3 V          
+2331 Dlafchans            C423552-B Ni Po                   { 0 }  (742+3) [656C] - -  - 601 6  ZhJp M4 V D        
+2333 Iaroofl              B311430-C Ic Ni Ht                { 2 }  (B35-1) [665E] - KM - 312 11 ZhJp M7 V          
+2334 Niyakl               D554523-5 Ni Ag Lt                { -2 } (742-3) [3355] - -  - 702 10 ZhJp K9 V M2 V     
+2432 Enchbiash            C237426-A Ni                      { 0 }  (833-4) [4479] - -  - 404 12 ZhJp G9 V D        
+2434 Iikdla'              A786677-B Ga Ni Ag Ri Droy2       { 3 }  (B54-1) [498A] - -  - 600 8  ZhJp K3 V          
+2435 Qrianchor            A679985-E Hi In Ht                { 5 }  (F8F-1) [EE2K] - KM - 734 17 ZhJp G5 V          
+2438 Ebrrnch              A360686-C De Ni Ri Ht             { 3 }  (D59+1) [791B] - KM - 824 16 ZhJp M9 V          
+2536 Daod                 C546000-0 Ba Lt                   { -2 } (A00-5) [0000] - -  - 014 13 ZhJp M3 V D        
+2538 Fiestiash            A5546A8-A Ni Ag                   { 2 }  (B58-1) [9848] - -  - 110 10 ZhJp K5 V          
+2540 Vredriazh            C462614-7 Ni Ri Chir1             { 0 }  (854+1) [6647] - KM - 603 10 ZhJp K7 V D        
+2632 Tlavldri             A578595-B Ni Ag                   { 2 }  (C43-2) [2736] - -  - 414 14 ZhJp K0 V          
+2636 Stieniazhir          A444A50-E Hi In Cp Ht             { 5 }  (F9E+1) [EF4B] - KM - 304 17 ZhJp G0 V M3 V D   
+2637 Anshfrea             C77A49C-A Wa Ni                   { 0 }  (A36+4) [3469] - -  - 203 9  ZhJp K7 V          
+2733 Rminchzha            E444000-0 Ba O:2632 Lt            { -3 } (B00-5) [0000] - -  - 015 11 ZhJp G1 V D        
+2734 Drajeprplia          A88A756-A Wa Ri An                { 3 }  (A68+1) [6A7D] - -  - 404 12 ZhJp G4 V          
+2737 Enenshe              C2025A8-B Ic Va Ni                { 0 }  (545-1) [A57G] - -  - 900 8  ZhJp M9 III M8 V   
+2739 Kernapliatl          B767ABF-C Ga Hi Ht                { 4 }  (99A-2) [AE2E] - KM - 803 11 ZhJp K2 V          
+2740 Ieprtipr             E658676-4 Ni Ag Lt                { -2 } (752+1) [3444] - -  U 301 13 ZhJp G9 V D        
+2832 Vanchletl            B300000-0 Va Ba Lt                { -1 } (A00-5) [0000] - -  - 012 15 ZhJp M2 V          
+2836 Branti               B592000-0 He Ba Lt                { -1 } (500-5) [0000] - -  - 022 13 ZhJp M1 V          
+2837 Vikredle             D476868-7 Ph Pa Pi O:2737         { -2 } (878+1) [4624] - -  - 513 11 ZhJp M0 V D        
+2840 Prablebr             C53866B-8 Ni O:2940               { -2 } (C52-3) [9459] - -  - 104 7  ZhJp K1 V          
+2931 Viaprjiel            B1308CA-A De Ph Na Po             { 2 }  (77B-1) [7A7C] - -  - 213 16 ZhJp A9 V G8 V     
+2936 Rliad                A795554-E Ni Ag Droy6 Ht          { 3 }  (A46-1) [586B] - D  - 903 9  ZhJp F7 V          
+2939 Dadlal               EAB9430-9 Fl Ni                   { -2 } (D30+2) [426D] - -  - 813 13 ZhJp M2 III M1 V   
+2940 Tsavlinstodr         C5A0ADH-B He Hi In (exotic minor) { 3 }  (A9C+1) [BD48] - -  U 120 9  ZhJp G9 V          
+3031 Shansedl             B597559-B Ni Ag                   { 3 }  (A47+2) [186D] - KM - 802 7  ZhJp M6 IV         
+3032 Qlazhdiapoe          C2366A8-9 Ni                      { -1 } (D54+2) [2587] - -  - 915 14 ZhJp M0 V D        
+3034 Iekrdechtod          E783000-0 Ba Lt                   { -3 } (300-5) [0000] - -  - 002 10 ZhJp G7 V          
+3035 Yiazdabl             C798543-8 Ni Ag                   { -1 } (D41+4) [4413] - -  - 212 10 ZhJp M6 V D        
+3040 Nanjie               C300400-A Va Ni                   { 0 }  (D33+4) [145C] - -  - 401 11 ZhJp M3 V          
+3132 Avlelepal            B210000-0 Ba Lt                   { -1 } (B00-5) [0000] - -  - 010 12 ZhJp M7 V          
+3133 Flash                C000425-C As Va Ni Ht             { 0 }  (E34+5) [941E] - -  - 720 11 ZhJp G2 IV M3 V    
+3134 Rzaim                E76A7CD-4 Wa Ri Lt                { -1 } (B67-2) [7643] - -  - 604 9  ZhJp G0 V          
+3140 Ienchachtenz         A200988-E Va Hi Na In Ht          { 5 }  (58D+2) [7E5E] - KM - 901 10 ZhJp M2 V          
+3233 Zi'evl               B652537-A Ni Po                   { 2 }  (845-4) [5738] - KM - 613 15 ZhJp M8 V          
+3236 Jabraiadr            D646000-0 Ba Lt                   { -3 } (400-5) [0000] - -  - 002 7  ZhJp M1 V          
+3237 Brovriashtipr        C956000-0 Ba Lt                   { -2 } (600-5) [0000] - -  - 000 6  ZhJp M0 V          
+3239 Desidri              C452644-9 Ni Po                   { -1 } (750-2) [457A] - -  - 404 11 ZhJp M3 V D        

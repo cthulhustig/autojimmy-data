@@ -10,6 +10,7 @@
       </Credits>
   <X>-4</X>
   <Y>2</Y>
+  <Product Author="Randy Dorman" Title="The Aslan Hierate" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-aslan-hierate" />
   <DataFile Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Oheerl</Subsector>
