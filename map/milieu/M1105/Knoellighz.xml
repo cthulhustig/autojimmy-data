@@ -55,4 +55,15 @@
     <Border Color="OliveDrab" Allegiance="Vx" LabelPosition="1732">1027 1127 1226 1225 1224 1324 1323 1423 1524 1623 1624 1625 1726 1727 1827 1828 1929 2029 2030 2031 2132 2133 2134 2135 2136 2137 2237 2338 2238 2239 2240 2140 2039 1940 1839 1740 1639 1539 1538 1537 1536 1535 1534 1533 1432 1431 1331 1330 1329 1228 1128 1027</Border>
     <Border Allegiance="ZhCo" LabelPosition="0521">0020 0121 0221 0322 0422 0523 0623 0723 0724 0725 0825 0826 0827 0828 0829 0730 0630 0531 0532 0533 0534 0535 0536 0537 0437 0338 0238 0239 0240 0241 0141 0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 0027 0026 0025 0024 0023 0022 0021 0020</Border>
   </Borders>
+  <Routes>
+    <Route Start="0225" End="3124" EndOffsetX="-1" Allegiance="ZhCo" />
+    <Route Start="0225" End="0423" Allegiance="ZhCo" />
+    <Route Start="0423" End="0825" Allegiance="ZhCo" />
+    <Route Start="0225" End="0128" Allegiance="ZhCo" />
+    <Route Start="0128" End="0231" Allegiance="ZhCo" />
+    <Route Start="0231" End="0531" Allegiance="ZhCo" />
+    <Route Start="0231" End="3232" EndOffsetX="-1" Allegiance="ZhCo" />
+    <Route Start="0235" End="3135" EndOffsetX="-1" Allegiance="ZhCo" />
+    <Route Start="0235" End="0535" Allegiance="ZhCo" />
+  </Routes>
 </Sector>
