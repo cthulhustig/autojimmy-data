@@ -72,16 +72,34 @@ def _encodeFileName(rawFileName: str) -> str:
 
 # Remove timestamps from sector files downloaded from Traveller Map. This is needed as otherwise
 # every sector file will be seen as modified every time the update is performed
-def _removeTimestampFromSector(sectorData: str) -> typing.Optional[str]:
-    linesRemoved = 0
+def _processSectorData(sectorData: str) -> typing.Optional[str]:
+    hasTimestamp = False
+    needsHeader = False
     modifiedData = ''
     for line in sectorData.splitlines():
-        if not _SectorTimestampPattern.search(line):
-            modifiedData += line + '\n'
-        else:
-            linesRemoved += 1
-    if linesRemoved != 1:
+        if _SectorTimestampPattern.search(line):
+            # Remove the sector timestamp
+            hasTimestamp = True
+            continue
+
+        # Because we're using requireData, sectors that don't have any data
+        # may have this comment at the end of the file and no second survey
+        # header. This causes problems for the Auto-Jimmy parsing code as
+        # it fails to detect the sector format and therefore import the
+        # sector. As a massive hack we check for the comment and add the
+        # header if it's found
+        if line == '# No world data available':
+            needsHeader = True
+            continue # Remove the line
+
+        modifiedData += line + '\n'
+
+    if not hasTimestamp:
         return None
+
+    if needsHeader:
+        modifiedData += 'Hex  Name                 UWP       Remarks                    {Ix}   (Ex)    [Cx]   N     B  Z PBG W  A    Stellar\n'
+        modifiedData += '---- -------------------- --------- -------------------------- ------ ------- ------ ----- -- - --- -- ---- ---------------\n'
 
     return modifiedData
 
@@ -117,7 +135,7 @@ def _downloadMapData() -> None:
     fileRetriever.downloadToFile(url=mainsUrl, filePath=mainsFilePath)
 
     for milieu in _MilieuList:
-        universeUrl = f'{_TravellerMapUrl}/api/universe?milieu={milieu}&requireData=1'
+        universeUrl = f'{_TravellerMapUrl}/api/universe?milieu={milieu}&requireData=0'
 
         milieuDirPath = os.path.join(snapshotDir, _MilieuDir, milieu)
         universeFilePath = os.path.join(milieuDirPath, _UniverseFileName)
@@ -227,7 +245,7 @@ def _downloadMapData() -> None:
             # names stored in the sector data file are not updated. This would
             # be a faff to do and it's not needed a Auto-Jimmy doesn't use
             # metadata from the sector data file
-            sectorData = _removeTimestampFromSector(sectorData=_bytesToString(sectorData))
+            sectorData = _processSectorData(sectorData=_bytesToString(sectorData))
             if sectorData == None:
                 raise RuntimeError(f'Failed to remove timestamp from sector file for {canonicalName} from {milieu}')
 
