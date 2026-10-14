@@ -73,7 +73,7 @@ def _encodeFileName(rawFileName: str) -> str:
 # Remove timestamps from sector files downloaded from Traveller Map. This is needed as otherwise
 # every sector file will be seen as modified every time the update is performed
 def _processSectorData(sectorData: str) -> typing.Optional[str]:
-    hasTimestamp = 0
+    hasTimestamp = False
     needsHeader = False
     modifiedData = ''
     for line in sectorData.splitlines():
