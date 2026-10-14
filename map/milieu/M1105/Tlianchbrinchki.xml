@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlianchbrinchki</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-29</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Novreplianz</Subsector>
+    <Subsector Index="B">Stefnshiashshadl</Subsector>
+    <Subsector Index="C">Ntsabria</Subsector>
+    <Subsector Index="D">Tsetsiz</Subsector>
+    <Subsector Index="E">Ejkra</Subsector>
+    <Subsector Index="F">Dleflieshi</Subsector>
+    <Subsector Index="G">Jdafrnjiafi</Subsector>
+    <Subsector Index="H">Chashdlezfriabl</Subsector>
+    <Subsector Index="I">'Iefrziant</Subsector>
+    <Subsector Index="J">Priznsitlnjo</Subsector>
+    <Subsector Index="K">Ajekl</Subsector>
+    <Subsector Index="L">Inchvle</Subsector>
+    <Subsector Index="M">Zdeqriaet</Subsector>
+    <Subsector Index="N">Babretsfi</Subsector>
+    <Subsector Index="O">Zieliaz</Subsector>
+    <Subsector Index="P">Ibrblar</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

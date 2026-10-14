@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Stiefrniazhla</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-127</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Brafliad</Subsector>
+    <Subsector Index="B">Ielia</Subsector>
+    <Subsector Index="C">Dlibrfreze</Subsector>
+    <Subsector Index="D">Kotlntie</Subsector>
+    <Subsector Index="E">Eqrza</Subsector>
+    <Subsector Index="F">Ofliafr</Subsector>
+    <Subsector Index="G">Enjshibr</Subsector>
+    <Subsector Index="H">Katsesh</Subsector>
+    <Subsector Index="I">Samshaia</Subsector>
+    <Subsector Index="J">Vlianiant</Subsector>
+    <Subsector Index="K">Ozhdli</Subsector>
+    <Subsector Index="L">Chtieshntsazhibr</Subsector>
+    <Subsector Index="M">Nenshnzhaa</Subsector>
+    <Subsector Index="N">Dliadenshianch</Subsector>
+    <Subsector Index="O">Ziklze</Subsector>
+    <Subsector Index="P">Anshech</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

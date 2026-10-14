@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chtachntseknshe</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-120</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Pranjeti</Subsector>
+    <Subsector Index="B">Vefrnshazia</Subsector>
+    <Subsector Index="C">Stavldreblnsints</Subsector>
+    <Subsector Index="D">Chonjzhia</Subsector>
+    <Subsector Index="E">Zhiazbliche</Subsector>
+    <Subsector Index="F">Tsejblians</Subsector>
+    <Subsector Index="G">Breplivrpla</Subsector>
+    <Subsector Index="H">Chteshoa</Subsector>
+    <Subsector Index="I">Namflabliapl</Subsector>
+    <Subsector Index="J">Plinjea</Subsector>
+    <Subsector Index="K">Nzianzans</Subsector>
+    <Subsector Index="L">Iashzhe</Subsector>
+    <Subsector Index="M">Itat</Subsector>
+    <Subsector Index="N">Lenchtse</Subsector>
+    <Subsector Index="O">Njenznzhaj</Subsector>
+    <Subsector Index="P">Kieplzevrdlavr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

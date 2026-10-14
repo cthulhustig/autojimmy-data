@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ikla</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-27</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Inza</Subsector>
+    <Subsector Index="B">Zanchnchantsash</Subsector>
+    <Subsector Index="C">Vlejapl</Subsector>
+    <Subsector Index="D">Tlietsinchebr</Subsector>
+    <Subsector Index="E">Tlardintse</Subsector>
+    <Subsector Index="F">Iazevl</Subsector>
+    <Subsector Index="G">Vrilzobl</Subsector>
+    <Subsector Index="H">Kialtsiepeb</Subsector>
+    <Subsector Index="I">Zherziezh</Subsector>
+    <Subsector Index="J">Zhatslekpla</Subsector>
+    <Subsector Index="K">Menstsiezhvliebr</Subsector>
+    <Subsector Index="L">Nershoqrle</Subsector>
+    <Subsector Index="M">Brazhzhants</Subsector>
+    <Subsector Index="N">Chtonshdidria</Subsector>
+    <Subsector Index="O">Shienchdlabr</Subsector>
+    <Subsector Index="P">Qrievrpriplebl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

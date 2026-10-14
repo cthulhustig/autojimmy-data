@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Fievivltsa</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-41</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Enchblevl</Subsector>
+    <Subsector Index="B">Odrria</Subsector>
+    <Subsector Index="C">Laa</Subsector>
+    <Subsector Index="D">Iebanch</Subsector>
+    <Subsector Index="E">Itloch</Subsector>
+    <Subsector Index="F">Dladrnshinienzh</Subsector>
+    <Subsector Index="G">Iaits</Subsector>
+    <Subsector Index="H">Frintsidqrech</Subsector>
+    <Subsector Index="I">Yiavlqrieffavr</Subsector>
+    <Subsector Index="J">Nzinshe</Subsector>
+    <Subsector Index="K">Rejklaplie</Subsector>
+    <Subsector Index="L">Zdevranzzha</Subsector>
+    <Subsector Index="M">Vlablapr</Subsector>
+    <Subsector Index="N">Ikriefl</Subsector>
+    <Subsector Index="O">Zdeplanjfronzh</Subsector>
+    <Subsector Index="P">Iechtla</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

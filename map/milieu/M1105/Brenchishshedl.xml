@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Brenchishshedl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-169</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Riebr'ins</Subsector>
+    <Subsector Index="B">Zhieblshiklnsa</Subsector>
+    <Subsector Index="C">Ponspavlif</Subsector>
+    <Subsector Index="D">Noshnzhero</Subsector>
+    <Subsector Index="E">Fiezfliepliz</Subsector>
+    <Subsector Index="F">Stebrdashfliats</Subsector>
+    <Subsector Index="G">Abria</Subsector>
+    <Subsector Index="H">Klitbe</Subsector>
+    <Subsector Index="I">Zdavrtozziavr</Subsector>
+    <Subsector Index="J">Iedprianj</Subsector>
+    <Subsector Index="K">Zhdeshieshia</Subsector>
+    <Subsector Index="L">Zhedvra</Subsector>
+    <Subsector Index="M">Ievmazh</Subsector>
+    <Subsector Index="N">Nchenzhla</Subsector>
+    <Subsector Index="O">Zhdiablzezha</Subsector>
+    <Subsector Index="P">Zhitlnshazabr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

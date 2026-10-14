@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Plieqrnsonznabr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-137</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Iechents</Subsector>
+    <Subsector Index="B">Chtiatshevniepr</Subsector>
+    <Subsector Index="C">Plee</Subsector>
+    <Subsector Index="D">Shamtsebltlie</Subsector>
+    <Subsector Index="E">Tlarvrietle</Subsector>
+    <Subsector Index="F">Flara</Subsector>
+    <Subsector Index="G">Iablazh</Subsector>
+    <Subsector Index="H">Zhdodrevrnjapr</Subsector>
+    <Subsector Index="I">Qretsatsa</Subsector>
+    <Subsector Index="J">Devrvreanch</Subsector>
+    <Subsector Index="K">Branchetla</Subsector>
+    <Subsector Index="L">Ichiats</Subsector>
+    <Subsector Index="M">Chteshetsshe</Subsector>
+    <Subsector Index="N">Dliazhiaa</Subsector>
+    <Subsector Index="O">Azblap</Subsector>
+    <Subsector Index="P">Adzha</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

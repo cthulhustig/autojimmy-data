@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Aiez</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-79</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fienchdlieshi</Subsector>
+    <Subsector Index="B">Qlinshzhiaia</Subsector>
+    <Subsector Index="C">Chieziaivr</Subsector>
+    <Subsector Index="D">Jadiefrnse</Subsector>
+    <Subsector Index="E">Pozhbra</Subsector>
+    <Subsector Index="F">Chtaprblieflfepl</Subsector>
+    <Subsector Index="G">Pliensheznchit</Subsector>
+    <Subsector Index="H">Prieshdlaeb</Subsector>
+    <Subsector Index="I">Kiachchene</Subsector>
+    <Subsector Index="J">Prenshmiefebr</Subsector>
+    <Subsector Index="K">Drafraefr</Subsector>
+    <Subsector Index="L">Ieproj</Subsector>
+    <Subsector Index="M">Dovlatsif</Subsector>
+    <Subsector Index="N">Vochivrich</Subsector>
+    <Subsector Index="O">Chtarenjianzh</Subsector>
+    <Subsector Index="P">Dlii</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

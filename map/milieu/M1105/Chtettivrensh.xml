@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chtettivrensh</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-156</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Vlieplebr</Subsector>
+    <Subsector Index="B">Tliakranshabl</Subsector>
+    <Subsector Index="C">Blibltazhtsa</Subsector>
+    <Subsector Index="D">Aja</Subsector>
+    <Subsector Index="E">Shetse</Subsector>
+    <Subsector Index="F">Pliazdeklzap</Subsector>
+    <Subsector Index="G">Tledlzhozncha</Subsector>
+    <Subsector Index="H">Cheqrintsvliech</Subsector>
+    <Subsector Index="I">Tajshiz</Subsector>
+    <Subsector Index="J">Sieshejve</Subsector>
+    <Subsector Index="K">Srntsfea</Subsector>
+    <Subsector Index="L">Epr'afr</Subsector>
+    <Subsector Index="M">Chalfliensi</Subsector>
+    <Subsector Index="N">Vlai</Subsector>
+    <Subsector Index="O">Tsenjvrol</Subsector>
+    <Subsector Index="P">Krateant</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

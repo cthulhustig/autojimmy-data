@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Krintefvriatl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-139</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Njeklbrats</Subsector>
+    <Subsector Index="B">Nazieblnziepr</Subsector>
+    <Subsector Index="C">Kavleier</Subsector>
+    <Subsector Index="D">Frivrkriam</Subsector>
+    <Subsector Index="E">Miachnshotli</Subsector>
+    <Subsector Index="F">Adjiash</Subsector>
+    <Subsector Index="G">Njitso</Subsector>
+    <Subsector Index="H">Chafzatslanch</Subsector>
+    <Subsector Index="I">Stabrfliaklianzh</Subsector>
+    <Subsector Index="J">Tafvranshanzh</Subsector>
+    <Subsector Index="K">Terdets</Subsector>
+    <Subsector Index="L">Eziapl</Subsector>
+    <Subsector Index="M">Maezh</Subsector>
+    <Subsector Index="N">Qranshienzhia</Subsector>
+    <Subsector Index="O">Eblntsez</Subsector>
+    <Subsector Index="P">Zdepieez</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

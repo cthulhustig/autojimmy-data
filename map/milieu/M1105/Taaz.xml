@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Taaz</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-139</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fafrfatskrapl</Subsector>
+    <Subsector Index="B">Nzianznjij</Subsector>
+    <Subsector Index="C">Chepllaji</Subsector>
+    <Subsector Index="D">Jifipr</Subsector>
+    <Subsector Index="E">Kretstaash</Subsector>
+    <Subsector Index="F">Atsef</Subsector>
+    <Subsector Index="G">Aients</Subsector>
+    <Subsector Index="H">Jiezqriqr</Subsector>
+    <Subsector Index="I">Shiashnchienz</Subsector>
+    <Subsector Index="J">Daiar</Subsector>
+    <Subsector Index="K">Anskli</Subsector>
+    <Subsector Index="L">Safjinzhnchi</Subsector>
+    <Subsector Index="M">Chieplibriets</Subsector>
+    <Subsector Index="N">Fiaadl</Subsector>
+    <Subsector Index="O">Onzibl</Subsector>
+    <Subsector Index="P">Zdietsiplip</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

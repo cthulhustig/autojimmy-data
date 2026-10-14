@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Anchekr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-105</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tledshebla</Subsector>
+    <Subsector Index="B">Ziache</Subsector>
+    <Subsector Index="C">Chtemjenchnze</Subsector>
+    <Subsector Index="D">Zdedrivesh</Subsector>
+    <Subsector Index="E">Ralnchilria</Subsector>
+    <Subsector Index="F">Zhenseaz</Subsector>
+    <Subsector Index="G">Driavlzhiensdlints</Subsector>
+    <Subsector Index="H">Dlebanshanzh</Subsector>
+    <Subsector Index="I">Iaench</Subsector>
+    <Subsector Index="J">Vriaqri</Subsector>
+    <Subsector Index="K">Aal</Subsector>
+    <Subsector Index="L">Jikrfabltsepr</Subsector>
+    <Subsector Index="M">Tsibltlivrie</Subsector>
+    <Subsector Index="N">Jdianchiria</Subsector>
+    <Subsector Index="O">Zhiblienz</Subsector>
+    <Subsector Index="P">Tieflech</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

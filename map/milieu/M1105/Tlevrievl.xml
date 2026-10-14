@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlevrievl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-138</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Drenzfriflianj</Subsector>
+    <Subsector Index="B">Chisheshblesh</Subsector>
+    <Subsector Index="C">Qlinzlitltsiad</Subsector>
+    <Subsector Index="D">Chtebriejanj</Subsector>
+    <Subsector Index="E">Pladaebr</Subsector>
+    <Subsector Index="F">Chtedlzeklen</Subsector>
+    <Subsector Index="G">Dlifrfaeqr</Subsector>
+    <Subsector Index="H">Liblap</Subsector>
+    <Subsector Index="I">Bliafnjenj</Subsector>
+    <Subsector Index="J">Eqren</Subsector>
+    <Subsector Index="K">Frafkliem</Subsector>
+    <Subsector Index="L">Dlenzatiakl</Subsector>
+    <Subsector Index="M">Onsepl</Subsector>
+    <Subsector Index="N">Ablief</Subsector>
+    <Subsector Index="O">A'e</Subsector>
+    <Subsector Index="P">Brerqraetl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

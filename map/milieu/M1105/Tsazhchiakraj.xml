@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tsazhchiakraj</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-131</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Proqrieqr</Subsector>
+    <Subsector Index="B">Iaanch</Subsector>
+    <Subsector Index="C">Zdedrnzhiarklifl</Subsector>
+    <Subsector Index="D">Paklze</Subsector>
+    <Subsector Index="E">Shefriach</Subsector>
+    <Subsector Index="F">Zdiaqrchanzhansh</Subsector>
+    <Subsector Index="G">Ivrre</Subsector>
+    <Subsector Index="H">Naznjiantib</Subsector>
+    <Subsector Index="I">Chinshviaflsha</Subsector>
+    <Subsector Index="J">Blovdrenzh</Subsector>
+    <Subsector Index="K">Zhimfrefr</Subsector>
+    <Subsector Index="L">Chiantsepens</Subsector>
+    <Subsector Index="M">Zieriavr</Subsector>
+    <Subsector Index="N">Iarklie</Subsector>
+    <Subsector Index="O">Zdenjojidl</Subsector>
+    <Subsector Index="P">Plelfensnja</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

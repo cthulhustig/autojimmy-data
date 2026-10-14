@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kiableqr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-119</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kliafavshedr</Subsector>
+    <Subsector Index="B">Zezpleztsib</Subsector>
+    <Subsector Index="C">Pranchzapria</Subsector>
+    <Subsector Index="D">Zhivonchia</Subsector>
+    <Subsector Index="E">Pledlifledl</Subsector>
+    <Subsector Index="F">Alchep</Subsector>
+    <Subsector Index="G">Chafdlievrtsenzh</Subsector>
+    <Subsector Index="H">Fiaqransia</Subsector>
+    <Subsector Index="I">Chiejerbli</Subsector>
+    <Subsector Index="J">Niablekle</Subsector>
+    <Subsector Index="K">Iapi</Subsector>
+    <Subsector Index="L">Adlepr</Subsector>
+    <Subsector Index="M">Zilvradliensh</Subsector>
+    <Subsector Index="N">Zenjfrinjanzh</Subsector>
+    <Subsector Index="O">Atlshedl</Subsector>
+    <Subsector Index="P">Ieblnze</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

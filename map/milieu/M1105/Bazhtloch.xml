@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Bazhtloch</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-162</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nebltlepledr</Subsector>
+    <Subsector Index="B">Iblntsie</Subsector>
+    <Subsector Index="C">Chtojzenshkla</Subsector>
+    <Subsector Index="D">Anzhe</Subsector>
+    <Subsector Index="E">Veblo</Subsector>
+    <Subsector Index="F">Fienchzhiaiavl</Subsector>
+    <Subsector Index="G">Nzavrnzhinz</Subsector>
+    <Subsector Index="H">Zevlzoz</Subsector>
+    <Subsector Index="I">Nojenzzier</Subsector>
+    <Subsector Index="J">Sinchchanje</Subsector>
+    <Subsector Index="K">Sivl'iklia</Subsector>
+    <Subsector Index="L">Iprshebl</Subsector>
+    <Subsector Index="M">Zhrtelib</Subsector>
+    <Subsector Index="N">Stefvriaench</Subsector>
+    <Subsector Index="O">Iazevr</Subsector>
+    <Subsector Index="P">Takrienzh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

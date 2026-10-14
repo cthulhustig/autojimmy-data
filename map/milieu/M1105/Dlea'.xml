@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dlea'</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-124</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Enziad</Subsector>
+    <Subsector Index="B">Epre</Subsector>
+    <Subsector Index="C">Tsiifr</Subsector>
+    <Subsector Index="D">Viatladlipl</Subsector>
+    <Subsector Index="E">Avlvla</Subsector>
+    <Subsector Index="F">Vliadklach</Subsector>
+    <Subsector Index="G">Afe</Subsector>
+    <Subsector Index="H">Chiflabrir</Subsector>
+    <Subsector Index="I">Inzhvia</Subsector>
+    <Subsector Index="J">Chtiapliae</Subsector>
+    <Subsector Index="K">Flivrchatsabr</Subsector>
+    <Subsector Index="L">Epnche</Subsector>
+    <Subsector Index="M">Tenszhevlpla</Subsector>
+    <Subsector Index="N">Zhdeklie</Subsector>
+    <Subsector Index="O">Brejobra</Subsector>
+    <Subsector Index="P">Shiai</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

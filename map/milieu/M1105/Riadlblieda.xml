@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Riadlblieda</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-109</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fichnjadiel</Subsector>
+    <Subsector Index="B">Qlatsklaavl</Subsector>
+    <Subsector Index="C">Enshnza</Subsector>
+    <Subsector Index="D">Chtienziepats</Subsector>
+    <Subsector Index="E">Vlipla</Subsector>
+    <Subsector Index="F">Shinszhezhnsha</Subsector>
+    <Subsector Index="G">Soshflivria</Subsector>
+    <Subsector Index="H">Ieblplench</Subsector>
+    <Subsector Index="I">Stetnchantie</Subsector>
+    <Subsector Index="J">Vindledrem</Subsector>
+    <Subsector Index="K">Rifjar</Subsector>
+    <Subsector Index="L">Zhentizash</Subsector>
+    <Subsector Index="M">Zdiensdredlenz</Subsector>
+    <Subsector Index="N">Evlbravr</Subsector>
+    <Subsector Index="O">Nshaabr</Subsector>
+    <Subsector Index="P">Zenchfra</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nshienzflesh</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-159</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nsa'vla</Subsector>
+    <Subsector Index="B">Zienchvliazhvli</Subsector>
+    <Subsector Index="C">Ochans</Subsector>
+    <Subsector Index="D">Zdadlshieche</Subsector>
+    <Subsector Index="E">Danteziedr</Subsector>
+    <Subsector Index="F">Friplaklbrezh</Subsector>
+    <Subsector Index="G">Fentaziej</Subsector>
+    <Subsector Index="H">Nzhashchadr</Subsector>
+    <Subsector Index="I">Njashkrash</Subsector>
+    <Subsector Index="J">Loadl</Subsector>
+    <Subsector Index="K">Nzhatlakl</Subsector>
+    <Subsector Index="L">Fratiaplianz</Subsector>
+    <Subsector Index="M">Nzhachvridl</Subsector>
+    <Subsector Index="N">i'nsefr</Subsector>
+    <Subsector Index="O">Dlonchejekl</Subsector>
+    <Subsector Index="P">Reshproplnzia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

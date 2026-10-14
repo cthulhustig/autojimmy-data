@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Sekiajia</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-35</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tinziezhiakl</Subsector>
+    <Subsector Index="B">Tloklkliaqrtsivl</Subsector>
+    <Subsector Index="C">Vlienchiansh</Subsector>
+    <Subsector Index="D">Jatsia</Subsector>
+    <Subsector Index="E">Blantedl</Subsector>
+    <Subsector Index="F">Nziakrjia</Subsector>
+    <Subsector Index="G">Iachozh</Subsector>
+    <Subsector Index="H">Qlevrovtlafl</Subsector>
+    <Subsector Index="I">Stajitsnjivl</Subsector>
+    <Subsector Index="J">Pivlviepriebr</Subsector>
+    <Subsector Index="K">Drableblibr</Subsector>
+    <Subsector Index="L">Tlenzhdlaprklapl</Subsector>
+    <Subsector Index="M">Vronzie</Subsector>
+    <Subsector Index="N">Zdiediefra</Subsector>
+    <Subsector Index="O">Tezhatkliavr</Subsector>
+    <Subsector Index="P">Piembriaoch</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

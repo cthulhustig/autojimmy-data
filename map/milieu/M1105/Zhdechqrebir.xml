@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhdechqrebir</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-51</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Brevlensazh</Subsector>
+    <Subsector Index="B">Chieblivrvladl</Subsector>
+    <Subsector Index="C">Zdizklierfliatl</Subsector>
+    <Subsector Index="D">Blepldli</Subsector>
+    <Subsector Index="E">Iblvrr</Subsector>
+    <Subsector Index="F">'Aa</Subsector>
+    <Subsector Index="G">Iatsabl</Subsector>
+    <Subsector Index="H">Pliekli</Subsector>
+    <Subsector Index="I">Plantnjonszensh</Subsector>
+    <Subsector Index="J">Sachiziej</Subsector>
+    <Subsector Index="K">Iezbli</Subsector>
+    <Subsector Index="L">Zdenzhjabrnenz</Subsector>
+    <Subsector Index="M">Jablaf</Subsector>
+    <Subsector Index="N">Zdablvriepnzhia</Subsector>
+    <Subsector Index="O">Zdenshnchieflplie</Subsector>
+    <Subsector Index="P">Zdatlzhainch</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

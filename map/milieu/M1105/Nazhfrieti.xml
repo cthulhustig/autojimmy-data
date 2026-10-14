@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nazhfrieti</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-9</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Stishzeqre</Subsector>
+    <Subsector Index="B">Shtachbrae</Subsector>
+    <Subsector Index="C">Tsiefnzansaqr</Subsector>
+    <Subsector Index="D">Zhdiaflanchebr</Subsector>
+    <Subsector Index="E">Chtanchinzhibl</Subsector>
+    <Subsector Index="F">Stabrnjiashia</Subsector>
+    <Subsector Index="G">Pliefrizniaj</Subsector>
+    <Subsector Index="H">Zdeplaklnedl</Subsector>
+    <Subsector Index="I">Etsadr</Subsector>
+    <Subsector Index="J">Tlezhnchetsdiv</Subsector>
+    <Subsector Index="K">Fanshasha</Subsector>
+    <Subsector Index="L">Oza</Subsector>
+    <Subsector Index="M">Denzhnchapla</Subsector>
+    <Subsector Index="N">Kribrliabl</Subsector>
+    <Subsector Index="O">Krefatnzifl</Subsector>
+    <Subsector Index="P">Shiee</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

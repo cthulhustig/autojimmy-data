@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Danchlito</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-33</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Brentsdriaj</Subsector>
+    <Subsector Index="B">Bratlanzhre</Subsector>
+    <Subsector Index="C">Stanntsinzench</Subsector>
+    <Subsector Index="D">Etskrakl</Subsector>
+    <Subsector Index="E">Azjanz</Subsector>
+    <Subsector Index="F">Driadlshaiz</Subsector>
+    <Subsector Index="G">Nienchbrobliafl</Subsector>
+    <Subsector Index="H">Flafe</Subsector>
+    <Subsector Index="I">Adlie</Subsector>
+    <Subsector Index="J">Sensenchet</Subsector>
+    <Subsector Index="K">Tloshiil</Subsector>
+    <Subsector Index="L">Plejfovroz</Subsector>
+    <Subsector Index="M">Tazhetsi</Subsector>
+    <Subsector Index="N">Chaviats</Subsector>
+    <Subsector Index="O">Nizdavlanch</Subsector>
+    <Subsector Index="P">Rienshenz</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

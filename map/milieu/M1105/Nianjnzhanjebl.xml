@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nianjnzhanjebl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-107</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Qlanzheez</Subsector>
+    <Subsector Index="B">Zdialnshiats</Subsector>
+    <Subsector Index="C">Eshiabl</Subsector>
+    <Subsector Index="D">Viblmedbre</Subsector>
+    <Subsector Index="E">Chiansntsonats</Subsector>
+    <Subsector Index="F">Zashobjadr</Subsector>
+    <Subsector Index="G">Dofrchins</Subsector>
+    <Subsector Index="H">Vrientsfrezhid</Subsector>
+    <Subsector Index="I">Tsevtanch</Subsector>
+    <Subsector Index="J">Shtelkloie</Subsector>
+    <Subsector Index="K">Niazhplachbia</Subsector>
+    <Subsector Index="L">Fleplo</Subsector>
+    <Subsector Index="M">Nzhichiad</Subsector>
+    <Subsector Index="N">Ebltsel</Subsector>
+    <Subsector Index="O">Braklne</Subsector>
+    <Subsector Index="P">Vrechatsanzh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

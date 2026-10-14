@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Penchila</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-140</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tliazheztsa</Subsector>
+    <Subsector Index="B">Tlenzhe</Subsector>
+    <Subsector Index="C">Ziedlnza</Subsector>
+    <Subsector Index="D">Frievdliadlflia</Subsector>
+    <Subsector Index="E">Zhantsiaef</Subsector>
+    <Subsector Index="F">Iensbliv</Subsector>
+    <Subsector Index="G">Nedlenche</Subsector>
+    <Subsector Index="H">Azonts</Subsector>
+    <Subsector Index="I">Tarntsenchebr</Subsector>
+    <Subsector Index="J">Tsimiedr</Subsector>
+    <Subsector Index="K">Klidshrtlievr</Subsector>
+    <Subsector Index="L">Tlashenz</Subsector>
+    <Subsector Index="M">Shanchfipl</Subsector>
+    <Subsector Index="N">Nzhieens</Subsector>
+    <Subsector Index="O">Denjpriafrez</Subsector>
+    <Subsector Index="P">Chieonch</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

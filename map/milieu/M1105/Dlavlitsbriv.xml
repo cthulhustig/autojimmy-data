@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dlavlitsbriv</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-113</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chieldadrnzhakr</Subsector>
+    <Subsector Index="B">Breklekenj</Subsector>
+    <Subsector Index="C">Zdanztsedliensh</Subsector>
+    <Subsector Index="D">Dleblvrieshafr</Subsector>
+    <Subsector Index="E">Poshieplnsanch</Subsector>
+    <Subsector Index="F">Ablvrizh</Subsector>
+    <Subsector Index="G">Riazazh</Subsector>
+    <Subsector Index="H">Britovl</Subsector>
+    <Subsector Index="I">Ieenz</Subsector>
+    <Subsector Index="J">Nchaqrebr</Subsector>
+    <Subsector Index="K">Menznjeblchibr</Subsector>
+    <Subsector Index="L">Bliprvrezhiep</Subsector>
+    <Subsector Index="M">Onkla</Subsector>
+    <Subsector Index="N">Shtibraoj</Subsector>
+    <Subsector Index="O">Efie</Subsector>
+    <Subsector Index="P">Shtazieief</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

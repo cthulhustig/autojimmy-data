@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nzefra</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-136</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Vettsia</Subsector>
+    <Subsector Index="B">Vrenchfrokvrivl</Subsector>
+    <Subsector Index="C">Stenshnzhenchia</Subsector>
+    <Subsector Index="D">Zetsonzhi</Subsector>
+    <Subsector Index="E">Shtietsdrentiazh</Subsector>
+    <Subsector Index="F">Zhabriaprchi</Subsector>
+    <Subsector Index="G">Iadlshim</Subsector>
+    <Subsector Index="H">Plesha</Subsector>
+    <Subsector Index="I">Rajnzhiar</Subsector>
+    <Subsector Index="J">Anzhiakl</Subsector>
+    <Subsector Index="K">Tlienmijich</Subsector>
+    <Subsector Index="L">Njiatsiezh</Subsector>
+    <Subsector Index="M">Chentsie</Subsector>
+    <Subsector Index="N">Frota</Subsector>
+    <Subsector Index="O">Vrabbriebr</Subsector>
+    <Subsector Index="P">Siansariebl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

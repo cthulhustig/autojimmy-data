@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Sattsiapia</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-64</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tiienz</Subsector>
+    <Subsector Index="B">Zdiplodats</Subsector>
+    <Subsector Index="C">Zeplpla</Subsector>
+    <Subsector Index="D">Eflip</Subsector>
+    <Subsector Index="E">Drieztsri</Subsector>
+    <Subsector Index="F">Chiafrtavnsa</Subsector>
+    <Subsector Index="G">Drochefr</Subsector>
+    <Subsector Index="H">Frifldens</Subsector>
+    <Subsector Index="I">Ianzavr</Subsector>
+    <Subsector Index="J">Edra</Subsector>
+    <Subsector Index="K">Kranchfla</Subsector>
+    <Subsector Index="L">Rifdopriezh</Subsector>
+    <Subsector Index="M">Tianjenz</Subsector>
+    <Subsector Index="N">Sakljinshi</Subsector>
+    <Subsector Index="O">Enchabr</Subsector>
+    <Subsector Index="P">Zhdonzhiadzhesh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Beha">
+  <Name Source="Rim Expeditions">Behaypoe</Name>
+  <Credits />
+  <X>0</X>
+  <Y>16</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

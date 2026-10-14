@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ncheblzevr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-92</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kranchits</Subsector>
+    <Subsector Index="B">Sashtledlo</Subsector>
+    <Subsector Index="C">Shiebrkli</Subsector>
+    <Subsector Index="D">Nshintsia</Subsector>
+    <Subsector Index="E">Zienzhcharntsietl</Subsector>
+    <Subsector Index="F">Ebla</Subsector>
+    <Subsector Index="G">Fiakliesh</Subsector>
+    <Subsector Index="H">Zhoqrevla</Subsector>
+    <Subsector Index="I">Tsavlo</Subsector>
+    <Subsector Index="J">Iebrnchiach</Subsector>
+    <Subsector Index="K">Tlozhenchianch</Subsector>
+    <Subsector Index="L">Rernzhentser</Subsector>
+    <Subsector Index="M">Tlensatl'iafl</Subsector>
+    <Subsector Index="N">Zdanshientsif</Subsector>
+    <Subsector Index="O">Chovrfiele</Subsector>
+    <Subsector Index="P">Arofl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

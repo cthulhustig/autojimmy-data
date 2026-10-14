@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iefliefr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-114</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Etliedl</Subsector>
+    <Subsector Index="B">Nzhianzhents</Subsector>
+    <Subsector Index="C">Atlia</Subsector>
+    <Subsector Index="D">Novlntsats</Subsector>
+    <Subsector Index="E">Ntsitsi</Subsector>
+    <Subsector Index="F">Chtieshnchaiaz</Subsector>
+    <Subsector Index="G">Dlenchanche</Subsector>
+    <Subsector Index="H">Fezhjidle</Subsector>
+    <Subsector Index="I">Tsiplrantse</Subsector>
+    <Subsector Index="J">Plieblvench</Subsector>
+    <Subsector Index="K">Fronsi</Subsector>
+    <Subsector Index="L">Chtantntsadlzokl</Subsector>
+    <Subsector Index="M">Tlemieiab</Subsector>
+    <Subsector Index="N">Steblqredfrifl</Subsector>
+    <Subsector Index="O">Pribra</Subsector>
+    <Subsector Index="P">Brenztsiqrshach</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

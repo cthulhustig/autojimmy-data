@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhdensrafr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-17</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Iachblifl</Subsector>
+    <Subsector Index="B">Fransntsantsach</Subsector>
+    <Subsector Index="C">Ieoqr</Subsector>
+    <Subsector Index="D">Zonshejkladl</Subsector>
+    <Subsector Index="E">Ivkra</Subsector>
+    <Subsector Index="F">Iazenj</Subsector>
+    <Subsector Index="G">Fiakezhpepl</Subsector>
+    <Subsector Index="H">Jdeplfrafliar</Subsector>
+    <Subsector Index="I">Nshiernzinj</Subsector>
+    <Subsector Index="J">Iafle</Subsector>
+    <Subsector Index="K">Zhashdizh</Subsector>
+    <Subsector Index="L">Zhablchie</Subsector>
+    <Subsector Index="M">Pafrtsaof</Subsector>
+    <Subsector Index="N">Tleflshiashia</Subsector>
+    <Subsector Index="O">Zhiebrprieshi</Subsector>
+    <Subsector Index="P">Jdebroprnchabl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

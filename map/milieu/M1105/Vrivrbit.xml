@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Vrivrbit</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-73</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chiplblovdle</Subsector>
+    <Subsector Index="B">Aplvriash</Subsector>
+    <Subsector Index="C">Ienzhal</Subsector>
+    <Subsector Index="D">Iazhtsoz</Subsector>
+    <Subsector Index="E">Intsar</Subsector>
+    <Subsector Index="F">Nzhanzhshap</Subsector>
+    <Subsector Index="G">Lizats</Subsector>
+    <Subsector Index="H">Vredlimqri</Subsector>
+    <Subsector Index="I">Qrieia</Subsector>
+    <Subsector Index="J">Tlanjti</Subsector>
+    <Subsector Index="K">Nchiasha</Subsector>
+    <Subsector Index="L">Jdezhplezdiefr</Subsector>
+    <Subsector Index="M">Nzieble</Subsector>
+    <Subsector Index="N">Dlafiflav</Subsector>
+    <Subsector Index="O">Tonlochia</Subsector>
+    <Subsector Index="P">Desha</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

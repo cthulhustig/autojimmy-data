@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Efrpra</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-130</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Brezhanchnzia</Subsector>
+    <Subsector Index="B">Iajepl</Subsector>
+    <Subsector Index="C">Tlornjezpech</Subsector>
+    <Subsector Index="D">Shiakldloflanz</Subsector>
+    <Subsector Index="E">Yantsblievrenj</Subsector>
+    <Subsector Index="F">Chovridria</Subsector>
+    <Subsector Index="G">Chtenzhriatlbiefr</Subsector>
+    <Subsector Index="H">Qliazhnjietllieb</Subsector>
+    <Subsector Index="I">Tlazfevlzer</Subsector>
+    <Subsector Index="J">Zinzhiantsplej</Subsector>
+    <Subsector Index="K">Avrqrek</Subsector>
+    <Subsector Index="L">Fanchpre</Subsector>
+    <Subsector Index="M">Tlirfizha</Subsector>
+    <Subsector Index="N">Tsartsivients</Subsector>
+    <Subsector Index="O">Prechie</Subsector>
+    <Subsector Index="P">Evshezh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

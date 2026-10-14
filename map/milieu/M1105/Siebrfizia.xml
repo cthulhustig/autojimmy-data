@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Siebrfizia</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-58</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Friensifr</Subsector>
+    <Subsector Index="B">Evdria</Subsector>
+    <Subsector Index="C">Vadlnsiefr</Subsector>
+    <Subsector Index="D">Bazeshziafr</Subsector>
+    <Subsector Index="E">Ke'ploqrie</Subsector>
+    <Subsector Index="F">Fiaqrieblprinch</Subsector>
+    <Subsector Index="G">Ekltsi</Subsector>
+    <Subsector Index="H">Zdevlchiklkla</Subsector>
+    <Subsector Index="I">Zdafnzetse</Subsector>
+    <Subsector Index="J">Tsierflie</Subsector>
+    <Subsector Index="K">Stiakfoidl</Subsector>
+    <Subsector Index="L">Tleklbranz</Subsector>
+    <Subsector Index="M">Fasha</Subsector>
+    <Subsector Index="N">Brelzhievl</Subsector>
+    <Subsector Index="O">Evrod</Subsector>
+    <Subsector Index="P">Ichvrents</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

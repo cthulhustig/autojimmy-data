@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dliedlvrietsiapl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-121</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dlonshfakjo</Subsector>
+    <Subsector Index="B">Lati</Subsector>
+    <Subsector Index="C">Keplansnshipl</Subsector>
+    <Subsector Index="D">Bevrjaia</Subsector>
+    <Subsector Index="E">Nentsflienzhidr</Subsector>
+    <Subsector Index="F">Dlechqrel</Subsector>
+    <Subsector Index="G">Plelnzhee</Subsector>
+    <Subsector Index="H">Tiezhfiapflij</Subsector>
+    <Subsector Index="I">Flovkle</Subsector>
+    <Subsector Index="J">Ianzchiapr</Subsector>
+    <Subsector Index="K">Chtablblare</Subsector>
+    <Subsector Index="L">Chtianshjaznsebr</Subsector>
+    <Subsector Index="M">Zdiadrakre</Subsector>
+    <Subsector Index="N">Dlofliplal</Subsector>
+    <Subsector Index="O">Bronzhiezan</Subsector>
+    <Subsector Index="P">Obro</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

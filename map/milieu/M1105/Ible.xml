@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ible</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-154</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Noflfishplia</Subsector>
+    <Subsector Index="B">Yejnchenji</Subsector>
+    <Subsector Index="C">Tsetleva</Subsector>
+    <Subsector Index="D">Pliazha</Subsector>
+    <Subsector Index="E">Biedlblafrnchiafl</Subsector>
+    <Subsector Index="F">Zhanshnchinch</Subsector>
+    <Subsector Index="G">Mozia</Subsector>
+    <Subsector Index="H">Njobriebr</Subsector>
+    <Subsector Index="I">Zhiedltsia</Subsector>
+    <Subsector Index="J">Eshzhapr</Subsector>
+    <Subsector Index="K">Ovrmiech</Subsector>
+    <Subsector Index="L">Ienzchonzh</Subsector>
+    <Subsector Index="M">Tliaplcheif</Subsector>
+    <Subsector Index="N">Zhdiadnshonjianz</Subsector>
+    <Subsector Index="O">Tlotbraa</Subsector>
+    <Subsector Index="P">Kladachints</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

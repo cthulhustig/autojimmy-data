@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Mith">
+  <Name Source="Rim Expeditions">Mithen</Name>
+  <Credits />
+  <X>-1</X>
+  <Y>8</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

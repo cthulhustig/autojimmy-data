@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Sofvlianjdlet</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-36</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Biershofntiech</Subsector>
+    <Subsector Index="B">Planchevr</Subsector>
+    <Subsector Index="C">Stiepliaflia</Subsector>
+    <Subsector Index="D">Riezhefflikr</Subsector>
+    <Subsector Index="E">Loklo</Subsector>
+    <Subsector Index="F">Rientspriaziaf</Subsector>
+    <Subsector Index="G">Tlazhnzika</Subsector>
+    <Subsector Index="H">Nzhaznjepr</Subsector>
+    <Subsector Index="I">Diafrvlaivl</Subsector>
+    <Subsector Index="J">Pliekrjiaia</Subsector>
+    <Subsector Index="K">Pleltsitsbrezh</Subsector>
+    <Subsector Index="L">Zhipltavrfech</Subsector>
+    <Subsector Index="M">Fliedli</Subsector>
+    <Subsector Index="N">Dabla</Subsector>
+    <Subsector Index="O">Stedrantstinch</Subsector>
+    <Subsector Index="P">Tinchtsievrnzhia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

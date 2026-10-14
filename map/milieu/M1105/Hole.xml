@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Hole">
+  <Name Source="Rim Expeditions">Hole</Name>
+  <Credits />
+  <X>-2</X>
+  <Y>9</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Fefrplalie</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-29</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Shtoztliazdlal</Subsector>
+    <Subsector Index="B">Shaklfriadra</Subsector>
+    <Subsector Index="C">Brantzeshtliepr</Subsector>
+    <Subsector Index="D">Vrifrvre</Subsector>
+    <Subsector Index="E">Ranzhtla</Subsector>
+    <Subsector Index="F">Prefrplo</Subsector>
+    <Subsector Index="G">Tliflflevlinch</Subsector>
+    <Subsector Index="H">Pleqrfirpriz</Subsector>
+    <Subsector Index="I">Pizhzef</Subsector>
+    <Subsector Index="J">Zdebrotfle</Subsector>
+    <Subsector Index="K">Qlenshleie</Subsector>
+    <Subsector Index="L">Qlafrbrebfiefl</Subsector>
+    <Subsector Index="M">Afrav</Subsector>
+    <Subsector Index="N">Nsefltlepl</Subsector>
+    <Subsector Index="O">Tezhranzdodl</Subsector>
+    <Subsector Index="P">Kaznjiplish</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

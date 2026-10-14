@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Xeel">
+  <Name Lang="kk">Xeeleer</Name>
+  <Name Lang="kk">Xeeler</Name>
+  <Credits />
+  <X>8</X>
+  <Y>-4</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

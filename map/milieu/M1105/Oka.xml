@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Oka</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-49</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Iensiafl</Subsector>
+    <Subsector Index="B">Ovria</Subsector>
+    <Subsector Index="C">Plekljai</Subsector>
+    <Subsector Index="D">Viechia</Subsector>
+    <Subsector Index="E">Fabrenzh</Subsector>
+    <Subsector Index="F">Zanidla</Subsector>
+    <Subsector Index="G">Roflelnzhia</Subsector>
+    <Subsector Index="H">Priaprafo</Subsector>
+    <Subsector Index="I">Nchaplie</Subsector>
+    <Subsector Index="J">Jdekrebla</Subsector>
+    <Subsector Index="K">Fefloch</Subsector>
+    <Subsector Index="L">Nshiatsiel</Subsector>
+    <Subsector Index="M">Vraflshiazh</Subsector>
+    <Subsector Index="N">Bliazhetldial</Subsector>
+    <Subsector Index="O">Tialanzdlekl</Subsector>
+    <Subsector Index="P">Epltsens</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

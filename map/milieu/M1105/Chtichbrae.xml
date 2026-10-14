@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chtichbrae</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-53</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Njichtlizh</Subsector>
+    <Subsector Index="B">Chtiebrralzhanzh</Subsector>
+    <Subsector Index="C">Jezabr</Subsector>
+    <Subsector Index="D">Efrshavr</Subsector>
+    <Subsector Index="E">Ntiaflafr</Subsector>
+    <Subsector Index="F">Zdetole</Subsector>
+    <Subsector Index="G">Dranshdizhe</Subsector>
+    <Subsector Index="H">Zibrnjenzhidl</Subsector>
+    <Subsector Index="I">Sabriedlivl</Subsector>
+    <Subsector Index="J">Zdaprnienshqro</Subsector>
+    <Subsector Index="K">Bintskrivtsia</Subsector>
+    <Subsector Index="L">Fritsdlozha</Subsector>
+    <Subsector Index="M">Iajdrch</Subsector>
+    <Subsector Index="N">Aprazh</Subsector>
+    <Subsector Index="O">Otllets</Subsector>
+    <Subsector Index="P">Zdelidliats</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

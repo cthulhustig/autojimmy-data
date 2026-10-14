@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Outr">
+  <Name Source="Rim Expeditions">OutReach</Name>
+  <Credits />
+  <X>1</X>
+  <Y>7</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

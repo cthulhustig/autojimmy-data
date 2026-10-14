@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iefrevr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-97</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dlizezo</Subsector>
+    <Subsector Index="B">Bratsnsiefl</Subsector>
+    <Subsector Index="C">Ansanj</Subsector>
+    <Subsector Index="D">Ntsiavrnshied</Subsector>
+    <Subsector Index="E">Freflnziantsvlet</Subsector>
+    <Subsector Index="F">Koqraflich</Subsector>
+    <Subsector Index="G">Ipokl</Subsector>
+    <Subsector Index="H">Brepchalakl</Subsector>
+    <Subsector Index="I">Shetsiefriez</Subsector>
+    <Subsector Index="J">Zekrtsans</Subsector>
+    <Subsector Index="K">Shienchadrnsiebr</Subsector>
+    <Subsector Index="L">Braznchebzha</Subsector>
+    <Subsector Index="M">Siabrnsebrzhezh</Subsector>
+    <Subsector Index="N">Edlbra</Subsector>
+    <Subsector Index="O">Ariefr</Subsector>
+    <Subsector Index="P">Chietsepre</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dovnshotsents</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-77</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ntieash</Subsector>
+    <Subsector Index="B">Tlotprienjefl</Subsector>
+    <Subsector Index="C">Chtensezdrie</Subsector>
+    <Subsector Index="D">Nsevria</Subsector>
+    <Subsector Index="E">Zanjnsa</Subsector>
+    <Subsector Index="F">Iaj</Subsector>
+    <Subsector Index="G">Vlieia</Subsector>
+    <Subsector Index="H">Frzkrebrdlie</Subsector>
+    <Subsector Index="I">Shiatnzhiee</Subsector>
+    <Subsector Index="J">Dretsvreench</Subsector>
+    <Subsector Index="K">Klablraie</Subsector>
+    <Subsector Index="L">Tlertsensash</Subsector>
+    <Subsector Index="M">Priprlabrnchens</Subsector>
+    <Subsector Index="N">Adlefl</Subsector>
+    <Subsector Index="O">Chiadlaflem</Subsector>
+    <Subsector Index="P">Ienzhiabr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

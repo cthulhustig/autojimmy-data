@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kamiet</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-101</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fajntiit</Subsector>
+    <Subsector Index="B">Nanche</Subsector>
+    <Subsector Index="C">Tlonchnjievrbliedl</Subsector>
+    <Subsector Index="D">Shtashzha'zitl</Subsector>
+    <Subsector Index="E">Zdachpliaqrfrodl</Subsector>
+    <Subsector Index="F">Stanzhieza</Subsector>
+    <Subsector Index="G">Nevrdiadrnefr</Subsector>
+    <Subsector Index="H">Ibflil</Subsector>
+    <Subsector Index="I">Ifze</Subsector>
+    <Subsector Index="J">'aqranch</Subsector>
+    <Subsector Index="K">Tliarplivlnzhepr</Subsector>
+    <Subsector Index="L">Zdienchatie</Subsector>
+    <Subsector Index="M">Pentsdrane</Subsector>
+    <Subsector Index="N">Bliansnshekl</Subsector>
+    <Subsector Index="O">Dlajelprinch</Subsector>
+    <Subsector Index="P">Iatsti</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

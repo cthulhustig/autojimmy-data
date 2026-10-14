@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Lapred</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-157</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chtevnzhanjzi</Subsector>
+    <Subsector Index="B">Qriifl</Subsector>
+    <Subsector Index="C">Avo</Subsector>
+    <Subsector Index="D">Vlolplo</Subsector>
+    <Subsector Index="E">Akrntse</Subsector>
+    <Subsector Index="F">Blechaziadl</Subsector>
+    <Subsector Index="G">Tliablzhaozh</Subsector>
+    <Subsector Index="H">Nefltevlifr</Subsector>
+    <Subsector Index="I">Kiodr</Subsector>
+    <Subsector Index="J">Krebrraprtle</Subsector>
+    <Subsector Index="K">Kiazpede</Subsector>
+    <Subsector Index="L">Teplipri</Subsector>
+    <Subsector Index="M">Dliablbrie</Subsector>
+    <Subsector Index="N">Intsenzh</Subsector>
+    <Subsector Index="O">Lieshiets</Subsector>
+    <Subsector Index="P">Zhdiezpravlnshin</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nzanznzhians</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-42</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fiadlriedaj</Subsector>
+    <Subsector Index="B">Riade</Subsector>
+    <Subsector Index="C">Fratopla</Subsector>
+    <Subsector Index="D">Nzolpriekl</Subsector>
+    <Subsector Index="E">Stiachfiashnzhenj</Subsector>
+    <Subsector Index="F">Stinjfrencha</Subsector>
+    <Subsector Index="G">Efra</Subsector>
+    <Subsector Index="H">Amot</Subsector>
+    <Subsector Index="I">Izhdi</Subsector>
+    <Subsector Index="J">Brianshiv</Subsector>
+    <Subsector Index="K">Zhdadfraprble</Subsector>
+    <Subsector Index="L">Shiaza</Subsector>
+    <Subsector Index="M">Tlefzodraz</Subsector>
+    <Subsector Index="N">Nteronzh</Subsector>
+    <Subsector Index="O">Nchevrnjied</Subsector>
+    <Subsector Index="P">Nefriafa</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

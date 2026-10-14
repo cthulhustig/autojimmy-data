@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kinchnche'mish</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-34</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Stilnjietsbre</Subsector>
+    <Subsector Index="B">Zdiqrbloshdli</Subsector>
+    <Subsector Index="C">Chinsdlirchinch</Subsector>
+    <Subsector Index="D">Zhobliei</Subsector>
+    <Subsector Index="E">Flenshbretsfa</Subsector>
+    <Subsector Index="F">Zdirielbits</Subsector>
+    <Subsector Index="G">Ove</Subsector>
+    <Subsector Index="H">Tlajnchontsidl</Subsector>
+    <Subsector Index="I">Rabtlieknzhif</Subsector>
+    <Subsector Index="J">Chtibrantsie</Subsector>
+    <Subsector Index="K">Qlaflbrelievl</Subsector>
+    <Subsector Index="L">Iaplshenzh</Subsector>
+    <Subsector Index="M">Tsio</Subsector>
+    <Subsector Index="N">Rinjible</Subsector>
+    <Subsector Index="O">Dazienchiabr</Subsector>
+    <Subsector Index="P">Prepleez</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

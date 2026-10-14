@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Sazhieits</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-110</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Cheshiajed</Subsector>
+    <Subsector Index="B">Azhnze</Subsector>
+    <Subsector Index="C">Jiashezo</Subsector>
+    <Subsector Index="D">Ietnzial</Subsector>
+    <Subsector Index="E">Zhieech</Subsector>
+    <Subsector Index="F">Proie</Subsector>
+    <Subsector Index="G">Evlklats</Subsector>
+    <Subsector Index="H">Sajchezdia</Subsector>
+    <Subsector Index="I">Drablech</Subsector>
+    <Subsector Index="J">Nsienz</Subsector>
+    <Subsector Index="K">Chiprefvli</Subsector>
+    <Subsector Index="L">Shtishqrienchbrienzh</Subsector>
+    <Subsector Index="M">Vroklenz</Subsector>
+    <Subsector Index="N">Chezhzizhfi</Subsector>
+    <Subsector Index="O">Ienzhnzie</Subsector>
+    <Subsector Index="P">Ntsie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

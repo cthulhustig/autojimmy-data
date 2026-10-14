@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Eflntsapr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-59</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Shienzhzhianzhi</Subsector>
+    <Subsector Index="B">Alivr</Subsector>
+    <Subsector Index="C">Nzhoblfla</Subsector>
+    <Subsector Index="D">Fadlzhiep</Subsector>
+    <Subsector Index="E">Tliebriefr</Subsector>
+    <Subsector Index="F">Klansinch</Subsector>
+    <Subsector Index="G">Dieznshonchche</Subsector>
+    <Subsector Index="H">Ianzhi'</Subsector>
+    <Subsector Index="I">Tloplvlinshiench</Subsector>
+    <Subsector Index="J">Dliblbaklkench</Subsector>
+    <Subsector Index="K">Njavla</Subsector>
+    <Subsector Index="L">Zhiflai</Subsector>
+    <Subsector Index="M">Zhanzheqr</Subsector>
+    <Subsector Index="N">Ferdlitbrits</Subsector>
+    <Subsector Index="O">Nchiezef</Subsector>
+    <Subsector Index="P">Iablprot</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhdielnjiensets</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-30</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Bazinjo</Subsector>
+    <Subsector Index="B">Sedlinzich</Subsector>
+    <Subsector Index="C">Chiebshiadlil</Subsector>
+    <Subsector Index="D">Tlevlvrenchflesh</Subsector>
+    <Subsector Index="E">Qleklnjiafplits</Subsector>
+    <Subsector Index="F">Bredrianj</Subsector>
+    <Subsector Index="G">Chanshenjvriant</Subsector>
+    <Subsector Index="H">Zhajaflie</Subsector>
+    <Subsector Index="I">Chiedlplatnchaf</Subsector>
+    <Subsector Index="J">Friflotl</Subsector>
+    <Subsector Index="K">Ninchanjdloz</Subsector>
+    <Subsector Index="L">Klafrblipzo</Subsector>
+    <Subsector Index="M">Efbront</Subsector>
+    <Subsector Index="N">Franjitsam</Subsector>
+    <Subsector Index="O">Iablnched</Subsector>
+    <Subsector Index="P">Enjnshie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

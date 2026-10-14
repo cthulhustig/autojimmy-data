@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dloplae</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-89</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Stienshenzhnshents</Subsector>
+    <Subsector Index="B">Nzhiachi</Subsector>
+    <Subsector Index="C">Dlofrej</Subsector>
+    <Subsector Index="D">Venzne</Subsector>
+    <Subsector Index="E">Chtivrprefa</Subsector>
+    <Subsector Index="F">Brazheliak</Subsector>
+    <Subsector Index="G">Antso</Subsector>
+    <Subsector Index="H">Dlefrtsichfla</Subsector>
+    <Subsector Index="I">Tletashmie</Subsector>
+    <Subsector Index="J">Ajblifr</Subsector>
+    <Subsector Index="K">Shieplanza</Subsector>
+    <Subsector Index="L">Dliafrfliaplblench</Subsector>
+    <Subsector Index="M">Flianchopliebl</Subsector>
+    <Subsector Index="N">Chaqrqraba</Subsector>
+    <Subsector Index="O">Afedl</Subsector>
+    <Subsector Index="P">Vinjbreo</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

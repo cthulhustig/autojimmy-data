@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Fripmiezh</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-100</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Prekvrinchdlaf</Subsector>
+    <Subsector Index="B">Iavraqr</Subsector>
+    <Subsector Index="C">Aklbri</Subsector>
+    <Subsector Index="D">Zeftsabrntsish</Subsector>
+    <Subsector Index="E">Platsploan</Subsector>
+    <Subsector Index="F">Narfia</Subsector>
+    <Subsector Index="G">Tlenzhiie</Subsector>
+    <Subsector Index="H">Qlavdreshklevl</Subsector>
+    <Subsector Index="I">Zhibrfliatsetl</Subsector>
+    <Subsector Index="J">Dlietltlechenzh</Subsector>
+    <Subsector Index="K">Ijnche</Subsector>
+    <Subsector Index="L">Shtiatlvonsa</Subsector>
+    <Subsector Index="M">Roflklirple</Subsector>
+    <Subsector Index="N">Shtiennzitlfla</Subsector>
+    <Subsector Index="O">Zdiarea</Subsector>
+    <Subsector Index="P">Qrefabr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

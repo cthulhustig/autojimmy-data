@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zeliejiar</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-127</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ntsiezie</Subsector>
+    <Subsector Index="B">Ablriezh</Subsector>
+    <Subsector Index="C">Klienjiedzhavr</Subsector>
+    <Subsector Index="D">Zhasheavr</Subsector>
+    <Subsector Index="E">Sherniefribr</Subsector>
+    <Subsector Index="F">Frantsqria</Subsector>
+    <Subsector Index="G">Riztianzha</Subsector>
+    <Subsector Index="H">Omdlensh</Subsector>
+    <Subsector Index="I">Ezhietl</Subsector>
+    <Subsector Index="J">Dliatsodro</Subsector>
+    <Subsector Index="K">Fechvrieztla</Subsector>
+    <Subsector Index="L">Zhditlliantsmir</Subsector>
+    <Subsector Index="M">Dezntsi</Subsector>
+    <Subsector Index="N">Nsetsnzho</Subsector>
+    <Subsector Index="O">Chedrshablchipr</Subsector>
+    <Subsector Index="P">Zhatlbleplach</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

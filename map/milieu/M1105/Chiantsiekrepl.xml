@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chiantsiekrepl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-93</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tanchfreshjiafr</Subsector>
+    <Subsector Index="B">Shejnsieiez</Subsector>
+    <Subsector Index="C">Fliebrachiaf</Subsector>
+    <Subsector Index="D">Danzeklzebl</Subsector>
+    <Subsector Index="E">Viechdlapli</Subsector>
+    <Subsector Index="F">Zdijzhafltish</Subsector>
+    <Subsector Index="G">Tsevlara</Subsector>
+    <Subsector Index="H">Kiefliache</Subsector>
+    <Subsector Index="I">Jdiazhnzhevfriadl</Subsector>
+    <Subsector Index="J">Jienzhechech</Subsector>
+    <Subsector Index="K">Flebriatl</Subsector>
+    <Subsector Index="L">Njitlblia</Subsector>
+    <Subsector Index="M">Prekrkria</Subsector>
+    <Subsector Index="N">Novloia</Subsector>
+    <Subsector Index="O">Tsatstsevrzav</Subsector>
+    <Subsector Index="P">Tevrchevezh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

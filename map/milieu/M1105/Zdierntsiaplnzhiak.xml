@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zdierntsiaplnzhiak</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-168</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Frechnzhedlnchie</Subsector>
+    <Subsector Index="B">Chashazhepl</Subsector>
+    <Subsector Index="C">Stezhnaianz</Subsector>
+    <Subsector Index="D">Shtazhiopr</Subsector>
+    <Subsector Index="E">Dliavchene</Subsector>
+    <Subsector Index="F">Stiavroots</Subsector>
+    <Subsector Index="G">Tisha</Subsector>
+    <Subsector Index="H">Brantsee</Subsector>
+    <Subsector Index="I">Ntsaifl</Subsector>
+    <Subsector Index="J">Chishprirntinzh</Subsector>
+    <Subsector Index="K">Insqra</Subsector>
+    <Subsector Index="L">Zdetlbrinzhdliek</Subsector>
+    <Subsector Index="M">Zianshbribl</Subsector>
+    <Subsector Index="N">Chitkenzhiash</Subsector>
+    <Subsector Index="O">Bronjia</Subsector>
+    <Subsector Index="P">Odlabr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

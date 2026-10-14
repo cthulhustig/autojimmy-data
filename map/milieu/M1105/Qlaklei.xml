@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Qlaklei</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-124</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Blitshe</Subsector>
+    <Subsector Index="B">Zhonemtezh</Subsector>
+    <Subsector Index="C">Vliazvans</Subsector>
+    <Subsector Index="D">Blonjzhajbre</Subsector>
+    <Subsector Index="E">Ichol</Subsector>
+    <Subsector Index="F">Tatsjrnch</Subsector>
+    <Subsector Index="G">Krizbr</Subsector>
+    <Subsector Index="H">Shtiplvaze</Subsector>
+    <Subsector Index="I">Kinsie</Subsector>
+    <Subsector Index="J">Akons</Subsector>
+    <Subsector Index="K">Viavl'en</Subsector>
+    <Subsector Index="L">Dronzalresh</Subsector>
+    <Subsector Index="M">Brblpreprzhebr</Subsector>
+    <Subsector Index="N">Eplfriaz</Subsector>
+    <Subsector Index="O">Zdebrfietso</Subsector>
+    <Subsector Index="P">Iebloz</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

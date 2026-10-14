@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Liartipl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-57</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Yansnjincho</Subsector>
+    <Subsector Index="B">Nzhafklekl</Subsector>
+    <Subsector Index="C">Aznji</Subsector>
+    <Subsector Index="D">Na'iea</Subsector>
+    <Subsector Index="E">Rieprriel</Subsector>
+    <Subsector Index="F">Piabriashled</Subsector>
+    <Subsector Index="G">Blatsbrintnsha</Subsector>
+    <Subsector Index="H">Ashents</Subsector>
+    <Subsector Index="I">Evlpli</Subsector>
+    <Subsector Index="J">Chtifaonsh</Subsector>
+    <Subsector Index="K">Fentsanzodr</Subsector>
+    <Subsector Index="L">Drefrfronznchebr</Subsector>
+    <Subsector Index="M">Viebrnsakli</Subsector>
+    <Subsector Index="N">Briflnshietl</Subsector>
+    <Subsector Index="O">Aqrbre</Subsector>
+    <Subsector Index="P">Dlinzhfeie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

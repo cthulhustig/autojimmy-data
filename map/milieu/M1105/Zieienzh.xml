@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zieienzh</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-88</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Plietsefo</Subsector>
+    <Subsector Index="B">Evrblians</Subsector>
+    <Subsector Index="C">Alraj</Subsector>
+    <Subsector Index="D">Prefienj</Subsector>
+    <Subsector Index="E">Blaplplenchkla</Subsector>
+    <Subsector Index="F">Blamiaple</Subsector>
+    <Subsector Index="G">Tsanze</Subsector>
+    <Subsector Index="H">Iablial</Subsector>
+    <Subsector Index="I">Zhevrqrofrvrapl</Subsector>
+    <Subsector Index="J">Nchelnchia</Subsector>
+    <Subsector Index="K">Piaziaia</Subsector>
+    <Subsector Index="L">Tiafrlabriqr</Subsector>
+    <Subsector Index="M">Fievriavl</Subsector>
+    <Subsector Index="N">Tafrfliie</Subsector>
+    <Subsector Index="O">Jitliebr</Subsector>
+    <Subsector Index="P">Flienskreflbrie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

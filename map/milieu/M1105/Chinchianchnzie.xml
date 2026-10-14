@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chinchianchnzie</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-97</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Flifrtozha</Subsector>
+    <Subsector Index="B">Vrifri</Subsector>
+    <Subsector Index="C">Shalshovfianzh</Subsector>
+    <Subsector Index="D">Ienzshia</Subsector>
+    <Subsector Index="E">Tsianchipl</Subsector>
+    <Subsector Index="F">Sabrichnzhi</Subsector>
+    <Subsector Index="G">Prirfezhefr</Subsector>
+    <Subsector Index="H">Iezvre</Subsector>
+    <Subsector Index="I">Britsa</Subsector>
+    <Subsector Index="J">Bezvensnse</Subsector>
+    <Subsector Index="K">Aprebl</Subsector>
+    <Subsector Index="L">Aidl</Subsector>
+    <Subsector Index="M">Tefvreo</Subsector>
+    <Subsector Index="N">Ishnchiabr</Subsector>
+    <Subsector Index="O">Zdianskaklntsel</Subsector>
+    <Subsector Index="P">Vledlia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

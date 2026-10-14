@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Njenzhfrez</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-100</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Klapravr</Subsector>
+    <Subsector Index="B">Zdeffliaiaz</Subsector>
+    <Subsector Index="C">Dlikrbliedrzhapr</Subsector>
+    <Subsector Index="D">Niadshiechze</Subsector>
+    <Subsector Index="E">Rezi</Subsector>
+    <Subsector Index="F">Aat</Subsector>
+    <Subsector Index="G">Anjfri</Subsector>
+    <Subsector Index="H">Sheplenpe</Subsector>
+    <Subsector Index="I">Shaqra</Subsector>
+    <Subsector Index="J">Chiflekpripl</Subsector>
+    <Subsector Index="K">Qrakief</Subsector>
+    <Subsector Index="L">Insed</Subsector>
+    <Subsector Index="M">Tantsanj</Subsector>
+    <Subsector Index="N">Brientszhanchkraj</Subsector>
+    <Subsector Index="O">Anchtsiant</Subsector>
+    <Subsector Index="P">Stianchzhiefrplidl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

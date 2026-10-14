@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ichiz</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-24</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dlorntiatsots</Subsector>
+    <Subsector Index="B">Disheflvri</Subsector>
+    <Subsector Index="C">Dranjnchinshi</Subsector>
+    <Subsector Index="D">Ianzha</Subsector>
+    <Subsector Index="E">Evlo</Subsector>
+    <Subsector Index="F">Zhdanzhsheliek</Subsector>
+    <Subsector Index="G">Flievlnchez</Subsector>
+    <Subsector Index="H">Bliakriefl</Subsector>
+    <Subsector Index="I">Atliez</Subsector>
+    <Subsector Index="J">Finjialtlof</Subsector>
+    <Subsector Index="K">Kliachpratzier</Subsector>
+    <Subsector Index="L">Nevtliaief</Subsector>
+    <Subsector Index="M">Nizhnsovr</Subsector>
+    <Subsector Index="N">Iarer</Subsector>
+    <Subsector Index="O">Kleprklodrfi</Subsector>
+    <Subsector Index="P">Debrpreshbriach</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

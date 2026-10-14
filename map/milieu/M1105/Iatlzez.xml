@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iatlzez</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-115</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Avlach</Subsector>
+    <Subsector Index="B">Ijnjiabr</Subsector>
+    <Subsector Index="C">Nshiazfre</Subsector>
+    <Subsector Index="D">Tlieplviajbrens</Subsector>
+    <Subsector Index="E">Tsiezhnsatvivr</Subsector>
+    <Subsector Index="F">Stechzhenchblav</Subsector>
+    <Subsector Index="G">Klonztieliepl</Subsector>
+    <Subsector Index="H">Shtodefrplebl</Subsector>
+    <Subsector Index="I">Nzhiachianz</Subsector>
+    <Subsector Index="J">Bensiea</Subsector>
+    <Subsector Index="K">Fekeqral</Subsector>
+    <Subsector Index="L">Zdiashlie</Subsector>
+    <Subsector Index="M">Tliplfriee</Subsector>
+    <Subsector Index="N">Vishiia</Subsector>
+    <Subsector Index="O">Achvrr</Subsector>
+    <Subsector Index="P">Stiedzafrnta</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

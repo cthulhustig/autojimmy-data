@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Atsja</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-66</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fiedia</Subsector>
+    <Subsector Index="B">Staprpreej</Subsector>
+    <Subsector Index="C">Inshnse</Subsector>
+    <Subsector Index="D">Piensbleenzh</Subsector>
+    <Subsector Index="E">Jienzatnchepl</Subsector>
+    <Subsector Index="F">Iabrbliafr</Subsector>
+    <Subsector Index="G">Tsiensshab</Subsector>
+    <Subsector Index="H">Stalianjntsiqr</Subsector>
+    <Subsector Index="I">Shipleo</Subsector>
+    <Subsector Index="J">Brablele</Subsector>
+    <Subsector Index="K">Eznzhish</Subsector>
+    <Subsector Index="L">Ntojnshia</Subsector>
+    <Subsector Index="M">Shienziedl</Subsector>
+    <Subsector Index="N">Shizhresh</Subsector>
+    <Subsector Index="O">Plieze</Subsector>
+    <Subsector Index="P">Zdiltantsie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

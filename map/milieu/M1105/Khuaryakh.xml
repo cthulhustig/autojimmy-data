@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Khua">
+  <Name Lang="as">Khuaryakh</Name>
+  <Credits />
+  <X>-9</X>
+  <Y>4</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

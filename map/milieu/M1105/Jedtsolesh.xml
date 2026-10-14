@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Jedtsolesh</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-31</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Iaplfatl</Subsector>
+    <Subsector Index="B">Lianzlepl</Subsector>
+    <Subsector Index="C">Iabrifr</Subsector>
+    <Subsector Index="D">Ietits</Subsector>
+    <Subsector Index="E">Torovlnche</Subsector>
+    <Subsector Index="F">Miia</Subsector>
+    <Subsector Index="G">Chtianjdliajie</Subsector>
+    <Subsector Index="H">Ipl'iel</Subsector>
+    <Subsector Index="I">Lientej</Subsector>
+    <Subsector Index="J">Chtetlriebrtits</Subsector>
+    <Subsector Index="K">Tedrzaevr</Subsector>
+    <Subsector Index="L">Tlavlzenzo</Subsector>
+    <Subsector Index="M">Qleplnchieprpria</Subsector>
+    <Subsector Index="N">Tsavlnenze</Subsector>
+    <Subsector Index="O">Pietlziaafl</Subsector>
+    <Subsector Index="P">Dliprjiee</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

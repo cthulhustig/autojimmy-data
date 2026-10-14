@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Taha">
+  <Name Lang="as">Tahahroal</Name>
+  <Credits />
+  <X>-9</X>
+  <Y>6</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

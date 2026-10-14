@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Shenzhiave</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-60</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tablieqroz</Subsector>
+    <Subsector Index="B">Zevrvlentsiapl</Subsector>
+    <Subsector Index="C">Iable</Subsector>
+    <Subsector Index="D">Zderflezvlinzh</Subsector>
+    <Subsector Index="E">Injzhins</Subsector>
+    <Subsector Index="F">Zokzhiztsa</Subsector>
+    <Subsector Index="G">Neblienshiej</Subsector>
+    <Subsector Index="H">Avri</Subsector>
+    <Subsector Index="I">Kanchzadle</Subsector>
+    <Subsector Index="J">Joanzh</Subsector>
+    <Subsector Index="K">Stiajokfriez</Subsector>
+    <Subsector Index="L">Enchiepl</Subsector>
+    <Subsector Index="M">Tsivreia</Subsector>
+    <Subsector Index="N">Stieplejopl</Subsector>
+    <Subsector Index="O">Pria'ploj</Subsector>
+    <Subsector Index="P">Fiabrrieshnjinch</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

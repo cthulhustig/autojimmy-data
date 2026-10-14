@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ebrikl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-43</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chedlblipr</Subsector>
+    <Subsector Index="B">Tlieviflif</Subsector>
+    <Subsector Index="C">Chiezhbrazvrim</Subsector>
+    <Subsector Index="D">Brinji</Subsector>
+    <Subsector Index="E">Zdachvrebrntsaj</Subsector>
+    <Subsector Index="F">Vezje</Subsector>
+    <Subsector Index="G">Ianvlieb</Subsector>
+    <Subsector Index="H">Tiebrezvre</Subsector>
+    <Subsector Index="I">Dikla</Subsector>
+    <Subsector Index="J">Pridlchii</Subsector>
+    <Subsector Index="K">Efrevl</Subsector>
+    <Subsector Index="L">Nabrdadianzh</Subsector>
+    <Subsector Index="M">Rietsied</Subsector>
+    <Subsector Index="N">Fojeprche</Subsector>
+    <Subsector Index="O">Iatstsets</Subsector>
+    <Subsector Index="P">Shezadl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

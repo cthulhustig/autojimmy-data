@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zdizhzezhjia</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-19</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Prajatse</Subsector>
+    <Subsector Index="B">Sintsinjjia</Subsector>
+    <Subsector Index="C">Zhetsnchejvrianzh</Subsector>
+    <Subsector Index="D">Sikrnchieshnjians</Subsector>
+    <Subsector Index="E">Qlialeo</Subsector>
+    <Subsector Index="F">Stepnjinchloch</Subsector>
+    <Subsector Index="G">Tlazhzhitsvepl</Subsector>
+    <Subsector Index="H">Dlablntsiashtsav</Subsector>
+    <Subsector Index="I">Yebltsifrle</Subsector>
+    <Subsector Index="J">Iefiezh</Subsector>
+    <Subsector Index="K">Jazmieddliesh</Subsector>
+    <Subsector Index="L">Beklple</Subsector>
+    <Subsector Index="M">Tlanzechebl</Subsector>
+    <Subsector Index="N">Zhifjeqrvlevl</Subsector>
+    <Subsector Index="O">Zdeflpanji</Subsector>
+    <Subsector Index="P">Dlianchans</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

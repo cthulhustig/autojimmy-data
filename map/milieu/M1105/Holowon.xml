@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Holo">
+  <Name>Holowon</Name>
+  <Name Lang="as">Tahahorol</Name>
+  <Credits />
+  <X>-1</X>
+  <Y>6</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

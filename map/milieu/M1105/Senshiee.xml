@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Senshiee</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-80</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Preblivaqr</Subsector>
+    <Subsector Index="B">Iaepr</Subsector>
+    <Subsector Index="C">Oqriaj</Subsector>
+    <Subsector Index="D">Savlliei</Subsector>
+    <Subsector Index="E">Shienzho</Subsector>
+    <Subsector Index="F">Katlnjianzhech</Subsector>
+    <Subsector Index="G">Zevler</Subsector>
+    <Subsector Index="H">Chtazdibipl</Subsector>
+    <Subsector Index="I">Chiaprfrandlia</Subsector>
+    <Subsector Index="J">Pretszazhtsiej</Subsector>
+    <Subsector Index="K">Piprnchiadlzhi</Subsector>
+    <Subsector Index="L">Jdatlaqrezh</Subsector>
+    <Subsector Index="M">Planzhnie</Subsector>
+    <Subsector Index="N">Nzhiekrnchapr</Subsector>
+    <Subsector Index="O">Chetsteensh</Subsector>
+    <Subsector Index="P">Tsiapranzhedr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

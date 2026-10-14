@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Replem</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-67</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tlashziatsqronz</Subsector>
+    <Subsector Index="B">Aqrfliar</Subsector>
+    <Subsector Index="C">Navrnchiei</Subsector>
+    <Subsector Index="D">Emshev</Subsector>
+    <Subsector Index="E">Vlienshriaf</Subsector>
+    <Subsector Index="F">Jdeshtloltlats</Subsector>
+    <Subsector Index="G">Brienchfridlshenzh</Subsector>
+    <Subsector Index="H">Danchze</Subsector>
+    <Subsector Index="I">Fratabri</Subsector>
+    <Subsector Index="J">Driavlebrblifr</Subsector>
+    <Subsector Index="K">Klobrbladlvrotl</Subsector>
+    <Subsector Index="L">Zdiablieklba</Subsector>
+    <Subsector Index="M">Jietlpliebra</Subsector>
+    <Subsector Index="N">Zdienzhnsiple</Subsector>
+    <Subsector Index="O">Tapchiensze</Subsector>
+    <Subsector Index="P">Tlinsheplanch</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

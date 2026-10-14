@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Jdibrfliertsiash</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-27</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dedlbiej</Subsector>
+    <Subsector Index="B">Mejibrntievl</Subsector>
+    <Subsector Index="C">Briefbrenchar</Subsector>
+    <Subsector Index="D">Efrnsij</Subsector>
+    <Subsector Index="E">Broleqr</Subsector>
+    <Subsector Index="F">Nziplplo</Subsector>
+    <Subsector Index="G">Zansvlevl</Subsector>
+    <Subsector Index="H">Eftsiz</Subsector>
+    <Subsector Index="I">Vlefaj</Subsector>
+    <Subsector Index="J">Lichie</Subsector>
+    <Subsector Index="K">Ei</Subsector>
+    <Subsector Index="L">Enzia</Subsector>
+    <Subsector Index="M">Pensrepnchibr</Subsector>
+    <Subsector Index="N">Brenzhntsints</Subsector>
+    <Subsector Index="O">Ebrian</Subsector>
+    <Subsector Index="P">Plieblple</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

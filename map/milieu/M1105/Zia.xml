@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zia</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-160</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhiaflonzhiebr</Subsector>
+    <Subsector Index="B">Setlflinja</Subsector>
+    <Subsector Index="C">Zhebadriavl</Subsector>
+    <Subsector Index="D">Tezfike</Subsector>
+    <Subsector Index="E">Frozzhanshnje</Subsector>
+    <Subsector Index="F">Bitszhashtsiz</Subsector>
+    <Subsector Index="G">Fraklve</Subsector>
+    <Subsector Index="H">Oshez</Subsector>
+    <Subsector Index="I">Kiashvii</Subsector>
+    <Subsector Index="J">Nafrorzaz</Subsector>
+    <Subsector Index="K">Panjzenchash</Subsector>
+    <Subsector Index="L">Zeatl</Subsector>
+    <Subsector Index="M">Kladlqriea</Subsector>
+    <Subsector Index="N">Ieabl</Subsector>
+    <Subsector Index="O">Ziaklieznsepl</Subsector>
+    <Subsector Index="P">Vrentia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

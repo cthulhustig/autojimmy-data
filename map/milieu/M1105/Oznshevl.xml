@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Oznshevl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-141</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tsarntadl</Subsector>
+    <Subsector Index="B">Dlitldleprkobl</Subsector>
+    <Subsector Index="C">Jebrzancha</Subsector>
+    <Subsector Index="D">Tlokaie</Subsector>
+    <Subsector Index="E">Flebrits</Subsector>
+    <Subsector Index="F">Brednzhefrens</Subsector>
+    <Subsector Index="G">Flialshibribl</Subsector>
+    <Subsector Index="H">Foshaienzh</Subsector>
+    <Subsector Index="I">Kaplbenef</Subsector>
+    <Subsector Index="J">Blermia</Subsector>
+    <Subsector Index="K">Eapr</Subsector>
+    <Subsector Index="L">Onjnchaz</Subsector>
+    <Subsector Index="M">Iakranch</Subsector>
+    <Subsector Index="N">Planzhprebrklo</Subsector>
+    <Subsector Index="O">Blichiaianzh</Subsector>
+    <Subsector Index="P">Nachech</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Eqropl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-113</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Njiezh</Subsector>
+    <Subsector Index="B">Njensho</Subsector>
+    <Subsector Index="C">Shtenchqrechievl</Subsector>
+    <Subsector Index="D">Chiatlensha</Subsector>
+    <Subsector Index="E">Ladrple</Subsector>
+    <Subsector Index="F">Izhmevl</Subsector>
+    <Subsector Index="G">Oblie</Subsector>
+    <Subsector Index="H">Fadlkliant</Subsector>
+    <Subsector Index="I">Dlieshnchezvratl</Subsector>
+    <Subsector Index="J">Kienzhbliefle</Subsector>
+    <Subsector Index="K">Ajdle</Subsector>
+    <Subsector Index="L">Nsievrbria</Subsector>
+    <Subsector Index="M">Onsjadr</Subsector>
+    <Subsector Index="N">Ir</Subsector>
+    <Subsector Index="O">Betsnzapltla</Subsector>
+    <Subsector Index="P">Eitl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

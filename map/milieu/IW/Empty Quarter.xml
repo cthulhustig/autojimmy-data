@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Empt">
+  <Name>Empty Quarter</Name>
+  <Name Lang="vi">Gushgus</Name>
+  <Credits />
+  <X>2</X>
+  <Y>-1</Y>
+  <DataFile Milieu="IW" />
+  <Subsectors />
+  <Allegiances>
+    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="ZS">Ziru Sirka</Allegiance>
+  </Allegiances>
+  <Borders>
+    <Border Color="Red" Allegiance="ZS" LabelPosition="0808">0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 1000 1100 1200 1301 1400 1501 1601 1602 1601 1501 1400 1301 1302 1303 1202 1103 1003 1004 1105 1205 1306 1307 1308 1408 1309 1208 1109 1110 1210 1311 1411 1412 1413 1414 1515 1415 1315 1214 1213 1313 1312 1211 1210 1110 1010 0911 0912 0812 0813 0713 0613 0514 0515 0414 0314 0213 0212 0211 0111 0011 0010 0009 0008 0007 0006 0005 0004 0003 0002 0001 0000</Border>
+    <Border Color="Red" Allegiance="ZS" LabelPosition="0336">0031 0132 0231 0232 0233 0334 0335 0435 0535 0536 0636 0637 0638 0639 0640 0641 0541 0441 0341 0241 0141 0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031</Border>
+  </Borders>
+</Sector>

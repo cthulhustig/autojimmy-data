@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iebe</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-42</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nejshiezhprafr</Subsector>
+    <Subsector Index="B">Ebl'e</Subsector>
+    <Subsector Index="C">Nzhanjkled</Subsector>
+    <Subsector Index="D">Yansfieqrakr</Subsector>
+    <Subsector Index="E">Kliaia</Subsector>
+    <Subsector Index="F">Nchietstets</Subsector>
+    <Subsector Index="G">Zhaprbofria</Subsector>
+    <Subsector Index="H">Apliavr</Subsector>
+    <Subsector Index="I">Chtobovra</Subsector>
+    <Subsector Index="J">Zhodlavliafr</Subsector>
+    <Subsector Index="K">Anchvrie</Subsector>
+    <Subsector Index="L">Zdiantvlebpri</Subsector>
+    <Subsector Index="M">Ienshia'</Subsector>
+    <Subsector Index="N">Chtenzhfiajafr</Subsector>
+    <Subsector Index="O">Ezikr</Subsector>
+    <Subsector Index="P">Eviavr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

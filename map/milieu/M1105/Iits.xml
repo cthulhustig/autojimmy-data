@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iits</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-135</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhidrvloach</Subsector>
+    <Subsector Index="B">Nzhizia</Subsector>
+    <Subsector Index="C">Chiaflok</Subsector>
+    <Subsector Index="D">Flozhfonj</Subsector>
+    <Subsector Index="E">Zikrlobial</Subsector>
+    <Subsector Index="F">Stievlnsemdiench</Subsector>
+    <Subsector Index="G">Ietlik</Subsector>
+    <Subsector Index="H">Tiaplliekrach</Subsector>
+    <Subsector Index="I">Ziansdletl</Subsector>
+    <Subsector Index="J">Floshble</Subsector>
+    <Subsector Index="K">Kiaziavrnzibr</Subsector>
+    <Subsector Index="L">Vlerlants</Subsector>
+    <Subsector Index="M">Ntsae</Subsector>
+    <Subsector Index="N">Zhensqrai</Subsector>
+    <Subsector Index="O">Inze</Subsector>
+    <Subsector Index="P">Bletsrinsodl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

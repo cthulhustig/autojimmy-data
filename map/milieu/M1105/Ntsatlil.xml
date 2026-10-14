@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ntsatlil</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-18</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Edlridl</Subsector>
+    <Subsector Index="B">Chieznchezekr</Subsector>
+    <Subsector Index="C">Fivrqriediench</Subsector>
+    <Subsector Index="D">Efinzh</Subsector>
+    <Subsector Index="E">Dlimiazhplavr</Subsector>
+    <Subsector Index="F">Oriens</Subsector>
+    <Subsector Index="G">Tlevrshabiefr</Subsector>
+    <Subsector Index="H">Riezhnjefrvlad</Subsector>
+    <Subsector Index="I">Zhiezo</Subsector>
+    <Subsector Index="J">Rezpliabr</Subsector>
+    <Subsector Index="K">Undefinedatfrenzhia</Subsector>
+    <Subsector Index="L">Arfriz</Subsector>
+    <Subsector Index="M">Fijiatlech</Subsector>
+    <Subsector Index="N">Dlenznrzits</Subsector>
+    <Subsector Index="O">Atsfle</Subsector>
+    <Subsector Index="P">Zei</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

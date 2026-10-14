@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dreberpliat</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-16</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chtezazrief</Subsector>
+    <Subsector Index="B">Pamqrenchodl</Subsector>
+    <Subsector Index="C">Iafvlaf</Subsector>
+    <Subsector Index="D">Ziqraapr</Subsector>
+    <Subsector Index="E">Vienshfliekl</Subsector>
+    <Subsector Index="F">Iafrdle</Subsector>
+    <Subsector Index="G">Shei</Subsector>
+    <Subsector Index="H">Zhieplriel</Subsector>
+    <Subsector Index="I">Ntsiajiez</Subsector>
+    <Subsector Index="J">Kiepleej</Subsector>
+    <Subsector Index="K">Nchenjnsa</Subsector>
+    <Subsector Index="L">Tsetsfiepl</Subsector>
+    <Subsector Index="M">Nzediazh</Subsector>
+    <Subsector Index="N">Tsianzjo</Subsector>
+    <Subsector Index="O">Fritriadliab</Subsector>
+    <Subsector Index="P">Diebleplziqr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

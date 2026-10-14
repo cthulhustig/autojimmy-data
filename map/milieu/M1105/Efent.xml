@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Efent</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-170</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Charaflbriafl</Subsector>
+    <Subsector Index="B">Ienzhi</Subsector>
+    <Subsector Index="C">Ieie</Subsector>
+    <Subsector Index="D">Sientsfriaanj</Subsector>
+    <Subsector Index="E">Chtintsnchovfinch</Subsector>
+    <Subsector Index="F">Enjaf</Subsector>
+    <Subsector Index="G">Preqrflianjzhets</Subsector>
+    <Subsector Index="H">Ieplets</Subsector>
+    <Subsector Index="I">Niachortsents</Subsector>
+    <Subsector Index="J">Chabloflaz</Subsector>
+    <Subsector Index="K">Etsntse</Subsector>
+    <Subsector Index="L">Jiadlblofr</Subsector>
+    <Subsector Index="M">Ebliash</Subsector>
+    <Subsector Index="N">Zdoflbriebshets</Subsector>
+    <Subsector Index="O">Onjdiach</Subsector>
+    <Subsector Index="P">Zhazepr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

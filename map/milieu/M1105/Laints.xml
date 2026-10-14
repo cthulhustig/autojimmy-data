@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Laints</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-63</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Brilfrazhtsa</Subsector>
+    <Subsector Index="B">Chtaflivrbrez</Subsector>
+    <Subsector Index="C">Frevravlo</Subsector>
+    <Subsector Index="D">Jianchnchienebr</Subsector>
+    <Subsector Index="E">Javleniedl</Subsector>
+    <Subsector Index="F">Akrie</Subsector>
+    <Subsector Index="G">Jenshdriefie</Subsector>
+    <Subsector Index="H">Blaia</Subsector>
+    <Subsector Index="I">Chazshaiakl</Subsector>
+    <Subsector Index="J">Chiadlbritepr</Subsector>
+    <Subsector Index="K">Reqrziafie</Subsector>
+    <Subsector Index="L">Dlianzfiav</Subsector>
+    <Subsector Index="M">Zdelflifroch</Subsector>
+    <Subsector Index="N">Zhadlpreqrzifl</Subsector>
+    <Subsector Index="O">Stiejarants</Subsector>
+    <Subsector Index="P">Diache</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

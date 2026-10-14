@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iezab</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-75</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nakaliej</Subsector>
+    <Subsector Index="B">Jdevnjenshfievr</Subsector>
+    <Subsector Index="C">Njinsqripl</Subsector>
+    <Subsector Index="D">Fentsa</Subsector>
+    <Subsector Index="E">Zdiezshiefriench</Subsector>
+    <Subsector Index="F">Vaviei</Subsector>
+    <Subsector Index="G">Ene</Subsector>
+    <Subsector Index="H">Stobrflensqrobl</Subsector>
+    <Subsector Index="I">Qriaraav</Subsector>
+    <Subsector Index="J">Shiklkliea</Subsector>
+    <Subsector Index="K">Ianchdevl</Subsector>
+    <Subsector Index="L">Chinchtianchez</Subsector>
+    <Subsector Index="M">Jdazntsaplshed</Subsector>
+    <Subsector Index="N">Zhishbrantstsikl</Subsector>
+    <Subsector Index="O">Nziflefl</Subsector>
+    <Subsector Index="P">Badlez</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

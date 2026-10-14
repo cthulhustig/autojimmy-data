@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nzintsziaz</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-20</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Stabnchilqra</Subsector>
+    <Subsector Index="B">Bekliavrnjal</Subsector>
+    <Subsector Index="C">Kezlanzhjont</Subsector>
+    <Subsector Index="D">Tsezcherzez</Subsector>
+    <Subsector Index="E">Plaze</Subsector>
+    <Subsector Index="F">Vazhvlee</Subsector>
+    <Subsector Index="G">Iabrie</Subsector>
+    <Subsector Index="H">Lianter</Subsector>
+    <Subsector Index="I">Ala</Subsector>
+    <Subsector Index="J">Nepraietl</Subsector>
+    <Subsector Index="K">Tlipliaaz</Subsector>
+    <Subsector Index="L">Stianzshiadkriebl</Subsector>
+    <Subsector Index="M">Zdevliei</Subsector>
+    <Subsector Index="N">Nidrfrinchflevr</Subsector>
+    <Subsector Index="O">Jdedshiaplbrash</Subsector>
+    <Subsector Index="P">Feprnzhadledl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

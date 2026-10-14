@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ziansliflvred</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-71</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Iezapr</Subsector>
+    <Subsector Index="B">Qrielie</Subsector>
+    <Subsector Index="C">Netsza</Subsector>
+    <Subsector Index="D">Liazha</Subsector>
+    <Subsector Index="E">Edkrensh</Subsector>
+    <Subsector Index="F">Shaflimtsadl</Subsector>
+    <Subsector Index="G">Prea</Subsector>
+    <Subsector Index="H">Iezhjats</Subsector>
+    <Subsector Index="I">Ieznzhiaf</Subsector>
+    <Subsector Index="J">Stiedreqroj</Subsector>
+    <Subsector Index="K">Iaatl</Subsector>
+    <Subsector Index="L">Zejanjiavl</Subsector>
+    <Subsector Index="M">Tsavlar</Subsector>
+    <Subsector Index="N">Aznchianch</Subsector>
+    <Subsector Index="O">Oshievr</Subsector>
+    <Subsector Index="P">Nzieqrzi</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

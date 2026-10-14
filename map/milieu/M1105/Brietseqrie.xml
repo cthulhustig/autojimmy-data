@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Brietseqrie</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-146</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhinchienchfa</Subsector>
+    <Subsector Index="B">Krerabepl</Subsector>
+    <Subsector Index="C">Adlkofl</Subsector>
+    <Subsector Index="D">Kiefreiabr</Subsector>
+    <Subsector Index="E">Savbloflbria</Subsector>
+    <Subsector Index="F">Nshieevr</Subsector>
+    <Subsector Index="G">Oi</Subsector>
+    <Subsector Index="H">Fintdiezhflo</Subsector>
+    <Subsector Index="I">Chteqrtenzhenj</Subsector>
+    <Subsector Index="J">Frivrmiavrriev</Subsector>
+    <Subsector Index="K">Fevreienzh</Subsector>
+    <Subsector Index="L">Zdaliao</Subsector>
+    <Subsector Index="M">Chonjncha</Subsector>
+    <Subsector Index="N">Jiaadl</Subsector>
+    <Subsector Index="O">Fieqrflam</Subsector>
+    <Subsector Index="P">Nidzebrfril</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

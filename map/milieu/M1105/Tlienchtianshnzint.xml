@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlienchtianshnzint</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-68</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhdaflzhiejmabr</Subsector>
+    <Subsector Index="B">Nzaplo</Subsector>
+    <Subsector Index="C">Vrieo</Subsector>
+    <Subsector Index="D">Zhienzinsiapl</Subsector>
+    <Subsector Index="E">Bevranchnzhadl</Subsector>
+    <Subsector Index="F">Choztseia</Subsector>
+    <Subsector Index="G">Yifboa</Subsector>
+    <Subsector Index="H">Flafi</Subsector>
+    <Subsector Index="I">Zdiazqrefla</Subsector>
+    <Subsector Index="J">Friadrzie</Subsector>
+    <Subsector Index="K">Jianishofr</Subsector>
+    <Subsector Index="L">Eshchabr</Subsector>
+    <Subsector Index="M">Fiebrlianzhdrap</Subsector>
+    <Subsector Index="N">Veienzh</Subsector>
+    <Subsector Index="O">Chienchbledat</Subsector>
+    <Subsector Index="P">Zdalfieshzhiadl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Fretszitse</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-31</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tleplkliazhnziefr</Subsector>
+    <Subsector Index="B">Kronjikrvrizh</Subsector>
+    <Subsector Index="C">Tliezhepret</Subsector>
+    <Subsector Index="D">Jieprfotsazh</Subsector>
+    <Subsector Index="E">Prifrvaz</Subsector>
+    <Subsector Index="F">Dleflplidrie</Subsector>
+    <Subsector Index="G">Ensash</Subsector>
+    <Subsector Index="H">Ients</Subsector>
+    <Subsector Index="I">Nsheprij</Subsector>
+    <Subsector Index="J">Dlontsblashtsiapl</Subsector>
+    <Subsector Index="K">Iadlbriafr</Subsector>
+    <Subsector Index="L">Sienjnzhapla</Subsector>
+    <Subsector Index="M">Jdiezienchrakl</Subsector>
+    <Subsector Index="N">Ieza</Subsector>
+    <Subsector Index="O">Sefchensfli</Subsector>
+    <Subsector Index="P">Zhishnsenze</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

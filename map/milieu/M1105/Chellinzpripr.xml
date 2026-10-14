@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chellinzpripr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-104</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Antef</Subsector>
+    <Subsector Index="B">Shteriefripl</Subsector>
+    <Subsector Index="C">Siatsize</Subsector>
+    <Subsector Index="D">Deflnjiltsa</Subsector>
+    <Subsector Index="E">Zhdeltsadlia</Subsector>
+    <Subsector Index="F">Ipriezh</Subsector>
+    <Subsector Index="G">Zhidrfor</Subsector>
+    <Subsector Index="H">Raflansapl</Subsector>
+    <Subsector Index="I">Nzhiaklits</Subsector>
+    <Subsector Index="J">Enziafl</Subsector>
+    <Subsector Index="K">Tladevienj</Subsector>
+    <Subsector Index="L">Flinshshiechnzha</Subsector>
+    <Subsector Index="M">Relem</Subsector>
+    <Subsector Index="N">Tleliee</Subsector>
+    <Subsector Index="O">Krenshkentsntsat</Subsector>
+    <Subsector Index="P">Leqrem</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

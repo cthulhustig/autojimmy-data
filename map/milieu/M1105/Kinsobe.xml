@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kinsobe</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-159</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tibredipl</Subsector>
+    <Subsector Index="B">Bizshevlshe</Subsector>
+    <Subsector Index="C">Ianzhab</Subsector>
+    <Subsector Index="D">Vriashtledriefr</Subsector>
+    <Subsector Index="E">Qliantsientsabr</Subsector>
+    <Subsector Index="F">Nchiadlbriens</Subsector>
+    <Subsector Index="G">Vrivleplko</Subsector>
+    <Subsector Index="H">Iaaf</Subsector>
+    <Subsector Index="I">Chiejflivrfiez</Subsector>
+    <Subsector Index="J">Eflja</Subsector>
+    <Subsector Index="K">Zdidlevlivr</Subsector>
+    <Subsector Index="L">Driensnchontsa</Subsector>
+    <Subsector Index="M">Ajiafr</Subsector>
+    <Subsector Index="N">Aflzhiapl</Subsector>
+    <Subsector Index="O">Nchiefe</Subsector>
+    <Subsector Index="P">Zianse</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

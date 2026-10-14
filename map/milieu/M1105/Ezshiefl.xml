@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ezshiefl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-166</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Aprash</Subsector>
+    <Subsector Index="B">Kravbliedlinz</Subsector>
+    <Subsector Index="C">Jatschiebla</Subsector>
+    <Subsector Index="D">Klaial</Subsector>
+    <Subsector Index="E">Drivrlietsiash</Subsector>
+    <Subsector Index="F">Daprntsiakrflans</Subsector>
+    <Subsector Index="G">Zia'nzavlzia</Subsector>
+    <Subsector Index="H">Zhiadldloklepr</Subsector>
+    <Subsector Index="I">Drae</Subsector>
+    <Subsector Index="J">Tlizlanshie</Subsector>
+    <Subsector Index="K">Tliqrnchenzhiel</Subsector>
+    <Subsector Index="L">Cheriaziazh</Subsector>
+    <Subsector Index="M">Dronzntsiei</Subsector>
+    <Subsector Index="N">Klabrechia'</Subsector>
+    <Subsector Index="O">Bleroziad</Subsector>
+    <Subsector Index="P">Zhdofrblancho</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

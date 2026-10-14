@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dinsvianchivr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-173</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tleshiinch</Subsector>
+    <Subsector Index="B">Nzanchchiepr</Subsector>
+    <Subsector Index="C">Shteklfeblie</Subsector>
+    <Subsector Index="D">Zhanchvriaeqr</Subsector>
+    <Subsector Index="E">Zialikl</Subsector>
+    <Subsector Index="F">Edlqre</Subsector>
+    <Subsector Index="G">Zhdedlnzhidlefr</Subsector>
+    <Subsector Index="H">Binznchialatl</Subsector>
+    <Subsector Index="I">Leflov</Subsector>
+    <Subsector Index="J">Kiezjefkle</Subsector>
+    <Subsector Index="K">Aliazh</Subsector>
+    <Subsector Index="L">Zhofrblevshinch</Subsector>
+    <Subsector Index="M">Iainch</Subsector>
+    <Subsector Index="N">Blolfa</Subsector>
+    <Subsector Index="O">Zhanzieprplek</Subsector>
+    <Subsector Index="P">Flieshvlancha</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Lsd3">
+  <Name Source="Voidshore">LSD Transition Four</Name>
+  <Credits />
+  <X>-17</X>
+  <Y>11</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

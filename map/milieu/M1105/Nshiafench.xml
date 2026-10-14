@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nshiafench</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-94</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ranteblladl</Subsector>
+    <Subsector Index="B">Zhiariaaz</Subsector>
+    <Subsector Index="C">Ieia</Subsector>
+    <Subsector Index="D">Etlber</Subsector>
+    <Subsector Index="E">Keblzhibljots</Subsector>
+    <Subsector Index="F">Ntsialo</Subsector>
+    <Subsector Index="G">Chojiaaz</Subsector>
+    <Subsector Index="H">Iazia</Subsector>
+    <Subsector Index="I">Stidlbrio</Subsector>
+    <Subsector Index="J">Iezhnjish</Subsector>
+    <Subsector Index="K">Alam</Subsector>
+    <Subsector Index="L">Ziplnzafi</Subsector>
+    <Subsector Index="M">Sochvrielkidl</Subsector>
+    <Subsector Index="N">Brelnzefapl</Subsector>
+    <Subsector Index="O">Ebrir</Subsector>
+    <Subsector Index="P">Kieprfivanz</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

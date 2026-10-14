@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ashtsed</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-143</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Eli</Subsector>
+    <Subsector Index="B">Frea</Subsector>
+    <Subsector Index="C">Nsifrbrezh</Subsector>
+    <Subsector Index="D">Ielenzh</Subsector>
+    <Subsector Index="E">Flavchetse</Subsector>
+    <Subsector Index="F">Ishfradl</Subsector>
+    <Subsector Index="G">Ianchtsi</Subsector>
+    <Subsector Index="H">Onszha</Subsector>
+    <Subsector Index="I">Klafrji</Subsector>
+    <Subsector Index="J">Chenje'ia</Subsector>
+    <Subsector Index="K">Biefevlia</Subsector>
+    <Subsector Index="L">Evre</Subsector>
+    <Subsector Index="M">Stitlaoj</Subsector>
+    <Subsector Index="N">Qelpladlo</Subsector>
+    <Subsector Index="O">Shenzhi</Subsector>
+    <Subsector Index="P">Aplma</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

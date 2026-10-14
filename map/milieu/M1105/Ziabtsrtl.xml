@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ziabtsrtl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-23</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Jibre</Subsector>
+    <Subsector Index="B">Niezevratl</Subsector>
+    <Subsector Index="C">Avzhezh</Subsector>
+    <Subsector Index="D">Katliabrkref</Subsector>
+    <Subsector Index="E">Jenzhalinzh</Subsector>
+    <Subsector Index="F">Sieshia</Subsector>
+    <Subsector Index="G">Blatsqreobl</Subsector>
+    <Subsector Index="H">Dleklitsbrivl</Subsector>
+    <Subsector Index="I">Flizveia</Subsector>
+    <Subsector Index="J">Yiazhzhoshit</Subsector>
+    <Subsector Index="K">Ika</Subsector>
+    <Subsector Index="L">Tenzhtsedliepr</Subsector>
+    <Subsector Index="M">Anchzi</Subsector>
+    <Subsector Index="N">Iflo</Subsector>
+    <Subsector Index="O">Njiekllenj</Subsector>
+    <Subsector Index="P">Dinjiaqr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

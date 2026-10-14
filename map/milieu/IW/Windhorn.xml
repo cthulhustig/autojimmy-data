@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Wind">
+  <Name>Windhorn</Name>
+  <Name Lang="va">Gotzdzo</Name>
+  <Name Lang="vi">Kishadikhu</Name>
+  <Credits />
+  <X>-1</X>
+  <Y>-2</Y>
+  <DataFile Milieu="IW" />
+  <Subsectors />
+  <Allegiances>
+    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="ZS">Ziru Sirka</Allegiance>
+  </Allegiances>
+  <Borders>
+    <Border Color="Red" Allegiance="ZS" LabelPosition="1735">0137 0236 0336 0436 0537 0636 0736 0835 0936 1035 1034 1135 1234 1335 1435 1536 1635 1634 1633 1632 1631 1731 1730 1830 1931 2031 2132 2231 2331 2430 2530 2629 2630 2731 2831 2931 3030 3131 3230 3330 3331 3332 3333 3334 3335 3336 3337 3338 3339 3340 3341 3241 3141 3041 2941 2841 2741 2641 2541 2441 2341 2241 2141 2041 1941 1841 1741 1641 1541 1441 1341 1241 1141 1041 0941 0841 0741 0641 0541 0441 0341 0241 0141 0041 0040 0039 0038 0138 0137</Border>
+    <Border Color="Red" Allegiance="ZS" LabelPosition="3224">3023 3123 3122 3222 3323 3324 3224 3124 3125 3124 3123 3023</Border>
+  </Borders>
+</Sector>

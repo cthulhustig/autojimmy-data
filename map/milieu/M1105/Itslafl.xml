@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Itslafl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-103</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Flizble</Subsector>
+    <Subsector Index="B">Nevlenzbiapr</Subsector>
+    <Subsector Index="C">Shantnshizh</Subsector>
+    <Subsector Index="D">Dlanjiaprants</Subsector>
+    <Subsector Index="E">Zdoddlabrab</Subsector>
+    <Subsector Index="F">Afesh</Subsector>
+    <Subsector Index="G">Dlrbre</Subsector>
+    <Subsector Index="H">Nchidlieqr</Subsector>
+    <Subsector Index="I">Ofievr</Subsector>
+    <Subsector Index="J">Shiziekrinzh</Subsector>
+    <Subsector Index="K">Nzeel</Subsector>
+    <Subsector Index="L">Briezhienzh</Subsector>
+    <Subsector Index="M">Etse</Subsector>
+    <Subsector Index="N">Ienjzhie</Subsector>
+    <Subsector Index="O">Ieints</Subsector>
+    <Subsector Index="P">Pralensh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

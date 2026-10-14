@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Obrie</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-96</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Bedlfezhchikr</Subsector>
+    <Subsector Index="B">Vabltlanzhbre</Subsector>
+    <Subsector Index="C">Dliaznshieshnjepl</Subsector>
+    <Subsector Index="D">Zhiechqrizhie</Subsector>
+    <Subsector Index="E">Eziekl</Subsector>
+    <Subsector Index="F">Flevrnsiaztsipr</Subsector>
+    <Subsector Index="G">Cheinsh</Subsector>
+    <Subsector Index="H">Flieip</Subsector>
+    <Subsector Index="I">Rietblepra</Subsector>
+    <Subsector Index="J">Jdientszhitpliel</Subsector>
+    <Subsector Index="K">Nevlaeb</Subsector>
+    <Subsector Index="L">Prazezh</Subsector>
+    <Subsector Index="M">Zditlleie</Subsector>
+    <Subsector Index="N">Ietsakr</Subsector>
+    <Subsector Index="O">Chenchbriabrant</Subsector>
+    <Subsector Index="P">Bafitlav</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Anshe</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-146</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chedlkribl</Subsector>
+    <Subsector Index="B">Zhichienchia</Subsector>
+    <Subsector Index="C">Stezchakli</Subsector>
+    <Subsector Index="D">Shieiaf</Subsector>
+    <Subsector Index="E">Adlavl</Subsector>
+    <Subsector Index="F">Iansech</Subsector>
+    <Subsector Index="G">Zaflpri</Subsector>
+    <Subsector Index="H">Chtenjfenztsif</Subsector>
+    <Subsector Index="I">Pliantsjitafl</Subsector>
+    <Subsector Index="J">Laplklins</Subsector>
+    <Subsector Index="K">Zherovjabl</Subsector>
+    <Subsector Index="L">Mobloncha</Subsector>
+    <Subsector Index="M">Stavriee</Subsector>
+    <Subsector Index="N">Iapre</Subsector>
+    <Subsector Index="O">Shenzhebrfle</Subsector>
+    <Subsector Index="P">Tsanzplenjib</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlonzhabriej</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-111</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zaffavrnchez</Subsector>
+    <Subsector Index="B">Iachfi</Subsector>
+    <Subsector Index="C">Antsiens</Subsector>
+    <Subsector Index="D">Chovshedlbla</Subsector>
+    <Subsector Index="E">Tlie</Subsector>
+    <Subsector Index="F">Liezhe</Subsector>
+    <Subsector Index="G">Tlienshipldlia</Subsector>
+    <Subsector Index="H">Idlplepr</Subsector>
+    <Subsector Index="I">Chtezhiantsiedl</Subsector>
+    <Subsector Index="J">Siabrredla</Subsector>
+    <Subsector Index="K">Nzievlnzo</Subsector>
+    <Subsector Index="L">Japrjins</Subsector>
+    <Subsector Index="M">Fientsdlalbriefl</Subsector>
+    <Subsector Index="N">Iatnzhiabl</Subsector>
+    <Subsector Index="O">Dejqrianjtsens</Subsector>
+    <Subsector Index="P">Ienti</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

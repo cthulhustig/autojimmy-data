@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Friazhiacho</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-32</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Blanchnshiie</Subsector>
+    <Subsector Index="B">Vrefrafl</Subsector>
+    <Subsector Index="C">Patsenjanzh</Subsector>
+    <Subsector Index="D">Iabe</Subsector>
+    <Subsector Index="E">Oiavr</Subsector>
+    <Subsector Index="F">Vanz'efr</Subsector>
+    <Subsector Index="G">Ila</Subsector>
+    <Subsector Index="H">Flablviapo</Subsector>
+    <Subsector Index="I">Ieflplish</Subsector>
+    <Subsector Index="J">Odltsiaz</Subsector>
+    <Subsector Index="K">Naklia</Subsector>
+    <Subsector Index="L">Krevpa</Subsector>
+    <Subsector Index="M">Dramiavr</Subsector>
+    <Subsector Index="N">Stekblepljebr</Subsector>
+    <Subsector Index="O">Plaie</Subsector>
+    <Subsector Index="P">Nchiedlshensh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

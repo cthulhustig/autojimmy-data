@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Oti</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-38</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Qliazfiete</Subsector>
+    <Subsector Index="B">Zeqrfrentsa</Subsector>
+    <Subsector Index="C">Zhivrdlianchtsinz</Subsector>
+    <Subsector Index="D">Enchdliats</Subsector>
+    <Subsector Index="E">Plarshatso</Subsector>
+    <Subsector Index="F">Izet</Subsector>
+    <Subsector Index="G">Friajiaets</Subsector>
+    <Subsector Index="H">Kechbrinsobl</Subsector>
+    <Subsector Index="I">Planiflanzh</Subsector>
+    <Subsector Index="J">Drabrbliefro</Subsector>
+    <Subsector Index="K">Zhoabr</Subsector>
+    <Subsector Index="L">Qrianznzhanzh</Subsector>
+    <Subsector Index="M">Stenjnsheanzh</Subsector>
+    <Subsector Index="N">Anchplevr</Subsector>
+    <Subsector Index="O">Fechnzianz</Subsector>
+    <Subsector Index="P">Insflosh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

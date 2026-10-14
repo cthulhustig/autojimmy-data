@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Arms">
+  <Name Source="Rim Expeditions">Armstrong</Name>
+  <Credits />
+  <X>-2</X>
+  <Y>11</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

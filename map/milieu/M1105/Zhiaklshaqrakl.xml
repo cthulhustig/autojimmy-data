@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhiaklshaqrakl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-90</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chtablbriatiansh</Subsector>
+    <Subsector Index="B">Privrontnchia</Subsector>
+    <Subsector Index="C">Iefbrints</Subsector>
+    <Subsector Index="D">Zdiatlnzhienchietl</Subsector>
+    <Subsector Index="E">Razhnsepro</Subsector>
+    <Subsector Index="F">Friantsiaz</Subsector>
+    <Subsector Index="G">Neblao</Subsector>
+    <Subsector Index="H">Brafrtsafrianj</Subsector>
+    <Subsector Index="I">Ienjblij</Subsector>
+    <Subsector Index="J">Zhofzhanje</Subsector>
+    <Subsector Index="K">Toqrenzhnzafl</Subsector>
+    <Subsector Index="L">Fliabrezebl</Subsector>
+    <Subsector Index="M">Nansqrekrabl</Subsector>
+    <Subsector Index="N">Obrdlik</Subsector>
+    <Subsector Index="O">Onsits</Subsector>
+    <Subsector Index="P">Dliafianch</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

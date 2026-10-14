@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Hara">
+  <Name Source="The Far Side of Nowhere">Harappa</Name>
+  <Credits />
+  <X>-20</X>
+  <Y>7</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

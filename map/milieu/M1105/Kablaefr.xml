@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kablaefr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-71</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kizachodr</Subsector>
+    <Subsector Index="B">Ianzntianch</Subsector>
+    <Subsector Index="C">Aprevl</Subsector>
+    <Subsector Index="D">Piezinjiaj</Subsector>
+    <Subsector Index="E">Nzhienjntsabl</Subsector>
+    <Subsector Index="F">Anjonts</Subsector>
+    <Subsector Index="G">Brenchiabr</Subsector>
+    <Subsector Index="H">Zenznzinchmi</Subsector>
+    <Subsector Index="I">Tinzhzhedlbraf</Subsector>
+    <Subsector Index="J">Nadlez</Subsector>
+    <Subsector Index="K">Zhefriatlnchedr</Subsector>
+    <Subsector Index="L">Brenzbraadl</Subsector>
+    <Subsector Index="M">Qlachion</Subsector>
+    <Subsector Index="N">Chiabnchavl</Subsector>
+    <Subsector Index="O">Dlidrfliefdia</Subsector>
+    <Subsector Index="P">Frernjoflntsazh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

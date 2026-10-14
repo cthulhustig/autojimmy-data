@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dlivliashzavr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-59</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dibrbliashe</Subsector>
+    <Subsector Index="B">Eshanch</Subsector>
+    <Subsector Index="C">Nsevrrnch</Subsector>
+    <Subsector Index="D">Nshrfrbranch</Subsector>
+    <Subsector Index="E">Plishianntsia</Subsector>
+    <Subsector Index="F">Denjnchejiaqr</Subsector>
+    <Subsector Index="G">Chafrbroprdiek</Subsector>
+    <Subsector Index="H">Vredlil</Subsector>
+    <Subsector Index="I">Vretsia</Subsector>
+    <Subsector Index="J">Tsabrierbrats</Subsector>
+    <Subsector Index="K">Zhozeia</Subsector>
+    <Subsector Index="L">Nsepie</Subsector>
+    <Subsector Index="M">Eji</Subsector>
+    <Subsector Index="N">Zenjeshrak</Subsector>
+    <Subsector Index="O">Qriblnzhansbrianch</Subsector>
+    <Subsector Index="P">Stiaflizha</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

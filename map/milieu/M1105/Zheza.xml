@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zheza</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-41</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tsefljedefr</Subsector>
+    <Subsector Index="B">Fentanzhanzh</Subsector>
+    <Subsector Index="C">Zhishiz</Subsector>
+    <Subsector Index="D">Vrebrachia</Subsector>
+    <Subsector Index="E">Stiepriabla</Subsector>
+    <Subsector Index="F">Bapnsieklshinj</Subsector>
+    <Subsector Index="G">Ashafl</Subsector>
+    <Subsector Index="H">Apinch</Subsector>
+    <Subsector Index="I">Blilflieddlal</Subsector>
+    <Subsector Index="J">Frienzvieplzo</Subsector>
+    <Subsector Index="K">Jdazhaplish</Subsector>
+    <Subsector Index="L">Tlinjnshatstiapl</Subsector>
+    <Subsector Index="M">Rachriliash</Subsector>
+    <Subsector Index="N">Efrqrit</Subsector>
+    <Subsector Index="O">Ofrapl</Subsector>
+    <Subsector Index="P">Ontsinj</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

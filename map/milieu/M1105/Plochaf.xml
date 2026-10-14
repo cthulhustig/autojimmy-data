@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Plochaf</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-153</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Shelens</Subsector>
+    <Subsector Index="B">Branzha</Subsector>
+    <Subsector Index="C">Tsanjbrezhash</Subsector>
+    <Subsector Index="D">Nantsiblklo</Subsector>
+    <Subsector Index="E">Jernjiee</Subsector>
+    <Subsector Index="F">Shinzhtsiapish</Subsector>
+    <Subsector Index="G">Dlizbiatlans</Subsector>
+    <Subsector Index="H">Zhifraprients</Subsector>
+    <Subsector Index="I">Zdiebrblefle</Subsector>
+    <Subsector Index="J">Iezvlia</Subsector>
+    <Subsector Index="K">Prabreliel</Subsector>
+    <Subsector Index="L">Frazziprne</Subsector>
+    <Subsector Index="M">Dejia</Subsector>
+    <Subsector Index="N">Jijdieie</Subsector>
+    <Subsector Index="O">Kledashevl</Subsector>
+    <Subsector Index="P">Dransqronchnshia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

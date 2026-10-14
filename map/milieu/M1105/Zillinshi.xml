@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zillinshi</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-94</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Etefl</Subsector>
+    <Subsector Index="B">Protpreazh</Subsector>
+    <Subsector Index="C">Blanziapl</Subsector>
+    <Subsector Index="D">Fritsrentofl</Subsector>
+    <Subsector Index="E">Dlashnzenchodl</Subsector>
+    <Subsector Index="F">Mazriafiash</Subsector>
+    <Subsector Index="G">Dlifrteblnzhie</Subsector>
+    <Subsector Index="H">Drebapla</Subsector>
+    <Subsector Index="I">Iensbrins</Subsector>
+    <Subsector Index="J">Stikldlaznto</Subsector>
+    <Subsector Index="K">Ziantdrezi</Subsector>
+    <Subsector Index="L">Iajens</Subsector>
+    <Subsector Index="M">Ianjetl</Subsector>
+    <Subsector Index="N">Ranzatsia</Subsector>
+    <Subsector Index="O">Dlonsheia</Subsector>
+    <Subsector Index="P">Dlidlzhiapriabr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

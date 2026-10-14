@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kablfratinch</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-47</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdeflvatsdeqr</Subsector>
+    <Subsector Index="B">Shtiejnchipliedl</Subsector>
+    <Subsector Index="C">Pliapla</Subsector>
+    <Subsector Index="D">Enzhil</Subsector>
+    <Subsector Index="E">Zeplak</Subsector>
+    <Subsector Index="F">Plidlie</Subsector>
+    <Subsector Index="G">Nshieshdrievl</Subsector>
+    <Subsector Index="H">Fenzhpleblplavl</Subsector>
+    <Subsector Index="I">Rejint</Subsector>
+    <Subsector Index="J">Idzhia</Subsector>
+    <Subsector Index="K">Klekliavr</Subsector>
+    <Subsector Index="L">Zezits</Subsector>
+    <Subsector Index="M">Echifl</Subsector>
+    <Subsector Index="N">Baklaze</Subsector>
+    <Subsector Index="O">Tlanzebrebr</Subsector>
+    <Subsector Index="P">Dlavriatlens</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

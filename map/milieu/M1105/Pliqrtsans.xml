@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Pliqrtsans</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-164</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kiafrchiezi</Subsector>
+    <Subsector Index="B">Senzhelncho</Subsector>
+    <Subsector Index="C">Kleplplael</Subsector>
+    <Subsector Index="D">Tlelnzhipljets</Subsector>
+    <Subsector Index="E">Dishiaie</Subsector>
+    <Subsector Index="F">Temshie</Subsector>
+    <Subsector Index="G">Idi</Subsector>
+    <Subsector Index="H">Flinjietsbrianch</Subsector>
+    <Subsector Index="I">Nafnchil</Subsector>
+    <Subsector Index="J">Nzanshel</Subsector>
+    <Subsector Index="K">Zeblo</Subsector>
+    <Subsector Index="L">Zdiefrfiazzie</Subsector>
+    <Subsector Index="M">Nshelo</Subsector>
+    <Subsector Index="N">Pleze</Subsector>
+    <Subsector Index="O">Chizbratskravr</Subsector>
+    <Subsector Index="P">Pinchlins</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

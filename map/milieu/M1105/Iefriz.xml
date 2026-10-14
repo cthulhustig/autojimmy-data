@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iefriz</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-116</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhinche</Subsector>
+    <Subsector Index="B">Dlienshchibrpiem</Subsector>
+    <Subsector Index="C">Shiqrdizaf</Subsector>
+    <Subsector Index="D">Nshentikl</Subsector>
+    <Subsector Index="E">Iklia</Subsector>
+    <Subsector Index="F">Kenvreze</Subsector>
+    <Subsector Index="G">Friblqrifnzoz</Subsector>
+    <Subsector Index="H">Tsienzia</Subsector>
+    <Subsector Index="I">Chivrnsojdria</Subsector>
+    <Subsector Index="J">Dlienjappronts</Subsector>
+    <Subsector Index="K">Etrav</Subsector>
+    <Subsector Index="L">Reshrinznzant</Subsector>
+    <Subsector Index="M">Chtiabnzhea</Subsector>
+    <Subsector Index="N">Fienchntinch</Subsector>
+    <Subsector Index="O">Plenchplef</Subsector>
+    <Subsector Index="P">Zechfrenjzovr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zieltsanstsa</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-126</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Vianchobrbrianch</Subsector>
+    <Subsector Index="B">Ashbra</Subsector>
+    <Subsector Index="C">Dliatsiel</Subsector>
+    <Subsector Index="D">Iema</Subsector>
+    <Subsector Index="E">Chizet</Subsector>
+    <Subsector Index="F">Qleblchiezhikl</Subsector>
+    <Subsector Index="G">Zdabrvliensia</Subsector>
+    <Subsector Index="H">Zhei</Subsector>
+    <Subsector Index="I">Klefkonzhntsifl</Subsector>
+    <Subsector Index="J">Chevshiekchiar</Subsector>
+    <Subsector Index="K">Kliabrprozhnchej</Subsector>
+    <Subsector Index="L">Zhiansbriachid</Subsector>
+    <Subsector Index="M">Kreots</Subsector>
+    <Subsector Index="N">Ieins</Subsector>
+    <Subsector Index="O">Siabrdliedle</Subsector>
+    <Subsector Index="P">Zdatlblazazh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

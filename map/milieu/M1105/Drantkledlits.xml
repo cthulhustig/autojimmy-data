@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Drantkledlits</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-67</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zamnshei</Subsector>
+    <Subsector Index="B">Klilvrensh</Subsector>
+    <Subsector Index="C">Branshia</Subsector>
+    <Subsector Index="D">Nzieshie</Subsector>
+    <Subsector Index="E">Qlatklieklpe</Subsector>
+    <Subsector Index="F">Zhdaflzidlnzha</Subsector>
+    <Subsector Index="G">Tsaplkrienchiebl</Subsector>
+    <Subsector Index="H">Qrienzaebl</Subsector>
+    <Subsector Index="I">Shinchplelenzh</Subsector>
+    <Subsector Index="J">Bretscheflchadr</Subsector>
+    <Subsector Index="K">Fetsbliavlavr</Subsector>
+    <Subsector Index="L">Draprshidie</Subsector>
+    <Subsector Index="M">Tiazho</Subsector>
+    <Subsector Index="N">Tliezhdlinsa</Subsector>
+    <Subsector Index="O">Probldlere</Subsector>
+    <Subsector Index="P">Dienchnsetl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Siavvreziaqr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-17</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ieninch</Subsector>
+    <Subsector Index="B">Zdelefldlish</Subsector>
+    <Subsector Index="C">Zhezhivretl</Subsector>
+    <Subsector Index="D">Mashnchel</Subsector>
+    <Subsector Index="E">Chedlizklie</Subsector>
+    <Subsector Index="F">Qriapribrfriedl</Subsector>
+    <Subsector Index="G">Blinchaqrfabl</Subsector>
+    <Subsector Index="H">Pleshntsaplnzhabr</Subsector>
+    <Subsector Index="I">Fripleianzh</Subsector>
+    <Subsector Index="J">Zdinjfrivlntents</Subsector>
+    <Subsector Index="K">Evraj</Subsector>
+    <Subsector Index="L">Riapia</Subsector>
+    <Subsector Index="M">Zdenziefnie</Subsector>
+    <Subsector Index="N">Draflbrabof</Subsector>
+    <Subsector Index="O">Qrieradr</Subsector>
+    <Subsector Index="P">Stietlzoviap</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

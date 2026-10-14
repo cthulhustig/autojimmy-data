@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ashir</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-136</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Jdakidez</Subsector>
+    <Subsector Index="B">Cherialnshia</Subsector>
+    <Subsector Index="C">Panchkle</Subsector>
+    <Subsector Index="D">Dleqrape</Subsector>
+    <Subsector Index="E">Lietlnshiaqr</Subsector>
+    <Subsector Index="F">Qrilpresh</Subsector>
+    <Subsector Index="G">Rafrfia</Subsector>
+    <Subsector Index="H">Rtstlefl</Subsector>
+    <Subsector Index="I">Iara</Subsector>
+    <Subsector Index="J">Vakltlinchiz</Subsector>
+    <Subsector Index="K">Ridlnsafnzhabr</Subsector>
+    <Subsector Index="L">Na'iazia</Subsector>
+    <Subsector Index="M">Qiefvredldier</Subsector>
+    <Subsector Index="N">Nievtsiarian</Subsector>
+    <Subsector Index="O">Flonchtsoplazh</Subsector>
+    <Subsector Index="P">Tsadklo</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

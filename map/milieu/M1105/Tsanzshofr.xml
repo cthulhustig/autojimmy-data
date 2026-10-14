@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tsanzshofr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-144</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Niklplizhesh</Subsector>
+    <Subsector Index="B">Dlabrblapr</Subsector>
+    <Subsector Index="C">Ienzhe</Subsector>
+    <Subsector Index="D">Ibltlepl</Subsector>
+    <Subsector Index="E">Nienshplieflzach</Subsector>
+    <Subsector Index="F">Pliazhevanch</Subsector>
+    <Subsector Index="G">Ontsant</Subsector>
+    <Subsector Index="H">Shiafriednjiash</Subsector>
+    <Subsector Index="I">Sebrliashnzia</Subsector>
+    <Subsector Index="J">Io</Subsector>
+    <Subsector Index="K">Aial</Subsector>
+    <Subsector Index="L">Tladlvrenzef</Subsector>
+    <Subsector Index="M">Aetl</Subsector>
+    <Subsector Index="N">Nenstsatsre</Subsector>
+    <Subsector Index="O">Zhdovnetsiep</Subsector>
+    <Subsector Index="P">Flienche</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

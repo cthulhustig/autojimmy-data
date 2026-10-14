@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Pladreot</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-20</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chtilavrfladr</Subsector>
+    <Subsector Index="B">Yiantslrnsia</Subsector>
+    <Subsector Index="C">Adrnshokl</Subsector>
+    <Subsector Index="D">Zderiapliz</Subsector>
+    <Subsector Index="E">Droplrblifr</Subsector>
+    <Subsector Index="F">Azhpliapl</Subsector>
+    <Subsector Index="G">Dlokrnzolnchinz</Subsector>
+    <Subsector Index="H">Ienja</Subsector>
+    <Subsector Index="I">Shetia</Subsector>
+    <Subsector Index="J">Vrivrcheqria</Subsector>
+    <Subsector Index="K">Sianzhfedlits</Subsector>
+    <Subsector Index="L">Stinjpliar</Subsector>
+    <Subsector Index="M">Bree</Subsector>
+    <Subsector Index="N">Iti</Subsector>
+    <Subsector Index="O">Fliabrtsien</Subsector>
+    <Subsector Index="P">Nchenshvlots</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

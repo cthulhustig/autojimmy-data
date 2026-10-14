@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Rcx7">
+  <Name Source="Rim Expeditions">RC+5+2</Name>
+  <Credits />
+  <X>0</X>
+  <Y>15</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

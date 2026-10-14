@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Bredlozhtso</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-48</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Lezzez</Subsector>
+    <Subsector Index="B">Tlajrianchshats</Subsector>
+    <Subsector Index="C">Sientiaem</Subsector>
+    <Subsector Index="D">Jidlplish</Subsector>
+    <Subsector Index="E">Chintszo</Subsector>
+    <Subsector Index="F">Qlanjiie</Subsector>
+    <Subsector Index="G">Dliepltavra</Subsector>
+    <Subsector Index="H">Ntsientsqriezh</Subsector>
+    <Subsector Index="I">Abranzh</Subsector>
+    <Subsector Index="J">Brishi</Subsector>
+    <Subsector Index="K">Iajienzh</Subsector>
+    <Subsector Index="L">Radlinchavl</Subsector>
+    <Subsector Index="M">Chtiatsebriatl</Subsector>
+    <Subsector Index="N">Aqrvian</Subsector>
+    <Subsector Index="O">Nazhalzhi</Subsector>
+    <Subsector Index="P">Kliazbrie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

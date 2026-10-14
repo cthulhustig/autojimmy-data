@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Apliej</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-165</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdiedrflerzod</Subsector>
+    <Subsector Index="B">Iench'al</Subsector>
+    <Subsector Index="C">Saveenz</Subsector>
+    <Subsector Index="D">Zadlnchefriebl</Subsector>
+    <Subsector Index="E">Dleqrzizzia</Subsector>
+    <Subsector Index="F">Klazhkliee</Subsector>
+    <Subsector Index="G">Qiashziavlzhakl</Subsector>
+    <Subsector Index="H">Kriazzhetskiabr</Subsector>
+    <Subsector Index="I">Njietsrekl</Subsector>
+    <Subsector Index="J">Prenzhie</Subsector>
+    <Subsector Index="K">Iezhdans</Subsector>
+    <Subsector Index="L">Brianche</Subsector>
+    <Subsector Index="M">Stazienzhiqr</Subsector>
+    <Subsector Index="N">Diekrfriza</Subsector>
+    <Subsector Index="O">Ekri</Subsector>
+    <Subsector Index="P">Idlia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

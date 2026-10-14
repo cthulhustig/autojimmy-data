@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ebir</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-128</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Sentshotenz</Subsector>
+    <Subsector Index="B">Zhdebldleplo</Subsector>
+    <Subsector Index="C">Nchaprdle</Subsector>
+    <Subsector Index="D">Shtaplbliia</Subsector>
+    <Subsector Index="E">Riablshi</Subsector>
+    <Subsector Index="F">Nchieprinch</Subsector>
+    <Subsector Index="G">Tsodlich</Subsector>
+    <Subsector Index="H">Bleflavrbrz</Subsector>
+    <Subsector Index="I">Zhiatsfaants</Subsector>
+    <Subsector Index="J">Qlezkliavra</Subsector>
+    <Subsector Index="K">Tseva</Subsector>
+    <Subsector Index="L">Rvrians</Subsector>
+    <Subsector Index="M">Klanjblet</Subsector>
+    <Subsector Index="N">Yazhei</Subsector>
+    <Subsector Index="O">Siatflelnshi</Subsector>
+    <Subsector Index="P">Lelial</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

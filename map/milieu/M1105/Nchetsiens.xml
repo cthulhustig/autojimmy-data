@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nchetsiens</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-44</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fedlzhiasha</Subsector>
+    <Subsector Index="B">Nsheple</Subsector>
+    <Subsector Index="C">Jdetlfraiabl</Subsector>
+    <Subsector Index="D">Edrfanzh</Subsector>
+    <Subsector Index="E">Brachabr</Subsector>
+    <Subsector Index="F">Jdajnsieshiench</Subsector>
+    <Subsector Index="G">Tezhblienji</Subsector>
+    <Subsector Index="H">Zazziabriach</Subsector>
+    <Subsector Index="I">Iantsjiedl</Subsector>
+    <Subsector Index="J">Nseplievr</Subsector>
+    <Subsector Index="K">Ansonzh</Subsector>
+    <Subsector Index="L">Dianchanzizh</Subsector>
+    <Subsector Index="M">Ntsevva</Subsector>
+    <Subsector Index="N">Nzenjklobr</Subsector>
+    <Subsector Index="O">Qliafreshe</Subsector>
+    <Subsector Index="P">Tliaach</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

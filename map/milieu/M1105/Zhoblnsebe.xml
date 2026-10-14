@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhoblnsebe</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-101</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Drozhkae</Subsector>
+    <Subsector Index="B">Zatsnshazhple</Subsector>
+    <Subsector Index="C">Oie</Subsector>
+    <Subsector Index="D">Aar</Subsector>
+    <Subsector Index="E">Plinchnshench</Subsector>
+    <Subsector Index="F">Zdekzhipltli</Subsector>
+    <Subsector Index="G">Klentslrf</Subsector>
+    <Subsector Index="H">Tsenchfrinchnzhe</Subsector>
+    <Subsector Index="I">Nshiza</Subsector>
+    <Subsector Index="J">Nanchvlintsa</Subsector>
+    <Subsector Index="K">Lekefr</Subsector>
+    <Subsector Index="L">Bria'tsaia</Subsector>
+    <Subsector Index="M">Taziabliar</Subsector>
+    <Subsector Index="N">Toshiaiabl</Subsector>
+    <Subsector Index="O">Friatlliaplied</Subsector>
+    <Subsector Index="P">Nia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

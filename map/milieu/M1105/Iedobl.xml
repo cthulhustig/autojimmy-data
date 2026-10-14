@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iedobl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-80</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kriechvrenzdon</Subsector>
+    <Subsector Index="B">Tachjozhents</Subsector>
+    <Subsector Index="C">Eiafl</Subsector>
+    <Subsector Index="D">Zdefpriapldej</Subsector>
+    <Subsector Index="E">Jdapliznzhash</Subsector>
+    <Subsector Index="F">Kamovtsanj</Subsector>
+    <Subsector Index="G">Nchejeqr</Subsector>
+    <Subsector Index="H">Adltsezh</Subsector>
+    <Subsector Index="I">Ebrdiatl</Subsector>
+    <Subsector Index="J">Ientsienz</Subsector>
+    <Subsector Index="K">Chtiaqrntsaztsabl</Subsector>
+    <Subsector Index="L">Nzhintsza</Subsector>
+    <Subsector Index="M">Briedltinch</Subsector>
+    <Subsector Index="N">Tlibratsits</Subsector>
+    <Subsector Index="O">Qlinjfejplij</Subsector>
+    <Subsector Index="P">Shozhnekl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

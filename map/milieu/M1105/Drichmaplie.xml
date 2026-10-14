@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Drichmaplie</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-149</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Bliients</Subsector>
+    <Subsector Index="B">Chietsnchatsre</Subsector>
+    <Subsector Index="C">Chenchvraqrzhapl</Subsector>
+    <Subsector Index="D">Ietsqriants</Subsector>
+    <Subsector Index="E">Afrbre</Subsector>
+    <Subsector Index="F">Dozhnseafr</Subsector>
+    <Subsector Index="G">Blifravlchiel</Subsector>
+    <Subsector Index="H">Nashchaprveb</Subsector>
+    <Subsector Index="I">Tsenchepl</Subsector>
+    <Subsector Index="J">Vientanznzi</Subsector>
+    <Subsector Index="K">Nzensnchi</Subsector>
+    <Subsector Index="L">Klamabrnchivl</Subsector>
+    <Subsector Index="M">Dlablzhekrabl</Subsector>
+    <Subsector Index="N">Tlieplenzanch</Subsector>
+    <Subsector Index="O">Zatletlia</Subsector>
+    <Subsector Index="P">Klenzhiatlanzh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

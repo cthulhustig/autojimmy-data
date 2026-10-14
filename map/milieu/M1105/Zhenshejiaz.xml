@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhenshejiaz</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-46</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Oliav</Subsector>
+    <Subsector Index="B">Shenzhiiadr</Subsector>
+    <Subsector Index="C">Qrachnsarizh</Subsector>
+    <Subsector Index="D">Tlebncho</Subsector>
+    <Subsector Index="E">Frekroshdlens</Subsector>
+    <Subsector Index="F">Dloplbidliafl</Subsector>
+    <Subsector Index="G">Aanzh</Subsector>
+    <Subsector Index="H">Mienzhbledlplaj</Subsector>
+    <Subsector Index="I">Iaapl</Subsector>
+    <Subsector Index="J">Brife</Subsector>
+    <Subsector Index="K">Tatzhianchad</Subsector>
+    <Subsector Index="L">Adfrifr</Subsector>
+    <Subsector Index="M">Chtiazhaia</Subsector>
+    <Subsector Index="N">Zhetsiepl</Subsector>
+    <Subsector Index="O">Krishiadlav</Subsector>
+    <Subsector Index="P">Zhazntidnche</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

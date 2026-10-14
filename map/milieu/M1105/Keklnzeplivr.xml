@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Keklnzeplivr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-75</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nsasha</Subsector>
+    <Subsector Index="B">Afrnjiebr</Subsector>
+    <Subsector Index="C">Prierapl</Subsector>
+    <Subsector Index="D">Qrabriev</Subsector>
+    <Subsector Index="E">Shiezhie</Subsector>
+    <Subsector Index="F">Prizkrejients</Subsector>
+    <Subsector Index="G">Stiaznsinsded</Subsector>
+    <Subsector Index="H">Fee</Subsector>
+    <Subsector Index="I">Qiablishiadr</Subsector>
+    <Subsector Index="J">Kizhvree</Subsector>
+    <Subsector Index="K">Tleplianzsher</Subsector>
+    <Subsector Index="L">Bazhfieplzekr</Subsector>
+    <Subsector Index="M">Chtieplzhatsakl</Subsector>
+    <Subsector Index="N">Vianchchaj</Subsector>
+    <Subsector Index="O">Tlietlpliencha</Subsector>
+    <Subsector Index="P">Enchiens</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

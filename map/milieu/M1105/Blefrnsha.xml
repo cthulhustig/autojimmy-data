@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Blefrnsha</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-120</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Azhflents</Subsector>
+    <Subsector Index="B">Shablze</Subsector>
+    <Subsector Index="C">Shtiachoe</Subsector>
+    <Subsector Index="D">Niebiefliaz</Subsector>
+    <Subsector Index="E">Enjenz</Subsector>
+    <Subsector Index="F">Braniea</Subsector>
+    <Subsector Index="G">Plivrapla</Subsector>
+    <Subsector Index="H">Tsenshiaqrblel</Subsector>
+    <Subsector Index="I">Driashadr</Subsector>
+    <Subsector Index="J">Chietscheiekl</Subsector>
+    <Subsector Index="K">Binchzhianshtlezh</Subsector>
+    <Subsector Index="L">Zdenchietse'</Subsector>
+    <Subsector Index="M">Tsifrianti</Subsector>
+    <Subsector Index="N">Chiazeblozh</Subsector>
+    <Subsector Index="O">Bleo</Subsector>
+    <Subsector Index="P">Donsjejpliad</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

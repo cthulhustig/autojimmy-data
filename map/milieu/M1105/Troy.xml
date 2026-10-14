@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Troy">
+  <Name Source="The Far Side of Nowhere">Troy</Name>
+  <Credits />
+  <X>-19</X>
+  <Y>9</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

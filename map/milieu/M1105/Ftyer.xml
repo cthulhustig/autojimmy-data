@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Ftye">
+  <Name Lang="as">Ftyer</Name>
+  <Credits />
+  <X>-4</X>
+  <Y>6</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

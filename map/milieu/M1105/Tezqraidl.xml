@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tezqraidl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-173</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Netle</Subsector>
+    <Subsector Index="B">Chtizazho</Subsector>
+    <Subsector Index="C">Flanchdoedl</Subsector>
+    <Subsector Index="D">Chetsbrablia</Subsector>
+    <Subsector Index="E">Shienstsizhntsaj</Subsector>
+    <Subsector Index="F">Chtalplatsansh</Subsector>
+    <Subsector Index="G">Bolnjavlnzhefr</Subsector>
+    <Subsector Index="H">Zdiebrzapla</Subsector>
+    <Subsector Index="I">Iatet</Subsector>
+    <Subsector Index="J">Bratsifli</Subsector>
+    <Subsector Index="K">Zdanzefiansh</Subsector>
+    <Subsector Index="L">Ezanz</Subsector>
+    <Subsector Index="M">Diafrnjiekrench</Subsector>
+    <Subsector Index="N">Blediedl</Subsector>
+    <Subsector Index="O">Tlebriepiqr</Subsector>
+    <Subsector Index="P">Pianzhbla</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

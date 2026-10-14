@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Qizojens</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-153</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nansafr</Subsector>
+    <Subsector Index="B">Eblplia</Subsector>
+    <Subsector Index="C">Valie</Subsector>
+    <Subsector Index="D">Seshfrieie</Subsector>
+    <Subsector Index="E">Dleshi</Subsector>
+    <Subsector Index="F">Intvepl</Subsector>
+    <Subsector Index="G">Vlonsvliez</Subsector>
+    <Subsector Index="H">Diqrablie</Subsector>
+    <Subsector Index="I">Jdanzhiebla</Subsector>
+    <Subsector Index="J">Mieblflafled</Subsector>
+    <Subsector Index="K">Stiadrnshofltlobr</Subsector>
+    <Subsector Index="L">Qentsieie</Subsector>
+    <Subsector Index="M">Ieshrts</Subsector>
+    <Subsector Index="N">Riish</Subsector>
+    <Subsector Index="O">Ientsa</Subsector>
+    <Subsector Index="P">Ofie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Pietnshievlblaz</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-163</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ziantsi</Subsector>
+    <Subsector Index="B">Zhdiaplietsprap</Subsector>
+    <Subsector Index="C">Odltsivr</Subsector>
+    <Subsector Index="D">Chenzhaplef</Subsector>
+    <Subsector Index="E">Zdiatsviavlkria</Subsector>
+    <Subsector Index="F">Ikldlints</Subsector>
+    <Subsector Index="G">Pielazhie</Subsector>
+    <Subsector Index="H">Dlianzhqrinsad</Subsector>
+    <Subsector Index="I">Zieprie</Subsector>
+    <Subsector Index="J">Lefriel</Subsector>
+    <Subsector Index="K">Chtiatsblei</Subsector>
+    <Subsector Index="L">Salfleble</Subsector>
+    <Subsector Index="M">Keplovr</Subsector>
+    <Subsector Index="N">Fedl'etsevl</Subsector>
+    <Subsector Index="O">Bratkiadliabl</Subsector>
+    <Subsector Index="P">Vetsfiev</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

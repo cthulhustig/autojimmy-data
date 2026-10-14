@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Ori2">
+  <Name Source="Voidshore">Orion's Spit Rimward</Name>
+  <Credits />
+  <X>-20</X>
+  <Y>14</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

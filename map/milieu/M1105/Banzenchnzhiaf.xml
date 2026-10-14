@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Banzenchnzhiaf</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-65</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Rachepl</Subsector>
+    <Subsector Index="B">Branchbieqrklanz</Subsector>
+    <Subsector Index="C">Prodlekr</Subsector>
+    <Subsector Index="D">Iaflef</Subsector>
+    <Subsector Index="E">Jinchvliqrpe</Subsector>
+    <Subsector Index="F">Kentszhieiez</Subsector>
+    <Subsector Index="G">Shtapr'ei</Subsector>
+    <Subsector Index="H">Riafiepr</Subsector>
+    <Subsector Index="I">Ntsala</Subsector>
+    <Subsector Index="J">Tsilbenszhinzh</Subsector>
+    <Subsector Index="K">Lalzhiets</Subsector>
+    <Subsector Index="L">Drazflajonch</Subsector>
+    <Subsector Index="M">Vriefrefl</Subsector>
+    <Subsector Index="N">Atiapl</Subsector>
+    <Subsector Index="O">Tlishiadnjenzh</Subsector>
+    <Subsector Index="P">Chtiabbrentsafr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

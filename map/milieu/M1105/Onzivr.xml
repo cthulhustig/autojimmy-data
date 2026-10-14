@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Onzivr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-62</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chofdlikrnji</Subsector>
+    <Subsector Index="B">Azzef</Subsector>
+    <Subsector Index="C">Klezhnjetl</Subsector>
+    <Subsector Index="D">Bresheqr</Subsector>
+    <Subsector Index="E">Ivrit</Subsector>
+    <Subsector Index="F">Jieshnchebrial</Subsector>
+    <Subsector Index="G">Zdinchiei</Subsector>
+    <Subsector Index="H">Zditsoprria</Subsector>
+    <Subsector Index="I">Fiedzhef</Subsector>
+    <Subsector Index="J">Aef</Subsector>
+    <Subsector Index="K">Chashbrenzi</Subsector>
+    <Subsector Index="L">Chelezi</Subsector>
+    <Subsector Index="M">Tlativria</Subsector>
+    <Subsector Index="N">Chtaprtsiechans</Subsector>
+    <Subsector Index="O">Tleqra</Subsector>
+    <Subsector Index="P">Flitsviavtlans</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

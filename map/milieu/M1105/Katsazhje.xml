@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Katsazhje</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-118</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tlazvafliets</Subsector>
+    <Subsector Index="B">Kivfoints</Subsector>
+    <Subsector Index="C">Zdenzhidliesh</Subsector>
+    <Subsector Index="D">Alvlitl</Subsector>
+    <Subsector Index="E">Nzebrlav</Subsector>
+    <Subsector Index="F">Drinjvrezhtsinj</Subsector>
+    <Subsector Index="G">Zimziets</Subsector>
+    <Subsector Index="H">Ieflanz</Subsector>
+    <Subsector Index="I">Kenjvriie</Subsector>
+    <Subsector Index="J">Plielronztsobr</Subsector>
+    <Subsector Index="K">Dlerdlanshinsh</Subsector>
+    <Subsector Index="L">Loie</Subsector>
+    <Subsector Index="M">Tiejblezhents</Subsector>
+    <Subsector Index="N">Dravpraprianzh</Subsector>
+    <Subsector Index="O">Chibree</Subsector>
+    <Subsector Index="P">Chajzhashiqr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlonchebre</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-121</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Yiervefrinzh</Subsector>
+    <Subsector Index="B">Qriernchezh</Subsector>
+    <Subsector Index="C">Tsiafrats</Subsector>
+    <Subsector Index="D">Zietlzhiazhtsapr</Subsector>
+    <Subsector Index="E">Idlnsiaz</Subsector>
+    <Subsector Index="F">Brieflshonch</Subsector>
+    <Subsector Index="G">Yonzhiesh</Subsector>
+    <Subsector Index="H">Iavrdlabr</Subsector>
+    <Subsector Index="I">Drenznchedlkrins</Subsector>
+    <Subsector Index="J">Onsnji</Subsector>
+    <Subsector Index="K">Priefnsheplens</Subsector>
+    <Subsector Index="L">Tlenzhchoklbliebl</Subsector>
+    <Subsector Index="M">Fievrnjee</Subsector>
+    <Subsector Index="N">Zdozhadviz</Subsector>
+    <Subsector Index="O">Edi</Subsector>
+    <Subsector Index="P">Savashmiar</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

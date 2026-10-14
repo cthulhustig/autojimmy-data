@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chaziprnshibl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-70</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Sentsitsedr</Subsector>
+    <Subsector Index="B">Drieznchedienz</Subsector>
+    <Subsector Index="C">Chtanzhibla</Subsector>
+    <Subsector Index="D">Chajiantiez</Subsector>
+    <Subsector Index="E">Iaplzonch</Subsector>
+    <Subsector Index="F">Chalnchacha</Subsector>
+    <Subsector Index="G">Inshif</Subsector>
+    <Subsector Index="H">Nishdlishfrezh</Subsector>
+    <Subsector Index="I">Dietspanscheqr</Subsector>
+    <Subsector Index="J">Dloldrenzhopr</Subsector>
+    <Subsector Index="K">Platlnsansh</Subsector>
+    <Subsector Index="L">Yiapldlatsliench</Subsector>
+    <Subsector Index="M">Nanjizants</Subsector>
+    <Subsector Index="N">Tlashflivrnzhanch</Subsector>
+    <Subsector Index="O">Tilfitidl</Subsector>
+    <Subsector Index="P">Pranssher</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

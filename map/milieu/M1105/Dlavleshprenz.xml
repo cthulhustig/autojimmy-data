@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dlavleshprenz</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-118</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fliaviet</Subsector>
+    <Subsector Index="B">Jdadrfrapla</Subsector>
+    <Subsector Index="C">Bralblaffle</Subsector>
+    <Subsector Index="D">Chiatltebr</Subsector>
+    <Subsector Index="E">Zdalejdal</Subsector>
+    <Subsector Index="F">Zhienchralia</Subsector>
+    <Subsector Index="G">Chetiezzad</Subsector>
+    <Subsector Index="H">Shekriabliets</Subsector>
+    <Subsector Index="I">Ietsbrar</Subsector>
+    <Subsector Index="J">Chenjliensatl</Subsector>
+    <Subsector Index="K">Plansekrach</Subsector>
+    <Subsector Index="L">Dlelate</Subsector>
+    <Subsector Index="M">Jezhpriebre</Subsector>
+    <Subsector Index="N">Ikri</Subsector>
+    <Subsector Index="O">Vlii</Subsector>
+    <Subsector Index="P">Frare</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

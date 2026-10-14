@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zieshieblbliaf</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-38</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdapldrazhdlia</Subsector>
+    <Subsector Index="B">Ente</Subsector>
+    <Subsector Index="C">Flieznchentro</Subsector>
+    <Subsector Index="D">Chiejkliefnsivl</Subsector>
+    <Subsector Index="E">Setiafensh</Subsector>
+    <Subsector Index="F">Brieklbrachi</Subsector>
+    <Subsector Index="G">Fitsiei</Subsector>
+    <Subsector Index="H">Prajshanzhezh</Subsector>
+    <Subsector Index="I">Zhdofrafro</Subsector>
+    <Subsector Index="J">Rezhchiavlav</Subsector>
+    <Subsector Index="K">Chtielkinzhtsodr</Subsector>
+    <Subsector Index="L">Krae</Subsector>
+    <Subsector Index="M">Vaansh</Subsector>
+    <Subsector Index="N">Vietabriash</Subsector>
+    <Subsector Index="O">Shitlozhpre</Subsector>
+    <Subsector Index="P">Zeqrol</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

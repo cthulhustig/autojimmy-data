@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chtidlblevizh</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-88</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhanchoipl</Subsector>
+    <Subsector Index="B">Tlialiabr</Subsector>
+    <Subsector Index="C">Qieqrvratvlo</Subsector>
+    <Subsector Index="D">Bedltsaia</Subsector>
+    <Subsector Index="E">Riefzhabrnshadl</Subsector>
+    <Subsector Index="F">Oche</Subsector>
+    <Subsector Index="G">Biatlepro</Subsector>
+    <Subsector Index="H">Jdieplashnchiaf</Subsector>
+    <Subsector Index="I">Teplnsanj</Subsector>
+    <Subsector Index="J">Chebrenzdiafl</Subsector>
+    <Subsector Index="K">Chotsnjikrinzh</Subsector>
+    <Subsector Index="L">Zdadlplieplensh</Subsector>
+    <Subsector Index="M">Dlozhjie</Subsector>
+    <Subsector Index="N">Zebrntsiabrat</Subsector>
+    <Subsector Index="O">Iezhnjonz</Subsector>
+    <Subsector Index="P">Jdetlbleze</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

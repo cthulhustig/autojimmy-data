@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zdiantnchoplflo</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-111</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nzabrkabr</Subsector>
+    <Subsector Index="B">Qeplshieshvria</Subsector>
+    <Subsector Index="C">Oedl</Subsector>
+    <Subsector Index="D">Shiae</Subsector>
+    <Subsector Index="E">Ianshi</Subsector>
+    <Subsector Index="F">Shtikladrie</Subsector>
+    <Subsector Index="G">Kronchnzhomez</Subsector>
+    <Subsector Index="H">Riflnsenche</Subsector>
+    <Subsector Index="I">Tsensiejie</Subsector>
+    <Subsector Index="J">Itnziebr</Subsector>
+    <Subsector Index="K">Efrzhe</Subsector>
+    <Subsector Index="L">Viablpleklafr</Subsector>
+    <Subsector Index="M">Kliabla</Subsector>
+    <Subsector Index="N">Lintntsie</Subsector>
+    <Subsector Index="O">Ejfre</Subsector>
+    <Subsector Index="P">Prienzbliets</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

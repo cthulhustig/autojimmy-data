@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Echianzh</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-154</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Piplee</Subsector>
+    <Subsector Index="B">Anzfa</Subsector>
+    <Subsector Index="C">Aafr</Subsector>
+    <Subsector Index="D">Zholie</Subsector>
+    <Subsector Index="E">Sebliadl</Subsector>
+    <Subsector Index="F">Dliablieple</Subsector>
+    <Subsector Index="G">Ishash</Subsector>
+    <Subsector Index="H">Ebokl</Subsector>
+    <Subsector Index="I">Qralnchiabl</Subsector>
+    <Subsector Index="J">Flintstlefrtsafl</Subsector>
+    <Subsector Index="K">Fedliae</Subsector>
+    <Subsector Index="L">Qlajqrakbla</Subsector>
+    <Subsector Index="M">Rinmieziench</Subsector>
+    <Subsector Index="N">Jdafaklfi</Subsector>
+    <Subsector Index="O">Sechzhieie</Subsector>
+    <Subsector Index="P">Blanztanchie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

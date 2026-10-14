@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Abrel</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-32</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Iaja</Subsector>
+    <Subsector Index="B">Brakeflfaqr</Subsector>
+    <Subsector Index="C">Tsebrieflbridl</Subsector>
+    <Subsector Index="D">Amo</Subsector>
+    <Subsector Index="E">Vaflnshiiesh</Subsector>
+    <Subsector Index="F">Qlachtsenshla</Subsector>
+    <Subsector Index="G">Chitsanzhepl</Subsector>
+    <Subsector Index="H">Nchitjezh</Subsector>
+    <Subsector Index="I">Zhdetsdiavro</Subsector>
+    <Subsector Index="J">Dechnteplshiebl</Subsector>
+    <Subsector Index="K">Iebrzhanzh</Subsector>
+    <Subsector Index="L">Fratiapl</Subsector>
+    <Subsector Index="M">Klafrtlidl</Subsector>
+    <Subsector Index="N">Tladlcheblez</Subsector>
+    <Subsector Index="O">Shiaziet</Subsector>
+    <Subsector Index="P">Tsadli</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

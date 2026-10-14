@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Rienzienzh</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-174</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Jalil</Subsector>
+    <Subsector Index="B">Enshet</Subsector>
+    <Subsector Index="C">Iansnzhafr</Subsector>
+    <Subsector Index="D">Preplio</Subsector>
+    <Subsector Index="E">Priklbliablie</Subsector>
+    <Subsector Index="F">Zhdafadransh</Subsector>
+    <Subsector Index="G">Zhievozhe</Subsector>
+    <Subsector Index="H">Chitfranznji</Subsector>
+    <Subsector Index="I">Ozhevr</Subsector>
+    <Subsector Index="J">Chenzhenjiezh</Subsector>
+    <Subsector Index="K">Drapnshieia</Subsector>
+    <Subsector Index="L">Iadlie</Subsector>
+    <Subsector Index="M">Brakliench</Subsector>
+    <Subsector Index="N">Sodrjiezplanzh</Subsector>
+    <Subsector Index="O">Nietenzfibl</Subsector>
+    <Subsector Index="P">Shatsiklnzebl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

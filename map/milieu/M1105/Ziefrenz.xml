@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ziefrenz</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-52</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Pelanse</Subsector>
+    <Subsector Index="B">Tlanchvrae</Subsector>
+    <Subsector Index="C">Chei</Subsector>
+    <Subsector Index="D">Vrafredl</Subsector>
+    <Subsector Index="E">Dlibkli</Subsector>
+    <Subsector Index="F">Javrkashqria</Subsector>
+    <Subsector Index="G">Shafzhanchchapl</Subsector>
+    <Subsector Index="H">Prechnzenchofr</Subsector>
+    <Subsector Index="I">Liachzhie</Subsector>
+    <Subsector Index="J">Eshets</Subsector>
+    <Subsector Index="K">Katllinsech</Subsector>
+    <Subsector Index="L">Sialianzbriebr</Subsector>
+    <Subsector Index="M">Ieefl</Subsector>
+    <Subsector Index="N">Ianchdlianj</Subsector>
+    <Subsector Index="O">Briachechnjab</Subsector>
+    <Subsector Index="P">Stirabriaf</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

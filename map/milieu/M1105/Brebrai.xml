@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Brebrai</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-51</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Riefiaia</Subsector>
+    <Subsector Index="B">Klievrbriavlia</Subsector>
+    <Subsector Index="C">Eliadl</Subsector>
+    <Subsector Index="D">Chinzhnzians</Subsector>
+    <Subsector Index="E">Chenjflieprie</Subsector>
+    <Subsector Index="F">Zdinzhklenjiabr</Subsector>
+    <Subsector Index="G">Edanz</Subsector>
+    <Subsector Index="H">Dlai</Subsector>
+    <Subsector Index="I">Zhdetlfeflot</Subsector>
+    <Subsector Index="J">Njeklbli</Subsector>
+    <Subsector Index="K">Sheqrpratsiz</Subsector>
+    <Subsector Index="L">Ibriat</Subsector>
+    <Subsector Index="M">Driaklents</Subsector>
+    <Subsector Index="N">Nanchifrrazh</Subsector>
+    <Subsector Index="O">Prernzhizhan</Subsector>
+    <Subsector Index="P">Zebrnzhadlipl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Etsel</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-36</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Qrinchiadrikl</Subsector>
+    <Subsector Index="B">Chiqrrakifl</Subsector>
+    <Subsector Index="C">Tlezfriachi</Subsector>
+    <Subsector Index="D">Tetsnsiejia</Subsector>
+    <Subsector Index="E">Fanchcha</Subsector>
+    <Subsector Index="F">Zhdetldliatsdebl</Subsector>
+    <Subsector Index="G">Bimansash</Subsector>
+    <Subsector Index="H">Lazncho</Subsector>
+    <Subsector Index="I">Piprenzhazh</Subsector>
+    <Subsector Index="J">Avons</Subsector>
+    <Subsector Index="K">Tlinsnsefdle</Subsector>
+    <Subsector Index="L">Aniabr</Subsector>
+    <Subsector Index="M">Qlifriplnto</Subsector>
+    <Subsector Index="N">Ashrnts</Subsector>
+    <Subsector Index="O">Blensianzhe</Subsector>
+    <Subsector Index="P">Ienshel</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

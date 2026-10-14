@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Fiezai</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-133</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dleqriafr</Subsector>
+    <Subsector Index="B">Siklzhonsnjia</Subsector>
+    <Subsector Index="C">Ntsea</Subsector>
+    <Subsector Index="D">Bedlieiezh</Subsector>
+    <Subsector Index="E">Chianzntseldlez</Subsector>
+    <Subsector Index="F">Iplzhiavr</Subsector>
+    <Subsector Index="G">Koplaje</Subsector>
+    <Subsector Index="H">Finsama</Subsector>
+    <Subsector Index="I">Atla</Subsector>
+    <Subsector Index="J">Iezle</Subsector>
+    <Subsector Index="K">Kianchfriashvre</Subsector>
+    <Subsector Index="L">Viplazhans</Subsector>
+    <Subsector Index="M">Tlintseflfinzh</Subsector>
+    <Subsector Index="N">Nchelipl</Subsector>
+    <Subsector Index="O">Fintsshenzh</Subsector>
+    <Subsector Index="P">Bletlnzhiavl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

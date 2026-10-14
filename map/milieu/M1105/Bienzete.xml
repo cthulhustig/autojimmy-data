@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Bienzete</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-39</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Krenshipl</Subsector>
+    <Subsector Index="B">Zhinchnshatsenj</Subsector>
+    <Subsector Index="C">Arbriens</Subsector>
+    <Subsector Index="D">Zonznzhianch</Subsector>
+    <Subsector Index="E">Yenchinzhie</Subsector>
+    <Subsector Index="F">Nsivrnjim</Subsector>
+    <Subsector Index="G">Yizledliaf</Subsector>
+    <Subsector Index="H">Opla</Subsector>
+    <Subsector Index="I">Anchipl</Subsector>
+    <Subsector Index="J">Qlenchaoqr</Subsector>
+    <Subsector Index="K">Vlienzhiazh</Subsector>
+    <Subsector Index="L">Nsanzhanz</Subsector>
+    <Subsector Index="M">Senzhdlieplots</Subsector>
+    <Subsector Index="N">Dretziedlad</Subsector>
+    <Subsector Index="O">Shenchefrtled</Subsector>
+    <Subsector Index="P">Diaem</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

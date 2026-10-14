@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Inchats</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-53</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tsavjiefrvrekl</Subsector>
+    <Subsector Index="B">Kenjpashto</Subsector>
+    <Subsector Index="C">Shontstebrklash</Subsector>
+    <Subsector Index="D">Zheavr</Subsector>
+    <Subsector Index="E">Biplieprbiakl</Subsector>
+    <Subsector Index="F">Iezhfe</Subsector>
+    <Subsector Index="G">Lazhef</Subsector>
+    <Subsector Index="H">Zdedlbashnshiapl</Subsector>
+    <Subsector Index="I">Ntsiebrtliez</Subsector>
+    <Subsector Index="J">Zheshants</Subsector>
+    <Subsector Index="K">Rshiad</Subsector>
+    <Subsector Index="L">Bliblkliazbrabr</Subsector>
+    <Subsector Index="M">Tafzizins</Subsector>
+    <Subsector Index="N">Zerntopledl</Subsector>
+    <Subsector Index="O">Naqrvodlbre</Subsector>
+    <Subsector Index="P">Drifrnzachie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Amikl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-102</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zafvratstsiash</Subsector>
+    <Subsector Index="B">Chefrapa</Subsector>
+    <Subsector Index="C">Tliefrchiiab</Subsector>
+    <Subsector Index="D">Inche</Subsector>
+    <Subsector Index="E">Nsoval</Subsector>
+    <Subsector Index="F">Kledleqrshienj</Subsector>
+    <Subsector Index="G">Ieti</Subsector>
+    <Subsector Index="H">Kiavchiaia</Subsector>
+    <Subsector Index="I">Flonjpriek</Subsector>
+    <Subsector Index="J">Niavliebre</Subsector>
+    <Subsector Index="K">Plantiakl</Subsector>
+    <Subsector Index="L">Aqri</Subsector>
+    <Subsector Index="M">Prinzhadl</Subsector>
+    <Subsector Index="N">Mefriezhnjiach</Subsector>
+    <Subsector Index="O">Sheshe</Subsector>
+    <Subsector Index="P">Ia'lef</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

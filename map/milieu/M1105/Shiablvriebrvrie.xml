@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Shiablvriebrvrie</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-149</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Brajpianch</Subsector>
+    <Subsector Index="B">Qleshbrazpria</Subsector>
+    <Subsector Index="C">Iakrprent</Subsector>
+    <Subsector Index="D">Nziancho</Subsector>
+    <Subsector Index="E">Ijza</Subsector>
+    <Subsector Index="F">Danchdrio</Subsector>
+    <Subsector Index="G">Aiqr</Subsector>
+    <Subsector Index="H">Ntsekra</Subsector>
+    <Subsector Index="I">Brazpai</Subsector>
+    <Subsector Index="J">Chelblintsabl</Subsector>
+    <Subsector Index="K">Cholshansedl</Subsector>
+    <Subsector Index="L">Tenspieshiedl</Subsector>
+    <Subsector Index="M">Prajntseens</Subsector>
+    <Subsector Index="N">Obakl</Subsector>
+    <Subsector Index="O">Kriaplnzhaa</Subsector>
+    <Subsector Index="P">Oev</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

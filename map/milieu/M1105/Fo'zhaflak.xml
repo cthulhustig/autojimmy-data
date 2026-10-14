@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Fo'zhaflak</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-24</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dieplnzhivfrakl</Subsector>
+    <Subsector Index="B">Drajia</Subsector>
+    <Subsector Index="C">Dlinzeniez</Subsector>
+    <Subsector Index="D">Chitsiklbria</Subsector>
+    <Subsector Index="E">Biplnzhansient</Subsector>
+    <Subsector Index="F">Zaplial</Subsector>
+    <Subsector Index="G">Nenshnzhiavlivl</Subsector>
+    <Subsector Index="H">Chienzhtsoflnjej</Subsector>
+    <Subsector Index="I">Ventets</Subsector>
+    <Subsector Index="J">Iaklia</Subsector>
+    <Subsector Index="K">Brezhez</Subsector>
+    <Subsector Index="L">Zdianshziprem</Subsector>
+    <Subsector Index="M">Fodlnshaa</Subsector>
+    <Subsector Index="N">Azhek</Subsector>
+    <Subsector Index="O">Zhaple</Subsector>
+    <Subsector Index="P">Adlopl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

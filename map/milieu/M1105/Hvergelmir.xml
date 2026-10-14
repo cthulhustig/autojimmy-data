@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Hver">
+  <Name Source="The Far Side of Nowhere">Hvergelmir</Name>
+  <Credits />
+  <X>-17</X>
+  <Y>8</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

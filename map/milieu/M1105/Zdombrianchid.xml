@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zdombrianchid</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-96</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chefnzhetsenz</Subsector>
+    <Subsector Index="B">Iajzia</Subsector>
+    <Subsector Index="C">Ketsipldav</Subsector>
+    <Subsector Index="D">Zhazziasho</Subsector>
+    <Subsector Index="E">Zhinshvlizqrets</Subsector>
+    <Subsector Index="F">Brizfriavab</Subsector>
+    <Subsector Index="G">Brizhjiplblonj</Subsector>
+    <Subsector Index="H">Zoiatl</Subsector>
+    <Subsector Index="I">Avlar</Subsector>
+    <Subsector Index="J">Ntsanzij</Subsector>
+    <Subsector Index="K">Aiefl</Subsector>
+    <Subsector Index="L">Zhdavlear</Subsector>
+    <Subsector Index="M">Klantnsienzh</Subsector>
+    <Subsector Index="N">Chtebrienzheb</Subsector>
+    <Subsector Index="O">Flashdlozhiash</Subsector>
+    <Subsector Index="P">Eprshor</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

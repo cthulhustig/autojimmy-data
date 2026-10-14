@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Finchkleqr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-133</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Vrochdozhpla</Subsector>
+    <Subsector Index="B">Kansinz</Subsector>
+    <Subsector Index="C">Chenchblevncha</Subsector>
+    <Subsector Index="D">Zojet</Subsector>
+    <Subsector Index="E">Oblanch</Subsector>
+    <Subsector Index="F">Iazebr</Subsector>
+    <Subsector Index="G">Izhzhe</Subsector>
+    <Subsector Index="H">Avklofr</Subsector>
+    <Subsector Index="I">Nchelrinsh</Subsector>
+    <Subsector Index="J">Ntsiernzhiv</Subsector>
+    <Subsector Index="K">Ivdlibl</Subsector>
+    <Subsector Index="L">Zhdiplbranshbrel</Subsector>
+    <Subsector Index="M">Zezhqrable</Subsector>
+    <Subsector Index="N">Izdlie</Subsector>
+    <Subsector Index="O">Shiedielnchench</Subsector>
+    <Subsector Index="P">Dlientseljie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

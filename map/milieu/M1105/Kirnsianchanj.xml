@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kirnsianchanj</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-16</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Siezienchie</Subsector>
+    <Subsector Index="B">Jdantdreza</Subsector>
+    <Subsector Index="C">Tiabrnielnzinch</Subsector>
+    <Subsector Index="D">Stonzhavriavr</Subsector>
+    <Subsector Index="E">Kezhi</Subsector>
+    <Subsector Index="F">Nchavzi</Subsector>
+    <Subsector Index="G">Jdantsetsi</Subsector>
+    <Subsector Index="H">Palietr</Subsector>
+    <Subsector Index="I">Kloflnzizhshev</Subsector>
+    <Subsector Index="J">Cheflonsach</Subsector>
+    <Subsector Index="K">Chanshiejinch</Subsector>
+    <Subsector Index="L">Zafliaklblech</Subsector>
+    <Subsector Index="M">Dlazenchenzh</Subsector>
+    <Subsector Index="N">Iatsi</Subsector>
+    <Subsector Index="O">Breprchachnons</Subsector>
+    <Subsector Index="P">Stevlirziez</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

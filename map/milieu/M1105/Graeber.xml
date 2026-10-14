@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Grae">
+  <Name Source="Rim Expeditions">Graeber</Name>
+  <Credits />
+  <X>-2</X>
+  <Y>7</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Bridzhetil</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-70</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Qrojiabriz</Subsector>
+    <Subsector Index="B">Stontnzajia</Subsector>
+    <Subsector Index="C">Drialnzhielzhav</Subsector>
+    <Subsector Index="D">Nsenje</Subsector>
+    <Subsector Index="E">Briezdlatl</Subsector>
+    <Subsector Index="F">Chtashshetsnzar</Subsector>
+    <Subsector Index="G">Zhazzeltla</Subsector>
+    <Subsector Index="H">Undefinedoblkreliavr</Subsector>
+    <Subsector Index="I">Yiabritlodl</Subsector>
+    <Subsector Index="J">Enzhia</Subsector>
+    <Subsector Index="K">Dienchchanzh</Subsector>
+    <Subsector Index="L">Ovrifl</Subsector>
+    <Subsector Index="M">Tiavqriefrkle</Subsector>
+    <Subsector Index="N">Izhi</Subsector>
+    <Subsector Index="O">Zdizhnchivrnchezh</Subsector>
+    <Subsector Index="P">Zhdienchdiashvia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

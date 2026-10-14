@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ienchi</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-166</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Iebrzhensh</Subsector>
+    <Subsector Index="B">Densiafronj</Subsector>
+    <Subsector Index="C">Siezhrishlian</Subsector>
+    <Subsector Index="D">Pornzhiadbrets</Subsector>
+    <Subsector Index="E">Apladl</Subsector>
+    <Subsector Index="F">Nchishtanz</Subsector>
+    <Subsector Index="G">Klobrnchifrnshibl</Subsector>
+    <Subsector Index="H">Jeprash</Subsector>
+    <Subsector Index="I">Stintpleplish</Subsector>
+    <Subsector Index="J">Naqrqrepleb</Subsector>
+    <Subsector Index="K">Zhenzatebr</Subsector>
+    <Subsector Index="L">Shiezif</Subsector>
+    <Subsector Index="M">Jdonchnsensplepr</Subsector>
+    <Subsector Index="N">Nchianenzh</Subsector>
+    <Subsector Index="O">Drezbritsnchianch</Subsector>
+    <Subsector Index="P">Chtianchshebrie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Piebriedlzhie</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-171</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Mefifrdlav</Subsector>
+    <Subsector Index="B">Anchanch</Subsector>
+    <Subsector Index="C">Diedazh</Subsector>
+    <Subsector Index="D">Zdienshie</Subsector>
+    <Subsector Index="E">Chantfraz</Subsector>
+    <Subsector Index="F">Zhdazfilfria</Subsector>
+    <Subsector Index="G">Iafriaqr</Subsector>
+    <Subsector Index="H">Breplenzianch</Subsector>
+    <Subsector Index="I">Driablvrekriefr</Subsector>
+    <Subsector Index="J">Cheflkrianzhie</Subsector>
+    <Subsector Index="K">Drievlfrenja</Subsector>
+    <Subsector Index="L">Driareklblets</Subsector>
+    <Subsector Index="M">Jinshpa</Subsector>
+    <Subsector Index="N">Zdirianjnse</Subsector>
+    <Subsector Index="O">Dredlvleti</Subsector>
+    <Subsector Index="P">Devntsiae</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Izkre</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-44</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Undefinedadntsetsblopl</Subsector>
+    <Subsector Index="B">Chtanshtsontziakl</Subsector>
+    <Subsector Index="C">Blieplfliaklia</Subsector>
+    <Subsector Index="D">Blezhatlnzianj</Subsector>
+    <Subsector Index="E">Zalntsiafrinj</Subsector>
+    <Subsector Index="F">Nsiptiakl</Subsector>
+    <Subsector Index="G">Fantsadlche</Subsector>
+    <Subsector Index="H">Flientsanch</Subsector>
+    <Subsector Index="I">Shaliablshienj</Subsector>
+    <Subsector Index="J">Tibrnza</Subsector>
+    <Subsector Index="K">Tliezraqrer</Subsector>
+    <Subsector Index="L">Iaz</Subsector>
+    <Subsector Index="M">Friklqrieie</Subsector>
+    <Subsector Index="N">Priavkrovront</Subsector>
+    <Subsector Index="O">Jdenchvlinzoj</Subsector>
+    <Subsector Index="P">Stansdliaviaz</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

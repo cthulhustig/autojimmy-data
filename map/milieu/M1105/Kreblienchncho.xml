@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kreblienchncho</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-93</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fleqrok</Subsector>
+    <Subsector Index="B">Riazvrovrdlesh</Subsector>
+    <Subsector Index="C">Nshazhnjaqr</Subsector>
+    <Subsector Index="D">Aians</Subsector>
+    <Subsector Index="E">Iabrriav</Subsector>
+    <Subsector Index="F">Nivlcho</Subsector>
+    <Subsector Index="G">Tedldedlplar</Subsector>
+    <Subsector Index="H">Qripliavvanj</Subsector>
+    <Subsector Index="I">Badltsefibl</Subsector>
+    <Subsector Index="J">Ifazh</Subsector>
+    <Subsector Index="K">Riavmiplnche</Subsector>
+    <Subsector Index="L">Frevrziabr</Subsector>
+    <Subsector Index="M">Chtensheial</Subsector>
+    <Subsector Index="N">ef'iensh</Subsector>
+    <Subsector Index="O">Stenjivlie</Subsector>
+    <Subsector Index="P">Kleflients</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

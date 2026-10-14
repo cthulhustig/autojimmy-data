@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Drabrdlivr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-155</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdiplietsnzhi</Subsector>
+    <Subsector Index="B">Nchinza</Subsector>
+    <Subsector Index="C">Blanotial</Subsector>
+    <Subsector Index="D">Iepraz</Subsector>
+    <Subsector Index="E">Zdizhraonzh</Subsector>
+    <Subsector Index="F">Kliejnshekrie</Subsector>
+    <Subsector Index="G">Shiazae</Subsector>
+    <Subsector Index="H">Zonjfreplanj</Subsector>
+    <Subsector Index="I">Bliedlpro</Subsector>
+    <Subsector Index="J">Zhdaqrdritsfienj</Subsector>
+    <Subsector Index="K">Ritlvlanshol</Subsector>
+    <Subsector Index="L">Zdiatsshiple</Subsector>
+    <Subsector Index="M">Echiens</Subsector>
+    <Subsector Index="N">Yiazimnta</Subsector>
+    <Subsector Index="O">Qianjlenzhpipl</Subsector>
+    <Subsector Index="P">Oez</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

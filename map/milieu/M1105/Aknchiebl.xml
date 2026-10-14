@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Aknchiebl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-47</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Inchi</Subsector>
+    <Subsector Index="B">Ishqrash</Subsector>
+    <Subsector Index="C">Zovriemnzhi</Subsector>
+    <Subsector Index="D">Danchbliavni</Subsector>
+    <Subsector Index="E">Razhoprnonj</Subsector>
+    <Subsector Index="F">Meblnzhaiabr</Subsector>
+    <Subsector Index="G">Shieziafli</Subsector>
+    <Subsector Index="H">Zdishieel</Subsector>
+    <Subsector Index="I">Drenchfrakldler</Subsector>
+    <Subsector Index="J">Ntsii</Subsector>
+    <Subsector Index="K">Dlierzivplaz</Subsector>
+    <Subsector Index="L">Peflpea</Subsector>
+    <Subsector Index="M">Sianshjovtliaz</Subsector>
+    <Subsector Index="N">Faffledrfle</Subsector>
+    <Subsector Index="O">Nzhia</Subsector>
+    <Subsector Index="P">Fliechadriel</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

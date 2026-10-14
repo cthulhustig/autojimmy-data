@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Blemzhiet</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-117</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zheplzhiz</Subsector>
+    <Subsector Index="B">Zhiavrotsebl</Subsector>
+    <Subsector Index="C">Krii</Subsector>
+    <Subsector Index="D">Eprvral</Subsector>
+    <Subsector Index="E">Fevpra</Subsector>
+    <Subsector Index="F">Stienzdriafiapl</Subsector>
+    <Subsector Index="G">Chtakranjklots</Subsector>
+    <Subsector Index="H">Azha</Subsector>
+    <Subsector Index="I">Avble</Subsector>
+    <Subsector Index="J">Iablfabr</Subsector>
+    <Subsector Index="K">Vriabla</Subsector>
+    <Subsector Index="L">Diashpla</Subsector>
+    <Subsector Index="M">Fiaflchia</Subsector>
+    <Subsector Index="N">Zave</Subsector>
+    <Subsector Index="O">Zhdelplianchia</Subsector>
+    <Subsector Index="P">Kevoaf</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

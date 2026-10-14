@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Bina">
+  <Name Source="General Turokan's Expedition to the Rim">Binaurie</Name>
+  <Credits />
+  <X>8</X>
+  <Y>9</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

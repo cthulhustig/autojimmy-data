@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Bobrfensjavr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-45</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Priaflnjofr</Subsector>
+    <Subsector Index="B">Ieqrtins</Subsector>
+    <Subsector Index="C">Lebrial</Subsector>
+    <Subsector Index="D">Briaz'e</Subsector>
+    <Subsector Index="E">Nshenja</Subsector>
+    <Subsector Index="F">Priebrnshinje</Subsector>
+    <Subsector Index="G">Jdenchshatszhat</Subsector>
+    <Subsector Index="H">Ieizh</Subsector>
+    <Subsector Index="I">Favrpliedrnjipr</Subsector>
+    <Subsector Index="J">Otia</Subsector>
+    <Subsector Index="K">Flivrkrinjnte</Subsector>
+    <Subsector Index="L">Nzhiafrdravr</Subsector>
+    <Subsector Index="M">Zdianszavldla'</Subsector>
+    <Subsector Index="N">Ekplaj</Subsector>
+    <Subsector Index="O">Pleeqr</Subsector>
+    <Subsector Index="P">Ncheplshepl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

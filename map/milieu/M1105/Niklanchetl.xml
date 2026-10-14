@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Niklanchetl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-14</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tladlfinie</Subsector>
+    <Subsector Index="B">Qlrbrbrianrem</Subsector>
+    <Subsector Index="C">Planchfiets</Subsector>
+    <Subsector Index="D">Elinz</Subsector>
+    <Subsector Index="E">Fiansee</Subsector>
+    <Subsector Index="F">Etsnchi</Subsector>
+    <Subsector Index="G">Rinzhblaplkli</Subsector>
+    <Subsector Index="H">Favrlablebl</Subsector>
+    <Subsector Index="I">Jdiafrnsivrdlint</Subsector>
+    <Subsector Index="J">Aprfradl</Subsector>
+    <Subsector Index="K">Frezheblafl</Subsector>
+    <Subsector Index="L">Zdrplzhedlncha</Subsector>
+    <Subsector Index="M">Apldeqr</Subsector>
+    <Subsector Index="N">Eblipr</Subsector>
+    <Subsector Index="O">Feshreia</Subsector>
+    <Subsector Index="P">Stiafrnshievplial</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

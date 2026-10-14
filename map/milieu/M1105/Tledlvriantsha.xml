@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tledlvriantsha</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-87</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Jienchshievret</Subsector>
+    <Subsector Index="B">Nzanzhntse</Subsector>
+    <Subsector Index="C">Kadlitlej</Subsector>
+    <Subsector Index="D">Chazii</Subsector>
+    <Subsector Index="E">Zhdiavflashit</Subsector>
+    <Subsector Index="F">Renzhtsiae</Subsector>
+    <Subsector Index="G">Kishi'e</Subsector>
+    <Subsector Index="H">Chtefliets</Subsector>
+    <Subsector Index="I">Shazjie</Subsector>
+    <Subsector Index="J">Frivrdlevl</Subsector>
+    <Subsector Index="K">Frenzhaz</Subsector>
+    <Subsector Index="L">Tolzidla</Subsector>
+    <Subsector Index="M">Jdanchidefl</Subsector>
+    <Subsector Index="N">Vriefiats</Subsector>
+    <Subsector Index="O">Nsiblie'</Subsector>
+    <Subsector Index="P">Jdiblnchaltsinz</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

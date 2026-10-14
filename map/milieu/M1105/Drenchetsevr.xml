@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Drenchetsevr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-106</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ntsiefletl</Subsector>
+    <Subsector Index="B">Rechejvlia</Subsector>
+    <Subsector Index="C">Tlenjzhiaa</Subsector>
+    <Subsector Index="D">Fliefliee</Subsector>
+    <Subsector Index="E">Tsaflzhe</Subsector>
+    <Subsector Index="F">Reekl</Subsector>
+    <Subsector Index="G">Idrned</Subsector>
+    <Subsector Index="H">Iblefr</Subsector>
+    <Subsector Index="I">Aakr</Subsector>
+    <Subsector Index="J">Priklvle</Subsector>
+    <Subsector Index="K">Planjqrients</Subsector>
+    <Subsector Index="L">Lanzmial</Subsector>
+    <Subsector Index="M">Brabrtsiede</Subsector>
+    <Subsector Index="N">Sienzhechonch</Subsector>
+    <Subsector Index="O">Qiatlabratl</Subsector>
+    <Subsector Index="P">Tsezhiablie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chtabrbledrzhenj</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-83</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhetlplavl</Subsector>
+    <Subsector Index="B">Dridrble</Subsector>
+    <Subsector Index="C">Nchebradr</Subsector>
+    <Subsector Index="D">Shezfra</Subsector>
+    <Subsector Index="E">Zdiabrfrielibr</Subsector>
+    <Subsector Index="F">Drezhiiench</Subsector>
+    <Subsector Index="G">Iaer</Subsector>
+    <Subsector Index="H">Zdieridri</Subsector>
+    <Subsector Index="I">Iavria</Subsector>
+    <Subsector Index="J">Aevr</Subsector>
+    <Subsector Index="K">Shedzopl</Subsector>
+    <Subsector Index="L">Brinzhants</Subsector>
+    <Subsector Index="M">Nianzhentse</Subsector>
+    <Subsector Index="N">Nifiefrdlanz</Subsector>
+    <Subsector Index="O">Iefnshie</Subsector>
+    <Subsector Index="P">Chetliatsebl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

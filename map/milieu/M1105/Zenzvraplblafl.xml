@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zenzvraplblafl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-161</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ieqrtsinzh</Subsector>
+    <Subsector Index="B">Chae</Subsector>
+    <Subsector Index="C">Nziee</Subsector>
+    <Subsector Index="D">Kefiaiz</Subsector>
+    <Subsector Index="E">Tleqrtinsblep</Subsector>
+    <Subsector Index="F">Kloklaz</Subsector>
+    <Subsector Index="G">Bevlanshabl</Subsector>
+    <Subsector Index="H">Vanzntsiel</Subsector>
+    <Subsector Index="I">Nirloot</Subsector>
+    <Subsector Index="J">Nzanzians</Subsector>
+    <Subsector Index="K">Rief</Subsector>
+    <Subsector Index="L">Iel</Subsector>
+    <Subsector Index="M">Tlalishench</Subsector>
+    <Subsector Index="N">Safashezh</Subsector>
+    <Subsector Index="O">Zoklfivflaj</Subsector>
+    <Subsector Index="P">Qonztsizats</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

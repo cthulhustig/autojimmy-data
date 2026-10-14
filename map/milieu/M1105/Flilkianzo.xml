@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Flilkianzo</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-169</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Efienj</Subsector>
+    <Subsector Index="B">Shtokeflaqr</Subsector>
+    <Subsector Index="C">Iavrnzhiach</Subsector>
+    <Subsector Index="D">Iaal</Subsector>
+    <Subsector Index="E">Tevldivrbravl</Subsector>
+    <Subsector Index="F">Zdoshvezbranch</Subsector>
+    <Subsector Index="G">Ieshel</Subsector>
+    <Subsector Index="H">Iatsients</Subsector>
+    <Subsector Index="I">Onzhe</Subsector>
+    <Subsector Index="J">Zhdeqrfalter</Subsector>
+    <Subsector Index="K">Trnteia</Subsector>
+    <Subsector Index="L">Bliejflavfia</Subsector>
+    <Subsector Index="M">Shiaqranjir</Subsector>
+    <Subsector Index="N">Nsaviap</Subsector>
+    <Subsector Index="O">Rizzienj</Subsector>
+    <Subsector Index="P">Devrroi</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

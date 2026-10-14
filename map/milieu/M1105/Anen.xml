@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Anen</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-150</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Breklanshets</Subsector>
+    <Subsector Index="B">Iabldez</Subsector>
+    <Subsector Index="C">Iplnjivr</Subsector>
+    <Subsector Index="D">Divlnshensh</Subsector>
+    <Subsector Index="E">Zdidraprir</Subsector>
+    <Subsector Index="F">Sifiablta</Subsector>
+    <Subsector Index="G">Tepliants</Subsector>
+    <Subsector Index="H">Shiejval</Subsector>
+    <Subsector Index="I">Tsiatsvliltlat</Subsector>
+    <Subsector Index="J">Nziie</Subsector>
+    <Subsector Index="K">Shebreklntizh</Subsector>
+    <Subsector Index="L">Ezhat</Subsector>
+    <Subsector Index="M">Briflafl</Subsector>
+    <Subsector Index="N">Briie</Subsector>
+    <Subsector Index="O">Zdianzhflodjedl</Subsector>
+    <Subsector Index="P">Soztliazel</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

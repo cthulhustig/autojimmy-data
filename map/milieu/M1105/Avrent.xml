@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Avrent</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-11</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kranjbiafrzhaz</Subsector>
+    <Subsector Index="B">Mencho</Subsector>
+    <Subsector Index="C">Relshiblntsa</Subsector>
+    <Subsector Index="D">Chtiachdliasha</Subsector>
+    <Subsector Index="E">Lenztlim</Subsector>
+    <Subsector Index="F">Eat</Subsector>
+    <Subsector Index="G">Petiez</Subsector>
+    <Subsector Index="H">Bibleblnzhif</Subsector>
+    <Subsector Index="I">Yiamflinzhzhodr</Subsector>
+    <Subsector Index="J">Zdeflpliba</Subsector>
+    <Subsector Index="K">Bliaon</Subsector>
+    <Subsector Index="L">Tlishbrieproqr</Subsector>
+    <Subsector Index="M">Blivli</Subsector>
+    <Subsector Index="N">Panchinch</Subsector>
+    <Subsector Index="O">Anchncha</Subsector>
+    <Subsector Index="P">Zdavnsiapiabr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Miadlshiatie</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-132</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chantsla</Subsector>
+    <Subsector Index="B">Zdazinchbladr</Subsector>
+    <Subsector Index="C">Edle</Subsector>
+    <Subsector Index="D">Brave</Subsector>
+    <Subsector Index="E">Savrshiajie</Subsector>
+    <Subsector Index="F">Chiezhfrencha</Subsector>
+    <Subsector Index="G">Shieaz</Subsector>
+    <Subsector Index="H">Frejenzhie</Subsector>
+    <Subsector Index="I">Nzierrats</Subsector>
+    <Subsector Index="J">Riefroprqre'</Subsector>
+    <Subsector Index="K">Kranpliadrle</Subsector>
+    <Subsector Index="L">Inchnsol</Subsector>
+    <Subsector Index="M">Tsiklbribrnta</Subsector>
+    <Subsector Index="N">Ato</Subsector>
+    <Subsector Index="O">Edllivl</Subsector>
+    <Subsector Index="P">Yensbrevlizh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

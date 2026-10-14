@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chenshiatlietl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-68</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tliatsntsiashkibl</Subsector>
+    <Subsector Index="B">Tliatlblore</Subsector>
+    <Subsector Index="C">Rielnshents</Subsector>
+    <Subsector Index="D">Nsianchncha</Subsector>
+    <Subsector Index="E">Aaz</Subsector>
+    <Subsector Index="F">Feblvrielnzhanzh</Subsector>
+    <Subsector Index="G">Fliedbredli</Subsector>
+    <Subsector Index="H">Abla</Subsector>
+    <Subsector Index="I">Senzhntsatatl</Subsector>
+    <Subsector Index="J">Nzhiafpie</Subsector>
+    <Subsector Index="K">Nzhanji</Subsector>
+    <Subsector Index="L">Zashatlfezh</Subsector>
+    <Subsector Index="M">Eia</Subsector>
+    <Subsector Index="N">Shtizenchievr</Subsector>
+    <Subsector Index="O">Iezlinz</Subsector>
+    <Subsector Index="P">Fiebrofa</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

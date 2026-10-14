@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Enjzhad</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-106</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chtielchenche</Subsector>
+    <Subsector Index="B">Rieflriajbli</Subsector>
+    <Subsector Index="C">Zhezhi</Subsector>
+    <Subsector Index="D">Adlanj</Subsector>
+    <Subsector Index="E">Anziam</Subsector>
+    <Subsector Index="F">Nonzhenchinzh</Subsector>
+    <Subsector Index="G">Anznzhi</Subsector>
+    <Subsector Index="H">Tanchients</Subsector>
+    <Subsector Index="I">Chaplvreztseqr</Subsector>
+    <Subsector Index="J">Bidltsazzhet</Subsector>
+    <Subsector Index="K">Iapljep</Subsector>
+    <Subsector Index="L">Blezdlizrekl</Subsector>
+    <Subsector Index="M">Frapzeplna</Subsector>
+    <Subsector Index="N">Ketnziva</Subsector>
+    <Subsector Index="O">Jdoviazhe</Subsector>
+    <Subsector Index="P">Dianchavrzech</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

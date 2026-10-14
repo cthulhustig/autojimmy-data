@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Stakrzhivnchech</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-123</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Piqrprira</Subsector>
+    <Subsector Index="B">Ean</Subsector>
+    <Subsector Index="C">Zhdiensnzetlja</Subsector>
+    <Subsector Index="D">Vriezhakl</Subsector>
+    <Subsector Index="E">Pansnchevints</Subsector>
+    <Subsector Index="F">Praie</Subsector>
+    <Subsector Index="G">Eflem</Subsector>
+    <Subsector Index="H">Iklie</Subsector>
+    <Subsector Index="I">Antsef</Subsector>
+    <Subsector Index="J">Plesho</Subsector>
+    <Subsector Index="K">Zhevlichia</Subsector>
+    <Subsector Index="L">Zhietsntiie</Subsector>
+    <Subsector Index="M">Dladrier</Subsector>
+    <Subsector Index="N">Ianjiebr</Subsector>
+    <Subsector Index="O">Plianznsi</Subsector>
+    <Subsector Index="P">Chiapoapl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

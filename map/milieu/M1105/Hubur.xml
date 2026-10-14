@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Hubu">
+  <Name Source="The Far Side of Nowhere">Hubur</Name>
+  <Credits />
+  <X>-21</X>
+  <Y>10</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

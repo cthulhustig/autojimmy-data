@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Pliblie</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-23</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Blashbriekvria</Subsector>
+    <Subsector Index="B">Ibriapl</Subsector>
+    <Subsector Index="C">Lietdref</Subsector>
+    <Subsector Index="D">Janjtladlofl</Subsector>
+    <Subsector Index="E">Iashnse</Subsector>
+    <Subsector Index="F">Ntinsnzhabr</Subsector>
+    <Subsector Index="G">Qritens</Subsector>
+    <Subsector Index="H">Shoziebra</Subsector>
+    <Subsector Index="I">Zhieshachnjianzh</Subsector>
+    <Subsector Index="J">Nielplichnzhienzh</Subsector>
+    <Subsector Index="K">Frienjzie</Subsector>
+    <Subsector Index="L">Nsanchia</Subsector>
+    <Subsector Index="M">Dlerprakl</Subsector>
+    <Subsector Index="N">Chansdliazfravr</Subsector>
+    <Subsector Index="O">Stinjetsvedl</Subsector>
+    <Subsector Index="P">Chtinshdiebridl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

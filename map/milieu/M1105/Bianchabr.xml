@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Bianchabr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-167</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chaznjezhabl</Subsector>
+    <Subsector Index="B">Nsiake</Subsector>
+    <Subsector Index="C">Sho'ech</Subsector>
+    <Subsector Index="D">Zditseblief</Subsector>
+    <Subsector Index="E">Nsetlnshieb</Subsector>
+    <Subsector Index="F">Shidiejpanz</Subsector>
+    <Subsector Index="G">Beliaansh</Subsector>
+    <Subsector Index="H">Chablzizar</Subsector>
+    <Subsector Index="I">Jdianchnzhashier</Subsector>
+    <Subsector Index="J">Sifrfrafla</Subsector>
+    <Subsector Index="K">Prevrnja</Subsector>
+    <Subsector Index="L">Iadzitl</Subsector>
+    <Subsector Index="M">Nsorfliekl</Subsector>
+    <Subsector Index="N">Rijkebra</Subsector>
+    <Subsector Index="O">Manjeshie</Subsector>
+    <Subsector Index="P">Chalbrieme</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

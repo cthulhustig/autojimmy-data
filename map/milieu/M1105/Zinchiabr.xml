@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zinchiabr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-78</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kaleia</Subsector>
+    <Subsector Index="B">Stiefrtsetsviev</Subsector>
+    <Subsector Index="C">Blieiash</Subsector>
+    <Subsector Index="D">Alshal</Subsector>
+    <Subsector Index="E">Chierav</Subsector>
+    <Subsector Index="F">Iefblej</Subsector>
+    <Subsector Index="G">Tlezdrarfiv</Subsector>
+    <Subsector Index="H">Iaprvrats</Subsector>
+    <Subsector Index="I">Chtizhzabrpli</Subsector>
+    <Subsector Index="J">Dantsenzi</Subsector>
+    <Subsector Index="K">Abrnzhad</Subsector>
+    <Subsector Index="L">Breze</Subsector>
+    <Subsector Index="M">Zediaklple</Subsector>
+    <Subsector Index="N">Qlotsetsiaz</Subsector>
+    <Subsector Index="O">Flatsiamfre</Subsector>
+    <Subsector Index="P">Plensebr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

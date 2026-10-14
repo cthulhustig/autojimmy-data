@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zdiqrqrinsdlie</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-99</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ie</Subsector>
+    <Subsector Index="B">Tideiezh</Subsector>
+    <Subsector Index="C">Kenchaiaz</Subsector>
+    <Subsector Index="D">Nziadrej</Subsector>
+    <Subsector Index="E">Qliaztsianzhtie</Subsector>
+    <Subsector Index="F">Ianti</Subsector>
+    <Subsector Index="G">Ieadl</Subsector>
+    <Subsector Index="H">Vanchiets</Subsector>
+    <Subsector Index="I">Dretlanzho</Subsector>
+    <Subsector Index="J">Zhazfre</Subsector>
+    <Subsector Index="K">Idnziezh</Subsector>
+    <Subsector Index="L">Aranch</Subsector>
+    <Subsector Index="M">Zdadltlanznjech</Subsector>
+    <Subsector Index="N">Rianzhnjianjia</Subsector>
+    <Subsector Index="O">Eit</Subsector>
+    <Subsector Index="P">Neklanchiach</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

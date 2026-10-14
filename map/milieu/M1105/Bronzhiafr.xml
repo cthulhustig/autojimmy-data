@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Bronzhiafr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-28</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tleflivriabl</Subsector>
+    <Subsector Index="B">Dlaplaad</Subsector>
+    <Subsector Index="C">Anzblatl</Subsector>
+    <Subsector Index="D">Adlifl</Subsector>
+    <Subsector Index="E">Chieprzaprplol</Subsector>
+    <Subsector Index="F">Drafrntienchqra</Subsector>
+    <Subsector Index="G">Ibrens</Subsector>
+    <Subsector Index="H">Fliplziiebr</Subsector>
+    <Subsector Index="I">Pleklnzha</Subsector>
+    <Subsector Index="J">Chibrfianzhbratl</Subsector>
+    <Subsector Index="K">Okrrenj</Subsector>
+    <Subsector Index="L">Qrenzhvench</Subsector>
+    <Subsector Index="M">Plianznchebrkebl</Subsector>
+    <Subsector Index="N">Zazkefenz</Subsector>
+    <Subsector Index="O">Nenchaants</Subsector>
+    <Subsector Index="P">Ezhefl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

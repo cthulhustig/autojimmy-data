@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlinshflechntsants</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-83</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Eprvekl</Subsector>
+    <Subsector Index="B">Nzhevrfribr</Subsector>
+    <Subsector Index="C">Shoat</Subsector>
+    <Subsector Index="D">Ntiae</Subsector>
+    <Subsector Index="E">Zhiezvranch</Subsector>
+    <Subsector Index="F">Ievzia</Subsector>
+    <Subsector Index="G">Tsirnsetlnjansh</Subsector>
+    <Subsector Index="H">Edliets</Subsector>
+    <Subsector Index="I">Priblenzha</Subsector>
+    <Subsector Index="J">Etsa</Subsector>
+    <Subsector Index="K">'iadplanz</Subsector>
+    <Subsector Index="L">Nziaa</Subsector>
+    <Subsector Index="M">Jiezzhanjonz</Subsector>
+    <Subsector Index="N">Shebntsachplants</Subsector>
+    <Subsector Index="O">Noknjilaf</Subsector>
+    <Subsector Index="P">Zdefrklensfrar</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

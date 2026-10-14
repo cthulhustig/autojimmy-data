@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Drebienzh</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-77</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Manzharim</Subsector>
+    <Subsector Index="B">Ianch</Subsector>
+    <Subsector Index="C">Dlantsia</Subsector>
+    <Subsector Index="D">Rervanzhe</Subsector>
+    <Subsector Index="E">Ieats</Subsector>
+    <Subsector Index="F">Zhikrlenzhants</Subsector>
+    <Subsector Index="G">Fiaenz</Subsector>
+    <Subsector Index="H">Ntsintsench</Subsector>
+    <Subsector Index="I">Sojnzheits</Subsector>
+    <Subsector Index="J">Chachibr</Subsector>
+    <Subsector Index="K">Ozhia</Subsector>
+    <Subsector Index="L">Alnsiafl</Subsector>
+    <Subsector Index="M">Bliedliachntsients</Subsector>
+    <Subsector Index="N">Ali</Subsector>
+    <Subsector Index="O">Fiavlensi</Subsector>
+    <Subsector Index="P">Nchole'</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

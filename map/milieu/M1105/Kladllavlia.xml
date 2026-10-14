@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kladllavlia</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-74</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dliantsnchiezhjar</Subsector>
+    <Subsector Index="B">Zhdevlblijnsosh</Subsector>
+    <Subsector Index="C">Floqrbranch</Subsector>
+    <Subsector Index="D">Shienchelfets</Subsector>
+    <Subsector Index="E">Bliavij</Subsector>
+    <Subsector Index="F">Shazzepl</Subsector>
+    <Subsector Index="G">Iqra</Subsector>
+    <Subsector Index="H">Ibivr</Subsector>
+    <Subsector Index="I">Chiazintsench</Subsector>
+    <Subsector Index="J">Jashnsianz</Subsector>
+    <Subsector Index="K">Flishchajdlench</Subsector>
+    <Subsector Index="L">Tlanzeiz</Subsector>
+    <Subsector Index="M">Pliafle</Subsector>
+    <Subsector Index="N">Zdaletsviesh</Subsector>
+    <Subsector Index="O">Farnjeva</Subsector>
+    <Subsector Index="P">Nzhiera</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

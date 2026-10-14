@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ialie</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-11</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chanseia</Subsector>
+    <Subsector Index="B">Riejie</Subsector>
+    <Subsector Index="C">Iflchoz</Subsector>
+    <Subsector Index="D">Shee</Subsector>
+    <Subsector Index="E">Ashianzh</Subsector>
+    <Subsector Index="F">Qlezedo</Subsector>
+    <Subsector Index="G">Sedlfeia</Subsector>
+    <Subsector Index="H">Nshiabraj</Subsector>
+    <Subsector Index="I">Lozhech</Subsector>
+    <Subsector Index="J">Niaqrplebribr</Subsector>
+    <Subsector Index="K">Ekekr</Subsector>
+    <Subsector Index="L">Staprvrenje</Subsector>
+    <Subsector Index="M">Sefrvinzhfri</Subsector>
+    <Subsector Index="N">Tsonztlrt</Subsector>
+    <Subsector Index="O">Ninchanchra</Subsector>
+    <Subsector Index="P">Stielivle</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

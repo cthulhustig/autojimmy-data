@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Qliantfriazhia</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-48</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zeblitsblinzh</Subsector>
+    <Subsector Index="B">Qraiedl</Subsector>
+    <Subsector Index="C">Drienjiafa</Subsector>
+    <Subsector Index="D">Nzenjebr</Subsector>
+    <Subsector Index="E">Qlanzhdiabledl</Subsector>
+    <Subsector Index="F">Sienchbralia</Subsector>
+    <Subsector Index="G">Fivrnjianzble</Subsector>
+    <Subsector Index="H">Chtitsentfriafl</Subsector>
+    <Subsector Index="I">Dlianzhliajbre</Subsector>
+    <Subsector Index="J">Tofem</Subsector>
+    <Subsector Index="K">Nezhzizhianz</Subsector>
+    <Subsector Index="L">Afldlafl</Subsector>
+    <Subsector Index="M">Shtenzhvriafrnzazh</Subsector>
+    <Subsector Index="N">Lavrnzha</Subsector>
+    <Subsector Index="O">Avlanz</Subsector>
+    <Subsector Index="P">Yaqriavliez</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

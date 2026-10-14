@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OrionOB1">
+  <Name>Alnilam</Name>
+  <Credits />
+  <X>7</X>
+  <Y>11</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

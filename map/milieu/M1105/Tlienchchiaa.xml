@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlienchchiaa</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-152</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Diekats</Subsector>
+    <Subsector Index="B">Tivllaja</Subsector>
+    <Subsector Index="C">Qiavrntodlef</Subsector>
+    <Subsector Index="D">Riebrensensh</Subsector>
+    <Subsector Index="E">Tledlvleblfaj</Subsector>
+    <Subsector Index="F">Nzhazdli</Subsector>
+    <Subsector Index="G">Intsant</Subsector>
+    <Subsector Index="H">Ninzhaia</Subsector>
+    <Subsector Index="I">Fashpliadriavl</Subsector>
+    <Subsector Index="J">Dlanzhieztli</Subsector>
+    <Subsector Index="K">Plansdrazh</Subsector>
+    <Subsector Index="L">Eshiebr</Subsector>
+    <Subsector Index="M">Zafle</Subsector>
+    <Subsector Index="N">Rezzhiepl</Subsector>
+    <Subsector Index="O">Eens</Subsector>
+    <Subsector Index="P">Zezbrie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chiakljenza</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-54</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Adrfebl</Subsector>
+    <Subsector Index="B">Ntazhnzal</Subsector>
+    <Subsector Index="C">Niezhefidl</Subsector>
+    <Subsector Index="D">Nzhinchkrip</Subsector>
+    <Subsector Index="E">Efo</Subsector>
+    <Subsector Index="F">Ielnjons</Subsector>
+    <Subsector Index="G">Undefinediazbreo</Subsector>
+    <Subsector Index="H">Zhidvansiedl</Subsector>
+    <Subsector Index="I">Chtiansiabrenzh</Subsector>
+    <Subsector Index="J">Tlietiplnchianch</Subsector>
+    <Subsector Index="K">Chevriakldrensh</Subsector>
+    <Subsector Index="L">Tlotlbriebrenj</Subsector>
+    <Subsector Index="M">Tliediadens</Subsector>
+    <Subsector Index="N">Zaflchantsflanch</Subsector>
+    <Subsector Index="O">Fiklnzhavntsiz</Subsector>
+    <Subsector Index="P">Inzhiet</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

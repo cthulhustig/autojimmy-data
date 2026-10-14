@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Qrekleflzhonzh</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-82</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdeplablbraz</Subsector>
+    <Subsector Index="B">Kiplinzia</Subsector>
+    <Subsector Index="C">Qoznsentsze</Subsector>
+    <Subsector Index="D">Tlozzhench</Subsector>
+    <Subsector Index="E">Tlivvianshtinj</Subsector>
+    <Subsector Index="F">Chanzqrodlikr</Subsector>
+    <Subsector Index="G">Tiabrbliekllafl</Subsector>
+    <Subsector Index="H">Iavrenz</Subsector>
+    <Subsector Index="I">Brabrfraklshakl</Subsector>
+    <Subsector Index="J">Shaprqraia</Subsector>
+    <Subsector Index="K">Flaprbrea</Subsector>
+    <Subsector Index="L">Ablzha</Subsector>
+    <Subsector Index="M">Nablzhavlmonz</Subsector>
+    <Subsector Index="N">Zdakrvrieiabr</Subsector>
+    <Subsector Index="O">Chiefriashplavr</Subsector>
+    <Subsector Index="P">Dlalel</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

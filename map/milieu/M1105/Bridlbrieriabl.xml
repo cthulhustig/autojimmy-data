@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Bridlbrieriabl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-172</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Efla</Subsector>
+    <Subsector Index="B">Chazprobriekl</Subsector>
+    <Subsector Index="C">Chivrzebrbrie</Subsector>
+    <Subsector Index="D">Bliblnziezie</Subsector>
+    <Subsector Index="E">Okra</Subsector>
+    <Subsector Index="F">Onjple</Subsector>
+    <Subsector Index="G">Tliezhnza</Subsector>
+    <Subsector Index="H">Vebrntsianjzhazh</Subsector>
+    <Subsector Index="I">Tsenzvliplplia</Subsector>
+    <Subsector Index="J">Kebrtiie</Subsector>
+    <Subsector Index="K">Flibrienchansh</Subsector>
+    <Subsector Index="L">Aadl</Subsector>
+    <Subsector Index="M">Nchatlfliefr</Subsector>
+    <Subsector Index="N">Fievrpriatlflie</Subsector>
+    <Subsector Index="O">Dlianshzekr</Subsector>
+    <Subsector Index="P">Driqroprnzhoj</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

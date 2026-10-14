@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Voi9">
+  <Name Source="Voidshore">Voidshore Eight</Name>
+  <Credits />
+  <X>-19</X>
+  <Y>13</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

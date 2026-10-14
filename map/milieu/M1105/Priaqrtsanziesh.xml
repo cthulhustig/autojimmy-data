@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Priaqrtsanziesh</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-82</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Shitlbliedets</Subsector>
+    <Subsector Index="B">Zhorvadl</Subsector>
+    <Subsector Index="C">Nienjnchobrntsosh</Subsector>
+    <Subsector Index="D">Vefzhaqrtsev</Subsector>
+    <Subsector Index="E">Ziklnzhens</Subsector>
+    <Subsector Index="F">Pafets</Subsector>
+    <Subsector Index="G">Tlatsabri</Subsector>
+    <Subsector Index="H">Prazhejiabr</Subsector>
+    <Subsector Index="I">Shtedliemients</Subsector>
+    <Subsector Index="J">Qriae</Subsector>
+    <Subsector Index="K">Dlieshchazia</Subsector>
+    <Subsector Index="L">Ziprtsierlanch</Subsector>
+    <Subsector Index="M">Ieibr</Subsector>
+    <Subsector Index="N">Fliblaqr</Subsector>
+    <Subsector Index="O">Ikltsil</Subsector>
+    <Subsector Index="P">Flie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

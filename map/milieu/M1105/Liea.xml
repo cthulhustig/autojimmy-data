@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Liea</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-138</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tlensnchianzh</Subsector>
+    <Subsector Index="B">Friklliafr</Subsector>
+    <Subsector Index="C">Flashbrizh</Subsector>
+    <Subsector Index="D">Biansfedlie</Subsector>
+    <Subsector Index="E">Aiapl</Subsector>
+    <Subsector Index="F">Dlianzmoqr</Subsector>
+    <Subsector Index="G">Nsiana</Subsector>
+    <Subsector Index="H">Tiakedla</Subsector>
+    <Subsector Index="I">Fimbrafredr</Subsector>
+    <Subsector Index="J">Chenzhechabr</Subsector>
+    <Subsector Index="K">Zelokl</Subsector>
+    <Subsector Index="L">Nzhiensopl</Subsector>
+    <Subsector Index="M">Driesh</Subsector>
+    <Subsector Index="N">Alnzhaz</Subsector>
+    <Subsector Index="O">Tsipli</Subsector>
+    <Subsector Index="P">Renzhntsansia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

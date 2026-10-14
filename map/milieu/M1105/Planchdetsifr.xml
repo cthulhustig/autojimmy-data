@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Planchdetsifr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-76</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Stianshee</Subsector>
+    <Subsector Index="B">Sianzjiejia</Subsector>
+    <Subsector Index="C">Plefliaklnza</Subsector>
+    <Subsector Index="D">Qlozieiepl</Subsector>
+    <Subsector Index="E">Kievreedl</Subsector>
+    <Subsector Index="F">Evafr</Subsector>
+    <Subsector Index="G">Ntsetsopl</Subsector>
+    <Subsector Index="H">No'zhable</Subsector>
+    <Subsector Index="I">Eva'</Subsector>
+    <Subsector Index="J">Rovltlanzhienj</Subsector>
+    <Subsector Index="K">Njiezntsianz</Subsector>
+    <Subsector Index="L">Etsvripr</Subsector>
+    <Subsector Index="M">Zhiplvietlzi</Subsector>
+    <Subsector Index="N">Nebrii</Subsector>
+    <Subsector Index="O">Seshbrizhprienzh</Subsector>
+    <Subsector Index="P">Vlainj</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Yask">
+  <Name Source="The Core Route Project">Yasktier</Name>
+  <Credits />
+  <X>12</X>
+  <Y>13</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

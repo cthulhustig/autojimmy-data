@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Reft">
+  <Name>Reft</Name>
+  <Name>Reft Sector</Name>
+  <Name Lang="vi">Sushinar</Name>
+  <Credits />
+  <X>-3</X>
+  <Y>0</Y>
+  <DataFile Milieu="IW" />
+  <Subsectors />
+  <Allegiances>
+    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="ZS">Ziru Sirka</Allegiance>
+  </Allegiances>
+  <Borders>
+    <Border Color="Red" Allegiance="ZS" LabelPosition="2835">2337 2436 2435 2536 2636 2737 2837 2838 2939 3038 3037 3036 3035 2935 2834 2833 2733 2832 2932 2931 2930 3029 3028 3128 3129 3229 3330 3331 3332 3333 3334 3335 3336 3337 3338 3339 3340 3341 3241 3141 3041 2941 2841 2741 2640 2540 2539 2538 2537 2436 2337</Border>
+  </Borders>
+</Sector>

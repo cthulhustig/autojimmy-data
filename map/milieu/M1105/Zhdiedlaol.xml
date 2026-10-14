@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhdiedlaol</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-148</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Qravriedvopr</Subsector>
+    <Subsector Index="B">Iavriedl</Subsector>
+    <Subsector Index="C">Nieiezh</Subsector>
+    <Subsector Index="D">Fichabla</Subsector>
+    <Subsector Index="E">Jdopliazhfrians</Subsector>
+    <Subsector Index="F">Flaiench</Subsector>
+    <Subsector Index="G">Nchei</Subsector>
+    <Subsector Index="H">Riref</Subsector>
+    <Subsector Index="I">Jeflnziebrnziej</Subsector>
+    <Subsector Index="J">Zdavrnzejnshevl</Subsector>
+    <Subsector Index="K">Tsiazhoie</Subsector>
+    <Subsector Index="L">Fliedra</Subsector>
+    <Subsector Index="M">Shiapiae</Subsector>
+    <Subsector Index="N">Zazhnzodria</Subsector>
+    <Subsector Index="O">Zhiadiants</Subsector>
+    <Subsector Index="P">Viashosh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

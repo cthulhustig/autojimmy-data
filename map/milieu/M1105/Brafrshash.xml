@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Brafrshash</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-155</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nzatschezh</Subsector>
+    <Subsector Index="B">Cheens</Subsector>
+    <Subsector Index="C">Iejiavr</Subsector>
+    <Subsector Index="D">Tsiansdlo</Subsector>
+    <Subsector Index="E">Zhdebrnzojech</Subsector>
+    <Subsector Index="F">Teplazhie</Subsector>
+    <Subsector Index="G">Zhanjdlienzej</Subsector>
+    <Subsector Index="H">Blachpraba</Subsector>
+    <Subsector Index="I">Tlensmesha</Subsector>
+    <Subsector Index="J">Iazhir</Subsector>
+    <Subsector Index="K">Edlblets</Subsector>
+    <Subsector Index="L">Zhoblbleflpiavr</Subsector>
+    <Subsector Index="M">Nzablia</Subsector>
+    <Subsector Index="N">Tsobrriablr</Subsector>
+    <Subsector Index="O">Nshiaqrfa</Subsector>
+    <Subsector Index="P">Nieblntsiavriabl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

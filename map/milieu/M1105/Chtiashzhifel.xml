@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chtiashzhifel</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-45</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Drnjdribrel</Subsector>
+    <Subsector Index="B">Jdiezianjiet</Subsector>
+    <Subsector Index="C">Britblienchiam</Subsector>
+    <Subsector Index="D">Tsieratlebr</Subsector>
+    <Subsector Index="E">Tifplivr</Subsector>
+    <Subsector Index="F">Enchfreb</Subsector>
+    <Subsector Index="G">Iansil</Subsector>
+    <Subsector Index="H">Dlitszhiekrbla</Subsector>
+    <Subsector Index="I">Edrfrovr</Subsector>
+    <Subsector Index="J">Tienshenj</Subsector>
+    <Subsector Index="K">Ntsatlefl</Subsector>
+    <Subsector Index="L">Pliadlozhkresh</Subsector>
+    <Subsector Index="M">Efrakr</Subsector>
+    <Subsector Index="N">Ipre</Subsector>
+    <Subsector Index="O">Diza</Subsector>
+    <Subsector Index="P">Sherchincha</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

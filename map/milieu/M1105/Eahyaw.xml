@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Eahy">
+  <Name Lang="as">Eahyaw</Name>
+  <Credits />
+  <X>-5</X>
+  <Y>6</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

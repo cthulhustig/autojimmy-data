@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Shovrnchee</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-69</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Lablncha</Subsector>
+    <Subsector Index="B">Undefinedeznjitbleqr</Subsector>
+    <Subsector Index="C">Ashinch</Subsector>
+    <Subsector Index="D">Tsadoblie</Subsector>
+    <Subsector Index="E">Tlenzhkleia</Subsector>
+    <Subsector Index="F">Zdijoafl</Subsector>
+    <Subsector Index="G">Tebrfriaanzh</Subsector>
+    <Subsector Index="H">Qriablilnzians</Subsector>
+    <Subsector Index="I">Peshtlamflia</Subsector>
+    <Subsector Index="J">Plebltlebre</Subsector>
+    <Subsector Index="K">Enshdrie</Subsector>
+    <Subsector Index="L">Chedlmaflepl</Subsector>
+    <Subsector Index="M">Brinsfedre</Subsector>
+    <Subsector Index="N">Zdiaplkanzhia</Subsector>
+    <Subsector Index="O">Chtieshblieblchiekr</Subsector>
+    <Subsector Index="P">Tsopliekrieqr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

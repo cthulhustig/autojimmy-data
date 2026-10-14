@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Priadezer</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-72</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Shentsanchebr</Subsector>
+    <Subsector Index="B">Undefinedazhetlchafl</Subsector>
+    <Subsector Index="C">Stakriatsiats</Subsector>
+    <Subsector Index="D">Ianzhe</Subsector>
+    <Subsector Index="E">Chasheprebr</Subsector>
+    <Subsector Index="F">Ka'tavro</Subsector>
+    <Subsector Index="G">Nianjjiplits</Subsector>
+    <Subsector Index="H">Klidfiaplepr</Subsector>
+    <Subsector Index="I">Zdafrjansfle</Subsector>
+    <Subsector Index="J">Liedlnshapl</Subsector>
+    <Subsector Index="K">Tsazhdlijdle</Subsector>
+    <Subsector Index="L">Zdanzhnchoplnzhij</Subsector>
+    <Subsector Index="M">Pedlzhabo</Subsector>
+    <Subsector Index="N">Prachlee</Subsector>
+    <Subsector Index="O">Nsekrad</Subsector>
+    <Subsector Index="P">Shonshdintsiv</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

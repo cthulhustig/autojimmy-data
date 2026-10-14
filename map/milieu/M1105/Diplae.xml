@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Diplae</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-22</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ojtsent</Subsector>
+    <Subsector Index="B">Iazhev</Subsector>
+    <Subsector Index="C">Chtienemenzh</Subsector>
+    <Subsector Index="D">Iflie</Subsector>
+    <Subsector Index="E">Yadijents</Subsector>
+    <Subsector Index="F">Zhdabrniekldief</Subsector>
+    <Subsector Index="G">Azej</Subsector>
+    <Subsector Index="H">Ionz</Subsector>
+    <Subsector Index="I">Chtivlense</Subsector>
+    <Subsector Index="J">Nsentqrie</Subsector>
+    <Subsector Index="K">Tlochinjezh</Subsector>
+    <Subsector Index="L">Lea</Subsector>
+    <Subsector Index="M">Qrerinj</Subsector>
+    <Subsector Index="N">Kiziebrefl</Subsector>
+    <Subsector Index="O">Stiezhtseshi</Subsector>
+    <Subsector Index="P">Brablesh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

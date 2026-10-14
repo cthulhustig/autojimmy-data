@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Wild">
+  <Name Source="The Far Side of Nowhere">Wilderlands</Name>
+  <Credits />
+  <X>-18</X>
+  <Y>7</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

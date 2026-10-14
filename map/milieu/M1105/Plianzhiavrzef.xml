@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Plianzhiavrzef</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-119</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Enchar</Subsector>
+    <Subsector Index="B">Fieiadl</Subsector>
+    <Subsector Index="C">Pinzhflijash</Subsector>
+    <Subsector Index="D">Ezhi</Subsector>
+    <Subsector Index="E">Drebtsonsnjibr</Subsector>
+    <Subsector Index="F">Shotdliavlde</Subsector>
+    <Subsector Index="G">Breflntsiadl</Subsector>
+    <Subsector Index="H">Frichtiel</Subsector>
+    <Subsector Index="I">Drafrblez</Subsector>
+    <Subsector Index="J">Kiple</Subsector>
+    <Subsector Index="K">Piblialiazh</Subsector>
+    <Subsector Index="L">Imi</Subsector>
+    <Subsector Index="M">Netifrvlokl</Subsector>
+    <Subsector Index="N">Zhifntsiedl</Subsector>
+    <Subsector Index="O">Chtanzhfriaklants</Subsector>
+    <Subsector Index="P">Nzhenchez</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

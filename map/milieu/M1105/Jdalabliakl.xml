@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Jdalabliakl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-12</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Petazdri</Subsector>
+    <Subsector Index="B">Driezloents</Subsector>
+    <Subsector Index="C">Shieltlaknshar</Subsector>
+    <Subsector Index="D">Pliflbrianshnchavr</Subsector>
+    <Subsector Index="E">Brenzobriavl</Subsector>
+    <Subsector Index="F">Flianjazh</Subsector>
+    <Subsector Index="G">Ntalni</Subsector>
+    <Subsector Index="H">Nanzhbleshprebr</Subsector>
+    <Subsector Index="I">Chtodlzelints</Subsector>
+    <Subsector Index="J">Mezitench</Subsector>
+    <Subsector Index="K">Chenzhsha</Subsector>
+    <Subsector Index="L">Dlatszhifrbla</Subsector>
+    <Subsector Index="M">Praldlaets</Subsector>
+    <Subsector Index="N">Zhdiadliaa</Subsector>
+    <Subsector Index="O">Yiadlzodnze</Subsector>
+    <Subsector Index="P">Zhanchie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tenzhnsema</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-22</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdaklpreklbriefr</Subsector>
+    <Subsector Index="B">Nienzhekldadl</Subsector>
+    <Subsector Index="C">Ilie</Subsector>
+    <Subsector Index="D">Freshtsentsdosh</Subsector>
+    <Subsector Index="E">Shtiakotsebr</Subsector>
+    <Subsector Index="F">Edlntso</Subsector>
+    <Subsector Index="G">Frafrifed</Subsector>
+    <Subsector Index="H">Ivret</Subsector>
+    <Subsector Index="I">Briavlieozh</Subsector>
+    <Subsector Index="J">Chinshibrjefl</Subsector>
+    <Subsector Index="K">Iazhzats</Subsector>
+    <Subsector Index="L">Zhdenchzajchezh</Subsector>
+    <Subsector Index="M">Chtachvafa</Subsector>
+    <Subsector Index="N">Eevr</Subsector>
+    <Subsector Index="O">Starbrivanch</Subsector>
+    <Subsector Index="P">Ntsekdriej</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

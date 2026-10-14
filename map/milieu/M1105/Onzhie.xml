@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Onzhie</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-61</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Klidlbivl</Subsector>
+    <Subsector Index="B">Stoklbrinzhnsenzh</Subsector>
+    <Subsector Index="C">Tsenzieklchia</Subsector>
+    <Subsector Index="D">Nchiekrivl</Subsector>
+    <Subsector Index="E">Frafle</Subsector>
+    <Subsector Index="F">Plovlchielkli</Subsector>
+    <Subsector Index="G">Nenzhderia</Subsector>
+    <Subsector Index="H">Prentsvliavrshe</Subsector>
+    <Subsector Index="I">Vriakrie</Subsector>
+    <Subsector Index="J">Nchevral</Subsector>
+    <Subsector Index="K">Nzhechchens</Subsector>
+    <Subsector Index="L">Eadr</Subsector>
+    <Subsector Index="M">Evlazh</Subsector>
+    <Subsector Index="N">Qradrrabrnchiv</Subsector>
+    <Subsector Index="O">Vlalesh</Subsector>
+    <Subsector Index="P">Aipr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

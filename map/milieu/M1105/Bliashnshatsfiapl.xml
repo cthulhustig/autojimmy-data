@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Bliashnshatsfiapl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-128</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Etsonj</Subsector>
+    <Subsector Index="B">Chiazji</Subsector>
+    <Subsector Index="C">Ontso</Subsector>
+    <Subsector Index="D">Zitse</Subsector>
+    <Subsector Index="E">Prerzodlpriez</Subsector>
+    <Subsector Index="F">Tanchblanzhfij</Subsector>
+    <Subsector Index="G">Brikabr</Subsector>
+    <Subsector Index="H">Tlaplakl'az</Subsector>
+    <Subsector Index="I">Bliechakrdebl</Subsector>
+    <Subsector Index="J">Shaklnzanj</Subsector>
+    <Subsector Index="K">Zhdafeshbre</Subsector>
+    <Subsector Index="L">Shemach</Subsector>
+    <Subsector Index="M">Tlieiepr</Subsector>
+    <Subsector Index="N">Fashshipi</Subsector>
+    <Subsector Index="O">Chtefbrienzhbriach</Subsector>
+    <Subsector Index="P">Zhdifafe</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

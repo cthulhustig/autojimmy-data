@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tliafklozhmiafr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-19</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Idre</Subsector>
+    <Subsector Index="B">Bantsaodl</Subsector>
+    <Subsector Index="C">Fetlvrae</Subsector>
+    <Subsector Index="D">Shtiflii</Subsector>
+    <Subsector Index="E">Debraziash</Subsector>
+    <Subsector Index="F">Rechnzhiee</Subsector>
+    <Subsector Index="G">Nchontsebl</Subsector>
+    <Subsector Index="H">Prianjienoj</Subsector>
+    <Subsector Index="I">Ifliets</Subsector>
+    <Subsector Index="J">Dliensbriansh</Subsector>
+    <Subsector Index="K">Blanttseblonj</Subsector>
+    <Subsector Index="L">Feta</Subsector>
+    <Subsector Index="M">Dlrbrtlinzits</Subsector>
+    <Subsector Index="N">Zdianchaafr</Subsector>
+    <Subsector Index="O">Ivvledr</Subsector>
+    <Subsector Index="P">Bratsvrezhi</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Fiefra</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-116</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdechakrench</Subsector>
+    <Subsector Index="B">Jedlprejplav</Subsector>
+    <Subsector Index="C">Obrens</Subsector>
+    <Subsector Index="D">Chtiajsheshiats</Subsector>
+    <Subsector Index="E">Rinzbrensho</Subsector>
+    <Subsector Index="F">Zhdienzheplki</Subsector>
+    <Subsector Index="G">Vroshviats</Subsector>
+    <Subsector Index="H">Radrintsi</Subsector>
+    <Subsector Index="I">Bleblibr</Subsector>
+    <Subsector Index="J">Ntianshevl</Subsector>
+    <Subsector Index="K">Tliazabliepl</Subsector>
+    <Subsector Index="L">Alans</Subsector>
+    <Subsector Index="M">Shizhvrich</Subsector>
+    <Subsector Index="N">Inzshapr</Subsector>
+    <Subsector Index="O">Frepliei</Subsector>
+    <Subsector Index="P">Eblbriapl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

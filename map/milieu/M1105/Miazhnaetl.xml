@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Miazhnaetl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-9</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Shtiajnzheiaz</Subsector>
+    <Subsector Index="B">Chtovria</Subsector>
+    <Subsector Index="C">Fieldliblntsots</Subsector>
+    <Subsector Index="D">Fiatltsizhria</Subsector>
+    <Subsector Index="E">Jdierijblekr</Subsector>
+    <Subsector Index="F">Joliantsen</Subsector>
+    <Subsector Index="G">Maflepl</Subsector>
+    <Subsector Index="H">Appli</Subsector>
+    <Subsector Index="I">Nadrbrezhazh</Subsector>
+    <Subsector Index="J">Jdedkenzrivr</Subsector>
+    <Subsector Index="K">Qlianchdiefzie</Subsector>
+    <Subsector Index="L">Yianjeevl</Subsector>
+    <Subsector Index="M">Qlielapriapl</Subsector>
+    <Subsector Index="N">Anjqri</Subsector>
+    <Subsector Index="O">Bravrkrefldrets</Subsector>
+    <Subsector Index="P">Dianzhfole</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nshea</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-107</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Refntantpla</Subsector>
+    <Subsector Index="B">Chozblel</Subsector>
+    <Subsector Index="C">Chinchablinsh</Subsector>
+    <Subsector Index="D">Azhra</Subsector>
+    <Subsector Index="E">Chenchadlzher</Subsector>
+    <Subsector Index="F">Dlaflachivr</Subsector>
+    <Subsector Index="G">Blianzhabrntavl</Subsector>
+    <Subsector Index="H">Jdanchiadliap</Subsector>
+    <Subsector Index="I">Eshians</Subsector>
+    <Subsector Index="J">Efekl</Subsector>
+    <Subsector Index="K">Stobrshiebrde</Subsector>
+    <Subsector Index="L">Nieransabl</Subsector>
+    <Subsector Index="M">Zitseiedl</Subsector>
+    <Subsector Index="N">Fanzazhevr</Subsector>
+    <Subsector Index="O">Fansflonjzetl</Subsector>
+    <Subsector Index="P">Nchalie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

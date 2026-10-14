@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ieplqriedl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-13</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dochiaiash</Subsector>
+    <Subsector Index="B">Stienchrazchech</Subsector>
+    <Subsector Index="C">Dlonchnchiazhints</Subsector>
+    <Subsector Index="D">Flanjzhiantstsa</Subsector>
+    <Subsector Index="E">Reshvlizh</Subsector>
+    <Subsector Index="F">Nazbredie</Subsector>
+    <Subsector Index="G">Bieleshants</Subsector>
+    <Subsector Index="H">Frezieple</Subsector>
+    <Subsector Index="I">Anztsevl</Subsector>
+    <Subsector Index="J">Feshich</Subsector>
+    <Subsector Index="K">Ofenz</Subsector>
+    <Subsector Index="L">Ieriafr</Subsector>
+    <Subsector Index="M">Anchiam</Subsector>
+    <Subsector Index="N">Fantsshevl</Subsector>
+    <Subsector Index="O">Nchenzhchapr</Subsector>
+    <Subsector Index="P">Adrtinch</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nchiekle</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-40</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Echnchevl</Subsector>
+    <Subsector Index="B">Tsanzhnjiqr</Subsector>
+    <Subsector Index="C">Fezdli</Subsector>
+    <Subsector Index="D">Ablem</Subsector>
+    <Subsector Index="E">Nzharef</Subsector>
+    <Subsector Index="F">Zdoshdlatsblie</Subsector>
+    <Subsector Index="G">Dafvla</Subsector>
+    <Subsector Index="H">Chabradla</Subsector>
+    <Subsector Index="I">Plablnar</Subsector>
+    <Subsector Index="J">Intscho</Subsector>
+    <Subsector Index="K">Drakvriaziets</Subsector>
+    <Subsector Index="L">Qenzbliblie</Subsector>
+    <Subsector Index="M">Zhdavrtsieach</Subsector>
+    <Subsector Index="N">Vinzhblakl</Subsector>
+    <Subsector Index="O">Ierklansh</Subsector>
+    <Subsector Index="P">Dadrive</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

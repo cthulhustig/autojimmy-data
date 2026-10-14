@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Shtazheo</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-117</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Viofr</Subsector>
+    <Subsector Index="B">Brieznchrnzhnsants</Subsector>
+    <Subsector Index="C">Ieenzh</Subsector>
+    <Subsector Index="D">Fe'zhatsshr</Subsector>
+    <Subsector Index="E">Vianshi</Subsector>
+    <Subsector Index="F">Nodlflea</Subsector>
+    <Subsector Index="G">Iebretl</Subsector>
+    <Subsector Index="H">Sozhfrofa</Subsector>
+    <Subsector Index="I">Aabl</Subsector>
+    <Subsector Index="J">Zhachappliapl</Subsector>
+    <Subsector Index="K">Zdiproflchiazh</Subsector>
+    <Subsector Index="L">Tadlnzhee</Subsector>
+    <Subsector Index="M">Zienjiar</Subsector>
+    <Subsector Index="N">Brichnjizo</Subsector>
+    <Subsector Index="O">Viefre</Subsector>
+    <Subsector Index="P">Ntieliafl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Pazhialnshiats</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-74</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Stabnsezkokl</Subsector>
+    <Subsector Index="B">Ietlesh</Subsector>
+    <Subsector Index="C">Shiachedia</Subsector>
+    <Subsector Index="D">Zdejiatsia</Subsector>
+    <Subsector Index="E">Netlonje</Subsector>
+    <Subsector Index="F">Ntetsiensh</Subsector>
+    <Subsector Index="G">Jekrevlie</Subsector>
+    <Subsector Index="H">Qetsnseprezh</Subsector>
+    <Subsector Index="I">Stadlzibriek</Subsector>
+    <Subsector Index="J">Tsiaklnzipla</Subsector>
+    <Subsector Index="K">Antsabl</Subsector>
+    <Subsector Index="L">Fejapltsib</Subsector>
+    <Subsector Index="M">Enchqria</Subsector>
+    <Subsector Index="N">Sevrleje</Subsector>
+    <Subsector Index="O">Chtiapleie</Subsector>
+    <Subsector Index="P">Aklchief</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

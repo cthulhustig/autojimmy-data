@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Fezenzhplens</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-40</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Evepl</Subsector>
+    <Subsector Index="B">Drejtseblebl</Subsector>
+    <Subsector Index="C">Chiantsdefi</Subsector>
+    <Subsector Index="D">Krenzhablkli</Subsector>
+    <Subsector Index="E">Flekldriblblekl</Subsector>
+    <Subsector Index="F">Mia</Subsector>
+    <Subsector Index="G">Naflitebl</Subsector>
+    <Subsector Index="H">Chtienjiabria</Subsector>
+    <Subsector Index="I">Nchedflints</Subsector>
+    <Subsector Index="J">Ntsiabliabl</Subsector>
+    <Subsector Index="K">Zdiaventianzh</Subsector>
+    <Subsector Index="L">Undefinedevrreech</Subsector>
+    <Subsector Index="M">Dliefrzienjvieqr</Subsector>
+    <Subsector Index="N">Ansa</Subsector>
+    <Subsector Index="O">Ianchdle</Subsector>
+    <Subsector Index="P">Evlenz</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

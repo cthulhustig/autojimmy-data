@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlakliri</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-162</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ianzie</Subsector>
+    <Subsector Index="B">Blanansaz</Subsector>
+    <Subsector Index="C">Paplnsekla</Subsector>
+    <Subsector Index="D">Shtianzhfaiats</Subsector>
+    <Subsector Index="E">Dralviechiazh</Subsector>
+    <Subsector Index="F">Selieanz</Subsector>
+    <Subsector Index="G">Veflkliaezh</Subsector>
+    <Subsector Index="H">Iafkianz</Subsector>
+    <Subsector Index="I">Blefrdieie</Subsector>
+    <Subsector Index="J">Kanjnzenjkrapl</Subsector>
+    <Subsector Index="K">Datsonje</Subsector>
+    <Subsector Index="L">Tsarlinte</Subsector>
+    <Subsector Index="M">Plievrfledliaz</Subsector>
+    <Subsector Index="N">Iezietl</Subsector>
+    <Subsector Index="O">Anseb</Subsector>
+    <Subsector Index="P">Arntsianch</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

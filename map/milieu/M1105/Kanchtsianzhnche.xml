@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kanchtsianzhnche</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-135</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Keklblanchri</Subsector>
+    <Subsector Index="B">Tsia</Subsector>
+    <Subsector Index="C">Nsebro</Subsector>
+    <Subsector Index="D">Dliapliflre</Subsector>
+    <Subsector Index="E">Itlchianch</Subsector>
+    <Subsector Index="F">Zebrapl</Subsector>
+    <Subsector Index="G">Izhekl</Subsector>
+    <Subsector Index="H">Zditlajof</Subsector>
+    <Subsector Index="I">Chabrvats</Subsector>
+    <Subsector Index="J">Kiapliense</Subsector>
+    <Subsector Index="K">Kafieblizh</Subsector>
+    <Subsector Index="L">Chedrnzozho</Subsector>
+    <Subsector Index="M">Zhenjianj</Subsector>
+    <Subsector Index="N">Vielnsovlifr</Subsector>
+    <Subsector Index="O">Flidklekle</Subsector>
+    <Subsector Index="P">Teshbraflia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

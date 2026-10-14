@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Shantsnzekrradl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-170</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chapa</Subsector>
+    <Subsector Index="B">Daplniaqre</Subsector>
+    <Subsector Index="C">Qlalee</Subsector>
+    <Subsector Index="D">Zholera</Subsector>
+    <Subsector Index="E">Blivriabrzhiench</Subsector>
+    <Subsector Index="F">Diaklqrifr</Subsector>
+    <Subsector Index="G">Sheiz</Subsector>
+    <Subsector Index="H">Devrenzhnzoz</Subsector>
+    <Subsector Index="I">Tlinzvivla</Subsector>
+    <Subsector Index="J">Zazrazhet</Subsector>
+    <Subsector Index="K">Pranshie</Subsector>
+    <Subsector Index="L">Qliezvaflvle</Subsector>
+    <Subsector Index="M">Sivanchiats</Subsector>
+    <Subsector Index="N">Kapiaebl</Subsector>
+    <Subsector Index="O">Dlitsaklnsa</Subsector>
+    <Subsector Index="P">Sheshekr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

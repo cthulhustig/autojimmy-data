@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Uroa">
+  <Name Lang="hv">Uroac</Name>
+  <Credits />
+  <X>2</X>
+  <Y>7</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

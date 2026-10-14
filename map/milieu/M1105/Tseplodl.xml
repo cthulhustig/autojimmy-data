@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tseplodl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-175</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chtensibria</Subsector>
+    <Subsector Index="B">Fefienz</Subsector>
+    <Subsector Index="C">Eploz</Subsector>
+    <Subsector Index="D">Fliafnchech</Subsector>
+    <Subsector Index="E">Dreplbapvaz</Subsector>
+    <Subsector Index="F">Biedlnzhieqre</Subsector>
+    <Subsector Index="G">Chtietnsazapl</Subsector>
+    <Subsector Index="H">Tliie</Subsector>
+    <Subsector Index="I">Tliapraplvraz</Subsector>
+    <Subsector Index="J">Frenchebridr</Subsector>
+    <Subsector Index="K">Tsenchienshiansh</Subsector>
+    <Subsector Index="L">'iafrncheqr</Subsector>
+    <Subsector Index="M">Vliajavl</Subsector>
+    <Subsector Index="N">Enzhfrit</Subsector>
+    <Subsector Index="O">Chishiechiatl</Subsector>
+    <Subsector Index="P">Nzhiensnsia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Shebplaf</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-130</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdivlicham</Subsector>
+    <Subsector Index="B">Nshinsazh</Subsector>
+    <Subsector Index="C">Jiazzheents</Subsector>
+    <Subsector Index="D">Kedlblanzhel</Subsector>
+    <Subsector Index="E">Toniblia</Subsector>
+    <Subsector Index="F">Avrqra</Subsector>
+    <Subsector Index="G">Shtedntsiai</Subsector>
+    <Subsector Index="H">Iblvobl</Subsector>
+    <Subsector Index="I">Mieiabl</Subsector>
+    <Subsector Index="J">Fiafra</Subsector>
+    <Subsector Index="K">Zdenshifreqr</Subsector>
+    <Subsector Index="L">Ieiak</Subsector>
+    <Subsector Index="M">Qlantfansfiaz</Subsector>
+    <Subsector Index="N">Zdiazhakloj</Subsector>
+    <Subsector Index="O">Pibliatsianch</Subsector>
+    <Subsector Index="P">Topltlie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kranjvlie</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-52</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ishenzh</Subsector>
+    <Subsector Index="B">Klanzhi</Subsector>
+    <Subsector Index="C">Koplib</Subsector>
+    <Subsector Index="D">Tliabltlieie</Subsector>
+    <Subsector Index="E">Tlevrpradlnzhapl</Subsector>
+    <Subsector Index="F">Drizbredlie</Subsector>
+    <Subsector Index="G">Zenzhier</Subsector>
+    <Subsector Index="H">Chojibe</Subsector>
+    <Subsector Index="I">Aiants</Subsector>
+    <Subsector Index="J">Dlianchnzavrpla</Subsector>
+    <Subsector Index="K">Kleklfinchaqr</Subsector>
+    <Subsector Index="L">Vrienchnzecha</Subsector>
+    <Subsector Index="M">Qliefbra'nziez</Subsector>
+    <Subsector Index="N">Tliashrnzhlozh</Subsector>
+    <Subsector Index="O">Stiepdee</Subsector>
+    <Subsector Index="P">Ienzabr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

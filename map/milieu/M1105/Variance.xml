@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Vari">
+  <Name Source="Rim Expeditions">Variance</Name>
+  <Credits />
+  <X>-1</X>
+  <Y>10</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

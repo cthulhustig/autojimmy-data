@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Sefqrefiabl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-66</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fladltia</Subsector>
+    <Subsector Index="B">Datsshielel</Subsector>
+    <Subsector Index="C">Neltsamdli</Subsector>
+    <Subsector Index="D">Zinchbloshpla</Subsector>
+    <Subsector Index="E">Ebrbriakl</Subsector>
+    <Subsector Index="F">Riachnshiblshez</Subsector>
+    <Subsector Index="G">Lepe</Subsector>
+    <Subsector Index="H">Chtieshfriblshish</Subsector>
+    <Subsector Index="I">Chievlilo</Subsector>
+    <Subsector Index="J">Zdatsnzhinchkladl</Subsector>
+    <Subsector Index="K">Drieliakrfli</Subsector>
+    <Subsector Index="L">Plimshiaplafl</Subsector>
+    <Subsector Index="M">Plerjenzh</Subsector>
+    <Subsector Index="N">Enshshebr</Subsector>
+    <Subsector Index="O">Dlentsalzefl</Subsector>
+    <Subsector Index="P">Onzif</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

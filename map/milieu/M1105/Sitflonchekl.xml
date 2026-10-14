@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Sitflonchekl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-95</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Briadrafrtsiz</Subsector>
+    <Subsector Index="B">Stishzievle</Subsector>
+    <Subsector Index="C">Tebrefro</Subsector>
+    <Subsector Index="D">Bliantsekl</Subsector>
+    <Subsector Index="E">Ijiebr</Subsector>
+    <Subsector Index="F">Braapr</Subsector>
+    <Subsector Index="G">Ieblozh</Subsector>
+    <Subsector Index="H">Zeblfleil</Subsector>
+    <Subsector Index="I">Iansshie</Subsector>
+    <Subsector Index="J">Chiafltianzhranzh</Subsector>
+    <Subsector Index="K">Niprdladrzhiensh</Subsector>
+    <Subsector Index="L">Iantsdle</Subsector>
+    <Subsector Index="M">Tsafrvoplnzianch</Subsector>
+    <Subsector Index="N">Kefvlanchedr</Subsector>
+    <Subsector Index="O">Zdibrbrenchcha</Subsector>
+    <Subsector Index="P">Viafiach</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

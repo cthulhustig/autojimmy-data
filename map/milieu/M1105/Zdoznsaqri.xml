@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zdoznsaqri</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-86</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Akrlebl</Subsector>
+    <Subsector Index="B">Ieplnjifr</Subsector>
+    <Subsector Index="C">Tsebradlients</Subsector>
+    <Subsector Index="D">Nchao</Subsector>
+    <Subsector Index="E">Friprnjiam</Subsector>
+    <Subsector Index="F">Avrjia</Subsector>
+    <Subsector Index="G">Krobbrianchbra</Subsector>
+    <Subsector Index="H">Jezhdleak</Subsector>
+    <Subsector Index="I">Tlieshnjanzhdle</Subsector>
+    <Subsector Index="J">Flee</Subsector>
+    <Subsector Index="K">Tlaplvlenzhil</Subsector>
+    <Subsector Index="L">Zdiachzonsnchia</Subsector>
+    <Subsector Index="M">Ranjchiekldriazh</Subsector>
+    <Subsector Index="N">Titsjenzol</Subsector>
+    <Subsector Index="O">Torklantblikl</Subsector>
+    <Subsector Index="P">Tledotrbl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

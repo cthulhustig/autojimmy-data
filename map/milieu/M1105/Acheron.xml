@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Ache">
+  <Name Source="The Far Side of Nowhere">Acheron</Name>
+  <Credits />
+  <X>-22</X>
+  <Y>9</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ojbrevr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-115</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Shanzhianzhash</Subsector>
+    <Subsector Index="B">Nzezhpe</Subsector>
+    <Subsector Index="C">Inshenz</Subsector>
+    <Subsector Index="D">Nchafa</Subsector>
+    <Subsector Index="E">Brieliachdlianzh</Subsector>
+    <Subsector Index="F">Bonscheanch</Subsector>
+    <Subsector Index="G">Chteflvlaant</Subsector>
+    <Subsector Index="H">Bochchieil</Subsector>
+    <Subsector Index="I">Plivrblofie</Subsector>
+    <Subsector Index="J">Briavraz</Subsector>
+    <Subsector Index="K">Tsimtlat</Subsector>
+    <Subsector Index="L">Kefltlapre</Subsector>
+    <Subsector Index="M">Dlitsavlez</Subsector>
+    <Subsector Index="N">Nshanshtsiavr</Subsector>
+    <Subsector Index="O">Jiablante</Subsector>
+    <Subsector Index="P">Zhentstsiadlesh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

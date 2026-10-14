@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Prietsrebrpie</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-167</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Pinshea</Subsector>
+    <Subsector Index="B">Enchnchiek</Subsector>
+    <Subsector Index="C">Prizhit</Subsector>
+    <Subsector Index="D">Pifiansh</Subsector>
+    <Subsector Index="E">Zdiadlntsaplnjabr</Subsector>
+    <Subsector Index="F">Klefria</Subsector>
+    <Subsector Index="G">Avr'esh</Subsector>
+    <Subsector Index="H">Nenzflovltsapl</Subsector>
+    <Subsector Index="I">Dlanteshiebr</Subsector>
+    <Subsector Index="J">Pibrnshonchnjiafr</Subsector>
+    <Subsector Index="K">Zdeflflerabl</Subsector>
+    <Subsector Index="L">Stiajzeiavl</Subsector>
+    <Subsector Index="M">Chtiejplefriets</Subsector>
+    <Subsector Index="N">Fevlkiee</Subsector>
+    <Subsector Index="O">Pliadrzezaj</Subsector>
+    <Subsector Index="P">Dishnzishnzed</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

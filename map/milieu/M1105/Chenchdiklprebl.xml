@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chenchdiklprebl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-99</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Frozhnzhedlntsa</Subsector>
+    <Subsector Index="B">Ashfli</Subsector>
+    <Subsector Index="C">Tokennset</Subsector>
+    <Subsector Index="D">Nzheprnchonts</Subsector>
+    <Subsector Index="E">Zdanshdiae</Subsector>
+    <Subsector Index="F">Vovlanshiazh</Subsector>
+    <Subsector Index="G">Zhdiezhvreche</Subsector>
+    <Subsector Index="H">Ansdlie</Subsector>
+    <Subsector Index="I">Denzekli</Subsector>
+    <Subsector Index="J">Dliaqrlits</Subsector>
+    <Subsector Index="K">Vovriia</Subsector>
+    <Subsector Index="L">Lele</Subsector>
+    <Subsector Index="M">Ienzef</Subsector>
+    <Subsector Index="N">Briabla</Subsector>
+    <Subsector Index="O">Dliefifak</Subsector>
+    <Subsector Index="P">Izhzazh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

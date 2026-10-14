@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Izqri</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-174</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Iaflnta</Subsector>
+    <Subsector Index="B">Pratsevlash</Subsector>
+    <Subsector Index="C">Nziazetl</Subsector>
+    <Subsector Index="D">Ieja</Subsector>
+    <Subsector Index="E">Kanchevli</Subsector>
+    <Subsector Index="F">Nchiabrfra</Subsector>
+    <Subsector Index="G">Ati</Subsector>
+    <Subsector Index="H">Pezhinchi</Subsector>
+    <Subsector Index="I">Iere</Subsector>
+    <Subsector Index="J">Fieshienzhzhanzh</Subsector>
+    <Subsector Index="K">Tlentsiblkrepr</Subsector>
+    <Subsector Index="L">Insiapl</Subsector>
+    <Subsector Index="M">Opliedl</Subsector>
+    <Subsector Index="N">Chiaflzadlda</Subsector>
+    <Subsector Index="O">Tsizi</Subsector>
+    <Subsector Index="P">Shtieviae</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

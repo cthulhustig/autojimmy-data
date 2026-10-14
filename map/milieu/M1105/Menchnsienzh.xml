@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Menchnsienzh</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-89</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Jienshfiafra</Subsector>
+    <Subsector Index="B">Qezpriaam</Subsector>
+    <Subsector Index="C">Yinchnchizhlent</Subsector>
+    <Subsector Index="D">Steqrea'</Subsector>
+    <Subsector Index="E">Fiansia</Subsector>
+    <Subsector Index="F">Vle'vrianj</Subsector>
+    <Subsector Index="G">Ishpribr</Subsector>
+    <Subsector Index="H">Ochncha</Subsector>
+    <Subsector Index="I">Iliakl</Subsector>
+    <Subsector Index="J">Dlianchlishbraz</Subsector>
+    <Subsector Index="K">Tleanch</Subsector>
+    <Subsector Index="L">Nchapil</Subsector>
+    <Subsector Index="M">Flantsapl</Subsector>
+    <Subsector Index="N">Niakshech</Subsector>
+    <Subsector Index="O">Ntsavlnchebl</Subsector>
+    <Subsector Index="P">Epltief</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Bigi">
+  <Name Source="Voidshore">Big Island</Name>
+  <Credits />
+  <X>-15</X>
+  <Y>11</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

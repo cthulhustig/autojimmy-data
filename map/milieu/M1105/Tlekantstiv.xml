@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlekantstiv</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-86</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Jdielqrizridl</Subsector>
+    <Subsector Index="B">Dlanschinjo</Subsector>
+    <Subsector Index="C">Zdanzhfleble</Subsector>
+    <Subsector Index="D">Nsenzadr</Subsector>
+    <Subsector Index="E">Chiaiad</Subsector>
+    <Subsector Index="F">Ajepl</Subsector>
+    <Subsector Index="G">Nzhebrdlievl</Subsector>
+    <Subsector Index="H">Siabrnzhiaflo</Subsector>
+    <Subsector Index="I">Drilqrachprapl</Subsector>
+    <Subsector Index="J">Yetszhieve'</Subsector>
+    <Subsector Index="K">Vojeor</Subsector>
+    <Subsector Index="L">Chtianchnjeblbrepl</Subsector>
+    <Subsector Index="M">Zhdachinchbrovr</Subsector>
+    <Subsector Index="N">Fritsia</Subsector>
+    <Subsector Index="O">Sofincha</Subsector>
+    <Subsector Index="P">Driekzia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

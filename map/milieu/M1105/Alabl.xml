@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Alabl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-63</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Qreblie</Subsector>
+    <Subsector Index="B">Rbrdlo</Subsector>
+    <Subsector Index="C">Jajipvrants</Subsector>
+    <Subsector Index="D">Ivafr</Subsector>
+    <Subsector Index="E">Safrefa</Subsector>
+    <Subsector Index="F">Aakl</Subsector>
+    <Subsector Index="G">Etschadl</Subsector>
+    <Subsector Index="H">Yinchierfesh</Subsector>
+    <Subsector Index="I">Zhetszhiblav</Subsector>
+    <Subsector Index="J">Blafrlienjazh</Subsector>
+    <Subsector Index="K">Plilnzhiets</Subsector>
+    <Subsector Index="L">Klenchnta</Subsector>
+    <Subsector Index="M">Replobl</Subsector>
+    <Subsector Index="N">Enchlr</Subsector>
+    <Subsector Index="O">Dlotblevrebl</Subsector>
+    <Subsector Index="P">Chtivfliansnjekl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

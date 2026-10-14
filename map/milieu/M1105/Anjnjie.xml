@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Anjnjie</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-56</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kiantsolints</Subsector>
+    <Subsector Index="B">Rieflonch</Subsector>
+    <Subsector Index="C">Nziche</Subsector>
+    <Subsector Index="D">Klishachiaqr</Subsector>
+    <Subsector Index="E">Chablvensqrifl</Subsector>
+    <Subsector Index="F">Iavriepr</Subsector>
+    <Subsector Index="G">Rinshiefe</Subsector>
+    <Subsector Index="H">Viantsmenziedl</Subsector>
+    <Subsector Index="I">Ziensdlatlanzh</Subsector>
+    <Subsector Index="J">Nchachvliev</Subsector>
+    <Subsector Index="K">Biebriea</Subsector>
+    <Subsector Index="L">Nzeze</Subsector>
+    <Subsector Index="M">Achonz</Subsector>
+    <Subsector Index="N">Shechklabra</Subsector>
+    <Subsector Index="O">Fiashnchinj</Subsector>
+    <Subsector Index="P">Iaplze</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OrionOB1">
+  <Name>Phi-1 Orionis</Name>
+  <Credits />
+  <X>7</X>
+  <Y>10</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

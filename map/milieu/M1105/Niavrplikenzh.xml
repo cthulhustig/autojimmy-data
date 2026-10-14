@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Niavrplikenzh</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-91</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Shanzhi</Subsector>
+    <Subsector Index="B">Fronzhbrienziadl</Subsector>
+    <Subsector Index="C">Ieez</Subsector>
+    <Subsector Index="D">Frieklefiench</Subsector>
+    <Subsector Index="E">Flaqrshiezia</Subsector>
+    <Subsector Index="F">Epaf</Subsector>
+    <Subsector Index="G">Dlenjeia</Subsector>
+    <Subsector Index="H">Shelchetaz</Subsector>
+    <Subsector Index="I">Itsplent</Subsector>
+    <Subsector Index="J">Qranchnchodlevl</Subsector>
+    <Subsector Index="K">Zdeklienjfrensh</Subsector>
+    <Subsector Index="L">Brizhao</Subsector>
+    <Subsector Index="M">Zhenchshiplfe</Subsector>
+    <Subsector Index="N">Iavrazh</Subsector>
+    <Subsector Index="O">Ebria</Subsector>
+    <Subsector Index="P">Friplbafra'</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Lieblnshafr</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-158</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tietsanza</Subsector>
+    <Subsector Index="B">Briaplflich</Subsector>
+    <Subsector Index="C">Tsefonzh</Subsector>
+    <Subsector Index="D">Chieveznzha</Subsector>
+    <Subsector Index="E">Vrifrshet</Subsector>
+    <Subsector Index="F">Alia</Subsector>
+    <Subsector Index="G">Nazepr</Subsector>
+    <Subsector Index="H">Edench</Subsector>
+    <Subsector Index="I">Ensdaqr</Subsector>
+    <Subsector Index="J">Jdavldrezhvianzh</Subsector>
+    <Subsector Index="K">Stanzao</Subsector>
+    <Subsector Index="L">Tsiefiejzhebl</Subsector>
+    <Subsector Index="M">Qrenzche</Subsector>
+    <Subsector Index="N">Chitliajievr</Subsector>
+    <Subsector Index="O">Vliacha</Subsector>
+    <Subsector Index="P">Zdapebla</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

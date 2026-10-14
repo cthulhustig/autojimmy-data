@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Oit</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-49</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Fretsntsenzonj</Subsector>
+    <Subsector Index="B">Nchieblbradl</Subsector>
+    <Subsector Index="C">Araz</Subsector>
+    <Subsector Index="D">Enzhi</Subsector>
+    <Subsector Index="E">Chanzadlon</Subsector>
+    <Subsector Index="F">Rinjfanzmaqr</Subsector>
+    <Subsector Index="G">Eets</Subsector>
+    <Subsector Index="H">Dlebrbleflaj</Subsector>
+    <Subsector Index="I">Senchitsnziet</Subsector>
+    <Subsector Index="J">Vrabrla</Subsector>
+    <Subsector Index="K">Kledlnshieblnzivl</Subsector>
+    <Subsector Index="L">Niavronchdapl</Subsector>
+    <Subsector Index="M">Ilanz</Subsector>
+    <Subsector Index="N">Iebanzh</Subsector>
+    <Subsector Index="O">Njieshie</Subsector>
+    <Subsector Index="P">Feflblablqrents</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

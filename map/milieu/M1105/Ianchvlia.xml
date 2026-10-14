@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ianchvlia</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-134</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nsheflal</Subsector>
+    <Subsector Index="B">Dliashieief</Subsector>
+    <Subsector Index="C">Chefleffle</Subsector>
+    <Subsector Index="D">Nzietlshev</Subsector>
+    <Subsector Index="E">Brienjialzepl</Subsector>
+    <Subsector Index="F">Afrl</Subsector>
+    <Subsector Index="G">Mienzblane</Subsector>
+    <Subsector Index="H">Enjnzevr</Subsector>
+    <Subsector Index="I">Chirafrabl</Subsector>
+    <Subsector Index="J">Atsqrozh</Subsector>
+    <Subsector Index="K">Iamnjiav</Subsector>
+    <Subsector Index="L">Pliplinzh</Subsector>
+    <Subsector Index="M">Kiapfrienepl</Subsector>
+    <Subsector Index="N">Stiadnchefroz</Subsector>
+    <Subsector Index="O">Jdarae</Subsector>
+    <Subsector Index="P">Tevlzhelinz</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

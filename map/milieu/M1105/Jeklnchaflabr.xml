@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Jeklnchaflabr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-25</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Vadrliazhievl</Subsector>
+    <Subsector Index="B">Jiejtloshvlash</Subsector>
+    <Subsector Index="C">Iaka</Subsector>
+    <Subsector Index="D">Fiavlnjotsjie</Subsector>
+    <Subsector Index="E">Jazplabrie</Subsector>
+    <Subsector Index="F">Ieqrplench</Subsector>
+    <Subsector Index="G">Nebriaets</Subsector>
+    <Subsector Index="H">Pletle</Subsector>
+    <Subsector Index="I">Dlienzvriebrzefl</Subsector>
+    <Subsector Index="J">Zdapriaie</Subsector>
+    <Subsector Index="K">Chtefranjish</Subsector>
+    <Subsector Index="L">Chantbriedlzhebr</Subsector>
+    <Subsector Index="M">Qriazat</Subsector>
+    <Subsector Index="N">Aflabr</Subsector>
+    <Subsector Index="O">Tsentsfi</Subsector>
+    <Subsector Index="P">Zhiadezish</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

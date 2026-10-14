@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kriplianzha</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-123</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Qriansinj</Subsector>
+    <Subsector Index="B">Vliaplo</Subsector>
+    <Subsector Index="C">Onjenz</Subsector>
+    <Subsector Index="D">Chivrzheva</Subsector>
+    <Subsector Index="E">Stiediavrdla</Subsector>
+    <Subsector Index="F">Nochinzhfish</Subsector>
+    <Subsector Index="G">Iapliats</Subsector>
+    <Subsector Index="H">Movlvipr</Subsector>
+    <Subsector Index="I">Stiekrnzhiij</Subsector>
+    <Subsector Index="J">Dianzhemvrevl</Subsector>
+    <Subsector Index="K">Prieblle</Subsector>
+    <Subsector Index="L">Tazntseflblia</Subsector>
+    <Subsector Index="M">Bridovrvash</Subsector>
+    <Subsector Index="N">Iadla</Subsector>
+    <Subsector Index="O">Tetlbradrcha</Subsector>
+    <Subsector Index="P">Etsiz</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

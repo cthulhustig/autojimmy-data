@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chanzchiazbrid</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-50</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nchepebl</Subsector>
+    <Subsector Index="B">Tavrflao</Subsector>
+    <Subsector Index="C">Dliifl</Subsector>
+    <Subsector Index="D">Riashieshedr</Subsector>
+    <Subsector Index="E">Stapriaklats</Subsector>
+    <Subsector Index="F">Atech</Subsector>
+    <Subsector Index="G">Ietlshen</Subsector>
+    <Subsector Index="H">Riantsitl</Subsector>
+    <Subsector Index="I">Nzetsiapl</Subsector>
+    <Subsector Index="J">Draflienshish</Subsector>
+    <Subsector Index="K">Flentevlnzi</Subsector>
+    <Subsector Index="L">Nielnchizhiesh</Subsector>
+    <Subsector Index="M">Zhdoncheflvrabr</Subsector>
+    <Subsector Index="N">Chtebliaia</Subsector>
+    <Subsector Index="O">Enchets</Subsector>
+    <Subsector Index="P">Chiashshiekl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

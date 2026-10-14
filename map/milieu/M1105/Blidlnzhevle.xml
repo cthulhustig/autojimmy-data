@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Blidlnzhevle</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-21</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zetltsidl</Subsector>
+    <Subsector Index="B">Bishoklel</Subsector>
+    <Subsector Index="C">Eev</Subsector>
+    <Subsector Index="D">Zhditafrif</Subsector>
+    <Subsector Index="E">Zdadlranchad</Subsector>
+    <Subsector Index="F">Frishklansh</Subsector>
+    <Subsector Index="G">Chevlivrvish</Subsector>
+    <Subsector Index="H">Zdabrievla</Subsector>
+    <Subsector Index="I">Zeplienzh</Subsector>
+    <Subsector Index="J">Plaznzhich</Subsector>
+    <Subsector Index="K">Achnsiezh</Subsector>
+    <Subsector Index="L">Iplavl</Subsector>
+    <Subsector Index="M">Chtidnzada</Subsector>
+    <Subsector Index="N">Chtefepliazh</Subsector>
+    <Subsector Index="O">Shavlafldlanch</Subsector>
+    <Subsector Index="P">Ntsalbranch</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

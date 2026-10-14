@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OrionOB1">
+  <Name>Meissa</Name>
+  <Credits />
+  <X>5</X>
+  <Y>10</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

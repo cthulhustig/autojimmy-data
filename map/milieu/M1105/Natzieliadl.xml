@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Natzieliadl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-15</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chonzintse</Subsector>
+    <Subsector Index="B">Kiachrevblef</Subsector>
+    <Subsector Index="C">Shadlklatiad</Subsector>
+    <Subsector Index="D">Zdofleienzh</Subsector>
+    <Subsector Index="E">Nchiatlnchia</Subsector>
+    <Subsector Index="F">Choshnzhiae</Subsector>
+    <Subsector Index="G">Enchvrie</Subsector>
+    <Subsector Index="H">Chivlkleed</Subsector>
+    <Subsector Index="I">Plijbro</Subsector>
+    <Subsector Index="J">Froa</Subsector>
+    <Subsector Index="K">Chafievrbrab</Subsector>
+    <Subsector Index="L">Zhitsnsedliefr</Subsector>
+    <Subsector Index="M">Pazia</Subsector>
+    <Subsector Index="N">Iebriedr</Subsector>
+    <Subsector Index="O">Benjdree</Subsector>
+    <Subsector Index="P">Fleklifli</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

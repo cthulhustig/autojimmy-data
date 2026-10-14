@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nzhaplats</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-151</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Vea</Subsector>
+    <Subsector Index="B">Atqrich</Subsector>
+    <Subsector Index="C">Koblotsiekr</Subsector>
+    <Subsector Index="D">Iadra</Subsector>
+    <Subsector Index="E">Briefriae</Subsector>
+    <Subsector Index="F">Chalo</Subsector>
+    <Subsector Index="G">Nchiblnzhie</Subsector>
+    <Subsector Index="H">Ernzhedl</Subsector>
+    <Subsector Index="I">Dliapretiz</Subsector>
+    <Subsector Index="J">Driafenjsha</Subsector>
+    <Subsector Index="K">Ardets</Subsector>
+    <Subsector Index="L">Dakliaie</Subsector>
+    <Subsector Index="M">Ichient</Subsector>
+    <Subsector Index="N">Klavzhinche</Subsector>
+    <Subsector Index="O">Zdibrvlablansh</Subsector>
+    <Subsector Index="P">Zdetoblntse</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

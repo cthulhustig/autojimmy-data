@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Jiebvlanzhinsh</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-102</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdopnzodli</Subsector>
+    <Subsector Index="B">Onje</Subsector>
+    <Subsector Index="C">Stajtliatsap</Subsector>
+    <Subsector Index="D">Iafnjiaj</Subsector>
+    <Subsector Index="E">Chonziak</Subsector>
+    <Subsector Index="F">Ialblie</Subsector>
+    <Subsector Index="G">Yezhpietsiat</Subsector>
+    <Subsector Index="H">Dansvianzhzi</Subsector>
+    <Subsector Index="I">Atsa</Subsector>
+    <Subsector Index="J">Iemiabr</Subsector>
+    <Subsector Index="K">Zazhiablbezh</Subsector>
+    <Subsector Index="L">Njidlel</Subsector>
+    <Subsector Index="M">Ziefntsezdla</Subsector>
+    <Subsector Index="N">Niatledler</Subsector>
+    <Subsector Index="O">Pliead</Subsector>
+    <Subsector Index="P">Blikrbria</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

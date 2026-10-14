@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kafvriadlklo</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-175</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tsabrnjiavlfench</Subsector>
+    <Subsector Index="B">Chanjtsiablopl</Subsector>
+    <Subsector Index="C">Shiepliaa</Subsector>
+    <Subsector Index="D">Aji</Subsector>
+    <Subsector Index="E">Idla</Subsector>
+    <Subsector Index="F">Stiaddlielchi</Subsector>
+    <Subsector Index="G">Badldiatsie</Subsector>
+    <Subsector Index="H">Piacheiadl</Subsector>
+    <Subsector Index="I">Kieqrenzi</Subsector>
+    <Subsector Index="J">Ajiens</Subsector>
+    <Subsector Index="K">Tlenchieshe</Subsector>
+    <Subsector Index="L">Patsnshee</Subsector>
+    <Subsector Index="M">Iablvrel</Subsector>
+    <Subsector Index="N">Zhdafrfavriedl</Subsector>
+    <Subsector Index="O">Chishbraiz</Subsector>
+    <Subsector Index="P">Brievrdrazh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

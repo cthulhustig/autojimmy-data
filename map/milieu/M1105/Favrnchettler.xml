@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Favrnchettler</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-132</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdekl'itliansh</Subsector>
+    <Subsector Index="B">Enshbria</Subsector>
+    <Subsector Index="C">Breshvreple</Subsector>
+    <Subsector Index="D">Frialnzhaztsaf</Subsector>
+    <Subsector Index="E">Saplzhitikr</Subsector>
+    <Subsector Index="F">Nzhiia</Subsector>
+    <Subsector Index="G">Chazvlazvrepr</Subsector>
+    <Subsector Index="H">Iafrev</Subsector>
+    <Subsector Index="I">Tsebrtsiavl</Subsector>
+    <Subsector Index="J">Zepltsenza</Subsector>
+    <Subsector Index="K">Ifadl</Subsector>
+    <Subsector Index="L">Niantsntsiaplim</Subsector>
+    <Subsector Index="M">Jiazonj</Subsector>
+    <Subsector Index="N">Broqrioz</Subsector>
+    <Subsector Index="O">Jazhiej</Subsector>
+    <Subsector Index="P">Iiar</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

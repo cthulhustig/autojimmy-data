@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chepiaebl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-26</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhantsie</Subsector>
+    <Subsector Index="B">Shenze</Subsector>
+    <Subsector Index="C">Zhaveie</Subsector>
+    <Subsector Index="D">Qliqrvinzha</Subsector>
+    <Subsector Index="E">Shashtep</Subsector>
+    <Subsector Index="F">Ive</Subsector>
+    <Subsector Index="G">Nshee</Subsector>
+    <Subsector Index="H">Iiev</Subsector>
+    <Subsector Index="I">Nipeplklel</Subsector>
+    <Subsector Index="J">Ontsiavl</Subsector>
+    <Subsector Index="K">Ienshjents</Subsector>
+    <Subsector Index="L">Ablie</Subsector>
+    <Subsector Index="M">Ivnchoqr</Subsector>
+    <Subsector Index="N">Iadlinzh</Subsector>
+    <Subsector Index="O">Ezhetl</Subsector>
+    <Subsector Index="P">Qiansheziets</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

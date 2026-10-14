@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlechchinblins</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-140</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Brenzhe</Subsector>
+    <Subsector Index="B">Jdotlziia</Subsector>
+    <Subsector Index="C">Ifnzi</Subsector>
+    <Subsector Index="D">Tlaflvaplenzh</Subsector>
+    <Subsector Index="E">Rabrjansh</Subsector>
+    <Subsector Index="F">Shtevoven</Subsector>
+    <Subsector Index="G">Intsi</Subsector>
+    <Subsector Index="H">Drieflieshi</Subsector>
+    <Subsector Index="I">Tinzrients</Subsector>
+    <Subsector Index="J">Drabrklench</Subsector>
+    <Subsector Index="K">Bloents</Subsector>
+    <Subsector Index="L">Brieplnzianich</Subsector>
+    <Subsector Index="M">Qatsaakl</Subsector>
+    <Subsector Index="N">Blebrnzhi</Subsector>
+    <Subsector Index="O">Qleriatsanch</Subsector>
+    <Subsector Index="P">Briznzhiiab</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Draziavr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-164</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Vrenze</Subsector>
+    <Subsector Index="B">Chashtiazhvrash</Subsector>
+    <Subsector Index="C">Shaklbliezhble</Subsector>
+    <Subsector Index="D">Iazhie</Subsector>
+    <Subsector Index="E">Replidesh</Subsector>
+    <Subsector Index="F">Plieprzenz</Subsector>
+    <Subsector Index="G">Nshenchi</Subsector>
+    <Subsector Index="H">Ieblbro</Subsector>
+    <Subsector Index="I">Blavro</Subsector>
+    <Subsector Index="J">Flinsik</Subsector>
+    <Subsector Index="K">Tlifei</Subsector>
+    <Subsector Index="L">Sierovlshi</Subsector>
+    <Subsector Index="M">Zhdadlaia</Subsector>
+    <Subsector Index="N">Bensfrensi</Subsector>
+    <Subsector Index="O">Flianchponzi</Subsector>
+    <Subsector Index="P">Blable</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

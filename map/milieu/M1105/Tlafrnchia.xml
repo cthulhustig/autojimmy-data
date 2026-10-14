@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlafrnchia</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-37</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Driatsbriatlench</Subsector>
+    <Subsector Index="B">Inzez</Subsector>
+    <Subsector Index="C">Tlantskepliav</Subsector>
+    <Subsector Index="D">Vrepldleosh</Subsector>
+    <Subsector Index="E">Nazhifatl</Subsector>
+    <Subsector Index="F">Vriavnchanchia</Subsector>
+    <Subsector Index="G">Zheshai</Subsector>
+    <Subsector Index="H">Fienaash</Subsector>
+    <Subsector Index="I">Tadlfledrat</Subsector>
+    <Subsector Index="J">Azva</Subsector>
+    <Subsector Index="K">Natliavl</Subsector>
+    <Subsector Index="L">Yarjaraj</Subsector>
+    <Subsector Index="M">Chafiaie</Subsector>
+    <Subsector Index="N">Shtinchliavchiz</Subsector>
+    <Subsector Index="O">Ejvra</Subsector>
+    <Subsector Index="P">Anchr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

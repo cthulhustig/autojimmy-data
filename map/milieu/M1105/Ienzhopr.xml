@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ienzhopr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-103</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Atsrie</Subsector>
+    <Subsector Index="B">Blienzhenchli</Subsector>
+    <Subsector Index="C">Dlebropl</Subsector>
+    <Subsector Index="D">Tlieplliia</Subsector>
+    <Subsector Index="E">Opa</Subsector>
+    <Subsector Index="F">Zdabenzhiepl</Subsector>
+    <Subsector Index="G">Chtiantsdlidats</Subsector>
+    <Subsector Index="H">Bronchzielzal</Subsector>
+    <Subsector Index="I">Zhafpleefr</Subsector>
+    <Subsector Index="J">Shionj</Subsector>
+    <Subsector Index="K">Tsaiap</Subsector>
+    <Subsector Index="L">Zdemaez</Subsector>
+    <Subsector Index="M">Achtlia</Subsector>
+    <Subsector Index="N">Chechape</Subsector>
+    <Subsector Index="O">Plenji</Subsector>
+    <Subsector Index="P">Vlanzenzh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

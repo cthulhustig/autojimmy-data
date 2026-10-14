@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Nietlee</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-147</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kiafrntenjvebr</Subsector>
+    <Subsector Index="B">Zetlaa</Subsector>
+    <Subsector Index="C">Zdatspletlents</Subsector>
+    <Subsector Index="D">Enchiz</Subsector>
+    <Subsector Index="E">Tlabriaprial</Subsector>
+    <Subsector Index="F">Dliakiid</Subsector>
+    <Subsector Index="G">Tloi</Subsector>
+    <Subsector Index="H">Ierar</Subsector>
+    <Subsector Index="I">Zaktsedliatl</Subsector>
+    <Subsector Index="J">Jechfefe</Subsector>
+    <Subsector Index="K">Sharejfrenz</Subsector>
+    <Subsector Index="L">Ekljof</Subsector>
+    <Subsector Index="M">Plilntsovl</Subsector>
+    <Subsector Index="N">Viaripnjrns</Subsector>
+    <Subsector Index="O">Chtevrdlebrvlie</Subsector>
+    <Subsector Index="P">Zhdiqrzable</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

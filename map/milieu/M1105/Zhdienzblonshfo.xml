@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhdienzblonshfo</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-50</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Prodria</Subsector>
+    <Subsector Index="B">Qriedlleivr</Subsector>
+    <Subsector Index="C">Vransjatskla</Subsector>
+    <Subsector Index="D">Ietlfiadl</Subsector>
+    <Subsector Index="E">Siashzhia'ants</Subsector>
+    <Subsector Index="F">Kiavrianjie</Subsector>
+    <Subsector Index="G">Nzelnsez</Subsector>
+    <Subsector Index="H">Kikreezh</Subsector>
+    <Subsector Index="I">Jdinchnziakranzh</Subsector>
+    <Subsector Index="J">Zdeprplepliets</Subsector>
+    <Subsector Index="K">Enjakl</Subsector>
+    <Subsector Index="L">Srtpliazhe</Subsector>
+    <Subsector Index="M">Eklia</Subsector>
+    <Subsector Index="N">Vavlnchinzzenzh</Subsector>
+    <Subsector Index="O">Zhdintskliedplim</Subsector>
+    <Subsector Index="P">Pieklvleia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

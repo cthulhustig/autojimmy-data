@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Indi">
+  <Name Source="The Core Route Project">Indierri</Name>
+  <Credits />
+  <X>14</X>
+  <Y>14</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

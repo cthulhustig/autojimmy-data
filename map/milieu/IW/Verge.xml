@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Verg">
+  <Name>Verge</Name>
+  <Name Lang="as">Khtiyhkokaeiw</Name>
+  <Name Lang="vi">Shaakasi</Name>
+  <Credits />
+  <X>-3</X>
+  <Y>1</Y>
+  <DataFile Milieu="IW" />
+  <Subsectors />
+  <Allegiances>
+    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="ZS">Ziru Sirka</Allegiance>
+  </Allegiances>
+  <Borders>
+    <Border Color="Red" Allegiance="ZS" LabelPosition="2615">1806 1906 1905 2004 2104 2103 2104 2204 2305 2404 2504 2503 2602 2702 2701 2600 2700 2800 2900 3000 3100 3200 3300 3301 3302 3303 3304 3305 3306 3307 3308 3309 3310 3311 3312 3313 3314 3315 3316 3317 3318 3319 3320 3321 3322 3323 3324 3325 3326 3327 3328 3228 3229 3230 3229 3129 3028 2929 2829 2730 2829 2828 2728 2627 2626 2526 2426 2425 2526 2625 2725 2724 2723 2722 2721 2620 2720 2819 2818 2817 2816 2815 2814 2714 2614 2515 2415 2315 2215 2116 2015 1915 1814 1914 1913 1912 1811 1810 1809 1909 2008 2109 2208 2207 2107 2006 1906 1806</Border>
+  </Borders>
+</Sector>

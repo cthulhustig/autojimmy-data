@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dliflpletsepl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-30</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tlialtlienjzhol</Subsector>
+    <Subsector Index="B">Kidzaz</Subsector>
+    <Subsector Index="C">Itlats</Subsector>
+    <Subsector Index="D">Veshflidle</Subsector>
+    <Subsector Index="E">Niachiiqr</Subsector>
+    <Subsector Index="F">Dleqrtlizh</Subsector>
+    <Subsector Index="G">Nchintsjiav</Subsector>
+    <Subsector Index="H">Shoklova</Subsector>
+    <Subsector Index="I">Ieshiefr</Subsector>
+    <Subsector Index="J">Ijatl</Subsector>
+    <Subsector Index="K">Kiaprnshinjqriapr</Subsector>
+    <Subsector Index="L">Balkovrians</Subsector>
+    <Subsector Index="M">Aqravr</Subsector>
+    <Subsector Index="N">Zhanevla</Subsector>
+    <Subsector Index="O">Zdieflnchashets</Subsector>
+    <Subsector Index="P">Manzhnchezhiavl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

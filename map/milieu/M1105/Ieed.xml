@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ieed</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-104</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Vratavl</Subsector>
+    <Subsector Index="B">Tsakrefr</Subsector>
+    <Subsector Index="C">Piechdriefvresh</Subsector>
+    <Subsector Index="D">Shtokblialinch</Subsector>
+    <Subsector Index="E">Nchiznshe</Subsector>
+    <Subsector Index="F">Bretl'ieshntsie</Subsector>
+    <Subsector Index="G">Kipraflots</Subsector>
+    <Subsector Index="H">Adlblibr</Subsector>
+    <Subsector Index="I">Tlenshshia</Subsector>
+    <Subsector Index="J">Fiqrshienchplaj</Subsector>
+    <Subsector Index="K">Stievlnsiasho'</Subsector>
+    <Subsector Index="L">Odliej</Subsector>
+    <Subsector Index="M">Vlaplo</Subsector>
+    <Subsector Index="N">Meblintiach</Subsector>
+    <Subsector Index="O">Dlanzhtsiaflkret</Subsector>
+    <Subsector Index="P">Rashienzants</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

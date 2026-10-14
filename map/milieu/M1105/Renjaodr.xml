@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Renjaodr</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-152</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nashtlashefl</Subsector>
+    <Subsector Index="B">Merkleranzh</Subsector>
+    <Subsector Index="C">Zinjrieplifl</Subsector>
+    <Subsector Index="D">Vatlziets</Subsector>
+    <Subsector Index="E">Ainch</Subsector>
+    <Subsector Index="F">Tlanzeshez</Subsector>
+    <Subsector Index="G">Jdapllebriakl</Subsector>
+    <Subsector Index="H">Dansnjav</Subsector>
+    <Subsector Index="I">Ekatl</Subsector>
+    <Subsector Index="J">Dlonshiajzhapl</Subsector>
+    <Subsector Index="K">Bebrnsiansnchiakr</Subsector>
+    <Subsector Index="L">Pladlriz</Subsector>
+    <Subsector Index="M">Nzee</Subsector>
+    <Subsector Index="N">Frablplinzh</Subsector>
+    <Subsector Index="O">Stiblvriee</Subsector>
+    <Subsector Index="P">Blenjdefrnza</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

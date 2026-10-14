@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlishienjtsaj</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-55</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ate</Subsector>
+    <Subsector Index="B">Aiet</Subsector>
+    <Subsector Index="C">Vientsiaiatl</Subsector>
+    <Subsector Index="D">Drontdrae</Subsector>
+    <Subsector Index="E">Ianzhish</Subsector>
+    <Subsector Index="F">Virvlievlnchibl</Subsector>
+    <Subsector Index="G">Viajefl</Subsector>
+    <Subsector Index="H">Qrenzfle</Subsector>
+    <Subsector Index="I">Zinchsho</Subsector>
+    <Subsector Index="J">Jiptsiezh</Subsector>
+    <Subsector Index="K">Dliblzantsjenj</Subsector>
+    <Subsector Index="L">Frieli</Subsector>
+    <Subsector Index="M">Kliaplbifrnza</Subsector>
+    <Subsector Index="N">Zdanzvieebl</Subsector>
+    <Subsector Index="O">Eqrnsef</Subsector>
+    <Subsector Index="P">Zhdevredred</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chelintsfliefl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-54</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Stiezhzhiaa</Subsector>
+    <Subsector Index="B">Eflchief</Subsector>
+    <Subsector Index="C">Pazjevnjaf</Subsector>
+    <Subsector Index="D">Aansh</Subsector>
+    <Subsector Index="E">Plaievl</Subsector>
+    <Subsector Index="F">Aazh</Subsector>
+    <Subsector Index="G">Ierens</Subsector>
+    <Subsector Index="H">Chiezhfivr</Subsector>
+    <Subsector Index="I">Nzhea</Subsector>
+    <Subsector Index="J">Vabranchzhia</Subsector>
+    <Subsector Index="K">Evrzhed</Subsector>
+    <Subsector Index="L">Stietleia</Subsector>
+    <Subsector Index="M">Vifrnzhevcheqr</Subsector>
+    <Subsector Index="N">Drekchablats</Subsector>
+    <Subsector Index="O">Kiazhazbra</Subsector>
+    <Subsector Index="P">Driablodlbril</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Driavlplodlavl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-81</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chatlbontens</Subsector>
+    <Subsector Index="B">Tseriezhriatl</Subsector>
+    <Subsector Index="C">Riadrprieinsh</Subsector>
+    <Subsector Index="D">Kefrivlenzh</Subsector>
+    <Subsector Index="E">Yintsfevriz</Subsector>
+    <Subsector Index="F">Jdietlebrvrens</Subsector>
+    <Subsector Index="G">Priazhfleshdlie</Subsector>
+    <Subsector Index="H">Azpra</Subsector>
+    <Subsector Index="I">Ferblez</Subsector>
+    <Subsector Index="J">Nernjadrlo</Subsector>
+    <Subsector Index="K">Rieprnsivlnzhi</Subsector>
+    <Subsector Index="L">Zhdifrzieshanch</Subsector>
+    <Subsector Index="M">Tlanzhnjashkie</Subsector>
+    <Subsector Index="N">Iedlanj</Subsector>
+    <Subsector Index="O">Bralnzienzhvapl</Subsector>
+    <Subsector Index="P">Tlattefe</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

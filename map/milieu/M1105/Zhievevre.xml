@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhievevre</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-110</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Atidl</Subsector>
+    <Subsector Index="B">Tlianjchefieqr</Subsector>
+    <Subsector Index="C">Briazblins</Subsector>
+    <Subsector Index="D">Blie</Subsector>
+    <Subsector Index="E">Tavreblie</Subsector>
+    <Subsector Index="F">Zheplidlklief</Subsector>
+    <Subsector Index="G">Shitliapl</Subsector>
+    <Subsector Index="H">Eprial</Subsector>
+    <Subsector Index="I">Tanzhbriatl</Subsector>
+    <Subsector Index="J">Zherensa</Subsector>
+    <Subsector Index="K">Dritsfientsi</Subsector>
+    <Subsector Index="L">Enchkrizh</Subsector>
+    <Subsector Index="M">Afblen</Subsector>
+    <Subsector Index="N">Zhovpiiebl</Subsector>
+    <Subsector Index="O">Vliavadl</Subsector>
+    <Subsector Index="P">Nzitle</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

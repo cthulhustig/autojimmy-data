@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zhiznjiantsian</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-161</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Tialqratsplench</Subsector>
+    <Subsector Index="B">Enzhnjezh</Subsector>
+    <Subsector Index="C">Nzhieievl</Subsector>
+    <Subsector Index="D">Yefrevrze</Subsector>
+    <Subsector Index="E">Stenzhbliatlianj</Subsector>
+    <Subsector Index="F">Vraldiamiebl</Subsector>
+    <Subsector Index="G">Tsashietsvlavl</Subsector>
+    <Subsector Index="H">Chtienjtsai</Subsector>
+    <Subsector Index="I">Blezhtsiezhiezh</Subsector>
+    <Subsector Index="J">Ziadrenchvlizh</Subsector>
+    <Subsector Index="K">Tlientsblianchiech</Subsector>
+    <Subsector Index="L">Anziet</Subsector>
+    <Subsector Index="M">Blaetl</Subsector>
+    <Subsector Index="N">Elnzhients</Subsector>
+    <Subsector Index="O">Zhatvrevrpla</Subsector>
+    <Subsector Index="P">Vintsvliafre</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

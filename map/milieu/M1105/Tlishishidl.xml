@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlishishidl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-78</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nebrvri</Subsector>
+    <Subsector Index="B">Klansvaech</Subsector>
+    <Subsector Index="C">Vezhients</Subsector>
+    <Subsector Index="D">Shabrpafla</Subsector>
+    <Subsector Index="E">Fichdlo</Subsector>
+    <Subsector Index="F">Zhirpiafr</Subsector>
+    <Subsector Index="G">Zienzhizhe</Subsector>
+    <Subsector Index="H">Breplobrans</Subsector>
+    <Subsector Index="I">Tliereatl</Subsector>
+    <Subsector Index="J">Avroz</Subsector>
+    <Subsector Index="K">Stianchazanj</Subsector>
+    <Subsector Index="L">Tsiefrie</Subsector>
+    <Subsector Index="M">Penchofladr</Subsector>
+    <Subsector Index="N">Rshe</Subsector>
+    <Subsector Index="O">Ovri</Subsector>
+    <Subsector Index="P">Linsadl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

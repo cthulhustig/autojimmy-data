@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Qrefriesh</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-46</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhdiakliezplach</Subsector>
+    <Subsector Index="B">Robjivle</Subsector>
+    <Subsector Index="C">Tieshobrbrafr</Subsector>
+    <Subsector Index="D">Zabrled</Subsector>
+    <Subsector Index="E">Tliafraaqr</Subsector>
+    <Subsector Index="F">Nienchnzhai</Subsector>
+    <Subsector Index="G">Etsam</Subsector>
+    <Subsector Index="H">Abliv</Subsector>
+    <Subsector Index="I">Ainzh</Subsector>
+    <Subsector Index="J">Chafnchaqrie</Subsector>
+    <Subsector Index="K">Tajfriantesh</Subsector>
+    <Subsector Index="L">Qejlabrziapl</Subsector>
+    <Subsector Index="M">Dlonznzhiafre</Subsector>
+    <Subsector Index="N">Bransheta</Subsector>
+    <Subsector Index="O">Chiamenshia</Subsector>
+    <Subsector Index="P">Zhebatszia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

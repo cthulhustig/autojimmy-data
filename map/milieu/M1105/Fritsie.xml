@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Fritsie</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-131</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhaklnshianzflie</Subsector>
+    <Subsector Index="B">Fejfrierakl</Subsector>
+    <Subsector Index="C">Njeie</Subsector>
+    <Subsector Index="D">Zdeprkleanj</Subsector>
+    <Subsector Index="E">Rallieblabl</Subsector>
+    <Subsector Index="F">Shiashidlivr</Subsector>
+    <Subsector Index="G">Zdeblkloqrklez</Subsector>
+    <Subsector Index="H">Edrav</Subsector>
+    <Subsector Index="I">Izvief</Subsector>
+    <Subsector Index="J">Stieqrnziaflie</Subsector>
+    <Subsector Index="K">Menzfrakbrie</Subsector>
+    <Subsector Index="L">Niatsazhib</Subsector>
+    <Subsector Index="M">Riiazh</Subsector>
+    <Subsector Index="N">Aonch</Subsector>
+    <Subsector Index="O">Blentsntsasho</Subsector>
+    <Subsector Index="P">Chto'nchiasha</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

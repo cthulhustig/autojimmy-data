@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Jdanshiplshi'</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-72</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Stiabletsbrietl</Subsector>
+    <Subsector Index="B">Plantsobr</Subsector>
+    <Subsector Index="C">Tliien</Subsector>
+    <Subsector Index="D">Flolntia</Subsector>
+    <Subsector Index="E">Nsonchtietl</Subsector>
+    <Subsector Index="F">Levrtsi</Subsector>
+    <Subsector Index="G">Zhdanjtsoshzovr</Subsector>
+    <Subsector Index="H">Chtiatldraplple</Subsector>
+    <Subsector Index="I">Plazhzovnzhil</Subsector>
+    <Subsector Index="J">Ravakl</Subsector>
+    <Subsector Index="K">Nsitsazh</Subsector>
+    <Subsector Index="L">Ebro</Subsector>
+    <Subsector Index="M">Droe</Subsector>
+    <Subsector Index="N">Edredr</Subsector>
+    <Subsector Index="O">Vriflabr</Subsector>
+    <Subsector Index="P">Bibrashplivr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

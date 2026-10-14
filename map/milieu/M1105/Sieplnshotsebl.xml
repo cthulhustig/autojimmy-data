@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Sieplnshotsebl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-145</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Soshieqrntsepl</Subsector>
+    <Subsector Index="B">Stiprvrevrief</Subsector>
+    <Subsector Index="C">Klenzhe</Subsector>
+    <Subsector Index="D">Viajshieaj</Subsector>
+    <Subsector Index="E">Echtsikl</Subsector>
+    <Subsector Index="F">Riblkiaflezh</Subsector>
+    <Subsector Index="G">Freriz</Subsector>
+    <Subsector Index="H">Flolie</Subsector>
+    <Subsector Index="I">Etech</Subsector>
+    <Subsector Index="J">Qlibfere</Subsector>
+    <Subsector Index="K">Shinshep</Subsector>
+    <Subsector Index="L">Zhaklshibrifl</Subsector>
+    <Subsector Index="M">Zheqrnchanshe</Subsector>
+    <Subsector Index="N">Ezvlans</Subsector>
+    <Subsector Index="O">Dletchotblobr</Subsector>
+    <Subsector Index="P">Brafidrnshiepl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

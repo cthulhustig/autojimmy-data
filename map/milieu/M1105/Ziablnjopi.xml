@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ziablnjopi</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-129</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Anshel</Subsector>
+    <Subsector Index="B">Jizhqrenzhdish</Subsector>
+    <Subsector Index="C">Ifrbli</Subsector>
+    <Subsector Index="D">Vrasha</Subsector>
+    <Subsector Index="E">Iadret</Subsector>
+    <Subsector Index="F">Brabraflor</Subsector>
+    <Subsector Index="G">Plincho</Subsector>
+    <Subsector Index="H">Klodlbranchne</Subsector>
+    <Subsector Index="I">Zhdazhzhiedlzhia</Subsector>
+    <Subsector Index="J">Nentsolia</Subsector>
+    <Subsector Index="K">Ave</Subsector>
+    <Subsector Index="L">Nsheklflibr</Subsector>
+    <Subsector Index="M">Zdipriaklie</Subsector>
+    <Subsector Index="N">Bliabliz</Subsector>
+    <Subsector Index="O">Zatsen</Subsector>
+    <Subsector Index="P">Tsebsheqro</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

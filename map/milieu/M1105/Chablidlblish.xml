@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chablidlblish</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-76</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Eplent</Subsector>
+    <Subsector Index="B">Dlanncheli</Subsector>
+    <Subsector Index="C">Fezhet</Subsector>
+    <Subsector Index="D">Patlieaj</Subsector>
+    <Subsector Index="E">Froflchedrkrabr</Subsector>
+    <Subsector Index="F">Chtiensnchifa</Subsector>
+    <Subsector Index="G">Shterdrianzhvrebl</Subsector>
+    <Subsector Index="H">Zafeshenj</Subsector>
+    <Subsector Index="I">Aqrapl</Subsector>
+    <Subsector Index="J">Kiavplabrshach</Subsector>
+    <Subsector Index="K">Stiafrnsenchans</Subsector>
+    <Subsector Index="L">Chekez</Subsector>
+    <Subsector Index="M">Brete</Subsector>
+    <Subsector Index="N">Dlilbrieshblia</Subsector>
+    <Subsector Index="O">Chitlchakro</Subsector>
+    <Subsector Index="P">Nzeplvof</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

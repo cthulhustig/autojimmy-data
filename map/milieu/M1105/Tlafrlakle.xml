@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlafrlakle</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-35</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chtevrnjefliabl</Subsector>
+    <Subsector Index="B">Branzevrchiash</Subsector>
+    <Subsector Index="C">Tavvraj</Subsector>
+    <Subsector Index="D">Bleraj</Subsector>
+    <Subsector Index="E">Kliabrrizshe</Subsector>
+    <Subsector Index="F">Frotstsatso</Subsector>
+    <Subsector Index="G">Shenchklaqrifr</Subsector>
+    <Subsector Index="H">Zdepllianshtleb</Subsector>
+    <Subsector Index="I">Zdierovrdlash</Subsector>
+    <Subsector Index="J">Drabliaie</Subsector>
+    <Subsector Index="K">Franchleplez</Subsector>
+    <Subsector Index="L">Fretienshanch</Subsector>
+    <Subsector Index="M">Flezachnchak</Subsector>
+    <Subsector Index="N">Tlafishdrech</Subsector>
+    <Subsector Index="O">Nsenchdiabr</Subsector>
+    <Subsector Index="P">Ebodl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Brit">
+  <Name Source="The Far Side of Nowhere">Brittia</Name>
+  <Credits />
+  <X>-19</X>
+  <Y>6</Y>
+  <DataFile Milieu="M1105" />
+  <Subsectors />
+  <Allegiances />
+</Sector>

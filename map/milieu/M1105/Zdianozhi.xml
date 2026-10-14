@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Zdianozhi</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-150</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Jdanzazhia</Subsector>
+    <Subsector Index="B">Jenjzaifr</Subsector>
+    <Subsector Index="C">Blezhchaf</Subsector>
+    <Subsector Index="D">Zieprnchii</Subsector>
+    <Subsector Index="E">Yinjqraznzhiats</Subsector>
+    <Subsector Index="F">Iebrabl</Subsector>
+    <Subsector Index="G">Zolerntso</Subsector>
+    <Subsector Index="H">Bibrjainj</Subsector>
+    <Subsector Index="I">Jdepldlazfrish</Subsector>
+    <Subsector Index="J">Ievnzhidl</Subsector>
+    <Subsector Index="K">Nzhiantsqria</Subsector>
+    <Subsector Index="L">Zebrezh</Subsector>
+    <Subsector Index="M">Zashnjrbvlie</Subsector>
+    <Subsector Index="N">Shaprnselral</Subsector>
+    <Subsector Index="O">Klavevrfriebr</Subsector>
+    <Subsector Index="P">Jdetsnchianj</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

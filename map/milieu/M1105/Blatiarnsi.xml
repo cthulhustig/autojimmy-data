@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Blatiarnsi</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-33</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhdezhianshev</Subsector>
+    <Subsector Index="B">Vrifad</Subsector>
+    <Subsector Index="C">Zdaflzhatlnzhinch</Subsector>
+    <Subsector Index="D">Itsefr</Subsector>
+    <Subsector Index="E">Achie</Subsector>
+    <Subsector Index="F">Plaldreanzh</Subsector>
+    <Subsector Index="G">Dlerpedlets</Subsector>
+    <Subsector Index="H">Vreents</Subsector>
+    <Subsector Index="I">Tlajiefblish</Subsector>
+    <Subsector Index="J">Etepl</Subsector>
+    <Subsector Index="K">Nishbrotsins</Subsector>
+    <Subsector Index="L">Dafqrovla</Subsector>
+    <Subsector Index="M">Stodpribenzh</Subsector>
+    <Subsector Index="N">Njizhif</Subsector>
+    <Subsector Index="O">Oznshanj</Subsector>
+    <Subsector Index="P">Bliablianzh</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Frezeosh</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-85</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Niadlfrejntaj</Subsector>
+    <Subsector Index="B">Roshflinj</Subsector>
+    <Subsector Index="C">Ieflebr</Subsector>
+    <Subsector Index="D">'anjim</Subsector>
+    <Subsector Index="E">Tsialo</Subsector>
+    <Subsector Index="F">Anshriants</Subsector>
+    <Subsector Index="G">Etlvronch</Subsector>
+    <Subsector Index="H">Zalebr</Subsector>
+    <Subsector Index="I">Klinzianch</Subsector>
+    <Subsector Index="J">Piakretifr</Subsector>
+    <Subsector Index="K">Njitspriefr</Subsector>
+    <Subsector Index="L">Iatsanj</Subsector>
+    <Subsector Index="M">Iabrents</Subsector>
+    <Subsector Index="N">Zdelbrefians</Subsector>
+    <Subsector Index="O">Briafljedrevl</Subsector>
+    <Subsector Index="P">Tlofrio</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

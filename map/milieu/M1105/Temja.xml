@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Temja</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-39</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Qlezhanshpradl</Subsector>
+    <Subsector Index="B">Chablvlienzhnse</Subsector>
+    <Subsector Index="C">Zdirvlientsa</Subsector>
+    <Subsector Index="D">Zhdeprvia</Subsector>
+    <Subsector Index="E">Diqria</Subsector>
+    <Subsector Index="F">Menshikl</Subsector>
+    <Subsector Index="G">Medlflee</Subsector>
+    <Subsector Index="H">Stensriplfinzh</Subsector>
+    <Subsector Index="I">Brinshjivrvek</Subsector>
+    <Subsector Index="J">Bienjbreno</Subsector>
+    <Subsector Index="K">Zhincheklokl</Subsector>
+    <Subsector Index="L">Vibrev</Subsector>
+    <Subsector Index="M">Chaqrpletfriansh</Subsector>
+    <Subsector Index="N">Shiafriebllakl</Subsector>
+    <Subsector Index="O">Tsabri</Subsector>
+    <Subsector Index="P">Echav</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

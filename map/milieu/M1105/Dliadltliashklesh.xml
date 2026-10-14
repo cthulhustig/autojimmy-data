@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Dliadltliashklesh</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-114</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Drieshfransiach</Subsector>
+    <Subsector Index="B">Enzhiv</Subsector>
+    <Subsector Index="C">Zhdiapshiefrklets</Subsector>
+    <Subsector Index="D">Jdienjfliflbli</Subsector>
+    <Subsector Index="E">Mabzi</Subsector>
+    <Subsector Index="F">Irifr</Subsector>
+    <Subsector Index="G">Zheffetntsed</Subsector>
+    <Subsector Index="H">Iefle</Subsector>
+    <Subsector Index="I">Chenzrfrians</Subsector>
+    <Subsector Index="J">Zaplqrianshiapl</Subsector>
+    <Subsector Index="K">Kriaplnjal</Subsector>
+    <Subsector Index="L">Iaklrinz</Subsector>
+    <Subsector Index="M">Nshenshovl</Subsector>
+    <Subsector Index="N">Miadbezhaj</Subsector>
+    <Subsector Index="O">Drienzebrer</Subsector>
+    <Subsector Index="P">Chtablanzhaj</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

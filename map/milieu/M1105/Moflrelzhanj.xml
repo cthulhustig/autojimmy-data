@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Moflrelzhanj</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-98</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zdiecheflets</Subsector>
+    <Subsector Index="B">Ntentse</Subsector>
+    <Subsector Index="C">Dieqr</Subsector>
+    <Subsector Index="D">Nzieshvre</Subsector>
+    <Subsector Index="E">Zabrebliet</Subsector>
+    <Subsector Index="F">Ofle</Subsector>
+    <Subsector Index="G">Siapbleprviats</Subsector>
+    <Subsector Index="H">Kliaflinshiench</Subsector>
+    <Subsector Index="I">Flefzinz</Subsector>
+    <Subsector Index="J">Bliablchie</Subsector>
+    <Subsector Index="K">Tsiajbrepli</Subsector>
+    <Subsector Index="L">Freqrezash</Subsector>
+    <Subsector Index="M">Shafrtsabriaqr</Subsector>
+    <Subsector Index="N">Iqridl</Subsector>
+    <Subsector Index="O">Tleshbre</Subsector>
+    <Subsector Index="P">Prablqrietlplie</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

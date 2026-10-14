@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iodl</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-69</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chiedlalits</Subsector>
+    <Subsector Index="B">Abrblaf</Subsector>
+    <Subsector Index="C">Azhir</Subsector>
+    <Subsector Index="D">Drapeflia</Subsector>
+    <Subsector Index="E">Brevlklantsepl</Subsector>
+    <Subsector Index="F">Chiaztalinsh</Subsector>
+    <Subsector Index="G">Aliez</Subsector>
+    <Subsector Index="H">Oa</Subsector>
+    <Subsector Index="I">Driaqribljr</Subsector>
+    <Subsector Index="J">Qiakishchonj</Subsector>
+    <Subsector Index="K">Anshiench</Subsector>
+    <Subsector Index="L">Avlesh</Subsector>
+    <Subsector Index="M">Dliepldaiadl</Subsector>
+    <Subsector Index="N">Liainch</Subsector>
+    <Subsector Index="O">Zabltliqr</Subsector>
+    <Subsector Index="P">Jantntsebl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

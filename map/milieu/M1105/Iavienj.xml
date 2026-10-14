@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Iavienj</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-172</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chtieklntiablza</Subsector>
+    <Subsector Index="B">Zdienshetsi</Subsector>
+    <Subsector Index="C">Dinchea</Subsector>
+    <Subsector Index="D">Briaa</Subsector>
+    <Subsector Index="E">Sezshieiafr</Subsector>
+    <Subsector Index="F">Dliflte</Subsector>
+    <Subsector Index="G">Chtientsei</Subsector>
+    <Subsector Index="H">Atosh</Subsector>
+    <Subsector Index="I">Ntsietblet</Subsector>
+    <Subsector Index="J">Insizh</Subsector>
+    <Subsector Index="K">Saplinia</Subsector>
+    <Subsector Index="L">Ablifr</Subsector>
+    <Subsector Index="M">Iiepr</Subsector>
+    <Subsector Index="N">Iadlfroz</Subsector>
+    <Subsector Index="O">Zdiezhbriatsnje</Subsector>
+    <Subsector Index="P">Katltseziash</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

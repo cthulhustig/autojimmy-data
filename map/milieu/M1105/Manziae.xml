@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Manziae</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-56</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Kaflnshiavr</Subsector>
+    <Subsector Index="B">Nziidl</Subsector>
+    <Subsector Index="C">Dlianzhenchncha</Subsector>
+    <Subsector Index="D">Dlietsianchfrenz</Subsector>
+    <Subsector Index="E">Tlejdraiej</Subsector>
+    <Subsector Index="F">Dronchie</Subsector>
+    <Subsector Index="G">Riadlklaofl</Subsector>
+    <Subsector Index="H">Enzhdla</Subsector>
+    <Subsector Index="I">Blietskrinchnsons</Subsector>
+    <Subsector Index="J">Tlinchraplent</Subsector>
+    <Subsector Index="K">Vianchzovle</Subsector>
+    <Subsector Index="L">Plemnjetozh</Subsector>
+    <Subsector Index="M">Vezech</Subsector>
+    <Subsector Index="N">Chetklovla</Subsector>
+    <Subsector Index="O">Tleflla</Subsector>
+    <Subsector Index="P">Priprfranze</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

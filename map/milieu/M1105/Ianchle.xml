@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ianchle</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-26</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Iknchi</Subsector>
+    <Subsector Index="B">Ieaz</Subsector>
+    <Subsector Index="C">Frintzhenzzhe</Subsector>
+    <Subsector Index="D">Zhadlbiatblens</Subsector>
+    <Subsector Index="E">Chiarnchiebrfebr</Subsector>
+    <Subsector Index="F">Fliaplflazia</Subsector>
+    <Subsector Index="G">Chonsianti</Subsector>
+    <Subsector Index="H">Tsenspliansbliqr</Subsector>
+    <Subsector Index="I">Tleledets</Subsector>
+    <Subsector Index="J">Njale</Subsector>
+    <Subsector Index="K">Zdiatschanenj</Subsector>
+    <Subsector Index="L">Bronchvenj</Subsector>
+    <Subsector Index="M">Shoviav</Subsector>
+    <Subsector Index="N">Fliafe</Subsector>
+    <Subsector Index="O">Zdifrzhanchbranz</Subsector>
+    <Subsector Index="P">Dlazaflil</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

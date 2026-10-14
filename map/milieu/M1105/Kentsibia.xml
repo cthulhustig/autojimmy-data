@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Kentsibia</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-57</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Avle</Subsector>
+    <Subsector Index="B">Enfrevl</Subsector>
+    <Subsector Index="C">Kiaqrieia</Subsector>
+    <Subsector Index="D">Prontsivlish</Subsector>
+    <Subsector Index="E">Biarvreshrl</Subsector>
+    <Subsector Index="F">Nchieblshiesh</Subsector>
+    <Subsector Index="G">Tlilvoer</Subsector>
+    <Subsector Index="H">Blanzhklinspi</Subsector>
+    <Subsector Index="I">Plenzi</Subsector>
+    <Subsector Index="J">Riadlshez'obl</Subsector>
+    <Subsector Index="K">Afif</Subsector>
+    <Subsector Index="L">Tlietlnjanz</Subsector>
+    <Subsector Index="M">Anchats</Subsector>
+    <Subsector Index="N">Iedrianj</Subsector>
+    <Subsector Index="O">Ajivl</Subsector>
+    <Subsector Index="P">Labatl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

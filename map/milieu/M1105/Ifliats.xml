@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ifliats</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-157</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Zhenstsal</Subsector>
+    <Subsector Index="B">Anji</Subsector>
+    <Subsector Index="C">Niafliadlia</Subsector>
+    <Subsector Index="D">Tianzrjdlapl</Subsector>
+    <Subsector Index="E">Nsanso</Subsector>
+    <Subsector Index="F">Prepvliavlekl</Subsector>
+    <Subsector Index="G">Jiatie</Subsector>
+    <Subsector Index="H">Zhdensaqrprent</Subsector>
+    <Subsector Index="I">Chtevltse'ntsakl</Subsector>
+    <Subsector Index="J">Afliabr</Subsector>
+    <Subsector Index="K">Itliatl</Subsector>
+    <Subsector Index="L">Jeshtitsfri</Subsector>
+    <Subsector Index="M">Ifzhe</Subsector>
+    <Subsector Index="N">Dlekriefrets</Subsector>
+    <Subsector Index="O">Dlensnzajntsiets</Subsector>
+    <Subsector Index="P">Zivlidl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

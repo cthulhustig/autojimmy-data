@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="OTU" Abbreviation="Prov">
+  <Name>Provence</Name>
+  <Name Lang="va">Orraenang</Name>
+  <Name Lang="vi">Amshagi</Name>
+  <Credits />
+  <X>-2</X>
+  <Y>-2</Y>
+  <DataFile Milieu="IW" />
+  <Subsectors />
+  <Allegiances>
+    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="ZS">Ziru Sirka</Allegiance>
+  </Allegiances>
+  <Borders>
+    <Border Color="Red" Allegiance="ZS" LabelPosition="2321">2236 2337 2437 2537 2636 2737 2738 2739 2839 2939 3039 3139 3238 3338 3337 3338 3339 3340 3341 3241 3141 3041 2941 2841 2741 2640 2540 2539 2538 2437 2337 2236</Border>
+  </Borders>
+</Sector>

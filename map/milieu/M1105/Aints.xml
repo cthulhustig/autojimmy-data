@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Aints</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-28</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dlitlnsiefrlans</Subsector>
+    <Subsector Index="B">Ezhflia</Subsector>
+    <Subsector Index="C">Etetl</Subsector>
+    <Subsector Index="D">Zazez</Subsector>
+    <Subsector Index="E">Driafokrav</Subsector>
+    <Subsector Index="F">Blevllishko</Subsector>
+    <Subsector Index="G">Ntei</Subsector>
+    <Subsector Index="H">Chtinchieinch</Subsector>
+    <Subsector Index="I">Ratbrabra</Subsector>
+    <Subsector Index="J">Natblafbrovl</Subsector>
+    <Subsector Index="K">Ienso</Subsector>
+    <Subsector Index="L">Iklvints</Subsector>
+    <Subsector Index="M">Dle'fliashzor</Subsector>
+    <Subsector Index="N">Ravnziaj</Subsector>
+    <Subsector Index="O">Shtonsdreofl</Subsector>
+    <Subsector Index="P">Iaviavl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

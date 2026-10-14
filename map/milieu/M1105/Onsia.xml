@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Onsia</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-142</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Stiaflietsshients</Subsector>
+    <Subsector Index="B">Entier</Subsector>
+    <Subsector Index="C">Qolqrensibl</Subsector>
+    <Subsector Index="D">Ekrat</Subsector>
+    <Subsector Index="E">Nzonjdlidr</Subsector>
+    <Subsector Index="F">Ere</Subsector>
+    <Subsector Index="G">Diedlashabl</Subsector>
+    <Subsector Index="H">Bianjdinsedr</Subsector>
+    <Subsector Index="I">Binzhmaflaz</Subsector>
+    <Subsector Index="J">Brafanzief</Subsector>
+    <Subsector Index="K">Zitee</Subsector>
+    <Subsector Index="L">Chefklavrplam</Subsector>
+    <Subsector Index="M">Niashshiaenj</Subsector>
+    <Subsector Index="N">Ransidl</Subsector>
+    <Subsector Index="O">Okri</Subsector>
+    <Subsector Index="P">Jibrblav</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

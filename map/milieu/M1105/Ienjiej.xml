@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ienjiej</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-122</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Chtiebrklovplatl</Subsector>
+    <Subsector Index="B">Chiprpadlie</Subsector>
+    <Subsector Index="C">Zhensheplienz</Subsector>
+    <Subsector Index="D">Zhavltats</Subsector>
+    <Subsector Index="E">Flirnjevle</Subsector>
+    <Subsector Index="F">Iarzhopr</Subsector>
+    <Subsector Index="G">Iatszatl</Subsector>
+    <Subsector Index="H">Ieka'</Subsector>
+    <Subsector Index="I">Plrlkefrfronj</Subsector>
+    <Subsector Index="J">Tsaia</Subsector>
+    <Subsector Index="K">Fansie</Subsector>
+    <Subsector Index="L">Echiad</Subsector>
+    <Subsector Index="M">Sazhlerre'</Subsector>
+    <Subsector Index="N">Qradel</Subsector>
+    <Subsector Index="O">Fize</Subsector>
+    <Subsector Index="P">Okro</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

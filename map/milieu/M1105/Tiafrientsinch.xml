@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tiafrientsinch</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-87</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Nzhaflafl</Subsector>
+    <Subsector Index="B">Ezhfol</Subsector>
+    <Subsector Index="C">Tliplkliedlblafl</Subsector>
+    <Subsector Index="D">Yieplnzhibrevl</Subsector>
+    <Subsector Index="E">Vrienzaidl</Subsector>
+    <Subsector Index="F">Tliaplnchatsia</Subsector>
+    <Subsector Index="G">Sadlvriavrnsiefr</Subsector>
+    <Subsector Index="H">Anzir</Subsector>
+    <Subsector Index="I">Kavlzrja</Subsector>
+    <Subsector Index="J">Driashia</Subsector>
+    <Subsector Index="K">Abrivr</Subsector>
+    <Subsector Index="L">Piachzeklanzh</Subsector>
+    <Subsector Index="M">Vrodli</Subsector>
+    <Subsector Index="N">Lievrints</Subsector>
+    <Subsector Index="O">Zdapronjzodl</Subsector>
+    <Subsector Index="P">Ezzipr</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

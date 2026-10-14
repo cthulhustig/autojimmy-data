@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Tlafla</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-129</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Vevelo</Subsector>
+    <Subsector Index="B">Kensvratsets</Subsector>
+    <Subsector Index="C">Dranchabr</Subsector>
+    <Subsector Index="D">Stiezhzentfadl</Subsector>
+    <Subsector Index="E">Bribrepli</Subsector>
+    <Subsector Index="F">Ivlabr</Subsector>
+    <Subsector Index="G">Qrenshabr</Subsector>
+    <Subsector Index="H">Vledrats</Subsector>
+    <Subsector Index="I">Qlareblfiavl</Subsector>
+    <Subsector Index="J">Tsipldleple</Subsector>
+    <Subsector Index="K">Zhapri</Subsector>
+    <Subsector Index="L">Ebli</Subsector>
+    <Subsector Index="M">Zhedla</Subsector>
+    <Subsector Index="N">Bliezhnji</Subsector>
+    <Subsector Index="O">Frobliei</Subsector>
+    <Subsector Index="P">Nalntetsshia</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

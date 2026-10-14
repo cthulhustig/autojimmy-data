@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Era</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-34</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Drizhiatse</Subsector>
+    <Subsector Index="B">Lieliens</Subsector>
+    <Subsector Index="C">Drentnchiablil</Subsector>
+    <Subsector Index="D">Siebrnzhensiev</Subsector>
+    <Subsector Index="E">Ezienj</Subsector>
+    <Subsector Index="F">Beplchenzhdlanz</Subsector>
+    <Subsector Index="G">Diafnsezhia</Subsector>
+    <Subsector Index="H">Kintsianjie</Subsector>
+    <Subsector Index="I">Dratsiedldliavr</Subsector>
+    <Subsector Index="J">Braprtiat</Subsector>
+    <Subsector Index="K">Ienzash</Subsector>
+    <Subsector Index="L">Avjidl</Subsector>
+    <Subsector Index="M">Shiazhdeibr</Subsector>
+    <Subsector Index="N">Eil</Subsector>
+    <Subsector Index="O">Chikrdiei</Subsector>
+    <Subsector Index="P">Dlenzheflievl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

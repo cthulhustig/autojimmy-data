@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Ovldanch</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-112</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ekrvev</Subsector>
+    <Subsector Index="B">Zhdieshianzdie</Subsector>
+    <Subsector Index="C">Vaplklenzie</Subsector>
+    <Subsector Index="D">Piedrishapl</Subsector>
+    <Subsector Index="E">Eklaf</Subsector>
+    <Subsector Index="F">Fazpliklblianz</Subsector>
+    <Subsector Index="G">Pilbeqrplikl</Subsector>
+    <Subsector Index="H">Chtienaapl</Subsector>
+    <Subsector Index="I">Zhiezhienjde</Subsector>
+    <Subsector Index="J">Dreshnzhebrtsiabl</Subsector>
+    <Subsector Index="K">Kaliezivl</Subsector>
+    <Subsector Index="L">Tlaplnjai</Subsector>
+    <Subsector Index="M">Viedrkiake</Subsector>
+    <Subsector Index="N">Shaliav</Subsector>
+    <Subsector Index="O">Dlelbiepl</Subsector>
+    <Subsector Index="P">Nizhnzhofats</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

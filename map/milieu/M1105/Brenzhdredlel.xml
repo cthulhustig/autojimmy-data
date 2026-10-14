@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Brenzhdredlel</Name>
+  <Credits />
+  <X>-8</X>
+  <Y>-18</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Qrinzhmitszits</Subsector>
+    <Subsector Index="B">Itsivr</Subsector>
+    <Subsector Index="C">Stonzablents</Subsector>
+    <Subsector Index="D">Piblie</Subsector>
+    <Subsector Index="E">Chieblatlet</Subsector>
+    <Subsector Index="F">Zdiachnshibrie</Subsector>
+    <Subsector Index="G">Zdachnshifra</Subsector>
+    <Subsector Index="H">Ilans</Subsector>
+    <Subsector Index="I">Tsolnzaepl</Subsector>
+    <Subsector Index="J">Teronts</Subsector>
+    <Subsector Index="K">Eech</Subsector>
+    <Subsector Index="L">Ishflipr</Subsector>
+    <Subsector Index="M">Efrenz</Subsector>
+    <Subsector Index="N">Kladlinz</Subsector>
+    <Subsector Index="O">Tsetlnsencha</Subsector>
+    <Subsector Index="P">Ratlntsinchklibl</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

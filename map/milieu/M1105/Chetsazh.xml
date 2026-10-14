@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Chetsazh</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-90</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Dansflevltsibr</Subsector>
+    <Subsector Index="B">Mieke</Subsector>
+    <Subsector Index="C">Brenchflefr</Subsector>
+    <Subsector Index="D">Jdenchiantsr</Subsector>
+    <Subsector Index="E">Dlazpleej</Subsector>
+    <Subsector Index="F">Eievr</Subsector>
+    <Subsector Index="G">Zhiashlofplid</Subsector>
+    <Subsector Index="H">Etliats</Subsector>
+    <Subsector Index="I">Nchofnzhe</Subsector>
+    <Subsector Index="J">Bietspanzi</Subsector>
+    <Subsector Index="K">Qritlianzh</Subsector>
+    <Subsector Index="L">Chofnchaia</Subsector>
+    <Subsector Index="M">Zhdafetnshebr</Subsector>
+    <Subsector Index="N">Drantitlie</Subsector>
+    <Subsector Index="O">Iafrbrez</Subsector>
+    <Subsector Index="P">Potinzbe</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

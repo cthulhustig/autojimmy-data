@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Vletslonz</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-64</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Shtianzhaie</Subsector>
+    <Subsector Index="B">Ziqrnziebrints</Subsector>
+    <Subsector Index="C">Chajnshiezchiabr</Subsector>
+    <Subsector Index="D">Fichtseflenj</Subsector>
+    <Subsector Index="E">Ane</Subsector>
+    <Subsector Index="F">Floprianjiaz</Subsector>
+    <Subsector Index="G">Entstsants</Subsector>
+    <Subsector Index="H">Zdenzfritzej</Subsector>
+    <Subsector Index="I">Rantrfiavl</Subsector>
+    <Subsector Index="J">Zdolnzieensh</Subsector>
+    <Subsector Index="K">Medrfrieflifr</Subsector>
+    <Subsector Index="L">Iatszad</Subsector>
+    <Subsector Index="M">Babrvre</Subsector>
+    <Subsector Index="N">Zdanzhfrapze</Subsector>
+    <Subsector Index="O">Nshae</Subsector>
+    <Subsector Index="P">Nzhodle</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>

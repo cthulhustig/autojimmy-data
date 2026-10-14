@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Sector Tags="ZCR">
+  <Name Lang="zh">Frianchzidl</Name>
+  <Credits />
+  <X>-6</X>
+  <Y>-126</Y>
+  <DataFile Author="Clifford Linehan" Source="Zhodani Core Route Project" Milieu="M1105" />
+  <Subsectors>
+    <Subsector Index="A">Ietlafl</Subsector>
+    <Subsector Index="B">Tleshachofr</Subsector>
+    <Subsector Index="C">Lao</Subsector>
+    <Subsector Index="D">Shiazhiekl</Subsector>
+    <Subsector Index="E">Nanzhnziazhench</Subsector>
+    <Subsector Index="F">Saznjiazflanch</Subsector>
+    <Subsector Index="G">Tliaqrrens</Subsector>
+    <Subsector Index="H">Kliatsnchefr</Subsector>
+    <Subsector Index="I">Iatsblaz</Subsector>
+    <Subsector Index="J">Tabakrenz</Subsector>
+    <Subsector Index="K">Antsanch</Subsector>
+    <Subsector Index="L">Friabrnzhetsnchiezh</Subsector>
+    <Subsector Index="M">Ifli</Subsector>
+    <Subsector Index="N">Iavntsiash</Subsector>
+    <Subsector Index="O">Ziashvlenzhbrats</Subsector>
+    <Subsector Index="P">Brifrienslap</Subsector>
+  </Subsectors>
+  <Allegiances />
+</Sector>
