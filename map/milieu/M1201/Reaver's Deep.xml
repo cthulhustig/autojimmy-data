@@ -36,10 +36,10 @@
     <Subsector Index="P">Fahlnar</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Wi">Wilds</Allegiance>
     <Allegiance Code="Gu">Gralyn Union</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Gu { color: lightgreen; }

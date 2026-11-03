@@ -28,9 +28,9 @@
     <Subsector Index="P">Gubrigen</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="JU">Joyce Unity</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Purple" Allegiance="JU" LabelPosition="1033">0332 0431 0532 0631 0732 0831 0932 1032 1132 1232 1332 1432 1533 1633 1534 1433 1333 1232 1133 1032 0932 0832 0732 0632 0532 0432 0333 0332</Border>

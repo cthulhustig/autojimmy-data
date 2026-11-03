@@ -14,7 +14,7 @@
     </Credits>
   <X>-2</X>
   <Y>2</Y>
-  <Product Author="Randy Dorman" Title="The Deep and the Dark" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-deep-and-the-dark" />
+  <Product Author="Randy Dorman" Title="The Deep and the Dark" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-deep-and-the-dark" Image="https://travellermap.s3.amazonaws.com/images/covers/the_deep_and_the_dark.jpg" />
   <DataFile Author="J. Andrew Keith" Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Farift</Subsector>
@@ -35,31 +35,31 @@
     <Subsector Index="P">Fahlnar</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="IsDo">Islaiat Dominate</Allegiance>
-    <Allegiance Code="AsT6" Base="As">Aslan Hierate, Tlaukhu control, Uiktawa (7), Iykyasea (17), Faowaou (27)</Allegiance>
-    <Allegiance Code="AsT9" Base="As">Aslan Hierate, Tlaukhu control, Aokhalte (10), Sahao' (21), Ouokhoi (26)</Allegiance>
-    <Allegiance Code="AsT4" Base="As">Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)</Allegiance>
-    <Allegiance Code="AsWc" Base="As">Aslan Hierate, single one-world clan dominates</Allegiance>
-    <Allegiance Code="AsMw" Base="As">Aslan Hierate, single multiple-world clan dominates</Allegiance>
-    <Allegiance Code="AsT0" Base="As">Aslan Hierate, Tlaukhu control, Yerlyaruiwo (1), Hrawoao (13), Eisohiyw (14), Ferekhearl (19)</Allegiance>
-    <Allegiance Code="AsSc" Base="As">Aslan Hierate, multiple clans split control</Allegiance>
-    <Allegiance Code="NaAs" Base="As">Non-Aligned, Aslan-dominated</Allegiance>
-    <Allegiance Code="AsTv" Base="As">Aslan Hierate, Tlaukhu vassal clan dominates</Allegiance>
-    <Allegiance Code="AsT1" Base="As">Aslan Hierate, Tlaukhu control, Khaukheairl (2), Estoieie' (16), Toaseilwi (22)</Allegiance>
-    <Allegiance Code="AsT3" Base="As">Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="UnHa">Union of Harmony</Allegiance>
-    <Allegiance Code="CsCa">Client state, Principality of Caledon</Allegiance>
-    <Allegiance Code="GdMh">Grand Duchy of Marlheim</Allegiance>
-    <Allegiance Code="CaPr">Principality of Caledon</Allegiance>
-    <Allegiance Code="DuCf">Confederation of Duncinae</Allegiance>
-    <Allegiance Code="CaTe">Carter Technocracy</Allegiance>
-    <Allegiance Code="LyCo">Lanyard Colonies</Allegiance>
-    <Allegiance Code="CaAs">Carrillian Assembly</Allegiance>
-    <Allegiance Code="ImDi" Base="Im">Third Imperium, Domain of Ilelish</Allegiance>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="IsDo" ShortName="Islaiat">Islaiat Dominate</Allegiance>
+    <Allegiance Code="AsT6" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu control, Uiktawa (7), Iykyasea (17), Faowaou (27)</Allegiance>
+    <Allegiance Code="AsT9" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu control, Aokhalte (10), Sahao' (21), Ouokhoi (26)</Allegiance>
+    <Allegiance Code="AsT4" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)</Allegiance>
+    <Allegiance Code="AsWc" Base="As" ShortName="Hierate">Aslan Hierate, single one-world clan dominates</Allegiance>
+    <Allegiance Code="AsMw" Base="As" ShortName="Hierate">Aslan Hierate, single multiple-world clan dominates</Allegiance>
+    <Allegiance Code="AsT0" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu control, Yerlyaruiwo (1), Hrawoao (13), Eisohiyw (14), Ferekhearl (19)</Allegiance>
+    <Allegiance Code="AsSc" Base="As" ShortName="Hierate">Aslan Hierate, multiple clans split control</Allegiance>
+    <Allegiance Code="NaAs" Base="As" ShortName="">Non-Aligned, Aslan-dominated</Allegiance>
+    <Allegiance Code="AsTv" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu vassal clan dominates</Allegiance>
+    <Allegiance Code="AsT1" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu control, Khaukheairl (2), Estoieie' (16), Toaseilwi (22)</Allegiance>
+    <Allegiance Code="AsT3" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="UnHa" ShortName="Harmony">Union of Harmony</Allegiance>
+    <Allegiance Code="CsCa" ShortName="">Client state, Principality of Caledon</Allegiance>
+    <Allegiance Code="GdMh" ShortName="Marlheim">Grand Duchy of Marlheim</Allegiance>
+    <Allegiance Code="CaPr" ShortName="Caledon">Principality of Caledon</Allegiance>
+    <Allegiance Code="DuCf" ShortName="Duncinae">Confederation of Duncinae</Allegiance>
+    <Allegiance Code="CaTe" ShortName="Carter">Carter Technocracy</Allegiance>
+    <Allegiance Code="LyCo" ShortName="Lanyard">Lanyard Colonies</Allegiance>
+    <Allegiance Code="CaAs" ShortName="Carrillian">Carrillian Assembly</Allegiance>
+    <Allegiance Code="ImDi" Base="Im" ShortName="Imperium">Third Imperium, Domain of Ilelish</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
     <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Stylesheet>

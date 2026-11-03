@@ -24,7 +24,7 @@
     <Subsector Index="P">Kabrliavfier</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Routes>
     <Route Start="1120" End="1317" Type="Core Route" />

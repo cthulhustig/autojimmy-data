@@ -16,7 +16,7 @@
   <Allegiances>
     <Allegiance Code="KC">K'Kree Client State</Allegiance>
     <Allegiance Code="K3">Gathering of Kirgia</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Kk">The Two Thousand Worlds</Allegiance>
     <Allegiance Code="K1">K'Kree Client State</Allegiance>
     <Allegiance Code="K2">K'Kree Client State</Allegiance>

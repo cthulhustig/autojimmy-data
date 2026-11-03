@@ -33,7 +33,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="ZS">Ziru Sirka</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="ZSk">Ziru Sirka (Kimashargur)</Allegiance>
     <Allegiance Code="TC">Terran Confederation</Allegiance>
     <Allegiance Code="ZSv">Ziru Sirka (Vegan)</Allegiance>

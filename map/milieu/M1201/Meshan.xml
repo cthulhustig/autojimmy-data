@@ -35,9 +35,9 @@
     <Subsector Source="Challenge #49" Index="P">Sudzum</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="Tu">Tokho Union</Allegiance>
     <Allegiance Code="Ki">Kisiidi</Allegiance>
   </Allegiances>

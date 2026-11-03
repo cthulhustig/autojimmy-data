@@ -35,7 +35,7 @@
     <Subsector Index="P" />
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Fd">Full Data Available To Public</Allegiance>
   </Allegiances>
   <Borders>

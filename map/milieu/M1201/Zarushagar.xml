@@ -40,9 +40,9 @@
     <Subsector Index="P">Mongrebi</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Wi">Wilds</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Zr">Zarushagar Rift Confederation</Allegiance>
     <Allegiance Code="Df">Darmine Federation</Allegiance>
     <Allegiance Code="St">Star Traders Compact</Allegiance>

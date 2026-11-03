@@ -37,7 +37,7 @@
     <Allegiance Code="Lt">Lords of Thunder</Allegiance>
     <Allegiance Code="K4">Ka'ra Mandate</Allegiance>
     <Allegiance Code="Kl">Lank'gha Collective</Allegiance>
-    <Allegiance Code="KC">Client state, Two Thousand Worlds</Allegiance>
+    <Allegiance Code="KC" ShortName="">Client state, Two Thousand Worlds</Allegiance>
     <Allegiance Code="Kk">The Two Thousand Worlds</Allegiance>
   </Allegiances>
   <Borders>

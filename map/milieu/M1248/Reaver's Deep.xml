@@ -39,7 +39,7 @@
     <Subsector Index="P" />
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Borders>

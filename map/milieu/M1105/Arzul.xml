@@ -33,11 +33,11 @@
     <Subsector Index="P">Desert</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="JuPr" Base="Jp">Julian Protectorate</Allegiance>
-    <Allegiance Code="JHhk" Base="Jp">Julian Protectorate, Hhkar Sphere</Allegiance>
-    <Allegiance Code="JuHl" Base="Jp">Julian Protectorate, Hegemony of Lorean</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="JuPr" Base="Jp" ShortName="Protectorate">Julian Protectorate</Allegiance>
+    <Allegiance Code="JHhk" Base="Jp" ShortName="Protectorate">Julian Protectorate, Hhkar Sphere</Allegiance>
+    <Allegiance Code="JuHl" Base="Jp" ShortName="Protectorate">Julian Protectorate, Hegemony of Lorean</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Allegiance="JuHl" LabelPosition="0730" Label="Hegemony of Lorean">0017 0117 0116 0216 0317 0416 0417 0518 0519 0619 0720 0820 0821 0922 0923 1023 1124 1125 1225 1226 1227 1328 1329 1330 1331 1332 1432 1333 1233 1234 1235 1236 1237 1238 1239 1240 1241 1141 1041 0941 0841 0741 0641 0541 0441 0341 0241 0141 0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 0027 0026 0025 0024 0023 0022 0021 0020 0019 0018 0017</Border>

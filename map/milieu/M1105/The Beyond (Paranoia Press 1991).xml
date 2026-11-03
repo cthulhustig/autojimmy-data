@@ -24,8 +24,8 @@
     <Subsector Index="P">Aslani</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Ma">Grand Duchy of Marlheim</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Ma" ShortName="Marlheim">Grand Duchy of Marlheim</Allegiance>
     <Allegiance Code="CL">Correlan League</Allegiance>
     <Allegiance Code="MC">Murian Colonies</Allegiance>
     <Allegiance Code="MS">Sted of the Ma' Gnar</Allegiance>

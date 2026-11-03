@@ -24,8 +24,8 @@
     <Subsector Index="P">Eblnched</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Routes>
     <Route Start="1022" End="1119" Type="Core Route" />

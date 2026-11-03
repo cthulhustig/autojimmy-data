@@ -42,7 +42,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Nw">New Worlds Alliance</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Ga">Gaidraan Coalition</Allegiance>
   </Allegiances>
   <Borders>

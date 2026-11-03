@@ -40,8 +40,8 @@
     <Subsector Index="P">Moibin</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Re { color: lightblue; }

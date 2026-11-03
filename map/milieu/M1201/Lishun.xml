@@ -35,8 +35,8 @@
     <Subsector Index="P">?</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Ca">Conderation of Antares</Allegiance>
     <Allegiance Code="Bi">Black Imperium Holocaust Zone</Allegiance>
   </Allegiances>

@@ -25,8 +25,8 @@
     <Subsector Index="P">Garsga</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VR">Kechk Reversion</Allegiance>
     <Allegiance Code="VP">Kechk Pact</Allegiance>
     <Allegiance Code="Ve">Empire of Varroerth</Allegiance>

@@ -33,14 +33,14 @@
     <Subsector Index="P">Trin's Shroud</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Vi">Vilis</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="Na">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Sw">Sword Worlds Confederation</Allegiance>
     <Allegiance Code="Pa">Pavabid</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Rr">Republic of Regina</Allegiance>
     <Allegiance Code="Cs">Client State, Republic of Regina</Allegiance>
     <Allegiance Code="Du">Duchy of Mora</Allegiance>

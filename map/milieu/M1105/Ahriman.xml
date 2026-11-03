@@ -25,11 +25,11 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="In">Inyx Economic Sphere</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Ip">Inyx Plutocracy</Allegiance>
     <Allegiance Code="Sm">Steaak Madigrud</Allegiance>
-    <Allegiance Code="NaAs" Base="As">Non-Aligned, Aslan-dominated</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaAs" Base="As" ShortName="">Non-Aligned, Aslan-dominated</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Cp">Chalice Protectorate</Allegiance>
     <Allegiance Code="Cl">Chalice Legion</Allegiance>
     <Allegiance Code="Ic">ICan'tPronounceThat</Allegiance>

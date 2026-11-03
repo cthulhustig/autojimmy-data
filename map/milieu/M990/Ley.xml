@@ -29,7 +29,7 @@
     <Allegiance Code="Im">Third Imperium</Allegiance>
     <Allegiance Code="IU" Base="Im">Imperial, Ursa world</Allegiance>
     <Allegiance Code="IL" Base="Im">Imperial, culturally Luriani</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Hc">Hiver Client</Allegiance>
     <Allegiance Code="IC" Base="Cs">Imperial Client State</Allegiance>
     <Allegiance Code="KL">Khuur League</Allegiance>

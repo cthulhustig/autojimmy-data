@@ -40,8 +40,8 @@
     <Subsector Index="P">Vast Heavens</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Rr">Republic of Regina</Allegiance>
     <Allegiance Code="Li">Limmu Bukara</Allegiance>
   </Allegiances>

@@ -11,7 +11,7 @@
     </Credits>
   <X>-4</X>
   <Y>-2</Y>
-  <Product Author="Simon Beal" Title="Alien Module 2: Vargr" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/alien-module-2-vargr-1" />
+  <Product Author="Simon Beal" Title="Alien Module 2: Vargr" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/alien-module-2-vargr-1" Image="https://travellermap.s3.amazonaws.com/images/covers/alien_module_2_vargr.jpg" />
   <DataFile Author="J. Andrew Keith, Marc Miller and John Harshman" Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Author="Roger Myhre" Publisher="HIWG" Ref="http://traveller.mu.org/archive/HIWG/Gvurdon/6F01.TXT" Index="A">Ongvos</Subsector>
@@ -32,23 +32,23 @@
     <Subsector Source="Supplement 3 - The Spinward Marches" Index="P">Firgr</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="ZhIN" Base="Zh">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
-    <Allegiance Code="VTzE" Base="Va">Thirz Empire</Allegiance>
-    <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="VRuk" Base="Va">Worlds of Leader Rukh</Allegiance>
-    <Allegiance Code="VSDp" Base="Va">Saeknouth Dependency</Allegiance>
-    <Allegiance Code="VSEq" Base="Va">Society of Equals</Allegiance>
-    <Allegiance Code="VARC" Base="Va">Anti-Rukh Coalition</Allegiance>
-    <Allegiance Code="VPGa" Base="Va">Pact of Gaerr</Allegiance>
-    <Allegiance Code="V40S" Base="Va">40th Squadron</Allegiance>
-    <Allegiance Code="NaDr">Non-Aligned, Droyne-dominated</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="VThE" Base="Va">Thoengling Empire</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="VCKd" Base="Va">Commonality of Kedzudh</Allegiance>
-    <Allegiance Code="VUru" Base="Va">Urukhu</Allegiance>
-    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="ZhIN" Base="Zh" ShortName="Consulate">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
+    <Allegiance Code="VTzE" Base="Va" ShortName="Thirz Empire">Thirz Empire</Allegiance>
+    <Allegiance Code="NaVa" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="VRuk" Base="Va" ShortName="Worlds of Leader Rukh">Worlds of Leader Rukh</Allegiance>
+    <Allegiance Code="VSDp" Base="Va" ShortName="Saeknouth Dependency">Saeknouth Dependency</Allegiance>
+    <Allegiance Code="VSEq" Base="Va" ShortName="Society of Equals">Society of Equals</Allegiance>
+    <Allegiance Code="VARC" Base="Va" ShortName="Anti-Rukh Coalition">Anti-Rukh Coalition</Allegiance>
+    <Allegiance Code="VPGa" Base="Va" ShortName="Pact of Gaerr">Pact of Gaerr</Allegiance>
+    <Allegiance Code="V40S" Base="Va" ShortName="40th Squadron">40th Squadron</Allegiance>
+    <Allegiance Code="NaDr" ShortName="">Non-Aligned, Droyne-dominated</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="VThE" Base="Va" ShortName="Thoengling Empire">Thoengling Empire</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="VCKd" Base="Va" ShortName="Commonality of Kedzudh">Commonality of Kedzudh</Allegiance>
+    <Allegiance Code="VUru" Base="Va" ShortName="Urukhu">Urukhu</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.V40S,

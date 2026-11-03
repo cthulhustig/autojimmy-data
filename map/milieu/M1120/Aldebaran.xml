@@ -33,10 +33,10 @@
     <Subsector Source="Randy Dorman" Index="P">Hesperia</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="MaUn">Malorn Union</Allegiance>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
-    <Allegiance Code="WiDe">Winston Democracy</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="MaUn" ShortName="Malorn">Malorn Union</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
+    <Allegiance Code="WiDe" ShortName="Winston">Winston Democracy</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="White" Allegiance="MaUn" LabelPosition="0539">0038 0138 0237 0238 0339 0439 0540 0541 0441 0341 0241 0141 0041 0040 0039 0038</Border>

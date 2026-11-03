@@ -34,15 +34,15 @@
     <Subsector Source="Core" Index="P">Lorean</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="JuPr" Base="Jp">Julian Protectorate</Allegiance>
-    <Allegiance Code="JAsi" Base="Jp">Julian Protectorate, Asimikigir Confederation</Allegiance>
-    <Allegiance Code="JuRu" Base="Jp">Julian Protectorate, Rukadukaz Republic</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="JAOz" Base="Jp">Julian Protectorate, Alliance of Ozuvon</Allegiance>
-    <Allegiance Code="JCoK" Base="Jp">Julian Protectorate, Constitution of Koekhon</Allegiance>
-    <Allegiance Code="JuHl" Base="Jp">Julian Protectorate, Hegemony of Lorean</Allegiance>
-    <Allegiance Code="JHhk" Base="Jp">Julian Protectorate, Hhkar Sphere</Allegiance>
-    <Allegiance Code="JRar" Base="Jp">Julian Protectorate, Rar Errall/Wolves Warren</Allegiance>
+    <Allegiance Code="JuPr" Base="Jp" ShortName="Protectorate">Julian Protectorate</Allegiance>
+    <Allegiance Code="JAsi" Base="Jp" ShortName="Protectorate">Julian Protectorate, Asimikigir Confederation</Allegiance>
+    <Allegiance Code="JuRu" Base="Jp" ShortName="Protectorate">Julian Protectorate, Rukadukaz Republic</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="JAOz" Base="Jp" ShortName="Protectorate">Julian Protectorate, Alliance of Ozuvon</Allegiance>
+    <Allegiance Code="JCoK" Base="Jp" ShortName="Protectorate">Julian Protectorate, Constitution of Koekhon</Allegiance>
+    <Allegiance Code="JuHl" Base="Jp" ShortName="Protectorate">Julian Protectorate, Hegemony of Lorean</Allegiance>
+    <Allegiance Code="JHhk" Base="Jp" ShortName="Protectorate">Julian Protectorate, Hhkar Sphere</Allegiance>
+    <Allegiance Code="JRar" Base="Jp" ShortName="Protectorate">Julian Protectorate, Rar Errall/Wolves Warren</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Allegiance="JuHl" LabelPosition="3036" Label="Hegemony of Lorean">1839 1939 2038 2138 2237 2236 2337 2436 2536 2635 2735 2834 2833 2832 2831 2830 2829 2828 2827 2826 2726 2725 2724 2723 2822 2922 3021 3121 3220 3219 3218 3217 3317 3316 3317 3318 3319 3320 3321 3322 3323 3324 3325 3326 3327 3328 3329 3330 3331 3332 3333 3334 3335 3336 3337 3338 3339 3340 3341 3241 3141 3041 2941 2841 2741 2641 2541 2441 2341 2241 2141 2041 2040 1940 1839</Border>

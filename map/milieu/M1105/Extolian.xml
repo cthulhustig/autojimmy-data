@@ -30,12 +30,12 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Cr">Corona Regnum</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Na">Non-aligned</Allegiance>
     <Allegiance Code="Ia">Ithklur Aexzz</Allegiance>
     <Allegiance Code="Xh">Hive FDA extra-Federation operation</Allegiance>
-    <Allegiance Code="CsHv">Client state, Hive Federation</Allegiance>
-    <Allegiance Code="HvFd" Base="Hv">Hive Federation</Allegiance>
+    <Allegiance Code="CsHv" ShortName="">Client state, Hive Federation</Allegiance>
+    <Allegiance Code="HvFd" Base="Hv" ShortName="Hive">Hive Federation</Allegiance>
     <Allegiance Code="Ca">Cambre Accord</Allegiance>
     <Allegiance Code="6w">Six Worlds</Allegiance>
     <Allegiance Code="Hf">Hive FDA Uplift/Observation Site</Allegiance>

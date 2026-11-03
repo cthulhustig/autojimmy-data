@@ -20,7 +20,7 @@ This updated version appears in &lt;cite&gt;The Spinward Extents&lt;/cite&gt;
     </Credits>
   <X>-5</X>
   <Y>0</Y>
-  <Product Author="Geir Lanesskog" Title="The Spinward Extents" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-spinward-extents" />
+  <Product Author="Geir Lanesskog" Title="The Spinward Extents" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-spinward-extents" Image="https://travellermap.s3.amazonaws.com/images/covers/the_spinward_extents.jpg" />
   <DataFile Author="Geir Lanesskog" Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Mapepire</Subsector>
@@ -41,32 +41,32 @@ This updated version appears in &lt;cite&gt;The Spinward Extents&lt;/cite&gt;
     <Subsector Index="P">Aslani</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="MaCl">Mapepire Cluster</Allegiance>
-    <Allegiance Code="CoLg">Corellan League</Allegiance>
-    <Allegiance Code="HeCo">Hefrin Colony</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="ZyCo">Zydarian Codominium</Allegiance>
-    <Allegiance Code="NkCo">Nakris Confederation</Allegiance>
-    <Allegiance Code="PrBr">Principality of Bruhkarr</Allegiance>
-    <Allegiance Code="NaAs" Base="As">Non-Aligned, Aslan-dominated</Allegiance>
-    <Allegiance Code="ShRp">Stormhaven Republic</Allegiance>
-    <Allegiance Code="NaDr">Non-Aligned, Droyne-dominated</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="IHPr">I'Sred*Ni Protectorate</Allegiance>
-    <Allegiance Code="KaEm">Katanga Empire</Allegiance>
-    <Allegiance Code="AsSc" Base="As">Aslan Hierate, multiple clans split control</Allegiance>
-    <Allegiance Code="AsXX" Base="As">Aslan Hierate, unknown</Allegiance>
-    <Allegiance Code="AsWc" Base="As">Aslan Hierate, single one-world clan dominates</Allegiance>
-    <Allegiance Code="AsVc" Base="As">Aslan Hierate, vassal clan dominates</Allegiance>
-    <Allegiance Code="AsTv" Base="As">Aslan Hierate, Tlaukhu vassal clan dominates</Allegiance>
-    <Allegiance Code="AsMw" Base="As">Aslan Hierate, single multiple-world clan dominates</Allegiance>
-    <Allegiance Code="MoLo">Monarchy of Lod</Allegiance>
-    <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="FlLe">Florian League</Allegiance>
-    <Allegiance Code="AsT2" Base="As">Aslan Hierate, Tlaukhu control, Syoisuis (3)</Allegiance>
-    <Allegiance Code="AsT4" Base="As">Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)</Allegiance>
-    <Allegiance Code="AsT7" Base="As">Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerlearlyo (20), Yetahikh (24)</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="MaCl" ShortName="Mapepire">Mapepire Cluster</Allegiance>
+    <Allegiance Code="CoLg" ShortName="Corellan">Corellan League</Allegiance>
+    <Allegiance Code="HeCo" ShortName="Hefrin">Hefrin Colony</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="ZyCo" ShortName="Zydarian">Zydarian Codominium</Allegiance>
+    <Allegiance Code="NkCo" ShortName="Nakirs">Nakris Confederation</Allegiance>
+    <Allegiance Code="PrBr" ShortName="Bruhkarr">Principality of Bruhkarr</Allegiance>
+    <Allegiance Code="NaAs" Base="As" ShortName="">Non-Aligned, Aslan-dominated</Allegiance>
+    <Allegiance Code="ShRp" ShortName="Stormhaven">Stormhaven Republic</Allegiance>
+    <Allegiance Code="NaDr" ShortName="">Non-Aligned, Droyne-dominated</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="IHPr" ShortName="I'Sred*Ni">I'Sred*Ni Protectorate</Allegiance>
+    <Allegiance Code="KaEm" ShortName="Katanga">Katanga Empire</Allegiance>
+    <Allegiance Code="AsSc" Base="As" ShortName="Hierate">Aslan Hierate, multiple clans split control</Allegiance>
+    <Allegiance Code="AsXX" Base="As" ShortName="Hierate">Aslan Hierate, unknown</Allegiance>
+    <Allegiance Code="AsWc" Base="As" ShortName="Hierate">Aslan Hierate, single one-world clan dominates</Allegiance>
+    <Allegiance Code="AsVc" Base="As" ShortName="Hierate">Aslan Hierate, vassal clan dominates</Allegiance>
+    <Allegiance Code="AsTv" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu vassal clan dominates</Allegiance>
+    <Allegiance Code="AsMw" Base="As" ShortName="Hierate">Aslan Hierate, single multiple-world clan dominates</Allegiance>
+    <Allegiance Code="MoLo" ShortName="Lod">Monarchy of Lod</Allegiance>
+    <Allegiance Code="NaVa" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="FlLe" ShortName="Florian">Florian League</Allegiance>
+    <Allegiance Code="AsT2" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu control, Syoisuis (3)</Allegiance>
+    <Allegiance Code="AsT4" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)</Allegiance>
+    <Allegiance Code="AsT7" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerlearlyo (20), Yetahikh (24)</Allegiance>
     <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Stylesheet>

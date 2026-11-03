@@ -33,13 +33,13 @@
     <Subsector Source="Challenge #49" Index="P">Sudzum</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="VOpp" Base="Va">Opposition Alliance</Allegiance>
-    <Allegiance Code="V17D" Base="Va">17th Disjuncture</Allegiance>
-    <Allegiance Code="VVoS" Base="Va">Voekhaeb Society</Allegiance>
-    <Allegiance Code="VRo5" Base="Va">Ruler of Five</Allegiance>
-    <Allegiance Code="VFFD" Base="Va">First Fleet of Dzo</Allegiance>
-    <Allegiance Code="VAnP" Base="Va">Antares Pact</Allegiance>
-    <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="VOpp" Base="Va" ShortName="Opposition Alliance">Opposition Alliance</Allegiance>
+    <Allegiance Code="V17D" Base="Va" ShortName="17th Disjuncture">17th Disjuncture</Allegiance>
+    <Allegiance Code="VVoS" Base="Va" ShortName="Voekhaeb Society">Voekhaeb Society</Allegiance>
+    <Allegiance Code="VRo5" Base="Va" ShortName="Ruler of Five">Ruler of Five</Allegiance>
+    <Allegiance Code="VFFD" Base="Va" ShortName="First Fleet of Dzo">First Fleet of Dzo</Allegiance>
+    <Allegiance Code="VAnP" Base="Va" ShortName="Antares Pact">Antares Pact</Allegiance>
+    <Allegiance Code="NaVa" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="OliveDrab" Allegiance="VFFD" LabelPosition="2539">2039 2139 2238 2338 2437 2538 2638 2739 2838 2939 2940 3040 2940 2840 2740 2640 2540 2439 2340 2240 2140 2039</Border>

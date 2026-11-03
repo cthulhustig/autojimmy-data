@@ -13,7 +13,7 @@
     </Credits>
   <X>3</X>
   <Y>0</Y>
-  <Product Author="Martin J. Dougherty" Title="The Trailing Frontier" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-trailing-frontier" />
+  <Product Author="Martin J. Dougherty" Title="The Trailing Frontier" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-trailing-frontier" Image="https://travellermap.s3.amazonaws.com/images/covers/the_trailing_frontier.jpg" />
   <DataFile Author="William H. Keith, Jr., Martin J. Dougherty and Hunter Gordon" Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Darksky</Subsector>
@@ -34,17 +34,17 @@
     <Subsector Index="P">Farina</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="GaFd">Galian Federation</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="HoPA">Hochiken People's Assembly</Allegiance>
-    <Allegiance Code="ViCo" Base="Va">Viyard Concourse</Allegiance>
-    <Allegiance Code="PlLe">Plavian League</Allegiance>
-    <Allegiance Code="TrCo">Trindel Confederacy</Allegiance>
-    <Allegiance Code="MeCo">Megusard Corporate</Allegiance>
-    <Allegiance Code="AkUn">Akeena Union</Allegiance>
-    <Allegiance Code="SwFW">Swanfei Free Worlds</Allegiance>
-    <Allegiance Code="ReUn">Renkard Union</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="GaFd" ShortName="Galian">Galian Federation</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="HoPA" ShortName="Hochiken">Hochiken People's Assembly</Allegiance>
+    <Allegiance Code="ViCo" Base="Va" ShortName="Viyard Concourse">Viyard Concourse</Allegiance>
+    <Allegiance Code="PlLe" ShortName="Plavian">Plavian League</Allegiance>
+    <Allegiance Code="TrCo" ShortName="Trindel">Trindel Confederacy</Allegiance>
+    <Allegiance Code="MeCo" ShortName="Megusard">Megusard Corporate</Allegiance>
+    <Allegiance Code="AkUn" ShortName="Akeena">Akeena Union</Allegiance>
+    <Allegiance Code="SwFW" ShortName="Swanfei">Swanfei Free Worlds</Allegiance>
+    <Allegiance Code="ReUn" ShortName="Renkard">Renkard Union</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="DarkGreen" Allegiance="HoPA" LabelPosition="1503">1101 1201 1302 1401 1501 1601 1702 1801 1902 2001 2101 2001 2002 2003 1904 1905 1906 1907 1807 1708 1709 1609 1509 1408 1308 1407 1406 1506 1505 1504 1403 1303 1202 1201 1101</Border>

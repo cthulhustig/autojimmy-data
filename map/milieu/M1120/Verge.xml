@@ -32,7 +32,7 @@
     <Subsector Index="P">Naakhulige</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="As">Aslan Hierate</Allegiance>
     <Allegiance Code="FdIl" Base="Im">Federation of Ilelish</Allegiance>
   </Allegiances>

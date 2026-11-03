@@ -15,7 +15,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Nx">Non-aligned, unclaimed</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="1621" Color="Gray" Size="large" Wrap="false">Moat Rifts</Label>

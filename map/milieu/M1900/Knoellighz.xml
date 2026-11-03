@@ -39,7 +39,7 @@
     <Subsector Index="P">Zarthurrue</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Ae">Followers of Kasou</Allegiance>
   </Allegiances>
   <Borders>

@@ -31,7 +31,7 @@
     <Subsector Index="P">Breda</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="LuIm" Base="Im">Lucan's Imperium</Allegiance>
     <Allegiance Code="MaSt" Base="Im">Maragaret's Domain</Allegiance>
   </Allegiances>

@@ -29,8 +29,8 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Kk">The Two Thousand Worlds</Allegiance>
-    <Allegiance Code="KC">Client state, Two Thousand Worlds</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="KC" ShortName="">Client state, Two Thousand Worlds</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="K4">Ka'ra Mandate</Allegiance>
   </Allegiances>
   <Borders>

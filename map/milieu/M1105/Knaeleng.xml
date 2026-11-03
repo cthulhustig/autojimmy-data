@@ -24,7 +24,7 @@
     <Subsector Index="P">Triston</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VK">Koenotz Empire</Allegiance>
     <Allegiance Code="Ve">Empire of Varroerth</Allegiance>
     <Allegiance Code="VA">Alliance of Tju</Allegiance>

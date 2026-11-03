@@ -29,21 +29,21 @@
     <Subsector Index="P">Aegaek</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="VRrS" Base="Va">Rranglloez Stronghold</Allegiance>
-    <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="VThE" Base="Va">Thoengling Empire</Allegiance>
-    <Allegiance Code="VSEq" Base="Va">Society of Equals</Allegiance>
-    <Allegiance Code="VAkh" Base="Va">Akhstuti</Allegiance>
-    <Allegiance Code="VKfu" Base="Va">Kfue</Allegiance>
-    <Allegiance Code="VBkA" Base="Va">Bakne Alliance</Allegiance>
-    <Allegiance Code="VOuz" Base="Va">Ouzvothon</Allegiance>
-    <Allegiance Code="VWan" Base="Va">People of Wanz</Allegiance>
-    <Allegiance Code="VNoe" Base="Va">Noefa</Allegiance>
-    <Allegiance Code="VWP2" Base="Va">Windhorn Pact of Two</Allegiance>
-    <Allegiance Code="VVar" Base="Va">Empire of Varroerth</Allegiance>
-    <Allegiance Code="VDzF" Base="Va">Dzarrgh Federate</Allegiance>
-    <Allegiance Code="VAug" Base="Va">United Followers of Augurgh</Allegiance>
-    <Allegiance Code="VLIn" Base="Va">Llaeghskath Interacterate</Allegiance>
+    <Allegiance Code="VRrS" Base="Va" ShortName="Rranglloez Stronghold">Rranglloez Stronghold</Allegiance>
+    <Allegiance Code="NaVa" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="VThE" Base="Va" ShortName="Thoengling Empire">Thoengling Empire</Allegiance>
+    <Allegiance Code="VSEq" Base="Va" ShortName="Society of Equals">Society of Equals</Allegiance>
+    <Allegiance Code="VAkh" Base="Va" ShortName="Akhstuti">Akhstuti</Allegiance>
+    <Allegiance Code="VKfu" Base="Va" ShortName="Kfue">Kfue</Allegiance>
+    <Allegiance Code="VBkA" Base="Va" ShortName="Bakne Alliance">Bakne Alliance</Allegiance>
+    <Allegiance Code="VOuz" Base="Va" ShortName="Ouzvothon">Ouzvothon</Allegiance>
+    <Allegiance Code="VWan" Base="Va" ShortName="People of Wanz">People of Wanz</Allegiance>
+    <Allegiance Code="VNoe" Base="Va" ShortName="Noefa">Noefa</Allegiance>
+    <Allegiance Code="VWP2" Base="Va" ShortName="Windhorn Pact of Two">Windhorn Pact of Two</Allegiance>
+    <Allegiance Code="VVar" Base="Va" ShortName="Empire of Varroerth">Empire of Varroerth</Allegiance>
+    <Allegiance Code="VDzF" Base="Va" ShortName="Dzarrgh Federate">Dzarrgh Federate</Allegiance>
+    <Allegiance Code="VAug" Base="Va" ShortName="United Followers of Augurgh">United Followers of Augurgh</Allegiance>
+    <Allegiance Code="VLIn" Base="Va" ShortName="Llaeghskath Interacterate">Llaeghskath Interacterate</Allegiance>
   </Allegiances>
   <Stylesheet>
     route.Oberlindes,

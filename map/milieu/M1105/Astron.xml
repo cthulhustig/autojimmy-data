@@ -27,7 +27,7 @@
     <Subsector Index="P">Fundibul</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Ha">Haddox Association</Allegiance>
   </Allegiances>
   <Stylesheet>

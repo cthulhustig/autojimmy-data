@@ -24,7 +24,7 @@
   <Allegiances>
     <Allegiance Code="Dr">Dominion of Ruins</Allegiance>
     <Allegiance Code="Nx">Non-aligned, unclaimed</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Dr { color: blue; style: dotted }

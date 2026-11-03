@@ -26,7 +26,9 @@
     <Subsector Index="P">Night's Edge</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="OC">Oranite Confederation</Allegiance>
+    <Allegiance Code="Au">Agricultural Union</Allegiance>
   </Allegiances>
   <Stylesheet>
     border { color: gray }

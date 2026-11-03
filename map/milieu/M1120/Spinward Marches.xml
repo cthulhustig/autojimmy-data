@@ -32,18 +32,18 @@
     <Subsector Index="P">Trin's Veil</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="ZhIN" Base="Zh">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="ImDd" Base="Im">Third Imperium, Domain of Deneb</Allegiance>
-    <Allegiance Code="CsZh">Client state, Zhodani Consulate</Allegiance>
-    <Allegiance Code="DaCf">Darrian Confederation</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="ZhIN" Base="Zh" ShortName="Consulate">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="ImDd" Base="Im" ShortName="Imperium">Third Imperium, Domain of Deneb</Allegiance>
+    <Allegiance Code="CsZh" ShortName="">Client state, Zhodani Consulate</Allegiance>
+    <Allegiance Code="DaCf" ShortName="Darrian">Darrian Confederation</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="FdAr">Federation of Arden</Allegiance>
-    <Allegiance Code="SwCf">Sword Worlds Confederation</Allegiance>
+    <Allegiance Code="SwCf" ShortName="Sword Worlds">Sword Worlds Confederation</Allegiance>
     <Allegiance Code="BoWo">Border Worlds</Allegiance>
-    <Allegiance Code="AsXX" Base="As">Aslan Hierate, unknown</Allegiance>
-    <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="AsXX" Base="As" ShortName="Hierate">Aslan Hierate, unknown</Allegiance>
+    <Allegiance Code="NaVa" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.DaCf { color: lightblue; }

@@ -31,10 +31,10 @@
     <Subsector Index="P">Breda</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="ImDc" Base="Im">Third Imperium, Domain of Sylea</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="ImDc" Base="Im" ShortName="Imperium">Third Imperium, Domain of Sylea</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="2218" Color="White" Wrap="false">Delphi Rift</Label>

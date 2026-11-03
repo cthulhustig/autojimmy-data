@@ -33,9 +33,9 @@
     <Subsector Index="P">Syzygy</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="Hv" Base="Hv">Hive Federation</Allegiance>
-    <Allegiance Code="HvFd" Base="Hv">Hive Federation</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Hv" Base="Hv" ShortName="Hive">Hive Federation</Allegiance>
+    <Allegiance Code="HvFd" Base="Hv" ShortName="Hive">Hive Federation</Allegiance>
     <Allegiance Code="Bz">Hive Federation Buffer Zone</Allegiance>
   </Allegiances>
   <Borders>

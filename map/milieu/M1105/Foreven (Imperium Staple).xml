@@ -19,12 +19,12 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="ZA">Zen Alliance</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="DW">Die Weltbund</Allegiance>
     <Allegiance Code="AN">Alliance of Noimad</Allegiance>
     <Allegiance Code="BD">Barbarian Dominion</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Red" Allegiance="AN" LabelPosition="1934">1832 1833 1834 1935 1834 1833 1832</Border>

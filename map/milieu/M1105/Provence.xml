@@ -30,14 +30,14 @@
     <Subsector Index="P">Daekvagul</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="VLIn" Base="Va">Llaeghskath Interacterate</Allegiance>
-    <Allegiance Code="VVar" Base="Va">Empire of Varroerth</Allegiance>
-    <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="VDzF" Base="Va">Dzarrgh Federate</Allegiance>
-    <Allegiance Code="VIrM" Base="Va">Irrgh Manifest</Allegiance>
-    <Allegiance Code="VJoF" Base="Va">Jihad of Faarzgaen</Allegiance>
-    <Allegiance Code="VGoT" Base="Va">Glory of Taarskoerzn</Allegiance>
-    <Allegiance Code="VLPr" Base="Va">Lair Protectorate</Allegiance>
+    <Allegiance Code="VLIn" Base="Va" ShortName="Llaeghskath Interacterate">Llaeghskath Interacterate</Allegiance>
+    <Allegiance Code="VVar" Base="Va" ShortName="Empire of Varroerth">Empire of Varroerth</Allegiance>
+    <Allegiance Code="NaVa" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="VDzF" Base="Va" ShortName="Dzarrgh Federate">Dzarrgh Federate</Allegiance>
+    <Allegiance Code="VIrM" Base="Va" ShortName="Irrgh Manifest">Irrgh Manifest</Allegiance>
+    <Allegiance Code="VJoF" Base="Va" ShortName="Jihad of Faarzgaen">Jihad of Faarzgaen</Allegiance>
+    <Allegiance Code="VGoT" Base="Va" ShortName="Glory of Taarskoerzn">Glory of Taarskoerzn</Allegiance>
+    <Allegiance Code="VLPr" Base="Va" ShortName="Lair Protectorate">Lair Protectorate</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="2425" Color="White" Wrap="false">Windhorn Rift</Label>

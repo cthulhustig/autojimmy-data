@@ -33,14 +33,14 @@
     <Subsector Index="P">Dienbach</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="SoRz" Base="So">Solomani Confederation, Restricted Zone</Allegiance>
-    <Allegiance Code="WiDe">Winston Democracy</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="SoKv" Base="So">Solomani Confederation, Kostov Confederate Republic</Allegiance>
-    <Allegiance Code="DeNo">Demos of Nobles</Allegiance>
-    <Allegiance Code="DiGr">Dienbach Grüpen</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="SoRz" Base="So" ShortName="Solomani">Solomani Confederation, Restricted Zone</Allegiance>
+    <Allegiance Code="WiDe" ShortName="Winston">Winston Democracy</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="SoKv" Base="So" ShortName="Solomani">Solomani Confederation, Kostov Confederate Republic</Allegiance>
+    <Allegiance Code="DeNo" ShortName="Demos of Nobles">Demos of Nobles</Allegiance>
+    <Allegiance Code="DiGr" ShortName="Dienbach Grüpen">Dienbach Grüpen</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="Cyan" Allegiance="DiGr" LabelPosition="3031">2730 2830 2930 3029 3030 3031 3032 3033 3134 3033 2933 2832 2831 2830 2730</Border>

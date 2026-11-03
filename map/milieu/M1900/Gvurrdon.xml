@@ -33,10 +33,10 @@
     <Subsector Index="P">Firgr</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Va">Kusae Gnak</Allegiance>
     <Allegiance Code="Vd">Oevall Khollaz</Allegiance>
-    <Allegiance Code="Cs">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="Cs" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="Vb">Taeg Dzaegh (Reformed)</Allegiance>
     <Allegiance Code="Ve">Zahgun's Lair</Allegiance>
   </Allegiances>

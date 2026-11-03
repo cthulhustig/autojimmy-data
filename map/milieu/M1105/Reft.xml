@@ -18,7 +18,7 @@
     </Credits>
   <X>-3</X>
   <Y>0</Y>
-  <Product Author="Martin J. Dougherty" Title="The Great Rift, Book 2: Reft" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-great-rift" />
+  <Product Author="Martin J. Dougherty" Title="The Great Rift, Book 2: Reft" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-great-rift" Image="https://travellermap.s3.amazonaws.com/images/covers/the_great_rift_book_2_reft.jpg" />
   <DataFile Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Vestus</Subsector>
@@ -39,11 +39,11 @@
     <Subsector Index="P">Moibin</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="ImDd" Base="Im">Third Imperium, Domain of Deneb</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="ImDv" Base="Im">Third Imperium, Domain of Vland</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="ImDd" Base="Im" ShortName="Imperium">Third Imperium, Domain of Deneb</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="ImDv" Base="Im" ShortName="Imperium">Third Imperium, Domain of Vland</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="1726" Color="#FFCC00" Wrap="false">Islands

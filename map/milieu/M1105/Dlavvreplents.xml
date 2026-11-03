@@ -24,8 +24,8 @@
     <Subsector Index="P">Zhezdlofash</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Routes>
     <Route Start="1010" End="1108" Type="Core Route" />

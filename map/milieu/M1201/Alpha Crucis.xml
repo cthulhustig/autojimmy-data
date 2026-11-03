@@ -42,8 +42,8 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Wi">Wilds</Allegiance>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Be">Beltan Empire</Allegiance>
     <Allegiance Code="Al">Protectorate of Alba</Allegiance>
     <Allegiance Code="Ao">Reformation Coalition Area of Operation</Allegiance>

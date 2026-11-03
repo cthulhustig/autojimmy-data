@@ -9,13 +9,13 @@
     </Credits>
   <X>-7</X>
   <Y>-5</Y>
-  <Product Author="Isabella Treccani-Chinelli" Title="The Core Expeditions" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-core-expeditions" />
+  <Product Author="Isabella Treccani-Chinelli" Title="The Core Expeditions" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/the-core-expeditions" Image="https://travellermap.s3.amazonaws.com/images/covers/the_core_expeditions.jpg" />
   <DataFile Author="Isabella Treccani-Chinelli" Source="Mongoose Publishing" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="B">Zhatant</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Routes>
     <Route Start="1101" End="1202" Type="Core Route" />

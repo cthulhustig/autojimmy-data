@@ -34,7 +34,7 @@
     <Subsector Ref="https://wiki.travellerrpg.com/Ilelish_Sector" Index="P">Empty</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="FdIl" Base="Im">Federation of Ilelish</Allegiance>
   </Allegiances>
   <Borders>

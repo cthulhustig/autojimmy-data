@@ -35,10 +35,10 @@
     <Subsector Index="P">Staai</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="UnHa">Union of Harmony</Allegiance>
-    <Allegiance Code="GeOr">Gerontocracy of Ormine</Allegiance>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="UnHa" ShortName="Harmony">Union of Harmony</Allegiance>
+    <Allegiance Code="GeOr" ShortName="Ormine">Gerontocracy of Ormine</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
     <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Borders>

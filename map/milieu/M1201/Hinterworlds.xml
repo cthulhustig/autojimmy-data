@@ -36,8 +36,8 @@
     <Subsector Index="P">Aquila</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Wi">Wilds</Allegiance>
     <Allegiance Code="Rp">Ring Pact</Allegiance>
   </Allegiances>

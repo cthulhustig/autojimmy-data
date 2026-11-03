@@ -28,8 +28,8 @@
     <Subsector Index="P">Ronootra</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="KC">Client state, Two Thousand Worlds</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="KC" ShortName="">Client state, Two Thousand Worlds</Allegiance>
     <Allegiance Code="Kk">The Two Thousand Worlds</Allegiance>
   </Allegiances>
   <Borders>

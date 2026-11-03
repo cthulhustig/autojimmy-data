@@ -29,7 +29,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="BI">Republic of the Bright Islands</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
   </Allegiances>
   <Stylesheet>
     border { color: gray }

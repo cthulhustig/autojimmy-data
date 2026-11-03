@@ -27,10 +27,10 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Nx">Non-aligned, unclaimed</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Fw">Firstworlds</Allegiance>
     <Allegiance Code="Ns">Non-aligned (non-human) sophont species</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Rf">Rimward Federation</Allegiance>
     <Allegiance Code="Sx">Sath Exploration</Allegiance>
     <Allegiance Code="Ot">Occupied Territories</Allegiance>

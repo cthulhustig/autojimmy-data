@@ -25,7 +25,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Mu">Malorn Union</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Lv">Lords of Vision</Allegiance>
     <Allegiance Code="Gt">Great Terbah</Allegiance>
     <Allegiance Code="Tr">Toh Republic</Allegiance>

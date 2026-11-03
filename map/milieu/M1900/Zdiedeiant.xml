@@ -28,8 +28,8 @@
     <Subsector Index="P">Tliekrbliepl</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
-    <Allegiance Code="ZhIa" Base="Zh">Zhodani Consulate, Iabrensh Province</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
+    <Allegiance Code="ZhIa" Base="Zh" ShortName="Consulate">Zhodani Consulate, Iabrensh Province</Allegiance>
     <Allegiance Code="Dr">Droyne</Allegiance>
   </Allegiances>
   <Borders>

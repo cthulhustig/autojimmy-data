@@ -40,7 +40,7 @@
     <Subsector Index="P" />
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Gd">Great Dominate</Allegiance>
   </Allegiances>
   <Borders>

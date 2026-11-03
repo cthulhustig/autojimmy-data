@@ -25,6 +25,6 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="As">Aslan Hierate</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
 </Sector>

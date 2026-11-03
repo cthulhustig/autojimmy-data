@@ -34,11 +34,11 @@
     <Subsector Index="P">Idudika</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="3EoG">Third Empire of Gashikan</Allegiance>
-    <Allegiance Code="VTrA" Base="Va">Trae Aggregation</Allegiance>
-    <Allegiance Code="JuPr" Base="Jp">Julian Protectorate</Allegiance>
-    <Allegiance Code="JRar" Base="Jp">Julian Protectorate, Rar Errall/Wolves Warren</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="3EoG" ShortName="Gashikan">Third Empire of Gashikan</Allegiance>
+    <Allegiance Code="VTrA" Base="Va" ShortName="Trae Aggregation">Trae Aggregation</Allegiance>
+    <Allegiance Code="JuPr" Base="Jp" ShortName="Protectorate">Julian Protectorate</Allegiance>
+    <Allegiance Code="JRar" Base="Jp" ShortName="Protectorate">Julian Protectorate, Rar Errall/Wolves Warren</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Yellow" Allegiance="3EoG" LabelPosition="1627">0014 0115 0215 0316 0416 0516 0615 0614 0715 0815 0916 0917 1017 1118 1218 1319 1418 1519 1618 1718 1817 1917 2016 2015 2014 1914 2013 2114 2213 2313 2413 2514 2614 2715 2815 2916 3015 3116 3216 3217 3118 3018 3019 3020 3021 3022 3123 3124 3024 3025 3026 3027 3028 3029 3130 3030 3031 2932 2933 2833 2834 2734 2634 2535 2434 2334 2233 2134 2034 1935 1835 1736 1636 1537 1538 1539 1438 1338 1237 1138 1038 0939 0838 0739 0639 0539 0439 0339 0239 0140 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 0027 0026 0025 0024 0023 0022 0021 0020 0019 0018 0017 0016 0015 0014</Border>

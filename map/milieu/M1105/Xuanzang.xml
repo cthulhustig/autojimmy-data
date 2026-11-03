@@ -9,7 +9,7 @@
     </Credits>
   <X>-2</X>
   <Y>15</Y>
-  <Product Author="Martin J. Dougherty" Title="Rim Expeditions" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/rim-expeditions" />
+  <Product Author="Martin J. Dougherty" Title="Rim Expeditions" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/rim-expeditions" Image="https://travellermap.s3.amazonaws.com/images/covers/rim_expeditions.jpg" />
   <DataFile Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">A</Subsector>
@@ -30,8 +30,8 @@
     <Subsector Index="P">P</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="SoXE" Base="So">Solomani Confederation, Xuanzang Enclave</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="SoXE" Base="So" ShortName="Solomani">Solomani Confederation, Xuanzang Enclave</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Blue" Allegiance="SoXE" LabelPosition="0735" Label="Xuanzang Enclave">0536 0636 0737 0636 0537 0536</Border>

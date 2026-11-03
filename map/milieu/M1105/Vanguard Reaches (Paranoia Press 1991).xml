@@ -24,8 +24,8 @@
     <Subsector Index="P">Jarnac</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Tc">Tellerian Cluster</Allegiance>
     <Allegiance Code="Es">Eslyat</Allegiance>
     <Allegiance Code="Ac">Altarean Confederation</Allegiance>

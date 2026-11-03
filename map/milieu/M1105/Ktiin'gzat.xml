@@ -33,14 +33,14 @@
     <Subsector Index="P">Inunugishshaa</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="J-" Base="Jp">Julian Protectorate</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="J-" Base="Jp" ShortName="Protectorate">Julian Protectorate</Allegiance>
     <Allegiance Code="Ef">Enclave Famuurueroergoghz</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Dr">Droyne</Allegiance>
     <Allegiance Code="VC">Hezeraek Connective</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="JuPr" Base="Jp">Julian Protectorate</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="JuPr" Base="Jp" ShortName="Protectorate">Julian Protectorate</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Purple" Allegiance="Ef" LabelPosition="0737">0339 0438 0437 0537 0636 0736 0735 0734 0633 0734 0833 0934 1033 1134 1034 1035 1036 1037 1038 1139 1140 1039 0939 0839 0740 0640 0540 0439 0339</Border>

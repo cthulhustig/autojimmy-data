@@ -33,11 +33,11 @@
     <Subsector Index="P">Dienbach</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="DiGr">Dienbach Grüpen</Allegiance>
-    <Allegiance Code="DeNo">Demos of Nobles</Allegiance>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
-    <Allegiance Code="WiDe">Winston Democracy</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="DiGr" ShortName="Dienbach Grüpen">Dienbach Grüpen</Allegiance>
+    <Allegiance Code="DeNo" ShortName="Demos of Nobles">Demos of Nobles</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
+    <Allegiance Code="WiDe" ShortName="Winston">Winston Democracy</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="Cyan" Allegiance="DiGr" LabelPosition="3031">2730 2830 2930 3029 3030 3031 3032 3033 3134 3033 2933 2832 2831 2830 2730</Border>

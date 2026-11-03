@@ -28,9 +28,9 @@
     <Subsector Index="P">Waterdrop</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="V-">Worlds of the Nine Starlords</Allegiance>
     <Allegiance Code="KO">K'kree Outpost</Allegiance>
     <Allegiance Code="Pe">Perdumon Alliance</Allegiance>

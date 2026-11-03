@@ -31,12 +31,12 @@
     <Subsector Index="P">Cluster</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="SoWu" Base="So">Solomani Confederation, Wuan Technology Association</Allegiance>
-    <Allegiance Code="SoNS" Base="So">Solomani Confederation, New Slavic Solidarity</Allegiance>
-    <Allegiance Code="SoRD" Base="So">Solomani Confederation, Reformed Dootchen Estates</Allegiance>
-    <Allegiance Code="ImDs" Base="Im">Third Imperium, Domain of Sol</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="SoWu" Base="So" ShortName="Solomani">Solomani Confederation, Wuan Technology Association</Allegiance>
+    <Allegiance Code="SoNS" Base="So" ShortName="Solomani">Solomani Confederation, New Slavic Solidarity</Allegiance>
+    <Allegiance Code="SoRD" Base="So" ShortName="Solomani">Solomani Confederation, Reformed Dootchen Estates</Allegiance>
+    <Allegiance Code="ImDs" Base="Im" ShortName="Imperium">Third Imperium, Domain of Sol</Allegiance>
   </Allegiances>
   <Borders>
     <Border Allegiance="ImDs" LabelPosition="2721" Label="Third Imperium">2616 2716 2715 2814 2813 2812 2811 2912 3011 3111 3210 3310 3311 3312 3313 3314 3315 3316 3317 3318 3319 3320 3321 3322 3323 3324 3224 3125 3024 2924 2923 2822 2922 3021 3020 3019 2919 2818 2718 2617 2616</Border>

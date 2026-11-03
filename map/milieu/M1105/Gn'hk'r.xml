@@ -25,9 +25,9 @@
     <Subsector Index="P">Xuxor</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="KO" Base="Kk">K'Kree Outpost</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Kk">The Two Thousand Worlds</Allegiance>
   </Allegiances>
   <Labels>

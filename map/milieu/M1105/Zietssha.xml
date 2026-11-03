@@ -24,11 +24,11 @@
     <Subsector Index="P">Nziabrie</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
     <Allegiance Code="Zc">Zhodani Client</Allegiance>
     <Allegiance Code="Dr">Droyne</Allegiance>
-    <Allegiance Code="ZhVQ" Base="Zh">Zhodani Consulate, Vlanchiets Qlom Province</Allegiance>
+    <Allegiance Code="ZhVQ" Base="Zh" ShortName="Consulate">Zhodani Consulate, Vlanchiets Qlom Province</Allegiance>
   </Allegiances>
   <Borders>
     <Border ShowLabel="false" Allegiance="ZhVQ" LabelPosition="0324">0125 0224 0324 0423 0324 0224 0125</Border>

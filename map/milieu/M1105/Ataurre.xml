@@ -24,10 +24,10 @@
     <Subsector Index="P">Pretau</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Jg">Johrn-Guunanek Axis</Allegiance>
     <Allegiance Code="Oc">Otuana Confederation</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Yellow" Allegiance="Oc" LabelPosition="1831">1631 1731 1830 1931 2031 1932 1831 1731 1631</Border>

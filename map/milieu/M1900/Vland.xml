@@ -35,7 +35,7 @@
     <Subsector Index="P">Kakadan</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Zd">Ziru Dishke</Allegiance>
     <Allegiance Code="Zb">Ziru Bimkak</Allegiance>
     <Allegiance Code="Zc">Ziru Kugush</Allegiance>

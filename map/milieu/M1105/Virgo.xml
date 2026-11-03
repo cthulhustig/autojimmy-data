@@ -26,6 +26,6 @@
     <Subsector Index="P">Addison</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
   </Allegiances>
 </Sector>

@@ -34,8 +34,8 @@
     <Subsector Index="P">Urnian</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
-    <Allegiance Code="Wi">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
+    <Allegiance Code="Wi" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Ta">Tangle Alpha</Allegiance>
   </Allegiances>
   <Borders>

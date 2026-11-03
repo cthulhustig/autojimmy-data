@@ -24,7 +24,7 @@
     <Subsector Index="P">Pluast</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Iu">Ickoul Union</Allegiance>
     <Allegiance Code="Hi">Hillayag Federation</Allegiance>
     <Allegiance Code="Su">Sayd Trade Union</Allegiance>

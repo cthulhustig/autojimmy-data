@@ -28,7 +28,9 @@
 # Subsector O: Twilight's Reach
 # Subsector P: Night's Edge
 
+# Alleg: Au: "Agricultural Union"
 # Alleg: Na: "Non-Aligned, Human-dominated"
+# Alleg: OC: "Oranite Confederation"
 
 Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z PBG W A  Stellar  
 ---- -------------------- --------- -------------------- ---- ---- ---- - -- - --- - -- ---------

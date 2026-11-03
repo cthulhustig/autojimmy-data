@@ -26,7 +26,7 @@
     <Subsector Index="P">Per Brann Nova</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Kd">Kleonta Dominion</Allegiance>
     <Allegiance Code="Sk">Sapier Kingdom</Allegiance>
     <Allegiance Code="Rw">Raniera Worlds</Allegiance>

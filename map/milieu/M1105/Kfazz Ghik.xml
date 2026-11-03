@@ -34,9 +34,9 @@
     <Subsector Index="P">Iekh</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VJ">Authority of Joekghr</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="OliveDrab" Allegiance="VJ" LabelPosition="2334">2033 2133 2232 2231 2332 2333 2433 2534 2634 2635 2536 2537 2436 2337 2236 2136 2036 2035 2034 2033</Border>

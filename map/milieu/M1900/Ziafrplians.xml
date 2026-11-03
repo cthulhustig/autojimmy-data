@@ -32,7 +32,7 @@
     <Subsector Index="P">Iadriav</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Green" Allegiance="Ds" LabelPosition="1420">1319 1419 1519 1520 1521 1621 1522 1422 1322 1321 1320 1319</Border>

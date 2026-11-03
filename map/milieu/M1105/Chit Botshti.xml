@@ -36,10 +36,10 @@
     <Subsector Index="P">Zhipliaoql</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
-    <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
     <Allegiance Code="Wc">Wave Chasers</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Dr">Droyne</Allegiance>
     <Allegiance Code="TY">Taakas Yh'Drak</Allegiance>
   </Allegiances>

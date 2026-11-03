@@ -27,12 +27,12 @@
     <Subsector Index="P">Idella</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="CsZh">Client state, Zhodani Consulate</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="NaDr">Non-Aligned, Droyne-dominated</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="CsZh" ShortName="">Client state, Zhodani Consulate</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaDr" ShortName="">Non-Aligned, Droyne-dominated</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Iz">Izrats Kriezhlas Unity</Allegiance>
-    <Allegiance Code="ZhCa" Base="Zh">Zhodani Consulate, Colonnade Province</Allegiance>
+    <Allegiance Code="ZhCa" Base="Zh" ShortName="Consulate">Zhodani Consulate, Colonnade Province</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Iz { color: green }

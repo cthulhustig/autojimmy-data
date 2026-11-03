@@ -34,17 +34,17 @@
     <Subsector Index="P">Aquila</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="RaRa">Ral Ranta</Allegiance>
+    <Allegiance Code="RaRa" ShortName="Ral Ranta">Ral Ranta</Allegiance>
     <Allegiance Code="MaSt" Base="Im">Maragaret's Domain</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="OcWs">Outcasts of the Whispering Sky</Allegiance>
-    <Allegiance Code="AnTC">Anubian Trade Coalition</Allegiance>
-    <Allegiance Code="CyUn">Cytralin Unity</Allegiance>
-    <Allegiance Code="GnCl">Gniivi Collective</Allegiance>
-    <Allegiance Code="CoLp">Council of Leh Perash</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="OcWs" ShortName="Outcasts">Outcasts of the Whispering Sky</Allegiance>
+    <Allegiance Code="AnTC" ShortName="Anubian">Anubian Trade Coalition</Allegiance>
+    <Allegiance Code="CyUn" ShortName="Cytrialin">Cytrialin Unity</Allegiance>
+    <Allegiance Code="GnCl" ShortName="Gnilvi">Gniivi Collective</Allegiance>
+    <Allegiance Code="CoLp" ShortName="Leh Perash">Council of Leh Perash</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.AnTC { color: lime; }

@@ -28,10 +28,10 @@
     <Subsector Index="P">Chebyij</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="ZhMe" Base="Zh">Zhodani Consulate, Meqlemianz Province</Allegiance>
-    <Allegiance Code="CsZh">Client state, Zhodani Consulate</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="ZhMe" Base="Zh" ShortName="Consulate">Zhodani Consulate, Meqlemianz Province</Allegiance>
+    <Allegiance Code="CsZh" ShortName="">Client state, Zhodani Consulate</Allegiance>
     <Allegiance Code="Ed">Eiaplial Davr</Allegiance>
   </Allegiances>
   <Borders>

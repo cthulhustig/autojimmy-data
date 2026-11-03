@@ -36,10 +36,10 @@
     <Subsector Index="P">Kishadiku</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="VVar" Base="Va">Empire of Varroerth</Allegiance>
-    <Allegiance Code="VNgC" Base="Va">Ngath Confederation</Allegiance>
-    <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="V17D" Base="Va">17th Disjuncture</Allegiance>
+    <Allegiance Code="VVar" Base="Va" ShortName="Empire of Varroerth">Empire of Varroerth</Allegiance>
+    <Allegiance Code="VNgC" Base="Va" ShortName="Ngath Confederation">Ngath Confederation</Allegiance>
+    <Allegiance Code="NaVa" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="V17D" Base="Va" ShortName="17th Disjuncture">17th Disjuncture</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="1218" Color="White" Wrap="false">Windhorn Rift</Label>

@@ -26,8 +26,8 @@
     <Subsector Index="P">Bead</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Ge">Great Eye</Allegiance>
     <Allegiance Code="Bp">Bareen Protectorate</Allegiance>
     <Allegiance Code="Mr">Menri Republic</Allegiance>
@@ -35,7 +35,7 @@
     <Allegiance Code="Ar">Aurean Republic</Allegiance>
     <Allegiance Code="Ou">Orandur Union</Allegiance>
     <Allegiance Code="Su">Saros Union</Allegiance>
-    <Allegiance Code="CsHv">Client state, Hive Federation</Allegiance>
+    <Allegiance Code="CsHv" ShortName="">Client state, Hive Federation</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Bp { color: green; }

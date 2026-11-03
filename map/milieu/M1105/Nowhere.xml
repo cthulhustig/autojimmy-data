@@ -21,7 +21,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Im">Third Imperium</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Borders>
     <Border Allegiance="Im" LabelPosition="1315">0911 1010 1011 1012 1113 1213 1313 1412 1512 1611 1610 1611 1612 1613 1614 1615 1616 1617 1618 1518 1418 1419 1320 1219 1120 1019 0920 0919 0918 0917 0916 0915 0914 0913 0912 0911</Border>

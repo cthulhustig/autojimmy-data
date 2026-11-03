@@ -7,6 +7,6 @@
   <DataFile Author="Marc Miller" Source="Agent of the Imperium" Milieu="M1105" />
   <Subsectors />
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
 </Sector>

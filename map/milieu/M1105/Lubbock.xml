@@ -9,7 +9,7 @@
     </Credits>
   <X>-1</X>
   <Y>7</Y>
-  <Product Author="Martin J. Dougherty" Title="Rim Expeditions" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/rim-expeditions" />
+  <Product Author="Martin J. Dougherty" Title="Rim Expeditions" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/rim-expeditions" Image="https://travellermap.s3.amazonaws.com/images/covers/rim_expeditions.jpg" />
   <DataFile Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">A</Subsector>
@@ -30,9 +30,9 @@
     <Subsector Index="P">P</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="SoLE" Base="So">Solomani Confederation, Lubbock Enclave</Allegiance>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="SoLE" Base="So" ShortName="Solomani">Solomani Confederation, Lubbock Enclave</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Allegiance="SoCf" LabelPosition="3010">3211</Border>

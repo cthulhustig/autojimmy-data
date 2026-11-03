@@ -31,13 +31,13 @@
     <Subsector Index="P">Bengalaz</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="KPel">Kingdom of Peladon</Allegiance>
-    <Allegiance Code="KoEm">Korsumug Empire</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="KoPm">Percavid Marches</Allegiance>
-    <Allegiance Code="TroC">Trooles Confederation</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="KPel" ShortName="Peladon">Kingdom of Peladon</Allegiance>
+    <Allegiance Code="KoEm" ShortName="Korsumug">Korsumug Empire</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="KoPm" ShortName="Percavid">Percavid Marches</Allegiance>
+    <Allegiance Code="TroC" ShortName="Trooles">Trooles Confederation</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
   </Allegiances>
   <Stylesheet>
     route.KoEm { color: red; }

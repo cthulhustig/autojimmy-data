@@ -28,14 +28,23 @@
 # Subsector O: Hanson
 # Subsector P: Singh
 
-# Alleg: As: "Aslan Hierate"
-# Alleg: Fw: "Four Worlds"
-# Alleg: Id: "Islaiat Dominate"
-# Alleg: Kr: "Krotan Primacy"
+# Alleg: As: "Hani Clan Worlds"
+# Alleg: Cc: "Catalan Confederacy"
+# Alleg: Ce: "Caliphate of Estalia"
+# Alleg: Em: "Marian Empire"
+# Alleg: Fw: "Free Worlds League"
+# Alleg: Hu: "Heron Union"
+# Alleg: Id: "Indra Domain"
+# Alleg: Kc: "Kaloran Communality"
+# Alleg: Kr: "Kao Republic"
 # Alleg: Ls: "League of Suns"
-# Alleg: Me: "Megusard Corporate"
-# Alleg: Ve: "Third Imperium, Vegan Autonomous District"
-# Alleg: Vw: "Julian Protectorate, Rar Errall/Wolves Warren"
+# Alleg: Mg: "Magyar Confederacy"
+# Alleg: Ne: "Nihongi Empire"
+# Alleg: Nf: "Ntini Federation"
+# Alleg: Ou: "Old Earth Union"
+# Alleg: Rr: "Rim Republic"
+# Alleg: Ve: "Varellan Empire"
+# Alleg: Vw: "Das Volk Worlds"
 
 Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PBG W A  Stellar        
 ---- -------------------- --------- -------------------- ---- ---- ---- - - - --- - -- ---------------
@@ -332,25 +341,30 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 2228 Nazarene             D6617E9-6 Ri / Pz Tz                          - - A 805   na K8 V           
 2230 Milner               C669611-7 Ni Ri                               - - - 604   na G7 V           
 2322 Flare                X000000-0 Va As                               - - - 011   na M5 V M5 V      
+2326 Galatea              D886436-6 Ni                                  - - - 803   na M5 V           
 2327 Arcy                 A776722-A Ag Pi                               - - - 204   na K1 V K5 V      
 2328 Strensall            X600000-0 Ba Va                               - - - 404   na M9 II          
 2330 Khmer                E989764-7 Ri / Mr Pz                          - - A 911   Mg K1 V M6 VI     
 2422 Fafnir               X000000-0 As Ba Va                            - - - 010   na D              
 2423 Gustafson            D473464-7 Ni / Mr                             - - - 412   na G3 V K5 V      
+2425 Proteus              CB68664-5 Ri Ga                               - - - 512   na F4 V           
 2426 DM19 2426            X000000-0 As Ba Va                            - - - 301   na M6 V           
+2427 Rhe                  DEA6530-5 Ni                                  - - - 111   na G7 V           
 2428 De Naburn            B663765-9 Ri / O:MgCf                         - - - 804   Mg F5 V           
 2429 Hrothgar             E8998E9-7 Ph Pi                               - K - 703   Mg G0 V           
 2521 Calanthe             C675624-6 Ag Ni / Tz WTN                      - V - 700   Ls M1 V           
 2522 Oosterbeck           D877623-7 In                                  - - - 822   Ls G2 V           
 2526 Witner               C966620-8 Ag Ni Ri / WTN                      - - - 414   na K0 IV          
+2527 Vorara               C86A775-A Ri Wa                               - - - 502   na G3 V           
 2529 Budepest             A9699A5-A Hi Pr Cp / WTN 5.5                  - - - 302   Mg G3 VI M6 VI    
 2530 Payntour             B677833-9 Pa Ph Pi / WTN                      - - - 324   Rr G8 V K3 VI     
 2621 Aachenbahn           B557764-9 Ag / Tz O:LeaS                      - - - 934   Ls K6 V           
 2622 Carfergus            A564850-8 Ri Pa Ph / WTN                      - V - 603   Ls A5 V           
 2625 Miranda              X325000-0 Ba                                  - - - 002   na F2 V M4 V      
-2626 Uri'vk               A764944-9 Hi Pr / Uri9                        - K - 403   na G9 V           
+2626 Uri'vk               AA64944-9 Hi Pr / Uri9                        - K - 403   na G9 V           
+2627 Tanan                B763895-6 Ni                                  - - - 202   na F5 V           
 2629 Ehrlich              C995864-8 Pa Ph Pi / Mr T                     - - - 411   Mg G3 VI          
-2630 Sensei               B678962-8 Hi In / Mr Sa                       - - - 803   Rr M0 V           
+2630 Sensei               B878962-8 Hi In / Mr Sa                       - - - 803   Rr M0 V           
 2722 Berelate             C554755-9 Ag / Tz                             - - - 513   Ls K5 V           
 2724 Lammas               DA00311-8 Lo Va / Tz                          - - - 314   na F0 II D D      
 2725 Wyntryngham          C7639E9-8 Hi Pr / Pz                          - - A 523   na F4 IV M3 V     
@@ -367,7 +381,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 3029 Giselle              D988683-6 Ag Ni                               - - - 222   na F3 V           
 3121 Larayne              D988737-7 Ni                                  - - - 413   na K7 II          
 3123 Davics               X669504-0 Ni Pr / Fo                          - K R 502   Ch F9 VI          
-3126 Heron                A632984-C Hi Na Po Cp / Ht                    - - - 513   He K2 V           
+3126 Heron                A632984-C Hi Na Po Cp / Ht                    - - - 513   Hu K2 V           
 3223 Elerius              C000412-9 As Ni Va                            - V - 613   Ch M4 V           
 3226 Narayanan            C6766D8-5 Ag Ni / Lt Tz                       - - - 924   na K8 V G9 VI     
 3228 Hrugen               X765672-0 Ag Ga Ni Ri / T                     - - R 214   na M1 V M7 VI     
@@ -392,31 +406,31 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 0931 Sheba                B755866-7 Ga / Pa Ph / Mr                     - K - 925   Ne K7 V           
 0933 Jiro                 B659864-9 Ph / Mr                             - K - 701   Ne A7 V           
 0936 Jorge                E757672-2 Ag Ga Ni / Da L                     - V A 103   Ne K6 V K8 VI M2 V
-0939 Interpol             E552763-6 Po / Mr Tz                          - - - 420   Me K9 V           
-1038 Atchison             C000252-9 As Lo Va                            - K - 900   Me M0 VI BD       
+0939 Interpol             E552763-6 Po / Mr Tz                          - - - 420   Em K9 V           
+1038 Atchison             C000252-9 As Lo Va                            - K - 900   Em M0 VI BD       
 1131 Stranski             C000326-9 As Lo Va                            - - - 403   na M8 V           
-1135 Magda                C689776-5 Ri / Lt Sa                          - - - 702   Me M1 V K2 VI     
-1138 Margerison           C666966-9 Ga Hi Pr / Mr T                     - V - 504   Me K5 V           
-1233 Rustah               E651573-4 Ni Po / Lt                          - - - 102   Me G7 IV K3 V     
-1234 Vannen               C668772-7 Ag Ri                               - - - 800   Me M2 III         
-1236 Ardenn               A762876-9 Ri Ph                               - V - 203   Me G5 III G6 V    
-1237 De Berghnby          A863974-9 Hi Pr                               - - - 222   Me A6 V           
-1433 Stalin               C668766-5 Ag Ri / Lt Mr T                     - - - 320   Me K7 V           
-1435 Luxor                A883964-B Hi Pr / Mr                          - - - 703   Me G5 V M7 V      
-1436 Pepyn                B6639B6-9 Hi Pr                               - V - 120   Me F2 IV K1 V     
-1438 Station Alpha        ???????-?                                     - S - 000   Me                
-1440 Politburo            BA84964-7 Hi Pr / Mr                          - - - 901   Me F0 V           
-1533 Mystral              X6516B6-2 Ni Po / Fo Lt                       - K R 902   Me F4 V           
-1536 Germania             A7849A6-B Hi Pr Cp / Tz                       - V - 502   Me K7 V M8 V K9 VI
-1540 Kaj                  CA864B6-8 Ni Pa                               - - - 803   Me G7 VI          
-1638 Viridis              C000222-9 As Lo Va                            - - - 404   Me M5 VI          
+1135 Magda                C689776-5 Ri / Lt Sa                          - - - 702   Em M1 V K2 VI     
+1138 Margerison           C666966-9 Ga Hi Pr / Mr T                     - V - 504   Em K5 V           
+1233 Rustah               E651573-4 Ni Po / Lt                          - - - 102   Em G7 IV K3 V     
+1234 Vannen               C668772-7 Ag Ri                               - - - 800   Em M2 III         
+1236 Ardenn               A762876-9 Ri Ph                               - V - 203   Em G5 III G6 V    
+1237 De Berghnby          A863974-9 Hi Pr                               - - - 222   Em A6 V           
+1433 Stalin               C668766-5 Ag Ri / Lt Mr T                     - - - 320   Em K7 V           
+1435 Luxor                A883964-B Hi Pr / Mr                          - - - 703   Em G5 V M7 V      
+1436 Pepyn                B6639B6-9 Hi Pr                               - V - 120   Em F2 IV K1 V     
+1438 Station Alpha        ???????-?                                     - S - 000   Em                
+1440 Politburo            BA84964-7 Hi Pr / Mr                          - - - 901   Em F0 V           
+1533 Mystral              X6516B6-2 Ni Po / Fo Lt                       - K R 902   Em F4 V           
+1536 Germania             A7849A6-B Hi Pr Cp / Tz                       - V - 502   Em K7 V M8 V K9 VI
+1540 Kaj                  CA864B6-8 Ni Pa                               - - - 803   Em G7 VI          
+1638 Viridis              C000222-9 As Lo Va                            - - - 404   Em M5 VI          
 1732 Alameda              C8849C7-9 Hi Pr                               - - - 515   na F4 V           
 1733 Trede                C669696-8 Ni Ri / Sa                          - - - 105   na K5 V M4 V      
-1734 Ferreira             B574661-9 Ag Ni / Mr                          - - - 511   Me K2 V           
-1736 La Paz               A7748E9-9 Pa Ph Pi                            - K - 602   Me G0 V K4 V      
-1739 Herc                 E7667B6-6 Ag Ga Ri / Tp                       - - - 905   Me A6 V           
+1734 Ferreira             B574661-9 Ag Ni / Mr                          - - - 511   Em K2 V           
+1736 La Paz               A7748E9-9 Pa Ph Pi                            - K - 602   Em G0 V K4 V      
+1739 Herc                 E7667B6-6 Ag Ga Ri / Tp                       - - - 905   Em A6 V           
 1833 Von Strang           B668721-9 Ag Ri                               - - - 702   na F1 V G0 VI     
-1834 Sakon                C310451-9 Ni / Tz                             - K - 400   Me M6 VI          
+1834 Sakon                C310451-9 Ni / Tz                             - K - 400   Em M6 VI          
 1835 Rime                 C783730-6 Ri / Tz                             - - - 602   Fw K7 V           
 1836 Titan                A673831-A Ph Pi                               - K - 504   Fw G2 V           
 1837 Yung                 C768974-9 Hi Pr                               - V - 100   Fw F9 IV          

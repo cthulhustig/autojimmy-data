@@ -24,7 +24,7 @@
     <Subsector Index="P">Kixum</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="GT">Glimmerdrift Trade Consortium</Allegiance>
     <Allegiance Code="KW">Karhyri Worlds</Allegiance>
     <Allegiance Code="Rm">Raidermarch</Allegiance>

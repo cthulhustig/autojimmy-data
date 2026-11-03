@@ -36,7 +36,7 @@
     <Subsector Index="P" />
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Vd">Society of Equals</Allegiance>
     <Allegiance Code="Vt">Thoengling Empire</Allegiance>
     <Allegiance Code="Vk">Commonality of Kedzudh</Allegiance>

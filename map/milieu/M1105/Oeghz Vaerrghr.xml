@@ -24,9 +24,9 @@
     <Subsector Index="P">Ukgalksarr</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VX">Vaoekghirkhr Exchange</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="OliveDrab" Allegiance="VX" LabelPosition="0238">0038 0138 0237 0337 0336 0337 0338 0238 0139 0039 0040 0039 0038</Border>

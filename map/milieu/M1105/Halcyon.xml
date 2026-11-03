@@ -27,7 +27,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Nx">Non-aligned, unclaimed</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Bc">Bright Conclave</Allegiance>
     <Allegiance Code="Li">The Last Line</Allegiance>
     <Allegiance Code="Ec">Esaran Cultural Area</Allegiance>

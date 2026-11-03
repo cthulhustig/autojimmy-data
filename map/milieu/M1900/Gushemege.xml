@@ -36,7 +36,7 @@
     <Subsector Index="P">Lagan</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Fi" Base="Im">Federation of Ilelish</Allegiance>
   </Allegiances>
   <Borders>

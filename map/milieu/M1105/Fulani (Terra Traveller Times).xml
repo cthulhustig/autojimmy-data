@@ -21,7 +21,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="SC">Shadlsanti Consulate</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="AQ">Imperial Association of Aquarian Free Worlds</Allegiance>
     <Allegiance Code="PE">Praterean Empire</Allegiance>
     <Allegiance Code="KS">Kasakan State</Allegiance>

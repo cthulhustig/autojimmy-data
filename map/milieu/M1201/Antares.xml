@@ -34,7 +34,7 @@
     <Subsector Source="The Zhodani Base" Index="P">Celebes</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Bi">Black Imperium Holocaust Zone</Allegiance>
   </Allegiances>
   <Borders>

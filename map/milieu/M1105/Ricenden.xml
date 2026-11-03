@@ -30,8 +30,8 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Kr">Krotan Primacy</Allegiance>
-    <Allegiance Code="CsHv">Client state, Hive Federation</Allegiance>
-    <Allegiance Code="HvFd" Base="Hv">Hive Federation</Allegiance>
+    <Allegiance Code="CsHv" ShortName="">Client state, Hive Federation</Allegiance>
+    <Allegiance Code="HvFd" Base="Hv" ShortName="Hive">Hive Federation</Allegiance>
     <Allegiance Code="Hf">Hive FDA Uplift/Observation Site</Allegiance>
     <Allegiance Code="Na">Non-aligned</Allegiance>
   </Allegiances>

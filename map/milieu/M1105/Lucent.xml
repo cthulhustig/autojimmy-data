@@ -9,7 +9,7 @@
   <DataFile Milieu="M1105" />
   <Subsectors />
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Rw">Rann's Worlds</Allegiance>
   </Allegiances>
   <Stylesheet>

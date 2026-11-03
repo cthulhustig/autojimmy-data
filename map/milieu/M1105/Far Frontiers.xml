@@ -37,24 +37,24 @@
     <Subsector Source="The Traveller Chronicle #4" Index="P">Mnemosyne</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="ZhIN" Base="Zh">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
-    <Allegiance Code="SaCo">Salinaikin Concordance</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="ZhCa" Base="Zh">Zhodani Consulate, Colonnade Province</Allegiance>
-    <Allegiance Code="CsZh">Client state, Zhodani Consulate</Allegiance>
-    <Allegiance Code="FeAl">Federation of Alsas</Allegiance>
-    <Allegiance Code="ZePr" Base="Z">Zelphic Primacy</Allegiance>
-    <Allegiance Code="CsPt">Client state, The Protectorate</Allegiance>
-    <Allegiance Code="HaCo">Haladon Cooperative</Allegiance>
-    <Allegiance Code="Bium">The Biumvirate</Allegiance>
-    <Allegiance Code="DeHg">Descarothe Hegemony</Allegiance>
-    <Allegiance Code="DoAl">Domain of Alntzar</Allegiance>
-    <Allegiance Code="4Wor">Four Worlds</Allegiance>
-    <Allegiance Code="LeSu">League of Suns</Allegiance>
-    <Allegiance Code="Prot">The Protectorate</Allegiance>
-    <Allegiance Code="UnGa">Union of Garth</Allegiance>
-    <Allegiance Code="TrDo">Trelyn Domain</Allegiance>
-    <Allegiance Code="MnPr">Mnemosyne Principality</Allegiance>
+    <Allegiance Code="ZhIN" Base="Zh" ShortName="Consulate">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
+    <Allegiance Code="SaCo" ShortName="Salinaikin">Salinaikin Concordance</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="ZhCa" Base="Zh" ShortName="Consulate">Zhodani Consulate, Colonnade Province</Allegiance>
+    <Allegiance Code="CsZh" ShortName="">Client state, Zhodani Consulate</Allegiance>
+    <Allegiance Code="FeAl" ShortName="Alsas">Federation of Alsas</Allegiance>
+    <Allegiance Code="ZePr" Base="Z" ShortName="Zelphic">Zelphic Primacy</Allegiance>
+    <Allegiance Code="CsPt" ShortName="">Client state, The Protectorate</Allegiance>
+    <Allegiance Code="HaCo" ShortName="Haladon">Haladon Cooperative</Allegiance>
+    <Allegiance Code="Bium" ShortName="Biumvirate">The Biumvirate</Allegiance>
+    <Allegiance Code="DeHg" ShortName="Descarothe">Descarothe Hegemony</Allegiance>
+    <Allegiance Code="DoAl" ShortName="Alntzar">Domain of Alntzar</Allegiance>
+    <Allegiance Code="4Wor" ShortName="Four Worlds">Four Worlds</Allegiance>
+    <Allegiance Code="LeSu" ShortName="Suns">League of Suns</Allegiance>
+    <Allegiance Code="Prot" ShortName="Protectorate">The Protectorate</Allegiance>
+    <Allegiance Code="UnGa" ShortName="Garth">Union of Garth</Allegiance>
+    <Allegiance Code="TrDo" ShortName="Trelyn">Trelyn Domain</Allegiance>
+    <Allegiance Code="MnPr" ShortName="Principality">Mnemosyne Principality</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="Indigo" Allegiance="DoAl" LabelPosition="1839">1736 1836 1936 2036 2037 2038 2139 2039 1939 1838 1837 1836 1736</Border>

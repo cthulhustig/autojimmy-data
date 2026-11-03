@@ -36,7 +36,7 @@
     <Subsector Index="P">Lagan</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Wi">Wilds</Allegiance>
     <Allegiance Code="Ut">Usdiki Trade Alliance</Allegiance>
   </Allegiances>

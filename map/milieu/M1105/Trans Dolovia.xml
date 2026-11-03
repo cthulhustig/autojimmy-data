@@ -27,7 +27,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Gh">Gebbebem Hive</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Ne">Neo Empire</Allegiance>
     <Allegiance Code="Ah">Ang Herita</Allegiance>
   </Allegiances>

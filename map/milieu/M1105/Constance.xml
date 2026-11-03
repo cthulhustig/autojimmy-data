@@ -26,9 +26,13 @@
     <Subsector Index="P">Hunan</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Me">Megusard Corporate</Allegiance>
-    <Allegiance Code="Fw">Four Worlds</Allegiance>
+    <Allegiance Code="Ne">Nihongi Empire</Allegiance>
+    <Allegiance Code="Na">Non-aligned World</Allegiance>
+    <Allegiance Code="Em">Marian Empire</Allegiance>
+    <Allegiance Code="Nt">New Trade Cooperative</Allegiance>
+    <Allegiance Code="Mr">Mormon Alliance</Allegiance>
+    <Allegiance Code="De">Diketi Conglomerate</Allegiance>
+    <Allegiance Code="Fw">Free Worlds League</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="1214" Color="#FFCC00" Wrap="false">Falkenberg Gap</Label>

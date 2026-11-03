@@ -14,7 +14,7 @@
     </Credits>
   <X>1</X>
   <Y>-2</Y>
-  <Product Author="Michael R. Mikesh" Title="Challenge #49 - Julian Protectorate" Publisher="GDW" Ref="https://www.drivethrurpg.com/en/product/87272/challenge-magazine-no-49" />
+  <Product Author="Michael R. Mikesh" Title="Challenge #49 - Julian Protectorate" Publisher="GDW" Ref="https://www.drivethrurpg.com/en/product/87272/challenge-magazine-no-49" Image="https://travellermap.s3.amazonaws.com/images/covers/challenge_magazine_49.jpg" />
   <DataFile Author="Michael R. Mikesh" Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Zuugabish</Subsector>
@@ -35,23 +35,23 @@
     <Subsector Index="P">Naem</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaVa" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="VAnP" Base="Va">Antares Pact</Allegiance>
-    <Allegiance Code="3EoG">Third Empire of Gashikan</Allegiance>
-    <Allegiance Code="CoBa">Confederation of Bammesuka</Allegiance>
-    <Allegiance Code="Sark">Sarkan Constellation</Allegiance>
-    <Allegiance Code="Zuug" Base="Zu">Zuugabish Tripartite</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="NaDr">Non-Aligned, Droyne-dominated</Allegiance>
-    <Allegiance Code="JuPr" Base="Jp">Julian Protectorate</Allegiance>
-    <Allegiance Code="JMen" Base="Jp">Julian Protectorate, Commonwealth of Mendan</Allegiance>
-    <Allegiance Code="JLum" Base="Jp">Julian Protectorate, Lumda Dower</Allegiance>
-    <Allegiance Code="JPSt" Base="Jp">Julian Protectorate, Pirbarish Starlane</Allegiance>
-    <Allegiance Code="JVug" Base="Jp">Julian Protectorate, Vugurar Dominion</Allegiance>
-    <Allegiance Code="JAsi" Base="Jp">Julian Protectorate, Asimikigir Confederation</Allegiance>
-    <Allegiance Code="JUkh" Base="Jp">Julian Protectorate, Ukhanzi Coordinate</Allegiance>
-    <Allegiance Code="JuRu" Base="Jp">Julian Protectorate, Rukadukaz Republic</Allegiance>
+    <Allegiance Code="NaVa" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="VAnP" Base="Va" ShortName="Antares Pact">Antares Pact</Allegiance>
+    <Allegiance Code="3EoG" ShortName="Gashikan">Third Empire of Gashikan</Allegiance>
+    <Allegiance Code="CoBa" ShortName="Bammesuka">Confederation of Bammesuka</Allegiance>
+    <Allegiance Code="Sark" ShortName="Sarkan">Sarkan Constellation</Allegiance>
+    <Allegiance Code="Zuug" Base="Zu" ShortName="Zuugabish">Zuugabish Tripartite</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="NaDr" ShortName="">Non-Aligned, Droyne-dominated</Allegiance>
+    <Allegiance Code="JuPr" Base="Jp" ShortName="Protectorate">Julian Protectorate</Allegiance>
+    <Allegiance Code="JMen" Base="Jp" ShortName="Protectorate">Julian Protectorate, Commonwealth of Mendan</Allegiance>
+    <Allegiance Code="JLum" Base="Jp" ShortName="Protectorate">Julian Protectorate, Lumda Dower</Allegiance>
+    <Allegiance Code="JPSt" Base="Jp" ShortName="Protectorate">Julian Protectorate, Pirbarish Starlane</Allegiance>
+    <Allegiance Code="JVug" Base="Jp" ShortName="Protectorate">Julian Protectorate, Vugurar Dominion</Allegiance>
+    <Allegiance Code="JAsi" Base="Jp" ShortName="Protectorate">Julian Protectorate, Asimikigir Confederation</Allegiance>
+    <Allegiance Code="JUkh" Base="Jp" ShortName="Protectorate">Julian Protectorate, Ukhanzi Coordinate</Allegiance>
+    <Allegiance Code="JuRu" Base="Jp" ShortName="Protectorate">Julian Protectorate, Rukadukaz Republic</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="DarkRed" Allegiance="CoBa" LabelPosition="0513">0314 0413 0412 0411 0511 0510 0609 0610 0711 0811 0812 0713 0613 0614 0515 0516 0517 0518 0418 0319 0318 0317 0316 0315 0314</Border>

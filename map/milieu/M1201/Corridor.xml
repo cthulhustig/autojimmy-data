@@ -40,7 +40,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Wi">Wilds</Allegiance>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Br">Brinn</Allegiance>
   </Allegiances>
   <Stylesheet>

@@ -34,8 +34,8 @@
     <Subsector Index="P">Istda</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Cs">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Cs" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="Im">Third Imperium</Allegiance>
     <Allegiance Code="Ah">Ahrus Domain</Allegiance>
     <Allegiance Code="Rc">Remlik Confederation</Allegiance>

@@ -18,9 +18,9 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Im">Third Imperium</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="JD">Jimoi Democracies</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
   </Allegiances>
   <Stylesheet>
     route.TradeMinor { Color: gray; style: dashed; width: 0.5 }

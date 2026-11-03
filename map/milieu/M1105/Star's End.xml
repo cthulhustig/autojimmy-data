@@ -32,11 +32,11 @@
     <Subsector Index="P">Hkur!</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="JuHl" Base="Jp">Julian Protectorate, Hegemony of Lorean</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="CsTw">Client state, Two Thousand Worlds</Allegiance>
-    <Allegiance Code="JuPr" Base="Jp">Julian Protectorate</Allegiance>
+    <Allegiance Code="JuHl" Base="Jp" ShortName="Protectorate">Julian Protectorate, Hegemony of Lorean</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="CsTw" ShortName="">Client state, Two Thousand Worlds</Allegiance>
+    <Allegiance Code="JuPr" Base="Jp" ShortName="Protectorate">Julian Protectorate</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.CsTw { color: yellowgreen; }

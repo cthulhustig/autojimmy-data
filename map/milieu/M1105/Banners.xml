@@ -25,7 +25,7 @@
     <Subsector Index="P">Harmond</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Ar">Aoiftu Roakh</Allegiance>
     <Allegiance Code="Dc">Delsun Comagistrant</Allegiance>
     <Allegiance Code="Ww">Woal Warliylr</Allegiance>

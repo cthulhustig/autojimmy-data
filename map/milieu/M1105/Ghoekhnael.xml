@@ -35,10 +35,10 @@
     <Subsector Index="P">Irrdaeoee</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="TY">Taakas Yh'Drak</Allegiance>
-    <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VB">Brzeh Council</Allegiance>
   </Allegiances>
   <Borders>

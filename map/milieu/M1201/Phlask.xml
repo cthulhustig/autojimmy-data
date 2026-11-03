@@ -24,9 +24,9 @@
     <Subsector Index="P" />
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Ia">Ithklur Aexzz</Allegiance>
-    <Allegiance Code="HvFd" Base="Hv">Hive Federation</Allegiance>
+    <Allegiance Code="HvFd" Base="Hv" ShortName="Hive">Hive Federation</Allegiance>
     <Allegiance Code="Bz">Hive Federation Buffer Zone</Allegiance>
   </Allegiances>
   <Borders>

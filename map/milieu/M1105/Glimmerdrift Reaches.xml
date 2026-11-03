@@ -15,7 +15,7 @@
     </Credits>
   <X>2</X>
   <Y>1</Y>
-  <Product Author="Martin J. Dougherty and Hunter Gordon" Title="Gateway to Destiny" Publisher="QuickLink Interactive" Ref="https://www.mongoosepublishing.com/products/gateway-to-destiny-ebook" />
+  <Product Author="Martin J. Dougherty and Hunter Gordon" Title="Gateway to Destiny" Publisher="QuickLink Interactive" Ref="https://www.mongoosepublishing.com/products/gateway-to-destiny-ebook" Image="https://travellermap.s3.amazonaws.com/images/covers/gateway_to_destiny.jpg" />
   <DataFile Author="Martin J. Dougherty and Hunter Gordon" Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Darkling</Subsector>
@@ -36,15 +36,15 @@
     <Subsector Index="P">Daro</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="ImDg" Base="Im">Third Imperium, Domain of Gateway</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="FeHe">Federation of Heron</Allegiance>
-    <Allegiance Code="GdSt">Grand Duchy of Stoner</Allegiance>
-    <Allegiance Code="GaRp">Gamma Republic</Allegiance>
-    <Allegiance Code="MaEm">Maskai Empire</Allegiance>
-    <Allegiance Code="LnRp">Loyal Nineworlds Republic</Allegiance>
-    <Allegiance Code="GlFe">Glimmerdrift Federation</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="ImDg" Base="Im" ShortName="Imperium">Third Imperium, Domain of Gateway</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="FeHe" ShortName="Heron">Federation of Heron</Allegiance>
+    <Allegiance Code="GdSt" ShortName="Stoner">Grand Duchy of Stoner</Allegiance>
+    <Allegiance Code="GaRp" ShortName="Gamma">Gamma Republic</Allegiance>
+    <Allegiance Code="MaEm" ShortName="Maskai">Maskai Empire</Allegiance>
+    <Allegiance Code="LnRp" ShortName="Nineworlds">Loyal Nineworlds Republic</Allegiance>
+    <Allegiance Code="GlFe" ShortName="Federation">Glimmerdrift Federation</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Allegiance="ImDg" LabelPosition="1102" Label="Third Imperium">0905 1004 1003 1002 1001 1000 1100 1200 1300 1400 1500 1600 1700 1701 1702 1602 1503 1403 1404 1304 1204 1105 1004 0905</Border>

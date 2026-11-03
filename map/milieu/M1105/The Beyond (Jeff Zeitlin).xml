@@ -26,7 +26,7 @@
     <Subsector Index="P">Asyoh</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Um">Union of Meizirn</Allegiance>
     <Allegiance Code="Co">Corellian</Allegiance>
     <Allegiance Code="Hc">Hefrin Colony</Allegiance>

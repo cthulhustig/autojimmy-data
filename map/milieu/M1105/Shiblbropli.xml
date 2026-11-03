@@ -25,7 +25,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Dr">Droyne</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Zc">Zhodani Client</Allegiance>
   </Allegiances>
   <Routes>

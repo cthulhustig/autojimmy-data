@@ -32,7 +32,7 @@
     <Subsector Index="P">Aegaek</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Gray" Allegiance="Wild" LabelPosition="2308" Label="Tangle Okloe">1502 1602 1703 1803 1904 2003 2103 2203 2303 2402 2502 2602 2702 2802 2902 2802 2703 2603 2504 2404 2405 2406 2407 2408 2509 2609 2710 2810 2910 2909 2910 2911 2912 3012 3113 3013 3014 2914 2813 2713 2613 2514 2414 2413 2313 2212 2112 2011 1911 1811 1810 1809 1808 1807 1806 1805 1705 1604 1603 1602 1502</Border>

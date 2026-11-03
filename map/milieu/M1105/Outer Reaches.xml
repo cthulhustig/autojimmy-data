@@ -28,7 +28,7 @@
     <Allegiance Code="Na">Non-Aligned Worlds</Allegiance>
     <Allegiance Code="Cc">Celestial Concord</Allegiance>
     <Allegiance Code="Co">Sovereign Commonwealth</Allegiance>
-    <Allegiance Code="Cs">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="Cs" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="Dh">Divine Hegemony</Allegiance>
     <Allegiance Code="Cp">Protectorate</Allegiance>
     <Allegiance Code="Te">Terran Confederacy</Allegiance>

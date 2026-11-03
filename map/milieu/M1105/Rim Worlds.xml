@@ -26,14 +26,23 @@
     <Subsector Index="P">Singh</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="As">Aslan Hierate</Allegiance>
-    <Allegiance Code="Vw" Base="Jp">Julian Protectorate, Rar Errall/Wolves Warren</Allegiance>
-    <Allegiance Code="Me">Megusard Corporate</Allegiance>
-    <Allegiance Code="Kr">Krotan Primacy</Allegiance>
-    <Allegiance Code="Fw">Four Worlds</Allegiance>
-    <Allegiance Code="Id">Islaiat Dominate</Allegiance>
+    <Allegiance Code="As">Hani Clan Worlds</Allegiance>
+    <Allegiance Code="Ce">Caliphate of Estalia</Allegiance>
+    <Allegiance Code="Ne">Nihongi Empire</Allegiance>
+    <Allegiance Code="Vw">Das Volk Worlds</Allegiance>
+    <Allegiance Code="Em">Marian Empire</Allegiance>
+    <Allegiance Code="Nf">Ntini Federation</Allegiance>
+    <Allegiance Code="Kr">Kao Republic</Allegiance>
+    <Allegiance Code="Cc">Catalan Confederacy</Allegiance>
+    <Allegiance Code="Fw">Free Worlds League</Allegiance>
+    <Allegiance Code="Kc">Kaloran Communality</Allegiance>
+    <Allegiance Code="Id">Indra Domain</Allegiance>
     <Allegiance Code="Ls">League of Suns</Allegiance>
-    <Allegiance Code="Ve" Base="Im">Third Imperium, Vegan Autonomous District</Allegiance>
+    <Allegiance Code="Mg">Magyar Confederacy</Allegiance>
+    <Allegiance Code="Ve">Varellan Empire</Allegiance>
+    <Allegiance Code="Rr">Rim Republic</Allegiance>
+    <Allegiance Code="Ou">Old Earth Union</Allegiance>
+    <Allegiance Code="Hu">Heron Union</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="1619" Color="#FFCC00" Wrap="false">Schalkenberg Cloud</Label>

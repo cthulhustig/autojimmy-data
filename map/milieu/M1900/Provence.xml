@@ -33,7 +33,7 @@
     <Subsector Index="P">Daekvagul</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Kv { color: olivedrab; }

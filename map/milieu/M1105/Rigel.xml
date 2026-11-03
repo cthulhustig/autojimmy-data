@@ -18,7 +18,7 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="OC">Oranite Confederation</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="SP">Skania Pact</Allegiance>
   </Allegiances>
   <Stylesheet>

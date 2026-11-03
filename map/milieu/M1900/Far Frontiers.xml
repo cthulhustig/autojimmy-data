@@ -40,7 +40,7 @@
     <Subsector Source="The Traveller Chronicle #4" Index="P">Mnemosyne</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Ff">Dloshl Council</Allegiance>
     <Allegiance Code="Fc">Niaddek</Allegiance>
     <Allegiance Code="Fb">Hearthland</Allegiance>

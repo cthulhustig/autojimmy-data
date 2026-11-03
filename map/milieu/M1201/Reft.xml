@@ -43,11 +43,11 @@
   <Allegiances>
     <Allegiance Code="Re">Regency</Allegiance>
     <Allegiance Code="Rf">Regency Frontier</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Cs">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Cs" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="Wi">Wilds</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
-    <Allegiance Code="Vl" Base="Va">Lair Protectorate</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Vl" Base="Va" ShortName="Lair Protectorate">Lair Protectorate</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Re { color: lightblue; }

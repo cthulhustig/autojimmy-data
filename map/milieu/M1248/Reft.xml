@@ -51,7 +51,7 @@
     <Allegiance Code="Na">Non-aligned (human)</Allegiance>
     <Allegiance Code="Dr">Droyne, unaligned</Allegiance>
     <Allegiance Code="Wi">Wilds</Allegiance>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Vl">Duchy of Vlad</Allegiance>
   </Allegiances>
   <Borders>

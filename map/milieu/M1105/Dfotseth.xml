@@ -8,7 +8,7 @@
   <DataFile Author="John G. Wood" Source="Underdeveloped Sectors" Milieu="M1105" Ref="https://web.archive.org/web/20160205040546/http://homepage.ntlworld.com/elvwood/Traveller/Sectors/" />
   <Subsectors />
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
   </Allegiances>
 </Sector>

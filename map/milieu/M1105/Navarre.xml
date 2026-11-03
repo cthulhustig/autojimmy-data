@@ -9,7 +9,7 @@
   <DataFile Milieu="M1105" />
   <Subsectors />
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="1037" Color="Gray" Size="large" Wrap="false">Splinter Rifts</Label>

@@ -31,7 +31,7 @@
     <Subsector Index="P" />
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Hv">Hive Federation</Allegiance>
   </Allegiances>
   <Borders>

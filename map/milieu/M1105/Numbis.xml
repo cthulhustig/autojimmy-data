@@ -30,17 +30,17 @@
     <Subsector Index="P">Torrent</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Mp">Munsonian Principality</Allegiance>
     <Allegiance Code="Cr">Corona Regnum</Allegiance>
     <Allegiance Code="Kc">K'kree Client State</Allegiance>
     <Allegiance Code="Up">United Pact</Allegiance>
-    <Allegiance Code="HvFd" Base="Hv">Hive Federation</Allegiance>
+    <Allegiance Code="HvFd" Base="Hv" ShortName="Hive">Hive Federation</Allegiance>
     <Allegiance Code="Yc">Yeskoth Corporate</Allegiance>
-    <Allegiance Code="KkTw" Base="Kk">Two Thousand Worlds</Allegiance>
+    <Allegiance Code="KkTw" Base="Kk" ShortName="K'kree">Two Thousand Worlds</Allegiance>
     <Allegiance Code="Lx">Losan Xkeerikulookree</Allegiance>
-    <Allegiance Code="SELK">Sha Elden Lith Kindriu</Allegiance>
-    <Allegiance Code="KrPr">Krotan Primacy</Allegiance>
+    <Allegiance Code="SELK" ShortName="Sha Elden Lith Kindriu">Sha Elden Lith Kindriu</Allegiance>
+    <Allegiance Code="KrPr" ShortName="Krotan">Krotan Primacy</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Goldenrod" Allegiance="Cr" LabelPosition="1133">0132 0231 0331 0430 0530 0529 0628 0728 0727 0726 0725 0724 0824 0925 1025 1026 1127 1227 1327 1426 1527 1626 1726 1825 1925 1926 1927 2027 2028 2029 2130 2030 1930 1829 1730 1629 1530 1430 1330 1230 1131 1031 0932 0832 0833 0734 0735 0635 0536 0436 0437 0438 0339 0340 0341 0241 0341 0340 0239 0238 0237 0236 0136 0135 0134 0133 0132</Border>

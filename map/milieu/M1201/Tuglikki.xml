@@ -33,11 +33,11 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Wi">Wilds</Allegiance>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="V2" Base="Va">Windhorn Pact of Two</Allegiance>
-    <Allegiance Code="Vu" Base="Va">United Followers of Augurgh</Allegiance>
-    <Allegiance Code="Vf" Base="Va">Dzarrgh Federate</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="V2" Base="Va" ShortName="Windhorn Pact of Two">Windhorn Pact of Two</Allegiance>
+    <Allegiance Code="Vu" Base="Va" ShortName="United Followers of Augurgh">United Followers of Augurgh</Allegiance>
+    <Allegiance Code="Vf" Base="Va" ShortName="Dzarrgh Federate">Dzarrgh Federate</Allegiance>
   </Allegiances>
 </Sector>

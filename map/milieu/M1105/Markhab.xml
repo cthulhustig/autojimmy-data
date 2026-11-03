@@ -24,7 +24,7 @@
     <Subsector Index="P">Uncharted M11</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="An">Anoro</Allegiance>
     <Allegiance Code="Mf">Markhab Federation</Allegiance>
     <Allegiance Code="In">(Unknown)</Allegiance>

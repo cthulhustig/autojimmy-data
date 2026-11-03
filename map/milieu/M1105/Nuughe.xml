@@ -29,8 +29,8 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Kk">The Two Thousand Worlds</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="KC">Client state, Two Thousand Worlds</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="KC" ShortName="">Client state, Two Thousand Worlds</Allegiance>
     <Allegiance Code="K9">Hkooek' Xuruk</Allegiance>
     <Allegiance Code="K8">Xir Xur</Allegiance>
   </Allegiances>

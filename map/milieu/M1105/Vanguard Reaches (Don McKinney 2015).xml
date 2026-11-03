@@ -34,24 +34,24 @@
     <Subsector Index="P">Jarnac</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="ZhCa" Base="Zh">Zhodani Consulate, Colonnade Province</Allegiance>
-    <Allegiance Code="CsZh">Client state, Zhodani Consulate</Allegiance>
-    <Allegiance Code="HyLe">Hyperion League</Allegiance>
-    <Allegiance Code="AlCo">Altarean Confederation</Allegiance>
-    <Allegiance Code="TeCl">Tellerian Cluster</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="ZhCa" Base="Zh" ShortName="Consulate">Zhodani Consulate, Colonnade Province</Allegiance>
+    <Allegiance Code="CsZh" ShortName="">Client state, Zhodani Consulate</Allegiance>
+    <Allegiance Code="HyLe" ShortName="Hyperion">Hyperion League</Allegiance>
+    <Allegiance Code="AlCo" ShortName="Altarean">Altarean Confederation</Allegiance>
+    <Allegiance Code="TeCl" ShortName="Tellerian">Tellerian Cluster</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="Fc">Four Corners Sovereign Array</Allegiance>
     <Allegiance Code="Lc">Langemarck Coalition</Allegiance>
     <Allegiance Code="Gr">Grossdeutchland Confederation</Allegiance>
-    <Allegiance Code="TrDo">Trelyn Domain</Allegiance>
+    <Allegiance Code="TrDo" ShortName="Trelyn">Trelyn Domain</Allegiance>
     <Allegiance Code="Kr">Kranzbund</Allegiance>
     <Allegiance Code="Pi">Pionier Fellowship</Allegiance>
     <Allegiance Code="Es">Comsentient Alliance, Eslyat Magistracy</Allegiance>
     <Allegiance Code="Kt">Comsentient Alliance, Kajaani Triumverate</Allegiance>
     <Allegiance Code="Co">Comsentient Alliance</Allegiance>
-    <Allegiance Code="JaPa">Jarnac Pashalic</Allegiance>
+    <Allegiance Code="JaPa" ShortName="Jamac">Jarnac Pashalic</Allegiance>
   </Allegiances>
   <Stylesheet>
     route.ZhCo { color: blue; }

@@ -39,7 +39,7 @@
     <Subsector Index="P">Sashrakusha</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Br { color: purple; }

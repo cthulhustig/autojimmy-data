@@ -26,7 +26,7 @@
     <Subsector Index="P">Demosalia</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Pk">Pompetica Kingdom</Allegiance>
     <Allegiance Code="Gf">Galexanne Federation</Allegiance>
     <Allegiance Code="Sk">Sapier Kingdom</Allegiance>

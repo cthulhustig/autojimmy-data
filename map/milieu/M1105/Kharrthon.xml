@@ -26,7 +26,7 @@
   <Allegiances>
     <Allegiance Code="VA">Alliance of Tju</Allegiance>
     <Allegiance Code="Ve">Empire of Varroerth</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VG">Glorious Sons of Raek</Allegiance>
     <Allegiance Code="VD">Delegation of Targhae</Allegiance>
     <Allegiance Code="VX">Vaoekghirkhr Exchange</Allegiance>

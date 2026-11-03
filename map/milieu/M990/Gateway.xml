@@ -24,7 +24,7 @@
     <Subsector Index="P">Farina</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Ga">Galian Federation</Allegiance>
     <Allegiance Code="Ho">Hochiken People's Assembly</Allegiance>
     <Allegiance Code="Vi">Viyard Concourse</Allegiance>

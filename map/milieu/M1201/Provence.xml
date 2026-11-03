@@ -32,10 +32,10 @@
     <Subsector Index="P">Daekvagul</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="Wi">Wilds</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Wi" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Kv">Knokseng Confederation</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="Dr">Droyne</Allegiance>
     <Allegiance Code="Vl">Lair Protectorate</Allegiance>
   </Allegiances>

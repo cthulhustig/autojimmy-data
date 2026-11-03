@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Sector Tags="InReview OTU" Abbreviation="Alde">
+<Sector Selected="true" Tags="InReview OTU" Abbreviation="Alde">
   <Name>Aldebaran</Name>
   <Credits>
 
@@ -10,9 +10,14 @@
              Solomani &amp;amp; Aslan&lt;/cite&gt; (Digest Group Publications,
              1991).
 
+             Two subsectors are detailed in &lt;cite&gt;The Order of
+             Prometheus&lt;/cite&gt; by Martin J. Dougherty (Mongoose
+             Publishing, 2023).
+
     </Credits>
   <X>0</X>
   <Y>4</Y>
+  <Product Author="Martin J. Dougherty" Title="The Order of Prometheus" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/order-of-prometheus" Image="https://travellermap.s3.amazonaws.com/images/covers/the_order_of_prometheus.jpg" />
   <DataFile Source="Randy Dorman" Milieu="M1105" />
   <Subsectors>
     <Subsector Source="Supplement 10 - The Solomani Rim" Index="A">Euxene</Subsector>
@@ -33,15 +38,15 @@
     <Subsector Source="Randy Dorman" Index="P">Hesperia</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="SoFr" Base="So">Solomani Confederation, Third Reformed French Confederate Republic</Allegiance>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
-    <Allegiance Code="MaUn">Malorn Union</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="SoBF" Base="So">Solomani Confederation, Bootean Federation</Allegiance>
-    <Allegiance Code="SoQu" Base="So">Solomani Confederation, Grand United States of Quesada</Allegiance>
-    <Allegiance Code="WiDe">Winston Democracy</Allegiance>
-    <Allegiance Code="SoRz" Base="So">Solomani Confederation, Restricted Zone</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="SoFr" Base="So" ShortName="Solomani">Solomani Confederation, Third Reformed French Confederate Republic</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
+    <Allegiance Code="MaUn" ShortName="Malorn">Malorn Union</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="SoBF" Base="So" ShortName="Solomani">Solomani Confederation, Bootean Federation</Allegiance>
+    <Allegiance Code="SoQu" Base="So" ShortName="Solomani">Solomani Confederation, Grand United States of Quesada</Allegiance>
+    <Allegiance Code="WiDe" ShortName="Winston">Winston Democracy</Allegiance>
+    <Allegiance Code="SoRz" Base="So" ShortName="Solomani">Solomani Confederation, Restricted Zone</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="White" Allegiance="MaUn" LabelPosition="0539">0038 0138 0237 0238 0339 0439 0540 0541 0441 0341 0241 0141 0041 0040 0039 0038</Border>

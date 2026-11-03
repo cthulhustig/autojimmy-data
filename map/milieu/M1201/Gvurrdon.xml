@@ -13,7 +13,6 @@
     </Credits>
   <X>-4</X>
   <Y>-2</Y>
-  <Product Author="Simon Beal" Title="Alien Module 2: Vargr" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/alien-module-2-vargr-1" />
   <DataFile Author="J. Andrew Keith, Marc Miller and John Harshman" Source="Traveller 5 Second Survey" Milieu="M1201" />
   <Subsectors>
     <Subsector Author="Roger Myhre" Publisher="HIWG" Ref="http://traveller.mu.org/archive/HIWG/Gvurdon/6F01.TXT" Index="A">Ongvos</Subsector>
@@ -34,10 +33,10 @@
     <Subsector Source="Supplement 3 - The Spinward Marches" Index="P">Firgr</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
     <Allegiance Code="Vb">Thirz Uerra</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Vd">Noerrgh Confederate</Allegiance>
     <Allegiance Code="Vg">Allez</Allegiance>
     <Allegiance Code="Vl">Rroerz Uerra</Allegiance>
@@ -50,7 +49,7 @@
     <Allegiance Code="Dr">Droyne World</Allegiance>
     <Allegiance Code="Vp">Kedzudh Aeng</Allegiance>
     <Allegiance Code="Ve">Thoengling Raghz</Allegiance>
-    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Vh, border.Vl, border.Vm, border.Vn, border.Vp, border.Vq,

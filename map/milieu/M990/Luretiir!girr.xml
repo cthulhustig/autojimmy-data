@@ -30,7 +30,7 @@
     <Subsector Index="P">Kr!k</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="K4">Ka'ra Mandate</Allegiance>
     <Allegiance Code="Kk">The Two Thousand Worlds</Allegiance>
     <Allegiance Code="Lt">Lords of Thunder</Allegiance>

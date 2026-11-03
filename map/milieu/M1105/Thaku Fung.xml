@@ -28,10 +28,10 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Rc">Rho Cluster</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Xx">Unknown</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Xx" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Sp">Solomani Preserve</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="Cs">Client State, Third Imperium</Allegiance>
   </Allegiances>
   <Borders>

@@ -28,7 +28,7 @@
     <Subsector Index="P">Rirekluan</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="HvFd" Base="Hv">Hive Federation</Allegiance>
+    <Allegiance Code="HvFd" Base="Hv" ShortName="Hive">Hive Federation</Allegiance>
     <Allegiance Code="Hf">Hive FDA Uplift/Observation Site</Allegiance>
   </Allegiances>
   <Borders>

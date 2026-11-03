@@ -24,8 +24,8 @@
     <Subsector Index="P">Ghogvoeghz</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VE">Agents of Eloeghoe</Allegiance>
     <Allegiance Code="VL">League Alliance</Allegiance>
   </Allegiances>

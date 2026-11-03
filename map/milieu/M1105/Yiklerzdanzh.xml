@@ -30,10 +30,10 @@
     <Subsector Index="P">Rom's Loch</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
     <Allegiance Code="Sr">S'raak Empire</Allegiance>
     <Allegiance Code="TL">Talpaku Communality</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="TC">Talpaku Communality Client State</Allegiance>
     <Allegiance Code="Mi">Meichntid Ibl</Allegiance>
     <Allegiance Code="Mc">Meichntid Ibl Client State</Allegiance>
@@ -45,7 +45,7 @@
     <Allegiance Code="AU">Akigura Union</Allegiance>
     <Allegiance Code="Gs">Glenauran Signatorate</Allegiance>
     <Allegiance Code="SC">Salinaikin Concordance</Allegiance>
-    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Stylesheet>
     route.Mi { color: pink; }

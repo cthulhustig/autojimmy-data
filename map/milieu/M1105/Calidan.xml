@@ -11,14 +11,14 @@
     </Credits>
   <X>247</X>
   <Y>-248</Y>
-  <Product Author="Martin J. Dougherty" Title="Traveller Starter Set" Publisher="Mongoose Publishing" Ref="https://www.drivethrurpg.com/product/210198/Traveller-Starter-Set" />
+  <Product Author="Martin J. Dougherty" Title="Traveller Starter Set" Publisher="Mongoose Publishing" Ref="https://www.drivethrurpg.com/product/210198/Traveller-Starter-Set" Image="https://travellermap.s3.amazonaws.com/images/covers/traveller_starter_set.jpg" />
   <DataFile Milieu="M1105" />
   <Subsectors>
     <Subsector Index="G">Athwa</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="CF">Calida Federation</Allegiance>
   </Allegiances>
 </Sector>

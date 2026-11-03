@@ -32,12 +32,12 @@
     <Subsector Index="P">Naakhulige</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="AsMw" Base="As">Aslan Hierate, single multiple-world clan dominates</Allegiance>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="ImDi" Base="Im">Third Imperium, Domain of Ilelish</Allegiance>
-    <Allegiance Code="AsWc" Base="As">Aslan Hierate, single one-world clan dominates</Allegiance>
-    <Allegiance Code="AsTv" Base="As">Aslan Hierate, Tlaukhu vassal clan dominates</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="AsMw" Base="As" ShortName="Hierate">Aslan Hierate, single multiple-world clan dominates</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="ImDi" Base="Im" ShortName="Imperium">Third Imperium, Domain of Ilelish</Allegiance>
+    <Allegiance Code="AsWc" Base="As" ShortName="Hierate">Aslan Hierate, single one-world clan dominates</Allegiance>
+    <Allegiance Code="AsTv" Base="As" ShortName="Hierate">Aslan Hierate, Tlaukhu vassal clan dominates</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="As">Aslan Hierate</Allegiance>
   </Allegiances>
   <Borders>

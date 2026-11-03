@@ -37,10 +37,10 @@
     <Subsector Index="P">Yashodhan</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Cc">Grand Council of Creches</Allegiance>
     <Allegiance Code="Wi">Wilds</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Cc { color: lightgreen; }

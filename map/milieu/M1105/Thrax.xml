@@ -9,7 +9,7 @@
   <DataFile Milieu="M1105" />
   <Subsectors />
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Et">Empire of Thrax</Allegiance>
   </Allegiances>
   <Stylesheet>

@@ -9,7 +9,7 @@
     </Credits>
   <X>0</X>
   <Y>9</Y>
-  <Product Author="Martin J. Dougherty" Title="Rim Expeditions" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/rim-expeditions" />
+  <Product Author="Martin J. Dougherty" Title="Rim Expeditions" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/rim-expeditions" Image="https://travellermap.s3.amazonaws.com/images/covers/rim_expeditions.jpg" />
   <DataFile Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Adams</Subsector>
@@ -30,13 +30,13 @@
     <Subsector Index="P">Pletneva</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="So" Base="So">Solomani Confederation</Allegiance>
-    <Allegiance Code="Rm">Grand Duchy of Kalradin</Allegiance>
-    <Allegiance Code="Sv">The Sovereignty</Allegiance>
-    <Allegiance Code="RM">Rule of Man</Allegiance>
-    <Allegiance Code="Ir">Interstellar Republic</Allegiance>
-    <Allegiance Code="SoCf" Base="So">Solomani Confederation</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="So" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
+    <Allegiance Code="Rm" ShortName="Kalradin">Grand Duchy of Kalradin</Allegiance>
+    <Allegiance Code="Sv" ShortName="Sovereignty">The Sovereignty</Allegiance>
+    <Allegiance Code="RM" ShortName="Rule of Man">Rule of Man</Allegiance>
+    <Allegiance Code="Ir" ShortName="Interstellar">Interstellar Republic</Allegiance>
+    <Allegiance Code="SoCf" Base="So" ShortName="Solomani">Solomani Confederation</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Color="Orange" Allegiance="Ec" LabelPosition="0619" Label="Eberhardt Corporate Republic">0417 0517 0516 0615 0616 0717 0817 0718 0618 0518 0417</Border>

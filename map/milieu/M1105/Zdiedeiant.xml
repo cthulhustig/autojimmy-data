@@ -28,12 +28,12 @@
     <Subsector Index="P">Tliekrbliepl</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="CsZh">Client state, Zhodani Consulate</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="ZhIa" Base="Zh">Zhodani Consulate, Iabrensh Province</Allegiance>
+    <Allegiance Code="CsZh" ShortName="">Client state, Zhodani Consulate</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="ZhIa" Base="Zh" ShortName="Consulate">Zhodani Consulate, Iabrensh Province</Allegiance>
     <Allegiance Code="Dr">Droyne</Allegiance>
-    <Allegiance Code="ZhOb" Base="Zh">Zhodani Consulate, Obrefripl Province</Allegiance>
-    <Allegiance Code="ZhCo" Base="Zh">Zhodani Consulate</Allegiance>
+    <Allegiance Code="ZhOb" Base="Zh" ShortName="Consulate">Zhodani Consulate, Obrefripl Province</Allegiance>
+    <Allegiance Code="ZhCo" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="0339" Color="White" Wrap="false">Zhdant Abyss</Label>

@@ -28,9 +28,9 @@
     <Subsector Index="P">Suluman</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Ch">Chromirim Alliance</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="AW">Ancient Worlds of Iminorrg</Allegiance>
     <Allegiance Code="Dy">Dysprosuk</Allegiance>
     <Allegiance Code="GD">Galizon Defence District</Allegiance>

@@ -28,10 +28,10 @@
     <Subsector Index="P" />
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="HvFd" Base="Hv">Hive Federation</Allegiance>
-    <Allegiance Code="CsHv">Client state, Hive Federation</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="HvFd" Base="Hv" ShortName="Hive">Hive Federation</Allegiance>
+    <Allegiance Code="CsHv" ShortName="">Client state, Hive Federation</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Hg">Gaiage Alliance</Allegiance>
     <Allegiance Code="Sp">Splinters</Allegiance>
   </Allegiances>

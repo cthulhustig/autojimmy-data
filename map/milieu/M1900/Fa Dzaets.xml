@@ -28,7 +28,7 @@
     <Subsector Index="P">Urzkho</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
   </Allegiances>
   <Labels>
     <Label Hex="2929" Color="White" Wrap="false">Windhorn Rift</Label>

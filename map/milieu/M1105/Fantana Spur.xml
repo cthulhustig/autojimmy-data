@@ -26,7 +26,7 @@
     <Subsector Index="P">Angondsena</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Rw">Raniera Worlds</Allegiance>
     <Allegiance Code="Ah">Ang Herita</Allegiance>
     <Allegiance Code="Lh">Losina Herzostars</Allegiance>

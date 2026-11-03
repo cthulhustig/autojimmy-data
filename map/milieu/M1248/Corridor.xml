@@ -42,7 +42,7 @@
     <Subsector Index="P" />
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Vs">Vargr Splinters</Allegiance>
     <Allegiance Code="Zs">New Ziru Sirka</Allegiance>
   </Allegiances>

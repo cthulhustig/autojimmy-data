@@ -24,7 +24,7 @@
     <Subsector Index="P">Kietalli</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="--">Unknown</Allegiance>
+    <Allegiance Code="--" ShortName="Unknown">Unknown</Allegiance>
     <Allegiance Code="Gr">Geanak Republic</Allegiance>
     <Allegiance Code="Aa">Aluvial Alliance</Allegiance>
     <Allegiance Code="Hl">Human League</Allegiance>

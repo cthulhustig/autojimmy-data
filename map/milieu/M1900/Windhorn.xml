@@ -39,7 +39,7 @@
     <Subsector Index="P">Kishadiku</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Vz">Ziru Kishigi</Allegiance>
   </Allegiances>
   <Borders>

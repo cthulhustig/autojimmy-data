@@ -35,9 +35,9 @@
     <Subsector Index="P">Serrken</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
     <Allegiance Code="Vd">Ue Koloung</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="Vb">Torraegoa Vuell</Allegiance>
     <Allegiance Code="Ve">Ue Sogur</Allegiance>
     <Allegiance Code="Vg">Aedokhaz Ka Vuell</Allegiance>

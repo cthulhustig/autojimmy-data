@@ -23,9 +23,9 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Im">Third Imperium</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="Tl">Turan League</Allegiance>
-    <Allegiance Code="Xx">Unknown</Allegiance>
+    <Allegiance Code="Xx" ShortName="Unknown">Unknown</Allegiance>
   </Allegiances>
   <Stylesheet>
     border.Tl { Color: orange }

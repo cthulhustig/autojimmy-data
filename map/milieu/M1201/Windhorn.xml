@@ -36,8 +36,8 @@
     <Subsector Index="P">Kishadiku</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="??">Unknown</Allegiance>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
-    <Allegiance Code="Wi">Wilds</Allegiance>
+    <Allegiance Code="??" ShortName="Unknown">Unknown</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Wi" ShortName="Wilds">Wilds</Allegiance>
   </Allegiances>
 </Sector>

@@ -34,7 +34,7 @@
     <Subsector Index="P">Zaek</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Wild">Wilds</Allegiance>
+    <Allegiance Code="Wild" ShortName="Wilds">Wilds</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Gray" Allegiance="Tangle" LabelPosition="1127" Label="Tangle Zoukh">0430 0530 0529 0628 0627 0626 0625 0624 0623 0723 0822 0821 0921 0920 0919 0918 1018 1119 1219 1320 1220 1121 1122 1123 1223 1324 1424 1525 1624 1525 1526 1527 1528 1529 1629 1730 1630 1531 1532 1533 1633 1534 1433 1334 1233 1133 1033 0934 0834 0735 0635 0634 0534 0533 0532 0531 0430</Border>

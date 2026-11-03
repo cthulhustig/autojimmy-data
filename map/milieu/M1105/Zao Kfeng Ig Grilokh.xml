@@ -34,7 +34,7 @@
     <Subsector Index="P">Ukkaegh</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Va" Base="Va">Non-Aligned, Vargr-dominated</Allegiance>
+    <Allegiance Code="Va" Base="Va" ShortName="">Non-Aligned, Vargr-dominated</Allegiance>
     <Allegiance Code="VS">Jarrgh Subjugate</Allegiance>
     <Allegiance Code="VF">Far Stars Unanimity</Allegiance>
     <Allegiance Code="Ve">Empire of Varroerth</Allegiance>

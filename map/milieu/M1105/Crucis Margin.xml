@@ -12,7 +12,7 @@
     </Credits>
   <X>3</X>
   <Y>1</Y>
-  <Product Author="Martin J. Dougherty and Hunter Gordon" Title="Gateway to Destiny" Publisher="QuickLink Interactive" Ref="https://www.mongoosepublishing.com/products/gateway-to-destiny-ebook" />
+  <Product Author="Martin J. Dougherty and Hunter Gordon" Title="Gateway to Destiny" Publisher="QuickLink Interactive" Ref="https://www.mongoosepublishing.com/products/gateway-to-destiny-ebook" Image="https://travellermap.s3.amazonaws.com/images/covers/gateway_to_destiny.jpg" />
   <DataFile Author="Martin J. Dougherty and Hunter Gordon" Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Ostermann</Subsector>
@@ -33,21 +33,21 @@
     <Subsector Index="P">Kixum</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaHu" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="GlFe">Glimmerdrift Federation</Allegiance>
-    <Allegiance Code="KaWo">Karhyri Worlds</Allegiance>
-    <Allegiance Code="GdKa">Grand Duchy of Kalradin</Allegiance>
-    <Allegiance Code="MiCo">Mische Conglomerate</Allegiance>
-    <Allegiance Code="SyRe">Syzlin Republic</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="OlWo">Old Worlds</Allegiance>
-    <Allegiance Code="FeAm">Federation of Amil</Allegiance>
-    <Allegiance Code="KaCo">Katowice Conquest</Allegiance>
-    <Allegiance Code="Reac">The Reach</Allegiance>
-    <Allegiance Code="MrCo">Mercantile Concord</Allegiance>
-    <Allegiance Code="NaDr">Non-Aligned, Droyne-dominated</Allegiance>
-    <Allegiance Code="CsIm">Client state, Third Imperium</Allegiance>
-    <Allegiance Code="CsHv">Client state, Hive Federation</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="GlFe" ShortName="Federation">Glimmerdrift Federation</Allegiance>
+    <Allegiance Code="KaWo" ShortName="Karhyri">Karhyri Worlds</Allegiance>
+    <Allegiance Code="GdKa" ShortName="Kalradin">Grand Duchy of Kalradin</Allegiance>
+    <Allegiance Code="MiCo" ShortName="Mische">Mische Conglomerate</Allegiance>
+    <Allegiance Code="SyRe" ShortName="Syzlin">Syzlin Republic</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="OlWo" ShortName="Old Worlds">Old Worlds</Allegiance>
+    <Allegiance Code="FeAm" ShortName="Amil">Federation of Amil</Allegiance>
+    <Allegiance Code="KaCo" ShortName="Katowice">Katowice Conquest</Allegiance>
+    <Allegiance Code="Reac" ShortName="The Reach">The Reach</Allegiance>
+    <Allegiance Code="MrCo" ShortName="Mercantile">Mercantile Concord</Allegiance>
+    <Allegiance Code="NaDr" ShortName="">Non-Aligned, Droyne-dominated</Allegiance>
+    <Allegiance Code="CsIm" ShortName="">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="CsHv" ShortName="">Client state, Hive Federation</Allegiance>
   </Allegiances>
   <Borders>
     <Border ShowLabel="false" WrapLabel="true" Color="Blue" Allegiance="GlFe" LabelPosition="0122">0020 0121 0122 0222 0122 0022 0021 0020</Border>

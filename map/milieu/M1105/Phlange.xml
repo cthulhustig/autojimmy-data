@@ -24,16 +24,16 @@
     <Subsector Index="P">Vihle</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="SC">Sulikov Corporate</Allegiance>
     <Allegiance Code="FC">Free Comitas League</Allegiance>
     <Allegiance Code="CA">Clandur Alliance</Allegiance>
     <Allegiance Code="LA">Likarova Alliance</Allegiance>
     <Allegiance Code="Ae">Asuran Empire</Allegiance>
     <Allegiance Code="EC">Ertask Combine</Allegiance>
-    <Allegiance Code="Cs">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="Cs" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="LC">Lister Compliance</Allegiance>
-    <Allegiance Code="Ca">Principality of Caledon</Allegiance>
+    <Allegiance Code="Ca" ShortName="Caledon">Principality of Caledon</Allegiance>
     <Allegiance Code="MC">Mahler Combine</Allegiance>
     <Allegiance Code="GC">Grennan Combine</Allegiance>
     <Allegiance Code="SA">Saiph Alliance</Allegiance>

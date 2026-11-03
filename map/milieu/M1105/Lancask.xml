@@ -24,13 +24,13 @@
     <Subsector Index="P">Pocanask</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
     <Allegiance Code="Su">Sayd Trade Union</Allegiance>
     <Allegiance Code="Fe">Society of Friends of Fetarre</Allegiance>
     <Allegiance Code="It">Itaurrec Unification</Allegiance>
     <Allegiance Code="Ki">Klushan Universal Imperium</Allegiance>
     <Allegiance Code="Lr">Lasiir Domination</Allegiance>
-    <Allegiance Code="Cs">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="Cs" ShortName="">Client state, Third Imperium</Allegiance>
   </Allegiances>
   <Borders>
     <Border Color="Blue" Allegiance="Ki" LabelPosition="1939">1738 1838 1839 1940 2040 1940 1839 1739 1738</Border>

@@ -32,18 +32,18 @@
     <Subsector Index="P">Trin's Shroud</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Zh" Base="Zh">Zhodani Consulate</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Cz">Client state, Zhodani Consulate</Allegiance>
-    <Allegiance Code="Cs">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Cz" ShortName="">Client state, Zhodani Consulate</Allegiance>
+    <Allegiance Code="Cs" ShortName="">Client state, Third Imperium</Allegiance>
     <Allegiance Code="Re">Regency</Allegiance>
-    <Allegiance Code="Da">Darrian Confederation</Allegiance>
-    <Allegiance Code="Fa">Federation of Alsas</Allegiance>
-    <Allegiance Code="Sw">Sword Worlds Confederation</Allegiance>
-    <Allegiance Code="NaXX" Base="Na">Non-Aligned, unclaimed</Allegiance>
-    <Allegiance Code="DaCf">Darrian Confederation</Allegiance>
-    <Allegiance Code="ZhIN" Base="Zh">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
-    <Allegiance Code="SwCf">Sword Worlds Confederation</Allegiance>
+    <Allegiance Code="Da" ShortName="Darrian">Darrian Confederation</Allegiance>
+    <Allegiance Code="Fa" ShortName="Alsas">Federation of Alsas</Allegiance>
+    <Allegiance Code="Sw" ShortName="Sword Worlds">Sword Worlds Confederation</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="DaCf" ShortName="Darrian">Darrian Confederation</Allegiance>
+    <Allegiance Code="ZhIN" Base="Zh" ShortName="Consulate">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
+    <Allegiance Code="SwCf" ShortName="Sword Worlds">Sword Worlds Confederation</Allegiance>
     <Allegiance Code="Fd">Federation of Arden</Allegiance>
   </Allegiances>
   <Stylesheet>

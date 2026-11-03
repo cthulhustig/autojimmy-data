@@ -29,8 +29,8 @@
   </Subsectors>
   <Allegiances>
     <Allegiance Code="Kk">The Two Thousand Worlds</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
-    <Allegiance Code="Cs">Client state, Third Imperium</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Cs" ShortName="">Client state, Third Imperium</Allegiance>
   </Allegiances>
   <Borders>
     <Border WrapLabel="true" Allegiance="Kk" LabelPosition="0603">0016 0015 0014 0013 0012 0011 0010 0009 0008 0007 0006 0005 0004 0003 0002 0001 0000 0100 0200 0300 0400 0500 0600 0700 0800 0900 0901 1001 1002 1003 1004 1005 0906 0907 0807 0708 0709 0710 0711 0712 0713 0714 0614 0514 0414 0315 0215 0116 0117 0016</Border>

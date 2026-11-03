@@ -33,6 +33,6 @@
     <Allegiance Code="DC">Draconian Corporation</Allegiance>
     <Allegiance Code="PA">Pansentient Alliance</Allegiance>
     <Allegiance Code="TC">Tyber Corporation</Allegiance>
-    <Allegiance Code="Na" Base="Na">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
   </Allegiances>
 </Sector>
