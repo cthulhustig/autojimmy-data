@@ -13,7 +13,7 @@
     </Credits>
   <X>-1</X>
   <Y>4</Y>
-  <DataFile Source="Randy Dorman" Milieu="M1105" />
+  <DataFile Author="Randy Dorman" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Hyades</Subsector>
     <Subsector Index="B">Yanos</Subsector>

@@ -18,7 +18,7 @@
   <X>0</X>
   <Y>4</Y>
   <Product Author="Martin J. Dougherty" Title="The Order of Prometheus" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/order-of-prometheus" Image="https://travellermap.s3.amazonaws.com/images/covers/the_order_of_prometheus.jpg" />
-  <DataFile Source="Randy Dorman" Milieu="M1105" />
+  <DataFile Author="Randy Dorman" Milieu="M1105" />
   <Subsectors>
     <Subsector Source="Supplement 10 - The Solomani Rim" Index="A">Euxene</Subsector>
     <Subsector Source="Supplement 10 - The Solomani Rim" Index="B">Aldebaran</Subsector>

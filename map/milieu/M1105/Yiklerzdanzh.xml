@@ -30,20 +30,24 @@
     <Subsector Index="P">Rom's Loch</Subsector>
   </Subsectors>
   <Allegiances>
-    <Allegiance Code="Zh" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
+    <Allegiance Code="ZhIN" Base="Zh" ShortName="Consulate">Zhodani Consulate, Iadr Nsobl Province</Allegiance>
     <Allegiance Code="Sr">S'raak Empire</Allegiance>
     <Allegiance Code="TL">Talpaku Communality</Allegiance>
-    <Allegiance Code="Na" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
+    <Allegiance Code="NaXX" Base="Na" ShortName="">Non-Aligned, unclaimed</Allegiance>
+    <Allegiance Code="NaDr" ShortName="">Non-Aligned, Droyne-dominated</Allegiance>
+    <Allegiance Code="NaHu" Base="Na" ShortName="">Non-Aligned, Human-dominated</Allegiance>
     <Allegiance Code="TC">Talpaku Communality Client State</Allegiance>
     <Allegiance Code="Mi">Meichntid Ibl</Allegiance>
     <Allegiance Code="Mc">Meichntid Ibl Client State</Allegiance>
     <Allegiance Code="CA">Carillon Harmonies</Allegiance>
     <Allegiance Code="Cc">Carillon Client State</Allegiance>
     <Allegiance Code="Iz">Izrats Kriezhlas Unity</Allegiance>
+    <Allegiance Code="NaAs" Base="As" ShortName="">Non-Aligned, Aslan-dominated</Allegiance>
     <Allegiance Code="Ic">Izrats Kriezhlas Unity Client State</Allegiance>
-    <Allegiance Code="Dr">Droyne</Allegiance>
+    <Allegiance Code="CsZh" ShortName="">Client state, Zhodani Consulate</Allegiance>
     <Allegiance Code="AU">Akigura Union</Allegiance>
     <Allegiance Code="Gs">Glenauran Signatorate</Allegiance>
+    <Allegiance Code="SaCo" ShortName="Salinaikin">Salinaikin Concordance</Allegiance>
     <Allegiance Code="SC">Salinaikin Concordance</Allegiance>
     <Allegiance Code="ZhCo" Base="Zh" ShortName="Consulate">Zhodani Consulate</Allegiance>
   </Allegiances>

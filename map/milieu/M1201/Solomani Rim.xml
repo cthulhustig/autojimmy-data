@@ -11,7 +11,7 @@
     </Credits>
   <X>0</X>
   <Y>3</Y>
-  <DataFile Source="Traveller Chronicle 10" Milieu="M1201" />
+  <DataFile Source="The Traveller Chronicle 10" Milieu="M1201" />
   <Subsectors>
     <Subsector Index="A">Ultima</Subsector>
     <Subsector Index="B">Suleiman</Subsector>

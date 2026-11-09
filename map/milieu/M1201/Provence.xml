@@ -12,7 +12,7 @@
     </Credits>
   <X>-2</X>
   <Y>-2</Y>
-  <DataFile Author="David Drazul" Source="Traveller 5 Sector Survey" Milieu="M1201" />
+  <DataFile Author="David Drazul" Source="Traveller 5 Second Survey" Milieu="M1201" />
   <Subsectors>
     <Subsector Index="A">Llaezgaen</Subsector>
     <Subsector Index="B">Vorvoun</Subsector>

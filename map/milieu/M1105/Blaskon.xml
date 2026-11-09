@@ -39,7 +39,7 @@
   </Borders>
   <Regions>
     <Region WrapLabel="true" Color="Aquamarine" LabelPosition="3037" Label="Dradrip Syndicate">2836 2936 2935 3035 3135 3136 3137 3237 3338 3339 3239 3238 3237 3137 3036 2936 2836</Region>
-    <Region WrapLabel="true" Color="Aquamarine" LabelPosition="1914" Label="Ldoocox Enclave">1811 1812 1913 1813 1812</Region>
+    <Region WrapLabel="true" Color="Aquamarine" LabelPosition="1914" Label="Ldoocox Enclave">1811 1812 1913 1813 1812 1811</Region>
     <Region WrapLabel="true" Color="Aquamarine" LabelPosition="1016" Label="Inasko Guidance">1017 1117 1116 1216 1316 1317 1417 1518 1519 1418 1318 1217 1118 1119 1018 1017</Region>
     <Region WrapLabel="true" Color="Aquamarine" LabelPosition="0218" Label="Valaar Association">0120 0219 0320 0321 0220 0120</Region>
   </Regions>

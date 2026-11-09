@@ -13,6 +13,7 @@
     </Credits>
   <X>-5</X>
   <Y>-1</Y>
+  <Product Title="Sector Construction Guide" Publisher="Mongoose Publishing" Ref="https://www.mongoosepublishing.com/products/sector-construction-guide" Image="https://travellermap.s3.amazonaws.com/images/covers/sector_construction_guide.jpg" />
   <Product Title="Foreven Sector: A Referee's Preserve" Publisher="Far Future Enterprises" Ref="https://www.farfuture.net/documents/FFE%20Foreven%20Sector%20Reserve%202008.pdf" Image="https://travellermap.s3.amazonaws.com/images/covers/ffe_foreven_sector_reserve_2008.jpg" />
   <DataFile Source="Foreven Sector Reserve" Milieu="M1105" />
   <Subsectors>

@@ -21,7 +21,7 @@
     </Credits>
   <X>1</X>
   <Y>3</Y>
-  <DataFile Source="Opal" Milieu="M1201" Ref="http://www.downport.com/bard/bard/opal/opal10016.html" />
+  <DataFile Source="Bureau of Aggregate Reference Data" Milieu="M1201" Ref="http://www.downport.com/bard/bard/opal/opal10016.html" />
   <Subsectors>
     <Subsector Index="A">Lazzerton</Subsector>
     <Subsector Index="B">McKenzie</Subsector>

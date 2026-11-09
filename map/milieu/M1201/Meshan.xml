@@ -15,7 +15,7 @@
     </Credits>
   <X>0</X>
   <Y>-2</Y>
-  <DataFile Author="Michael R. Mikesh" Source="Traveller 5 Sector Survey" Milieu="M1201" />
+  <DataFile Author="Michael R. Mikesh" Source="Traveller 5 Second Survey" Milieu="M1201" />
   <Subsectors>
     <Subsector Index="A">Raen</Subsector>
     <Subsector Index="B">Lues</Subsector>

@@ -16,7 +16,7 @@
     </Credits>
   <X>2</X>
   <Y>2</Y>
-  <DataFile Author="Rob Caswell and Karl Johnson" Source="OPAL" Milieu="M1201" Ref="http://www.downport.com/bard/bard/opal/opal10416.html" />
+  <DataFile Author="Rob Caswell and Karl Johnson" Source="Bureau of Aggregate Reference Data" Milieu="M1201" Ref="http://www.downport.com/bard/bard/opal/opal10416.html" />
   <Subsectors>
     <Subsector Index="A">Adar</Subsector>
     <Subsector Index="B">Tlianke</Subsector>

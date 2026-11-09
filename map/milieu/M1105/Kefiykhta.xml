@@ -4,7 +4,7 @@
   <Credits />
   <X>-7</X>
   <Y>4</Y>
-  <DataFile Author="Randy Dorman" Source="Solomani and Aslan (dotmap)" Milieu="M1105" Ref="https://travellermap.com/data/kefiykhta" />
+  <DataFile Author="Randy Dorman" Source="Solomani and Aslan" Milieu="M1105" Ref="https://travellermap.com/data/kefiykhta" />
   <Subsectors>
     <Subsector Index="A">Iil</Subsector>
     <Subsector Index="B">Ewuilr</Subsector>

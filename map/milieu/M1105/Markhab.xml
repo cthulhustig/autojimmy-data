@@ -73,9 +73,9 @@
     <Border Allegiance="Tz" LabelPosition="0634">0633 0733 0633 0634 0535 0634 0633</Border>
   </Borders>
   <Regions>
-    <Region Color="Purple" LabelPosition="1226" Label="Nebula">1124 1224 1325 1326 1327 1326 1225 1125</Region>
+    <Region Color="Purple" LabelPosition="1226" Label="Nebula">1124 1224 1325 1326 1327 1326 1225 1125 1124</Region>
     <Region Color="Purple" LabelPosition="2238" Label="Nebula">2236 2237 2238 2339 2340 2240 2239 2139 2238 2237 2236</Region>
     <Region Color="Red" LabelPosition="1415" Label="">1415</Region>
-    <Region Color="Yellow" LabelPosition="1305" Label="">0903 1003 1103 1203 1303 1403 1503 1603 1704 1705 1706 1707 1706 1705 1704 1603 1503 1403 1303 1203 1103 1003 0904 0804 0805 0806 0807 0806 0805 0804</Region>
+    <Region Color="Yellow" LabelPosition="1305" Label="">0804 0904 0903 1003 1103 1203 1303 1403 1503 1603 1704 1705 1706 1707 1706 1705 1704 1603 1503 1403 1303 1203 1103 1003 0904 0804 0805 0806 0807 0806 0805 0804</Region>
   </Regions>
 </Sector>
