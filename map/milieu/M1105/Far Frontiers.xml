@@ -17,6 +17,7 @@
     </Credits>
   <X>-6</X>
   <Y>-1</Y>
+  <Product Author="Dale L. Kemper" Title="Ares Magazine Special Edition #2" Publisher="TSR" Ref="https://archive.org/details/AresMagazineSpecialEdition2" Image="https://travellermap.s3.amazonaws.com/images/covers/ares_magazine_special_edition_2.jpg" />
   <DataFile Author="Dale Kemper; James Kundert" Source="Ares Magazine, The Traveller Chronicle" Milieu="M1105" />
   <Subsectors>
     <Subsector Source="The Traveller Chronicle #5" Index="A">Detsiaiem</Subsector>

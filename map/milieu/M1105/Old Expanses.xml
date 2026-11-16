@@ -11,6 +11,7 @@
     </Credits>
   <X>1</X>
   <Y>2</Y>
+  <Product Author="Dave Nilsen" Title="Path of Tears" Publisher="Game Designers' Workshop" Ref="https://www.mongoosepublishing.com/products/path-of-tears" Image="https://travellermap.s3.amazonaws.com/images/covers/path_of_tears.jpg" />
   <DataFile Author="Jim Cunningham, Gordon Sheridan, Craig Johnson" Source="Traveller 5 Second Survey" Milieu="M1105" />
   <Subsectors>
     <Subsector Index="A">Dethenes</Subsector>

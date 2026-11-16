@@ -333,7 +333,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 1827 Lund                 B796564-6 Ag Ni / Mr Tz                       - - - 213   Cc K4 V           
 1925 Kiseti               B664964-7 Hi Pr / Mr                          - - - 204   Kc                
 2025 Cornelio             X200000-0 Ba Va / Tz                          - - - 004   Kc M8 VI          
-2122 Storm                E774850-7 Pa Ph Pi                            - - - 200   na F3 V G8 VI     
+2122 Storm                X774000-0 Pa Ph Pi                            - - - 200   na F3 V G8 VI     
 2126 Kalora               A676A94-D Hi In Hw Cp                         - K - 224   Kc K6 V K5 VI     
 2129 Valuchistan          B783845-8 Ri Ph Cp                            - - - 803   Id K0 IV          
 2130 Alcmena              C978744-8 Ag Pi                               - - - 903   Id A5 V           
@@ -347,7 +347,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 2330 Khmer                E989764-7 Ri / Mr Pz                          - - A 911   Mg K1 V M6 VI     
 2422 Fafnir               X000000-0 As Ba Va                            - - - 010   na D              
 2423 Gustafson            D473464-7 Ni / Mr                             - - - 412   na G3 V K5 V      
-2425 Proteus              CB68664-5 Ri Ga                               - - - 512   na F4 V           
+2425 Proteus              CB68684-5 Ri Ga                               - - - 512   na F4 V           
 2426 DM19 2426            X000000-0 As Ba Va                            - - - 301   na M6 V           
 2427 Rhe                  DEA6530-5 Ni                                  - - - 111   na G7 V           
 2428 De Naburn            B663765-9 Ri / O:MgCf                         - - - 804   Mg F5 V           
@@ -355,7 +355,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B Z PB
 2521 Calanthe             C675624-6 Ag Ni / Tz WTN                      - V - 700   Ls M1 V           
 2522 Oosterbeck           D877623-7 In                                  - - - 822   Ls G2 V           
 2526 Witner               C966620-8 Ag Ni Ri / WTN                      - - - 414   na K0 IV          
-2527 Vorara               C86A775-A Ri Wa                               - - - 502   na G3 V           
+2527 Vorara               B86A775-A Ri Wa                               - - - 502   na G3 V           
 2529 Budepest             A9699A5-A Hi Pr Cp / WTN 5.5                  - - - 302   Mg G3 VI M6 VI    
 2530 Payntour             B677833-9 Pa Ph Pi / WTN                      - - - 324   Rr G8 V K3 VI     
 2621 Aachenbahn           B557764-9 Ag / Tz O:LeaS                      - - - 934   Ls K6 V           

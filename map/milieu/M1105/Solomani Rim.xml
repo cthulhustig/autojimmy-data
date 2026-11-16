@@ -29,7 +29,7 @@
     <Subsector Index="M">Jardin</Subsector>
     <Subsector Index="N">Capella</Subsector>
     <Subsector Index="O">Gemini</Subsector>
-    <Subsector Index="P">Kukulkan</Subsector>
+    <Subsector Index="P">Kukulcan</Subsector>
   </Subsectors>
   <Allegiances>
     <Allegiance Code="ImDs" Base="Im" ShortName="Imperium">Third Imperium, Domain of Sol</Allegiance>
