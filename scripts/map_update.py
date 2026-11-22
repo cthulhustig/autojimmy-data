@@ -185,6 +185,7 @@ def _downloadMapData() -> None:
                 if 'OTU' in tags:
                     officialSectors.append(sectorInfo)
 
+            counter = 1
             for sectorInfo in sectorList:
                 if len(officialSectors) == 1:
                     # There is one official sector with the name and other
@@ -200,15 +201,15 @@ def _downloadMapData() -> None:
                 sectorY = int(sectorInfo['Y'])
 
                 logging.info(f'Disambiguating sector {canonicalName} at ({sectorX}, {sectorY}) from {milieu}')
-                disambiguatedName = f'{canonicalName} ({sectorX}, {sectorY})'
+                while True:
+                    disambiguatedName = f'{canonicalName}{counter}'
+                    counter += 1
+                    if disambiguatedName not in sectorNameMap:
+                        break
 
-                if disambiguatedName.lower() in sectorNameMap:
-                    # Realistically this shouldn't happen so don't try to do
-                    # anything clever until we know that we actually need to
-                    # handle it. This should fail the pipeline so I can take a
-                    # look
-                    raise RuntimeError(
-                        f'Disambiguated name {disambiguatedName} is already in use')
+                    if counter > 100:
+                        raise RuntimeError(
+                            f'Failed to disambiguating sector {canonicalName} at ({sectorX}, {sectorY}) from {milieu}')
 
                 # Update the json structure so the new name is written to the snapshot
                 # NOTE: The name is inserted before existing names so the 'real'
@@ -292,6 +293,12 @@ def _downloadMapData() -> None:
                 element.text = canonicalName
                 element.tail = names[0].tail
                 metadataXml.insert(firstNameIndex, element)
+
+                # Set the label to the original name of the sector if it doesn't
+                # currently have a label. This will be the name that is drawn on
+                # the map.
+                if 'Label' not in metadataXml.attrib:
+                    metadataXml.attrib['Label'] = originalName
 
             # Metadata must have a position for Auto-Jimmy to use it
             positions = metadataXml.findall('./X')
